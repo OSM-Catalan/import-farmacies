@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.199623841' lon='2.697142666'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623453' />
+		<tag k='name' v="Farmàcia Gratacós Nou, M.M - Nadal Gratacós, A." />
+		<tag k='addr:full' v="carrer Ganganell, 44" />
+		<tag k='addr:postcode' v='17850' />
+		<tag k='addr:city' v="Besalú" />
+		<tag k='contact:phone' v='+34972591273' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.168353453' lon='2.743984908'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623936' />
+		<tag k='name' v="Farmàcia Pagés Molas, Anna M." />
+		<tag k='addr:full' v="carrer Nou, 48" />
+		<tag k='addr:postcode' v='17852' />
+		<tag k='addr:city' v="Serinyà" />
+		<tag k='contact:phone' v='+34972593158' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+</osm>

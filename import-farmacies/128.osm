@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.717044054' lon='0.736069124'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624774' />
+		<tag k='name' v="Farmàcia Martí Marin, M. Àngels" />
+		<tag k='addr:full' v="carrer Goles De L'Ebre, 217" />
+		<tag k='addr:postcode' v='43580' />
+		<tag k='addr:city' v="Deltebre" />
+		<tag k='contact:phone' v='+34977480032' />
+		<tag k='source:date' v='03/11/2020 08:00:15 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='40.717281699' lon='0.741295871'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624775' />
+		<tag k='name' v="Farmàcia Queralt Álvarez, Matilde" />
+		<tag k='addr:full' v="carrer Goles De L'Ebre, 272" />
+		<tag k='addr:postcode' v='43580' />
+		<tag k='addr:city' v="Deltebre" />
+		<tag k='contact:phone' v='+34977480070' />
+		<tag k='source:date' v='03/11/2020 08:00:15 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='40.771396821' lon='0.671932433'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624773' />
+		<tag k='name' v="Farmàcia Fortuño Beltran, Jordi" />
+		<tag k='addr:full' v="carrer Vint - I - Vuit, 7" />
+		<tag k='addr:postcode' v='43894' />
+		<tag k='addr:city' v="Camarles" />
+		<tag k='contact:phone' v='+34977470010' />
+		<tag k='source:date' v='03/11/2020 08:00:14 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='40.718544973' lon='0.722808897'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624778' />
+		<tag k='name' v="Farmàcia Ferreres Gimeno, Manuel" />
+		<tag k='addr:full' v="avinguda Catalunya, 2" />
+		<tag k='addr:postcode' v='43580' />
+		<tag k='addr:city' v="Deltebre" />
+		<tag k='contact:phone' v='+34977489918' />
+		<tag k='source:date' v='03/11/2020 08:00:15 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='40.770256498' lon='0.66857227'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622063' />
+		<tag k='name' v="Farmàcia Molina Cabrera, Laura" />
+		<tag k='addr:full' v="carrer Sis, 5" />
+		<tag k='addr:postcode' v='43894' />
+		<tag k='addr:city' v="Camarles" />
+		<tag k='source:date' v='03/11/2020 08:00:14 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='40.726431453' lon='0.697014677'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623230' />
+		<tag k='name' v="Farmàcia Albiol Palles, F. Eduard" />
+		<tag k='addr:full' v="carrer Bruc, 21" />
+		<tag k='addr:postcode' v='43580' />
+		<tag k='addr:city' v="Deltebre" />
+		<tag k='source:date' v='03/11/2020 08:00:15 AM +0000' />
+	</node>
+</osm>

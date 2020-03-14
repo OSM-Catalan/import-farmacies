@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.809403831' lon='0.52159585'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624767' />
+		<tag k='name' v="Farmàcia Téllez Gallego, Cèlia Eugènia" />
+		<tag k='addr:full' v="plaça  Alfons Xii, 6" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977440342' />
+		<tag k='source:date' v='03/11/2020 08:00:20 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='40.811129897' lon='0.521709531'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624770' />
+		<tag k='name' v="Farmàcia Ruiz Franquet, Agustí Damià" />
+		<tag k='addr:full' v="carrer Sant Blai, 17" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977441944' />
+		<tag k='source:date' v='03/11/2020 08:00:20 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='40.815285958' lon='0.516490929'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624762' />
+		<tag k='name' v="Farmàcia Franch Franch, M. Teresa" />
+		<tag k='addr:full' v="rambla Catalunya, 47" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977501345' />
+		<tag k='source:date' v='03/11/2020 08:00:20 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='40.804424621' lon='0.519492385'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624771' />
+		<tag k='name' v="Farmàcia Bertomeu Lázaro, Maria Teresa" />
+		<tag k='addr:full' v="carrer Marina, 24" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977440715' />
+		<tag k='source:date' v='03/11/2020 08:00:21 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='40.804271544' lon='0.521504432'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623224' />
+		<tag k='name' v="Farmàcia Sauras Pons, Rosa Blanca" />
+		<tag k='addr:full' v="carrer Adria D'Utrecht, 16" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977443304' />
+		<tag k='source:date' v='03/11/2020 08:00:20 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='40.81249092' lon='0.521678139'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624769' />
+		<tag k='name' v="Farmàcia Ferreres Puchol, M. Carme" />
+		<tag k='addr:full' v="plaça  Agustí Querol, 6" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977510348' />
+		<tag k='source:date' v='03/11/2020 08:00:20 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='40.80781267' lon='0.520325247'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624768' />
+		<tag k='name' v="Farmàcia Barreda Duch - Barreda C - Sorli B" />
+		<tag k='addr:full' v="avinguda De La Generalitat, 95" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977440443' />
+		<tag k='source:date' v='03/11/2020 08:00:21 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='40.812053117' lon='0.52092477'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624765' />
+		<tag k='name' v="Farmàcia Balaguer Arnau, Maria Amparo" />
+		<tag k='addr:full' v="avinguda Generalitat, 7" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977440327' />
+		<tag k='source:date' v='03/11/2020 08:00:21 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='40.815428479' lon='0.522148859'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624764' />
+		<tag k='name' v="Farmàcia Torrent Costilla, Francesc Xavier" />
+		<tag k='addr:full' v="rambla Felip Pedrell, 94" />
+		<tag k='addr:postcode' v='43500' />
+		<tag k='addr:city' v="Tortosa" />
+		<tag k='contact:phone' v='+34977441830' />
+		<tag k='source:date' v='03/11/2020 08:00:19 AM +0000' />
+	</node>
+</osm>

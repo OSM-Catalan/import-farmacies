@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.471490345' lon='2.08147718'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622519' />
+		<tag k='name' v="Farmàcia Ros Morte, Alberto" />
+		<tag k='addr:full' v="carrer Santa Maria, 27" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936741531' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.489836389' lon='2.134125339'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624392' />
+		<tag k='name' v="Farmàcia Rivera Carreiras, M. Pilar" />
+		<tag k='addr:full' v="carrer Sant Ramon, 182" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34936920676' />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.523703663' lon='2.122712873'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623289' />
+		<tag k='name' v="Farmàcia Palomeras Sargatal, Maria" />
+		<tag k='addr:full' v=" vi  sant oleguer, 2" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='contact:phone' v='+34937181804' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.465347872' lon='2.072092922'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623436' />
+		<tag k='name' v="Farmàcia Quirante Serrano, Josefina" />
+		<tag k='addr:full' v="passatge Olabarria, 50" />
+		<tag k='addr:postcode' v='08173' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936754992' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.503406746' lon='2.154446865'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='9943659' />
+		<tag k='name' v="Farmàcia Caelles Franch, Mª Nieves" />
+		<tag k='addr:full' v="carrer Sant Josep,  12-14" />
+		<tag k='addr:postcode' v='08291' />
+		<tag k='addr:city' v="Ripollet" />
+		<tag k='contact:phone' v='+34937683241' />
+		<tag k='source:date' v='03/11/2020 07:57:32 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.519194331' lon='2.12866961'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621753' />
+		<tag k='name' v="Farmàcia López Rodríguez, José Luís" />
+		<tag k='addr:full' v="carrer Bosc, 105" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='contact:phone' v='+34937294557' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.509802378' lon='2.117091874'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622989' />
+		<tag k='name' v="Farmàcia Blanca - Cornellà" />
+		<tag k='addr:full' v="avinguda Del Tibidabo, 68" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='contact:phone' v='+34937190101' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.509844182' lon='2.113642309'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624266' />
+		<tag k='name' v="Farmàcia Budallés Sala, Inmaculada" />
+		<tag k='addr:full' v="avinguda Burgos,  42-CI" />
+		<tag k='addr:postcode' v='08214' />
+		<tag k='addr:city' v="Badia del Vallès" />
+		<tag k='contact:phone' v='+34937180517' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.4723596' lon='2.0829521'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622520' />
+		<tag k='name' v="Farmàcia Rodríguez Garcia, Estela" />
+		<tag k='addr:full' v="carrer Santiago Rusiñol, 23" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936740645' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.470021702' lon='2.060524712'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621755' />
+		<tag k='name' v="Farmàcia Casacuberta Bausili, Alícia" />
+		<tag k='addr:full' v="plaça  D'Ausias March, 9" />
+		<tag k='addr:postcode' v='08195' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34932051664' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.489302917' lon='2.149067541'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621935' />
+		<tag k='name' v="Farmàcia Hidalgo Valls, Belén" />
+		<tag k='addr:full' v="carrer Pau Picasso, 1" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34937687299' />
+		<tag k='source:date' v='03/11/2020 07:57:22 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.473714637' lon='2.089555483'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623421' />
+		<tag k='name' v="Farmàcia Ruiz de Bustillo, Joan" />
+		<tag k='addr:full' v="avinguda De Cerdanyola, 26" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34935901035' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.528000777' lon='2.118008465'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622003' />
+		<tag k='name' v="Farmàcia Brustenga Fortuny, Marta" />
+		<tag k='addr:full' v="carretera Barcelona, 558" />
+		<tag k='addr:postcode' v='08204' />
+		<tag k='addr:city' v="Sabadell" />
+		<tag k='contact:phone' v='+34937104435' />
+		<tag k='source:date' v='03/11/2020 07:57:29 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.513709969' lon='2.125530437'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622996' />
+		<tag k='name' v="Farmàcia Galceran Jo, Anna" />
+		<tag k='addr:full' v="carrer Dr.Moragas, 184" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='contact:phone' v='+34937190252' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.528187146' lon='2.109326503'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624231' />
+		<tag k='name' v="Farmàcia Bernardo Bech, Roser" />
+		<tag k='addr:full' v="carrer Campoamor, 40" />
+		<tag k='addr:postcode' v='08204' />
+		<tag k='addr:city' v="Sabadell" />
+		<tag k='contact:phone' v='+34937104342' />
+		<tag k='source:date' v='03/11/2020 07:57:29 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.492370882' lon='2.138664956'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623019' />
+		<tag k='name' v="Farmàcia Selva, Josep Maria i Cristina" />
+		<tag k='addr:full' v="carrer Torrent, 14" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34936918901' />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.482003302' lon='2.133549168'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623316' />
+		<tag k='name' v="Farmàcia Hidalgo Valls, Sara" />
+		<tag k='addr:full' v="carrer Canaletes, 11" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.491449623' lon='2.144214958'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623986' />
+		<tag k='name' v="Farmàcia Alvarez Sierra, Teodoro" />
+		<tag k='addr:full' v="carrer Reis, 2" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34936926721' />
+		<tag k='source:date' v='03/11/2020 07:57:22 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.477846026' lon='2.083372658'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621954' />
+		<tag k='name' v="Farmàcia Masó Mimó, Concepció" />
+		<tag k='addr:full' v="passatge De Francesc Macià, 61" />
+		<tag k='addr:postcode' v='08173' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34938552841' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-20' visible='true' lat='41.441432569' lon='2.163125814'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624572' />
+		<tag k='name' v="Farmàcia Vallejo Pérez, Guillermo" />
+		<tag k='addr:full' v="carrer Antonio Machado, 4" />
+		<tag k='addr:postcode' v='08042' />
+		<tag k='addr:city' v="Barcelona" />
+		<tag k='contact:phone' v='+34934275919' />
+		<tag k='source:date' v='03/11/2020 07:58:02 AM +0000' />
+	</node>
+	<node id='-21' visible='true' lat='41.444737893' lon='2.072825218'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624671' />
+		<tag k='name' v="Farmàcia Isern Perramon, M. Àngels" />
+		<tag k='addr:full' v="passatge De La Floresta, 9" />
+		<tag k='addr:postcode' v='08198' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936741863' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-22' visible='true' lat='41.515795926' lon='2.125822016'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621909' />
+		<tag k='name' v="Farmàcia Bertran Serracanta, Roser" />
+		<tag k='addr:full' v="carrer Centre Comercial Baricentro,  s/n,  pis 1" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='contact:phone' v='+34937294572' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-23' visible='true' lat='41.492425688' lon='2.150970947'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624756' />
+		<tag k='name' v="Farmàcia Costa Botines, Carme" />
+		<tag k='addr:full' v="carrer Nostra Senyora Del Pilar, 10" />
+		<tag k='addr:postcode' v='08291' />
+		<tag k='addr:city' v="Ripollet" />
+		<tag k='contact:phone' v='+34936921034' />
+		<tag k='source:date' v='03/11/2020 07:57:32 AM +0000' />
+	</node>
+	<node id='-24' visible='true' lat='41.489115457' lon='2.147944863'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623502' />
+		<tag k='name' v="Farmàcia Hidalgo del Barrio, Anna M." />
+		<tag k='addr:full' v="ronda Cerdanyola, 1" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34936922368' />
+		<tag k='source:date' v='03/11/2020 07:57:22 AM +0000' />
+	</node>
+	<node id='-25' visible='true' lat='41.475102852' lon='2.080278832'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623902' />
+		<tag k='name' v="Farmàcia Díaz de Concepción  - Puerto Rodríguez" />
+		<tag k='addr:full' v="passatge Sant Magí, 50" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936743353' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-26' visible='true' lat='41.517238441' lon='2.130810808'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623720' />
+		<tag k='name' v="Farmàcia Perelló Pol. M. Rosa" />
+		<tag k='addr:full' v="carrer Josep Anselm Clavé, 8" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='contact:phone' v='+34937183350' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-27' visible='true' lat='41.442189167' lon='2.162360444'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624425' />
+		<tag k='name' v="Farmàcia Huelamo Mora, Maria Rosa" />
+		<tag k='addr:full' v="ronda Guineueta Vella,  14 BL" />
+		<tag k='addr:postcode' v='08042' />
+		<tag k='addr:city' v="Barcelona" />
+		<tag k='contact:phone' v='+34934273245' />
+		<tag k='source:date' v='03/11/2020 07:58:19 AM +0000' />
+	</node>
+	<node id='-28' visible='true' lat='41.495306485' lon='2.145373682'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621736' />
+		<tag k='name' v="Farmàcia Novell Regué, Núria" />
+		<tag k='addr:full' v="carretera Barcelona, 216" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34935947195' />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+	<node id='-29' visible='true' lat='41.501106575' lon='2.090246298'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623016' />
+		<tag k='name' v="Farmàcia Caus Fumaña, Marta" />
+		<tag k='addr:full' v="plaça  Pi, 5" />
+		<tag k='addr:postcode' v='08193' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34936914655' />
+		<tag k='source:date' v='03/11/2020 07:57:22 AM +0000' />
+	</node>
+	<node id='-30' visible='true' lat='41.485657473' lon='2.132724951'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624026' />
+		<tag k='name' v="Farmàcia Sánchez Casals, Maria Soledad" />
+		<tag k='addr:full' v="carrer Santa Rosa,  36-38" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34936923184' />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+	<node id='-31' visible='true' lat='41.507052602' lon='2.117383084'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624435' />
+		<tag k='name' v="Farmàcia Ferrer Cabeceran, Carmen" />
+		<tag k='addr:full' v="avinguda Burgos, 4" />
+		<tag k='addr:postcode' v='08214' />
+		<tag k='addr:city' v="Badia del Vallès" />
+		<tag k='contact:phone' v='+34937181020' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+	<node id='-32' visible='true' lat='41.488466324' lon='2.066593491'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621754' />
+		<tag k='name' v="Farmàcia López Rodríguez, M. Carmen" />
+		<tag k='addr:full' v="avinguda La Clota,  12-14" />
+		<tag k='addr:postcode' v='08174' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936243427' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-33' visible='true' lat='41.493224717' lon='2.143589681'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622618' />
+		<tag k='name' v="Farmàcia Álvarez Pereiro, Julia Rosario" />
+		<tag k='addr:full' v="avinguda De Catalunya, 49" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34935947008' />
+		<tag k='source:date' v='03/11/2020 07:57:22 AM +0000' />
+	</node>
+	<node id='-34' visible='true' lat='41.472087324' lon='2.089959307'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624273' />
+		<tag k='name' v="Farmàcia Castells Orenga, M. Eugènia" />
+		<tag k='addr:full' v="rambla Celler, 97" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936747749' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-35' visible='true' lat='41.502516011' lon='2.157408054'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621584' />
+		<tag k='name' v="Farmàcia Pijoan Mas, Montserrat" />
+		<tag k='addr:full' v="carrer Palau Ausit, 1" />
+		<tag k='addr:postcode' v='08291' />
+		<tag k='addr:city' v="Ripollet" />
+		<tag k='contact:phone' v='+34936917059' />
+		<tag k='source:date' v='03/11/2020 07:57:32 AM +0000' />
+	</node>
+	<node id='-36' visible='true' lat='41.502384382' lon='2.103884037'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623310' />
+		<tag k='name' v="Farmàcia Hidalgo Maldonado, Rosa M." />
+		<tag k='addr:full' v="plaça  Cívica, 10" />
+		<tag k='addr:postcode' v='08193' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='source:date' v='03/11/2020 07:57:22 AM +0000' />
+	</node>
+	<node id='-37' visible='true' lat='41.475467116' lon='2.088647012'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623264' />
+		<tag k='name' v="Farmàcia Cullell del Valle, M. Cristina" />
+		<tag k='addr:full' v="passeig Diputació, 6" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936740364' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-38' visible='true' lat='41.500054531' lon='2.162637626'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623490' />
+		<tag k='name' v="Farmàcia López Martí, Ruth" />
+		<tag k='addr:full' v="carrer Sant Andreu, 4" />
+		<tag k='addr:postcode' v='08291' />
+		<tag k='addr:city' v="Ripollet" />
+		<tag k='contact:phone' v='+34936922336' />
+		<tag k='source:date' v='03/11/2020 07:57:32 AM +0000' />
+	</node>
+	<node id='-39' visible='true' lat='41.466970617' lon='2.055326074'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622943' />
+		<tag k='name' v="Farmàcia Pérez Ebri, José Ramon" />
+		<tag k='addr:full' v="passatge Del Baixador, 78" />
+		<tag k='addr:postcode' v='08195' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936742372' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-40' visible='true' lat='41.49630225' lon='2.1274017'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623170' />
+		<tag k='name' v="Farmàcia Ordis Trulls, Anna" />
+		<tag k='addr:full' v="avinguda Argentina, 1" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34935807859' />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+	<node id='-41' visible='true' lat='41.519774479' lon='2.121806011'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621942' />
+		<tag k='name' v="Farmàcia Ruzafa Gea, Juan José" />
+		<tag k='addr:full' v="passatge Doctor Moragas, 249" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='contact:phone' v='+34935143999' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-42' visible='true' lat='41.494221261' lon='2.132774709'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624105' />
+		<tag k='name' v="Farmàcia Torrents Pont, Jaume" />
+		<tag k='addr:full' v="carrer Diagonal, 34" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34935803904' />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+	<node id='-43' visible='true' lat='41.467614507' lon='2.081521133'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623517' />
+		<tag k='name' v="Farmàcia Riera Riviere, Isabel i Mònica" />
+		<tag k='addr:full' v="carrer Doctor Murillo, 1" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936740430' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-44' visible='true' lat='41.50990783' lon='2.11058289'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621600' />
+		<tag k='name' v="Farmàcia Granero Nogueira, Isabel" />
+		<tag k='addr:full' v="carrer Algarve, 2" />
+		<tag k='addr:postcode' v='08214' />
+		<tag k='addr:city' v="Badia del Vallès" />
+		<tag k='contact:phone' v='+34937180913' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+	<node id='-45' visible='true' lat='41.488859634' lon='2.136397908'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621587' />
+		<tag k='name' v="Farmàcia Galceran Roca, Montserrat" />
+		<tag k='addr:full' v="plaça  Sant Ramon, 18" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34935808778' />
+		<tag k='source:date' v='03/11/2020 07:57:22 AM +0000' />
+	</node>
+	<node id='-46' visible='true' lat='41.493077146' lon='2.14842806'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623823' />
+		<tag k='name' v="Farmàcia Merinero Cabestany, P. Carolina" />
+		<tag k='addr:full' v="carretera Barcelona, 130" />
+		<tag k='addr:postcode' v='08291' />
+		<tag k='addr:city' v="Ripollet" />
+		<tag k='contact:phone' v='+34936920021' />
+		<tag k='source:date' v='03/11/2020 07:57:32 AM +0000' />
+	</node>
+	<node id='-47' visible='true' lat='41.506263538' lon='2.112617005'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624294' />
+		<tag k='name' v="Farmàcia Martí Escursell, Sílvia" />
+		<tag k='addr:full' v="avinguda Del Mediterrani, 26" />
+		<tag k='addr:postcode' v='08214' />
+		<tag k='addr:city' v="Badia del Vallès" />
+		<tag k='contact:phone' v='+34937183106' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+	<node id='-48' visible='true' lat='41.492609878' lon='2.147221018'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622550' />
+		<tag k='name' v="Farmàcia Valls Maynou, Mercè" />
+		<tag k='addr:full' v="avinguda De Catalunya, 17" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34936921130' />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+	<node id='-49' visible='true' lat='41.473859111' lon='2.070865443'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623303' />
+		<tag k='name' v="Farmàcia Arévalo Genicio, MJ - Blasco Latifa, M" />
+		<tag k='addr:full' v="carrer Manuel Farres,  95-97" />
+		<tag k='addr:postcode' v='08173' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34933954555' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-50' visible='true' lat='41.529304429' lon='2.072310724'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623187' />
+		<tag k='name' v="Farmàcia Cladellas Oliveras, Telma" />
+		<tag k='addr:full' v="avinguda Del Valles, 27" />
+		<tag k='addr:postcode' v='08192' />
+		<tag k='addr:city' v="Sant Quirze del Vallès" />
+		<tag k='contact:phone' v='+34937214036' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-51' visible='true' lat='41.469853439' lon='2.083543919'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624755' />
+		<tag k='name' v="Farmàcia Beringues Sorribas, Lluís" />
+		<tag k='addr:full' v="avinguda President Lluís Companys I Jover, 46" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34935893968' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-52' visible='true' lat='41.526428113' lon='2.108893776'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624378' />
+		<tag k='name' v="Farmàcia González Carnicer, Eulàlia" />
+		<tag k='addr:full' v="carrer Goya, 62" />
+		<tag k='addr:postcode' v='08204' />
+		<tag k='addr:city' v="Sabadell" />
+		<tag k='contact:phone' v='+34937105097' />
+		<tag k='source:date' v='03/11/2020 07:57:28 AM +0000' />
+	</node>
+	<node id='-53' visible='true' lat='41.475149519' lon='2.088390081'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624372' />
+		<tag k='name' v="Farmàcia Pinto Arellano, Bernardo" />
+		<tag k='addr:full' v="carrer Monestir, 3" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936742871' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-54' visible='true' lat='41.467509185' lon='2.086887512'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623184' />
+		<tag k='name' v="Farmàcia Ruíz Rodríguez, Ma. Isabel" />
+		<tag k='addr:full' v="carrer Santa Teresa, 40" />
+		<tag k='addr:postcode' v='08172' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936753344' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-55' visible='true' lat='41.516138886' lon='2.126044356'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624370' />
+		<tag k='name' v="Farmàcia Pages Palmes, M. Asumpció" />
+		<tag k='addr:full' v="avinguda Generalitat, 92" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='contact:phone' v='+34937181050' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-56' visible='true' lat='41.526338331' lon='2.113565376'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624280' />
+		<tag k='name' v="Farmàcia Ferrer San José, Carles" />
+		<tag k='addr:full' v="carrer Reis Catòlics, 39" />
+		<tag k='addr:postcode' v='08204' />
+		<tag k='addr:city' v="Sabadell" />
+		<tag k='contact:phone' v='+34937104336' />
+		<tag k='source:date' v='03/11/2020 07:57:28 AM +0000' />
+	</node>
+	<node id='-57' visible='true' lat='41.507618172' lon='2.119460296'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621090' />
+		<tag k='name' v="Farmàcia Sisquella Enjuanes, E. - Roig Sisquella" />
+		<tag k='addr:full' v="avinguda Costa Brava, 2,  bloc 1" />
+		<tag k='addr:postcode' v='08214' />
+		<tag k='addr:city' v="Badia del Vallès" />
+		<tag k='contact:phone' v='+34937192063' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+	<node id='-58' visible='true' lat='41.475639371' lon='2.08619052'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621614' />
+		<tag k='name' v="Farmàcia Ollé Cuellar, Carme" />
+		<tag k='addr:full' v="passatge De Francesc Macià, 34" />
+		<tag k='addr:postcode' v='08173' />
+		<tag k='addr:city' v="Sant Cugat del Vallès" />
+		<tag k='contact:phone' v='+34936759778' />
+		<tag k='source:date' v='03/11/2020 07:57:25 AM +0000' />
+	</node>
+	<node id='-59' visible='true' lat='41.528935807' lon='2.117281677'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622127' />
+		<tag k='name' v="Farmàcia Baradad Solana, Josep Lluís" />
+		<tag k='addr:full' v="plaça  Creu De Barberà, 8" />
+		<tag k='addr:postcode' v='08204' />
+		<tag k='addr:city' v="Sabadell" />
+		<tag k='contact:phone' v='+34937102846' />
+		<tag k='source:date' v='03/11/2020 07:57:29 AM +0000' />
+	</node>
+	<node id='-60' visible='true' lat='41.515064116' lon='2.122769337'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623025' />
+		<tag k='name' v="Farmàcia Galcerán Catafau, Salvador" />
+		<tag k='addr:full' v="avinguda  Generalitat, 41" />
+		<tag k='addr:postcode' v='08210' />
+		<tag k='addr:city' v="Barberà del Vallès" />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-61' visible='true' lat='41.494153778' lon='2.137115796'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623627' />
+		<tag k='name' v="Farmàcia Rovira Laguera, Cèlia" />
+		<tag k='addr:full' v="passatge Cordelles, 64" />
+		<tag k='addr:postcode' v='08290' />
+		<tag k='addr:city' v="Cerdanyola del Vallès" />
+		<tag k='contact:phone' v='+34936922367' />
+		<tag k='source:date' v='03/11/2020 07:57:21 AM +0000' />
+	</node>
+</osm>

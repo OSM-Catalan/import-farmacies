@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.72608753' lon='1.364647384'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624321' />
+		<tag k='name' v="Farmàcia Tosquella Angrill, M. Dolors" />
+		<tag k='addr:full' v="carrer Major, 57" />
+		<tag k='addr:postcode' v='25215' />
+		<tag k='addr:city' v="Sant Ramon" />
+		<tag k='contact:phone' v='+34973524092' />
+		<tag k='source:date' v='03/11/2020 08:01:22 AM +0000' />
+	</node>
+</osm>

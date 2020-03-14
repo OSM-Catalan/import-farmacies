@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.635343907' lon='0.281204926'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624493' />
+		<tag k='name' v="Farmàcia Escuder Monfort, Lluís" />
+		<tag k='addr:full' v="carrer Ramon I Cajal, 20" />
+		<tag k='addr:postcode' v='43560' />
+		<tag k='addr:city' v="Sénia, la" />
+		<tag k='contact:phone' v='+34977714177' />
+		<tag k='source:date' v='03/11/2020 08:00:00 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='40.634955098' lon='0.28172713'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624494' />
+		<tag k='name' v="Farmàcia Mestre Abella, M. José" />
+		<tag k='addr:full' v="carrer Del Mig, 17" />
+		<tag k='addr:postcode' v='43560' />
+		<tag k='addr:city' v="Sénia, la" />
+		<tag k='contact:phone' v='+34977713233' />
+		<tag k='source:date' v='03/11/2020 08:00:00 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.67303003' lon='1.271210584'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624073' />
+		<tag k='name' v="Farmàcia Antonijuan Mateu, Ramona" />
+		<tag k='addr:full' v="avinguda Agramunt, 13" />
+		<tag k='addr:postcode' v='25200' />
+		<tag k='addr:city' v="Cervera" />
+		<tag k='contact:phone' v='+34973530278' />
+		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.672061716' lon='1.273697173'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624072' />
+		<tag k='name' v="Farmàcia Goma Balcells, Mercè" />
+		<tag k='addr:full' v="avinguda Catalunya, 13" />
+		<tag k='addr:postcode' v='25200' />
+		<tag k='addr:city' v="Cervera" />
+		<tag k='contact:phone' v='+34973530226' />
+		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.669632104' lon='1.272579329'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624074' />
+		<tag k='name' v="Farmàcia Martorell Solé, Neus" />
+		<tag k='addr:full' v="carrer Sta Anna, 4" />
+		<tag k='addr:postcode' v='25200' />
+		<tag k='addr:city' v="Cervera" />
+		<tag k='contact:phone' v='+34973530154' />
+		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.422785085' lon='0.936533622'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624046' />
+		<tag k='name' v="Farmàcia Martínez Flores, Antonio" />
+		<tag k='addr:full' v="carrer Vilanova, 1" />
+		<tag k='addr:postcode' v='25450' />
+		<tag k='addr:city' v="Albi, l'" />
+		<tag k='contact:phone' v='+34973175623' />
+		<tag k='source:date' v='03/11/2020 08:01:28 AM +0000' />
+	</node>
+</osm>

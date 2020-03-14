@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.00066475' lon='2.284620168'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622280' />
+		<tag k='name' v="Farmàcia Autet i Gubieras, M. Assumpta" />
+		<tag k='addr:full' v="plaça  De La Font, 15" />
+		<tag k='addr:postcode' v='08560' />
+		<tag k='addr:city' v="Manlleu" />
+		<tag k='contact:phone' v='+34938511034' />
+		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.035507491' lon='2.369392055'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623788' />
+		<tag k='name' v="Farmàcia Bansell Bigas, F. Xavier" />
+		<tag k='addr:full' v="carrer Major, 71" />
+		<tag k='addr:postcode' v='08511' />
+		<tag k='addr:city' v="Esquirol, l'" />
+		<tag k='contact:phone' v='+34938568057' />
+		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.991199115' lon='2.316412392'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622992' />
+		<tag k='name' v="Farmàcia Constanso Vilaseca, M. Carme" />
+		<tag k='addr:full' v="carrer S.Josep, 1" />
+		<tag k='addr:postcode' v='08510' />
+		<tag k='addr:city' v="Masies de Roda, les" />
+		<tag k='contact:phone' v='+34938541174' />
+		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.002703302' lon='2.27797946'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623589' />
+		<tag k='name' v="Farmàcia Falgueras Casademunt - Espina Ordeix" />
+		<tag k='addr:full' v="avinguda Roma, 200" />
+		<tag k='addr:postcode' v='08560' />
+		<tag k='addr:city' v="Manlleu" />
+		<tag k='contact:phone' v='+34938511282' />
+		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.999518169' lon='2.284400243'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622279' />
+		<tag k='name' v="Farmàcia Ferrer Chambó, Vicent i M. Teresa" />
+		<tag k='addr:full' v="plaça  Fra Bernardi, 18" />
+		<tag k='addr:postcode' v='08560' />
+		<tag k='addr:city' v="Manlleu" />
+		<tag k='contact:phone' v='+34938510240' />
+		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='42.004417211' lon='2.28570354'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623134' />
+		<tag k='name' v="Farmàcia Edmundo Mataró, Marta" />
+		<tag k='addr:full' v="avinguda Roma, 102" />
+		<tag k='addr:postcode' v='08560' />
+		<tag k='addr:city' v="Manlleu" />
+		<tag k='contact:phone' v='+34938506914' />
+		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='42.002222894' lon='2.285353456'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622281' />
+		<tag k='name' v="Farmàcia Espona Grifol, Montserrat" />
+		<tag k='addr:full' v="passeig  Sant Joan, 115" />
+		<tag k='addr:postcode' v='08560' />
+		<tag k='addr:city' v="Manlleu" />
+		<tag k='contact:phone' v='+34938507203' />
+		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='42.005535116' lon='2.278970366'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623320' />
+		<tag k='name' v="Farmàcia Pou Goula, Ester" />
+		<tag k='addr:full' v="carrer Vilamirosa, 109" />
+		<tag k='addr:postcode' v='08560' />
+		<tag k='addr:city' v="Manlleu" />
+		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='42.004686486' lon='2.283106976'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621422' />
+		<tag k='name' v="Farmàcia Rosell Rovira, M. Lluïsa" />
+		<tag k='addr:full' v="carrer Montseny, 71" />
+		<tag k='addr:postcode' v='08560' />
+		<tag k='addr:city' v="Manlleu" />
+		<tag k='contact:phone' v='+34938514859' />
+		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
+	</node>
+</osm>

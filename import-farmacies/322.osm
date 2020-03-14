@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.976562605' lon='1.557493585'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624469' />
+		<tag k='name' v="Farmàcia Hidalgo Fernández, Rafael" />
+		<tag k='addr:full' v="carretera Manresa (Urb. El Pi De Sant Just), 28" />
+		<tag k='addr:postcode' v='25286' />
+		<tag k='addr:city' v="Olius" />
+		<tag k='contact:phone' v='+34973480466' />
+		<tag k='source:date' v='03/11/2020 07:59:13 AM +0000' />
+	</node>
+</osm>

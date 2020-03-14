@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.386064933' lon='2.74813837'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623868' />
+		<tag k='name' v="Farmàcia De Casas Blanco, M. Immaculada" />
+		<tag k='addr:full' v="plaça  Vila, 11" />
+		<tag k='addr:postcode' v='17720' />
+		<tag k='addr:city' v="Maçanet de Cabrenys" />
+		<tag k='contact:phone' v='+34972544015' />
+		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
+	</node>
+</osm>

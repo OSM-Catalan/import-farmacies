@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.572821061' lon='0.605509104'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624316' />
+		<tag k='name' v="Farmàcia Bobet Guiu, Magdalena" />
+		<tag k='addr:full' v="carrer Doctor Robert, 82" />
+		<tag k='addr:postcode' v='25171' />
+		<tag k='addr:city' v="Albatàrrec" />
+		<tag k='contact:phone' v='+34973720117' />
+		<tag k='source:date' v='03/11/2020 08:01:21 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.553374461' lon='0.703974143'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624315' />
+		<tag k='name' v="Farmàcia Curco Ribelles, M. Àngels" />
+		<tag k='addr:full' v="carrer Europa, 8" />
+		<tag k='addr:postcode' v='25150' />
+		<tag k='addr:city' v="Artesa de Lleida" />
+		<tag k='contact:phone' v='+34973167204' />
+		<tag k='source:date' v='03/11/2020 08:01:20 AM +0000' />
+	</node>
+</osm>

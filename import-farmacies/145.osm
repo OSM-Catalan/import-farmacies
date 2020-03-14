@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.58036829' lon='0.831976746'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624166' />
+		<tag k='name' v="Farmàcia Berga Sabaté, Víctor" />
+		<tag k='addr:full' v="plaça  Canalejas, 3" />
+		<tag k='addr:postcode' v='25141' />
+		<tag k='addr:city' v="Torregrossa" />
+		<tag k='contact:phone' v='+34973170144' />
+		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.546669015' lon='0.825702722'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624082' />
+		<tag k='name' v="Farmàcia Perera Grau, Maria Josefa" />
+		<tag k='addr:full' v="carrer La Font, 36" />
+		<tag k='addr:postcode' v='25430' />
+		<tag k='addr:city' v="Juneda" />
+		<tag k='contact:phone' v='+34973150106' />
+		<tag k='source:date' v='03/11/2020 08:01:27 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.543376385' lon='0.73330592'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624331' />
+		<tag k='name' v="Farmàcia Ruiz Rosell, Ana Carmen" />
+		<tag k='addr:full' v="plaça   Major, 12" />
+		<tag k='addr:postcode' v='25153' />
+		<tag k='addr:city' v="Puigverd de Lleida" />
+		<tag k='contact:phone' v='+34973167337' />
+		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
+	</node>
+</osm>

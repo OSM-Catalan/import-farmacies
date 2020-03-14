@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.497660742' lon='0.765610136'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624327' />
+		<tag k='name' v="Farmàcia Valiente Bautista, Miguel" />
+		<tag k='addr:full' v="plaça  Catalunya, 8" />
+		<tag k='addr:postcode' v='25154' />
+		<tag k='addr:city' v="Castelldans" />
+		<tag k='contact:phone' v='+34973120223' />
+		<tag k='source:date' v='03/11/2020 08:01:28 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.447884973' lon='0.740015199'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624345' />
+		<tag k='name' v="Farmàcia Aluja Giné, Montserrat" />
+		<tag k='addr:full' v="carrer Pompeu Fabra, 20" />
+		<tag k='addr:postcode' v='25155' />
+		<tag k='addr:city' v="Albagés, l'" />
+		<tag k='contact:phone' v='+34973120488' />
+		<tag k='source:date' v='03/11/2020 08:01:28 AM +0000' />
+	</node>
+</osm>

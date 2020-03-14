@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.261543992' lon='1.170301244'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624474' />
+		<tag k='name' v="Farmàcia Farras, Jordi i José M." />
+		<tag k='addr:full' v="avinguda Reus, 19" />
+		<tag k='addr:postcode' v='43460' />
+		<tag k='addr:city' v="Alcover" />
+		<tag k='contact:phone' v='+34977760479' />
+		<tag k='source:date' v='03/11/2020 08:01:12 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.318701743' lon='1.178453759'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624621' />
+		<tag k='name' v="Farmàcia Lokhmatova, Galyna" />
+		<tag k='addr:full' v="carrer Raval, 0" />
+		<tag k='addr:postcode' v='43450' />
+		<tag k='addr:city' v="Riba, la" />
+		<tag k='contact:phone' v='+34977860126' />
+		<tag k='source:date' v='03/11/2020 08:01:08 AM +0000' />
+	</node>
+</osm>

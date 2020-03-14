@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.406811329' lon='0.740990837'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624150' />
+		<tag k='name' v="Farmàcia Borrás Obradó, M. Carme" />
+		<tag k='addr:full' v="carrer Ciutat De Lleida, 8" />
+		<tag k='addr:postcode' v='25520' />
+		<tag k='addr:city' v="Pont de Suert, el" />
+		<tag k='contact:phone' v='+34973690108' />
+		<tag k='source:date' v='03/11/2020 07:59:10 AM +0000' />
+	</node>
+</osm>

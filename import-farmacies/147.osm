@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.370230105' lon='0.778594295'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624458' />
+		<tag k='name' v="Farmàcia Alonso Quintanilla, Esperanza" />
+		<tag k='addr:full' v="carrer De L'Esport,  S/N" />
+		<tag k='addr:postcode' v='25165' />
+		<tag k='addr:city' v="Juncosa" />
+		<tag k='contact:phone' v='+34973128266' />
+		<tag k='source:date' v='03/11/2020 08:01:27 AM +0000' />
+	</node>
+</osm>

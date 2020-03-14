@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.563069147' lon='0.843327866'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624451' />
+		<tag k='name' v="Farmàcia Campo Barrau, Maria Cristina" />
+		<tag k='addr:full' v="carretera De Caldes De Boi,  S/N" />
+		<tag k='addr:postcode' v='25527' />
+		<tag k='addr:city' v="Vall de Boí, la" />
+		<tag k='contact:phone' v='+34973694010' />
+		<tag k='source:date' v='03/11/2020 07:59:10 AM +0000' />
+	</node>
+</osm>

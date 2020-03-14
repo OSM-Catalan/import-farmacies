@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.144184962' lon='0.820332523'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624500' />
+		<tag k='name' v="Farmàcia Compte Ramisa, Montserrat" />
+		<tag k='addr:full' v="carrer Miquel Barcelo, 16" />
+		<tag k='addr:postcode' v='43730' />
+		<tag k='addr:city' v="Falset" />
+		<tag k='contact:phone' v='+34977830914' />
+		<tag k='source:date' v='03/11/2020 08:00:52 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.146081233' lon='0.820053763'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624499' />
+		<tag k='name' v="Farmàcia Cortiella Garreta, M. Carme" />
+		<tag k='addr:full' v="plaça  Quartera, 40" />
+		<tag k='addr:postcode' v='43730' />
+		<tag k='addr:city' v="Falset" />
+		<tag k='contact:phone' v='+34977830037' />
+		<tag k='source:date' v='03/11/2020 08:00:52 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.100228714' lon='0.781870619'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623213' />
+		<tag k='name' v="Farmàcia Llopart Gaya, Nativitat" />
+		<tag k='addr:full' v="carrer De La Font, 5" />
+		<tag k='addr:postcode' v='43776' />
+		<tag k='addr:city' v="Capçanes" />
+		<tag k='contact:phone' v='+34977178337' />
+		<tag k='source:date' v='03/11/2020 08:00:52 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.127127622' lon='0.802638354'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624601' />
+		<tag k='name' v="Farmàcia Piqué Monterde, M. Magdalena" />
+		<tag k='addr:full' v="carrer Mestre Arnau, 19" />
+		<tag k='addr:postcode' v='43775' />
+		<tag k='addr:city' v="Marçà" />
+		<tag k='contact:phone' v='+34977178320' />
+		<tag k='source:date' v='03/11/2020 08:00:50 AM +0000' />
+	</node>
+</osm>

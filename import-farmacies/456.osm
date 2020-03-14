@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.685077262' lon='2.163306085'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621412' />
+		<tag k='name' v="Farmàcia Bastinos Bastida, Maria Carmen" />
+		<tag k='addr:full' v="carrer Barcelona, 1" />
+		<tag k='addr:postcode' v='08182' />
+		<tag k='addr:city' v="Sant Feliu de Codines" />
+		<tag k='contact:phone' v='+34938663064' />
+		<tag k='source:date' v='03/11/2020 07:57:02 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.654722145' lon='2.230715227'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623714' />
+		<tag k='name' v="Farmàcia Salayet Pompido, Núria" />
+		<tag k='addr:full' v="carretera Barcelona,  S/N" />
+		<tag k='addr:postcode' v='08187' />
+		<tag k='addr:city' v="Santa Eulàlia de Ronçana" />
+		<tag k='contact:phone' v='+34938448980' />
+		<tag k='source:date' v='03/11/2020 07:57:02 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.631546658' lon='2.167116183'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623250' />
+		<tag k='name' v="Farmàcia Tarruell Tibau, Marc" />
+		<tag k='addr:full' v="carrer Montserrat, 30" />
+		<tag k='addr:postcode' v='08140' />
+		<tag k='addr:city' v="Caldes de Montbui" />
+		<tag k='contact:phone' v='+34938650997' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.688051385' lon='2.1648094'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622521' />
+		<tag k='name' v="Farmàcia Gonzalez Pérez, E - García Fernandez, S" />
+		<tag k='addr:full' v="plaça  Dr. Robert, 8" />
+		<tag k='addr:postcode' v='08182' />
+		<tag k='addr:city' v="Sant Feliu de Codines" />
+		<tag k='contact:phone' v='+34938660097' />
+		<tag k='source:date' v='03/11/2020 07:57:02 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.667335304' lon='2.262703922'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624224' />
+		<tag k='name' v="Farmàcia Puigdollers Vila, Cristina" />
+		<tag k='addr:full' v="carrer Pompeu Fabra, 26" />
+		<tag k='addr:postcode' v='08480' />
+		<tag k='addr:city' v="Ametlla del Vallès, l'" />
+		<tag k='contact:phone' v='+34938430146' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.637699037' lon='2.232487339'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621432' />
+		<tag k='name' v="Farmàcia Vela Parellada, Montserrat" />
+		<tag k='addr:full' v="carretera Barcelona, 43" />
+		<tag k='addr:postcode' v='08187' />
+		<tag k='addr:city' v="Santa Eulàlia de Ronçana" />
+		<tag k='contact:phone' v='+34938447981' />
+		<tag k='source:date' v='03/11/2020 07:57:01 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.625603995' lon='2.169551292'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621902' />
+		<tag k='name' v="Farmàcia Martínez Arenas, Manuel" />
+		<tag k='addr:full' v="avinguda Pi I Margall, 183" />
+		<tag k='addr:postcode' v='08140' />
+		<tag k='addr:city' v="Caldes de Montbui" />
+		<tag k='contact:phone' v='+34938654996' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.625843491' lon='2.16538337'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624726' />
+		<tag k='name' v="Farmàcia Ruano Tibau, M. Socorro" />
+		<tag k='addr:full' v="carrer Sabadell, 41" />
+		<tag k='addr:postcode' v='08140' />
+		<tag k='addr:city' v="Caldes de Montbui" />
+		<tag k='contact:phone' v='+34938650566' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.627615239' lon='2.167679012'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621571' />
+		<tag k='name' v="Farmàcia Huber Ruano, Cristina" />
+		<tag k='addr:full' v="carrer Folch I Torres, 4" />
+		<tag k='addr:postcode' v='08140' />
+		<tag k='addr:city' v="Caldes de Montbui" />
+		<tag k='contact:phone' v='+34938652645' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.626757477' lon='2.235078165'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623430' />
+		<tag k='name' v="Farmàcia Trullols Casas, Montserrat" />
+		<tag k='addr:full' v="carrer Estornell, 3" />
+		<tag k='addr:postcode' v='08186' />
+		<tag k='addr:city' v="Lliçà d'Amunt" />
+		<tag k='contact:phone' v='+34938435165' />
+		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.662398089' lon='2.267872239'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623434' />
+		<tag k='name' v="Farmàcia Valls Relats, Maria Dolors" />
+		<tag k='addr:full' v="carretera C-17, 27" />
+		<tag k='addr:postcode' v='08480' />
+		<tag k='addr:city' v="Ametlla del Vallès, l'" />
+		<tag k='contact:phone' v='+34938431907' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.664338942' lon='2.266743133'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='9044333' />
+		<tag k='name' v="Farmàcia Soria Izquierdo, Belén" />
+		<tag k='addr:full' v="carrer Pere Soler, 18" />
+		<tag k='addr:postcode' v='08480' />
+		<tag k='addr:city' v="Ametlla del Vallès, l'" />
+		<tag k='contact:phone' v='+34936289555' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.632134799' lon='2.170922059'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621403' />
+		<tag k='name' v="Farmàcia Díaz Centeno, Marta" />
+		<tag k='addr:full' v="plaça  Lluís Companys, 4" />
+		<tag k='addr:postcode' v='08140' />
+		<tag k='addr:city' v="Caldes de Montbui" />
+		<tag k='contact:phone' v='+34938655898' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.634112568' lon='2.162393704'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622101' />
+		<tag k='name' v="Farmàcia Puigoriol Mas, Isabel" />
+		<tag k='addr:full' v="del forn" />
+		<tag k='addr:postcode' v='08140' />
+		<tag k='addr:city' v="Caldes de Montbui" />
+		<tag k='contact:phone' v='+34938650097' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.629487746' lon='2.165337224'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621751' />
+		<tag k='name' v="Farmàcia López Sánchez, Neus" />
+		<tag k='addr:full' v="carrer Santa Teresa, 8" />
+		<tag k='addr:postcode' v='08140' />
+		<tag k='addr:city' v="Caldes de Montbui" />
+		<tag k='contact:phone' v='+34938622193' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.674902421' lon='2.210412275'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624006' />
+		<tag k='name' v="Farmàcia Torras Ambrós, Josep" />
+		<tag k='addr:full' v="carrer Anna Mogas, 116" />
+		<tag k='addr:postcode' v='08415' />
+		<tag k='addr:city' v="Bigues i Riells" />
+		<tag k='contact:phone' v='+34938658342' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.631277845' lon='2.164574679'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622102' />
+		<tag k='name' v="Farmàcia Tibau Maynou, Rafael" />
+		<tag k='addr:full' v="avinguda Pi I Maragall,  36-38" />
+		<tag k='addr:postcode' v='08140' />
+		<tag k='addr:city' v="Caldes de Montbui" />
+		<tag k='contact:phone' v='+34938650146' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.67411454' lon='2.213369981'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621099' />
+		<tag k='name' v="Farmàcia Lozano Bravo, M. Pilar" />
+		<tag k='addr:full' v="avinguda Prat De La Riba,  96-98" />
+		<tag k='addr:postcode' v='08415' />
+		<tag k='addr:city' v="Bigues i Riells" />
+		<tag k='contact:phone' v='+34938658027' />
+		<tag k='source:date' v='03/11/2020 07:57:14 AM +0000' />
+	</node>
+</osm>

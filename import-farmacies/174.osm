@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.32093932' lon='0.878676101'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623212' />
+		<tag k='name' v="Farmàcia López Piñol, David" />
+		<tag k='addr:full' v="carrer Loreto, 25" />
+		<tag k='addr:postcode' v='43363' />
+		<tag k='addr:city' v="Ulldemolins" />
+		<tag k='contact:phone' v='+34977561625' />
+		<tag k='source:date' v='03/11/2020 08:00:49 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.265433541' lon='0.904883962'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624496' />
+		<tag k='name' v="Farmàcia Tombas Ribas, Rosa M." />
+		<tag k='addr:full' v="carrer Major, 20" />
+		<tag k='addr:postcode' v='43360' />
+		<tag k='addr:city' v="Cornudella de Montsant" />
+		<tag k='contact:phone' v='+34977821093' />
+		<tag k='source:date' v='03/11/2020 08:00:52 AM +0000' />
+	</node>
+</osm>

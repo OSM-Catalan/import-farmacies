@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.994790018' lon='1.519670381'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624157' />
+		<tag k='name' v="Farmàcia Boix Serra, Antoni" />
+		<tag k='addr:full' v="avinguda Pont, 2" />
+		<tag k='addr:postcode' v='25280' />
+		<tag k='addr:city' v="Solsona" />
+		<tag k='contact:phone' v='+34973480018' />
+		<tag k='source:date' v='03/11/2020 07:59:13 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.992076468' lon='1.51242435'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621585' />
+		<tag k='name' v="Farmàcia Boix Martínez, Anna" />
+		<tag k='addr:full' v="carrer Mossen Jacint Verdaguer, 9" />
+		<tag k='addr:postcode' v='25280' />
+		<tag k='addr:city' v="Solsona" />
+		<tag k='contact:phone' v='+34973483030' />
+		<tag k='source:date' v='03/11/2020 07:59:13 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.994140137' lon='1.514544918'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624158' />
+		<tag k='name' v="Farmàcia Martinez Gutierrez, Pilar" />
+		<tag k='addr:full' v="passatge Sant Antoni Maria Claret, 1" />
+		<tag k='addr:postcode' v='25280' />
+		<tag k='addr:city' v="Solsona" />
+		<tag k='contact:phone' v='+34973480048' />
+		<tag k='source:date' v='03/11/2020 07:59:13 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.994348843' lon='1.522603337'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621603' />
+		<tag k='name' v="Farmàcia Riu Vilalta, Maria" />
+		<tag k='addr:full' v="carretera De Manresa, 22" />
+		<tag k='addr:postcode' v='25280' />
+		<tag k='addr:city' v="Solsona" />
+		<tag k='contact:phone' v='+34973480148' />
+		<tag k='source:date' v='03/11/2020 07:59:13 AM +0000' />
+	</node>
+</osm>

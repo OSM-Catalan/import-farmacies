@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.284838213' lon='1.243696441'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623349' />
+		<tag k='name' v="Farmàcia Ferrus Brunet, Rosa Maria" />
+		<tag k='addr:full' v="carrer Alt Camp, 23" />
+		<tag k='addr:postcode' v='43800' />
+		<tag k='addr:city' v="Valls" />
+		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.28607776' lon='1.250457477'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624784' />
+		<tag k='name' v="Farmàcia Angeles Miquel Alonso" />
+		<tag k='addr:full' v="plaça  Del Pati, 9" />
+		<tag k='addr:postcode' v='43800' />
+		<tag k='addr:city' v="Valls" />
+		<tag k='contact:phone' v='+34977600606' />
+		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.286578142' lon='1.253327054'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624786' />
+		<tag k='name' v="Farmàcia Climent Pons, Lourdes Rosario" />
+		<tag k='addr:full' v="carrer Anselm Clave, 35" />
+		<tag k='addr:postcode' v='43800' />
+		<tag k='addr:city' v="Valls" />
+		<tag k='contact:phone' v='+34977600763' />
+		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.282978856' lon='1.244358079'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624782' />
+		<tag k='name' v="Farmàcia Galimany Solé, R - Murillo Galimany, A" />
+		<tag k='addr:full' v="plaça  Del Portal Nou, 4" />
+		<tag k='addr:postcode' v='43800' />
+		<tag k='addr:city' v="Valls" />
+		<tag k='contact:phone' v='+34977600597' />
+		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.289136576' lon='1.251636011'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623071' />
+		<tag k='name' v="Farmàcia Magdalena Arnal, Lluís F." />
+		<tag k='addr:full' v="carrer Joaquima Vedruna, 2" />
+		<tag k='addr:postcode' v='43800' />
+		<tag k='addr:city' v="Valls" />
+		<tag k='contact:phone' v='+34977600011' />
+		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.284265815' lon='1.248892788'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624785' />
+		<tag k='name' v="Farmàcia Viscasillas Muret, Ma. Teresa" />
+		<tag k='addr:full' v="carrer Peixateria, 9" />
+		<tag k='addr:postcode' v='43800' />
+		<tag k='addr:city' v="Valls" />
+		<tag k='contact:phone' v='+34977600490' />
+		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.273877255' lon='1.304105048'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623223' />
+		<tag k='name' v="Farmàcia Mané Noya, Jordi" />
+		<tag k='addr:full' v="carretera De Vilabella, 18" />
+		<tag k='addr:postcode' v='43812' />
+		<tag k='addr:city' v="Puigpelat" />
+		<tag k='contact:phone' v='+34977612350' />
+		<tag k='source:date' v='03/11/2020 08:01:09 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.288394933' lon='1.25495941'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622904' />
+		<tag k='name' v="Farmàcia Pérez Cerrada, Elena Pilar" />
+		<tag k='addr:full' v="carrer Vallvera, 10" />
+		<tag k='addr:postcode' v='43800' />
+		<tag k='addr:city' v="Valls" />
+		<tag k='contact:phone' v='+34977602430' />
+		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.284726511' lon='1.249143'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624783' />
+		<tag k='name' v="Farmàcia Rull Ferré, Consol" />
+		<tag k='addr:full' v="carrer De La Cort, 26" />
+		<tag k='addr:postcode' v='43800' />
+		<tag k='addr:city' v="Valls" />
+		<tag k='contact:phone' v='+34977612517' />
+		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
+	</node>
+</osm>

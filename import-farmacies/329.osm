@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.388265017' lon='1.667328056'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623005' />
+		<tag k='name' v="Farmàcia Mitjans Baques, Pere Joan" />
+		<tag k='addr:full' v="carretera De La Diputacio,  s/n" />
+		<tag k='addr:postcode' v='08735' />
+		<tag k='addr:city' v="Vilobí del Penedès" />
+		<tag k='source:date' v='03/11/2020 07:59:02 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.414685533' lon='1.649909857'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622981' />
+		<tag k='name' v="Farmàcia Ferré Garrich, Irene" />
+		<tag k='addr:full' v="avinguda De Catalunya, 0" />
+		<tag k='addr:postcode' v='08736' />
+		<tag k='addr:city' v="Font-rubí" />
+		<tag k='contact:phone' v='+34938978590' />
+		<tag k='source:date' v='03/11/2020 07:59:05 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.387072801' lon='1.573461762'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624566' />
+		<tag k='name' v="Farmàcia Martínez Rosell, M. Pilar" />
+		<tag k='addr:full' v="carrer De Pontons, 7" />
+		<tag k='addr:postcode' v='08737' />
+		<tag k='addr:city' v="Torrelles de Foix" />
+		<tag k='contact:phone' v='+34938972122' />
+		<tag k='source:date' v='03/11/2020 07:59:02 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.385631745' lon='1.61317073'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621105' />
+		<tag k='name' v="Farmàcia Monsarró Rafecas, J - Amado Monsarró, C" />
+		<tag k='addr:full' v="carrer Ansem Clave, 33" />
+		<tag k='addr:postcode' v='08731' />
+		<tag k='addr:city' v="Sant Martí Sarroca" />
+		<tag k='contact:phone' v='+34938991204' />
+		<tag k='source:date' v='03/11/2020 07:59:04 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.810915764' lon='2.097471519'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622395' />
+		<tag k='name' v="Farmàcia Adrados de Miguel, M. Candela" />
+		<tag k='addr:full' v="avinguda  De La Vila, 18" />
+		<tag k='addr:postcode' v='08180' />
+		<tag k='addr:city' v="Moià" />
+		<tag k='contact:phone' v='+34938300417' />
+		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.809454124' lon='2.095477203'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621087' />
+		<tag k='name' v="Farmàcia Casajuana Cortinas, Elisabet" />
+		<tag k='addr:full' v="carrer De Manresa, 33" />
+		<tag k='addr:postcode' v='08180' />
+		<tag k='addr:city' v="Moià" />
+		<tag k='contact:phone' v='+34938300288' />
+		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.86860715' lon='2.113609341'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622985' />
+		<tag k='name' v="Farmàcia Ventura Orriols, Emma" />
+		<tag k='addr:full' v="carrer Rodos, 3" />
+		<tag k='addr:postcode' v='08148' />
+		<tag k='addr:city' v="Estany, l'" />
+		<tag k='contact:phone' v='+34938300722' />
+		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.411101932' lon='1.228305325'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623358' />
+		<tag k='name' v="Farmàcia Berra Novarese, Carlos Alberto" />
+		<tag k='addr:full' v="carrer Esglesia, 4" />
+		<tag k='addr:postcode' v='43422' />
+		<tag k='addr:city' v="Barberà de la Conca" />
+		<tag k='contact:phone' v='+34977887389' />
+		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.394951292' lon='1.276597105'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623201' />
+		<tag k='name' v="Farmàcia Fortuny March, Josepa" />
+		<tag k='addr:full' v="raval  De La Creu, 26" />
+		<tag k='addr:postcode' v='43811' />
+		<tag k='addr:city' v="Cabra del Camp" />
+		<tag k='contact:phone' v='+34977638227' />
+		<tag k='source:date' v='03/11/2020 08:01:11 AM +0000' />
+	</node>
+</osm>

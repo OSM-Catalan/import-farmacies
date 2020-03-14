@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.146129112' lon='2.568378847'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623856' />
+		<tag k='name' v="Farmàcia Soler Matabosch, M. Teresa" />
+		<tag k='addr:full' v="avinguda Dels Volcans, 15" />
+		<tag k='addr:postcode' v='17811' />
+		<tag k='addr:city' v="Santa Pau" />
+		<tag k='contact:phone' v='+34972680159' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+</osm>

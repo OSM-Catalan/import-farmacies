@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.232613038' lon='1.879236034'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622257' />
+		<tag k='name' v="Farmàcia Vilades Freixa, Josep" />
+		<tag k='addr:full' v="carretera De Ribes, 1" />
+		<tag k='addr:postcode' v='08694' />
+		<tag k='addr:city' v="Guardiola de Berguedà" />
+		<tag k='contact:phone' v='+34938240006' />
+		<tag k='source:date' v='03/11/2020 07:59:19 AM +0000' />
+	</node>
+</osm>

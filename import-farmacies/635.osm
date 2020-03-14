@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.960394426' lon='3.039256382'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623552' />
+		<tag k='name' v="Farmàcia Estevan Llagaria, N i Puigbert Estevan,N" />
+		<tag k='addr:full' v="plaça  Jacint Verdaguer, 1" />
+		<tag k='addr:postcode' v='17100' />
+		<tag k='addr:city' v="Bisbal d'Empordà, la" />
+		<tag k='contact:phone' v='+34972640622' />
+		<tag k='source:date' v='03/11/2020 07:59:49 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.95538' lon='3.012509899'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623963' />
+		<tag k='name' v="Farmàcia Puig Gómez, Maria Neus" />
+		<tag k='addr:full' v="plaça  De La Creu, 1" />
+		<tag k='addr:postcode' v='17116' />
+		<tag k='addr:city' v="Cruïlles, Monells i Sant Sadurní de l'Heura" />
+		<tag k='contact:phone' v='+34972643284' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.957818331' lon='3.046361306'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623940' />
+		<tag k='name' v="Farmàcia Gispert Espadalé, Jordi" />
+		<tag k='addr:full' v="carrer Carme Carles, 16" />
+		<tag k='addr:postcode' v='17111' />
+		<tag k='addr:city' v="Forallac" />
+		<tag k='contact:phone' v='+34972642287' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.956112979' lon='3.040143463'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623779' />
+		<tag k='name' v="Farmàcia Goñi Doménech, M. Josefa" />
+		<tag k='addr:full' v="avinguda Josep Irla, 14" />
+		<tag k='addr:postcode' v='17100' />
+		<tag k='addr:city' v="Bisbal d'Empordà, la" />
+		<tag k='contact:phone' v='+34972640151' />
+		<tag k='source:date' v='03/11/2020 07:59:49 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.961271042' lon='3.038087402'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623551' />
+		<tag k='name' v="Farmàcia Piera de Ciurana, R. / Piera Goñi, Marti" />
+		<tag k='addr:full' v="carrer Les Voltes, 1" />
+		<tag k='addr:postcode' v='17100' />
+		<tag k='addr:city' v="Bisbal d'Empordà, la" />
+		<tag k='contact:phone' v='+34972640959' />
+		<tag k='source:date' v='03/11/2020 07:59:49 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.962857212' lon='3.040606489'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623553' />
+		<tag k='name' v="Farmàcia Cortés Sales, Isabel" />
+		<tag k='addr:full' v="carrer Jaume Ii, 14" />
+		<tag k='addr:postcode' v='17100' />
+		<tag k='addr:city' v="Bisbal d'Empordà, la" />
+		<tag k='contact:phone' v='+34972643677' />
+		<tag k='source:date' v='03/11/2020 07:59:49 AM +0000' />
+	</node>
+</osm>

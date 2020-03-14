@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.543572714' lon='0.480708201'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624472' />
+		<tag k='name' v="Farmàcia Delgado Gardo, Maria Pilar" />
+		<tag k='addr:full' v="carrer Mestre Pedrell, 1" />
+		<tag k='addr:postcode' v='43530' />
+		<tag k='addr:city' v="Alcanar" />
+		<tag k='contact:phone' v='+34977732291' />
+		<tag k='source:date' v='03/11/2020 08:00:10 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='40.598011776' lon='0.446286605'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624779' />
+		<tag k='name' v="Farmàcia Puig Salomon, Pius" />
+		<tag k='addr:full' v="carrer Sant Lluc, 34" />
+		<tag k='addr:postcode' v='43550' />
+		<tag k='addr:city' v="Ulldecona" />
+		<tag k='contact:phone' v='+34977720161' />
+		<tag k='source:date' v='03/11/2020 07:59:59 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='40.59575604' lon='0.445486544'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621433' />
+		<tag k='name' v="Farmàcia Soler Màrquez, Rita" />
+		<tag k='addr:full' v="plaça  Sales I Ferré, 7" />
+		<tag k='addr:postcode' v='43550' />
+		<tag k='addr:city' v="Ulldecona" />
+		<tag k='contact:phone' v='+34977720913' />
+		<tag k='source:date' v='03/11/2020 07:59:59 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='40.597594975' lon='0.44797313'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624780' />
+		<tag k='name' v="Farmàcia Viladot Subirats, A/Viladot Jaramillo,A" />
+		<tag k='addr:full' v="carrer Major, 75" />
+		<tag k='addr:postcode' v='43550' />
+		<tag k='addr:city' v="Ulldecona" />
+		<tag k='contact:phone' v='+34977720031' />
+		<tag k='source:date' v='03/11/2020 07:59:59 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='40.543235929' lon='0.481877915'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624473' />
+		<tag k='name' v="Farmàcia Delgado Boix, Jordi" />
+		<tag k='addr:full' v="avinguda  Generalitat, 17" />
+		<tag k='addr:postcode' v='43530' />
+		<tag k='addr:city' v="Alcanar" />
+		<tag k='contact:phone' v='+34977730105' />
+		<tag k='source:date' v='03/11/2020 08:00:10 AM +0000' />
+	</node>
+</osm>

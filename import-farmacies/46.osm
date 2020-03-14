@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.093665188' lon='0.312254532'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624485' />
+		<tag k='name' v="Farmàcia Curto Gonzalvo, Mireia" />
+		<tag k='addr:full' v="avinguda Terra Alta, 24" />
+		<tag k='addr:postcode' v='43786' />
+		<tag k='addr:city' v="Batea" />
+		<tag k='contact:phone' v='+34977430263' />
+		<tag k='source:date' v='03/11/2020 07:59:57 AM +0000' />
+	</node>
+</osm>

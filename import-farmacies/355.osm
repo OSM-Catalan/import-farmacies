@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.42420956' lon='1.786202235'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622539' />
+		<tag k='name' v="Farmàcia Roca Carreras, M. - Naranjo Salom, E." />
+		<tag k='addr:full' v="carrer Dr.Escayola, 4" />
+		<tag k='addr:postcode' v='08770' />
+		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
+		<tag k='contact:phone' v='+34938910188' />
+		<tag k='source:date' v='03/11/2020 07:59:03 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.425859798' lon='1.786372469'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621253' />
+		<tag k='name' v="Farmàcia Ferrer Santos, Anna" />
+		<tag k='addr:full' v="rambla Generalitat, 47" />
+		<tag k='addr:postcode' v='08770' />
+		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
+		<tag k='contact:phone' v='+34938913871' />
+		<tag k='source:date' v='03/11/2020 07:59:03 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.370742267' lon='1.689096505'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623182' />
+		<tag k='name' v="Farmàcia García Marné, Yolanda" />
+		<tag k='addr:full' v="avinguda U, 26" />
+		<tag k='addr:postcode' v='08794' />
+		<tag k='addr:city' v="Cabanyes, les" />
+		<tag k='contact:phone' v='+34938181495' />
+		<tag k='source:date' v='03/11/2020 07:59:05 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.417392023' lon='1.710219495'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624753' />
+		<tag k='name' v="Farmàcia Ferré Garrig, Josep M." />
+		<tag k='addr:full' v="carrer Sans Abdon I Senen,  S/N" />
+		<tag k='addr:postcode' v='08733' />
+		<tag k='addr:city' v="Pla del Penedès, el" />
+		<tag k='contact:phone' v='+34938921900' />
+		<tag k='source:date' v='03/11/2020 07:59:04 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.427081945' lon='1.782139065'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623806' />
+		<tag k='name' v="Farmàcia Vilella Rodríguez, Delfina" />
+		<tag k='addr:full' v="carrer Tarragona, 39" />
+		<tag k='addr:postcode' v='08770' />
+		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
+		<tag k='contact:phone' v='+34938910040' />
+		<tag k='source:date' v='03/11/2020 07:59:03 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.424280815' lon='1.786771617'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622540' />
+		<tag k='name' v="Farmàcia Mestre Climent, Raquel" />
+		<tag k='addr:full' v="carrer Hospital, 2" />
+		<tag k='addr:postcode' v='08770' />
+		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
+		<tag k='contact:phone' v='+34938912611' />
+		<tag k='source:date' v='03/11/2020 07:59:03 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.34912175' lon='1.703921212'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623185' />
+		<tag k='name' v="Farmàcia Cuadras Vidal, Antònia" />
+		<tag k='addr:full' v="carrer Igualada, 48" />
+		<tag k='addr:postcode' v='08720' />
+		<tag k='addr:city' v="Vilafranca del Penedès" />
+		<tag k='contact:phone' v='+34938181581' />
+		<tag k='source:date' v='03/11/2020 07:59:02 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.37766106' lon='1.720861251'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624119' />
+		<tag k='name' v="Farmàcia Vidal Delclós - Juves Vidal" />
+		<tag k='addr:full' v="carrer Sant Cristofol, 8" />
+		<tag k='addr:postcode' v='08792' />
+		<tag k='addr:city' v="Granada, la" />
+		<tag k='contact:phone' v='+34938974227' />
+		<tag k='source:date' v='03/11/2020 07:59:05 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.424983301' lon='1.783167331'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621768' />
+		<tag k='name' v="Farmàcia Gascón Mir, Maria Carmen" />
+		<tag k='addr:full' v="rambla Generalitat, 26" />
+		<tag k='addr:postcode' v='08770' />
+		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
+		<tag k='contact:phone' v='+34938266975' />
+		<tag k='source:date' v='03/11/2020 07:59:03 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.361299055' lon='1.775748245'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624748' />
+		<tag k='name' v="Farmàcia Font Garriga, Xavier" />
+		<tag k='addr:full' v="carrer Barcelona, 43" />
+		<tag k='addr:postcode' v='08793' />
+		<tag k='addr:city' v="Avinyonet del Penedès" />
+		<tag k='contact:phone' v='+34938970082' />
+		<tag k='source:date' v='03/11/2020 07:59:05 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.38278746' lon='1.795220142'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622534' />
+		<tag k='name' v="Farmàcia Hernández Massana, Rafael" />
+		<tag k='addr:full' v="carrer Ponent, 16" />
+		<tag k='addr:postcode' v='08739' />
+		<tag k='addr:city' v="Subirats" />
+		<tag k='contact:phone' v='+34938993003' />
+		<tag k='source:date' v='03/11/2020 07:59:02 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.362548928' lon='1.75286819'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623002' />
+		<tag k='name' v="Farmàcia Juves Vidal, Pere" />
+		<tag k='addr:full' v="carrer Mila I Fontanals,  18-20" />
+		<tag k='addr:postcode' v='08798' />
+		<tag k='addr:city' v="Sant Cugat Sesgarrigues" />
+		<tag k='contact:phone' v='+34938970243' />
+		<tag k='source:date' v='03/11/2020 07:59:04 AM +0000' />
+	</node>
+</osm>

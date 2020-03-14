@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.752313162' lon='0.813821106'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624340' />
+		<tag k='name' v="Farmàcia Aiguabella Alenta, Josep" />
+		<tag k='addr:full' v="carrer Major, 5" />
+		<tag k='addr:postcode' v='25680' />
+		<tag k='addr:city' v="Vallfogona de Balaguer" />
+		<tag k='contact:phone' v='+34973432151' />
+		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.730099307' lon='0.744482337'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624330' />
+		<tag k='name' v="Farmàcia Borras Bonete, Montserrat" />
+		<tag k='addr:full' v="carrer Major, 36" />
+		<tag k='addr:postcode' v='25139' />
+		<tag k='addr:city' v="Menàrguens" />
+		<tag k='contact:phone' v='+34973180519' />
+		<tag k='source:date' v='03/11/2020 08:01:25 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.717150872' lon='0.759662889'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624164' />
+		<tag k='name' v="Farmàcia Clua Miquel, Teresa" />
+		<tag k='addr:full' v="carrer La Bàscula, 9" />
+		<tag k='addr:postcode' v='25670' />
+		<tag k='addr:city' v="Térmens" />
+		<tag k='contact:phone' v='+34973180037' />
+		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
+	</node>
+</osm>

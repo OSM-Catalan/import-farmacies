@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.97790488' lon='2.820003584'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623750' />
+		<tag k='name' v="Farmàcia Pla Cama, Lluís" />
+		<tag k='addr:full' v="carrer Joan Maragall, 36" />
+		<tag k='addr:postcode' v='17002' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972206075' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.969727395' lon='2.811451003'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623836' />
+		<tag k='name' v="Farmàcia Fina Riera, Anna" />
+		<tag k='addr:full' v="avinguda Sant Narcís, 111" />
+		<tag k='addr:postcode' v='17005' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972232601' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.974175553' lon='2.787488446'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623636' />
+		<tag k='name' v="Farmàcia Aguer Gimbernat, Rosa" />
+		<tag k='addr:full' v="carrer Major, 269" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972231249' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.975630875' lon='2.822108719'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623538' />
+		<tag k='name' v="Farmàcia Noguera Nieto, Teresa" />
+		<tag k='addr:full' v="carrer De La Creu, 18" />
+		<tag k='addr:postcode' v='17002' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972203536' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.976331833' lon='2.799317494'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623637' />
+		<tag k='name' v="Farmàcia Miguélez Morán, Andrés Miguel" />
+		<tag k='addr:full' v="carrer Major, 20" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972230568' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.979784901' lon='2.820318823'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623537' />
+		<tag k='name' v="Farmàcia Agusti de Ciurana, Maria de les Neus i X" />
+		<tag k='addr:full' v="carrer Sant Antoni Maria Claret, 16" />
+		<tag k='addr:postcode' v='17002' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972201949' />
+		<tag k='source:date' v='03/11/2020 07:59:42 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.975087037' lon='2.802839989'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623543' />
+		<tag k='name' v="Farmàcia Arpa Camos, Núria" />
+		<tag k='addr:full' v="carrer Agudes, 30" />
+		<tag k='addr:postcode' v='17006' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972231844' />
+		<tag k='source:date' v='03/11/2020 07:59:42 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.973511321' lon='2.797681435'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623852' />
+		<tag k='name' v="Farmàcia Ordis Trulls, Olga" />
+		<tag k='addr:full' v="passatge Països Catalans, 65" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972237704' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.973234713' lon='2.784733052'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621955' />
+		<tag k='name' v="Farmàcia Aldehuelo Haro, Glòria" />
+		<tag k='addr:full' v="carrer Esteve Vila, 1" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972978376' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.913272893' lon='2.88124625'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624039' />
+		<tag k='name' v="Farmàcia Bonjoch Argemi, Alba" />
+		<tag k='addr:full' v="carretera Sant Feliu De Guixols, 8" />
+		<tag k='addr:postcode' v='17243' />
+		<tag k='addr:city' v="Llambilles" />
+		<tag k='contact:phone' v='+34972468073' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.97541122' lon='2.793289648'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623733' />
+		<tag k='name' v="Farmàcia Jubero Capdeferro, Anna" />
+		<tag k='addr:full' v="carrer Major, 157" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972233518' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.97149031' lon='2.817976344'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623549' />
+		<tag k='name' v="Farmàcia Folch Rubau, Olga" />
+		<tag k='addr:full' v="carrer Joan Roca I Pinet,  S/N" />
+		<tag k='addr:postcode' v='17003' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972200334' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.969310014' lon='2.817735609'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623771' />
+		<tag k='name' v="Farmàcia Canal Bellvehí, Marc" />
+		<tag k='addr:full' v="carrer Marques De Caldes De Montbui, 57" />
+		<tag k='addr:postcode' v='17003' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972212139' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.931810754' lon='2.812314806'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623870' />
+		<tag k='name' v="Farmàcia Pararols Costa, P / Pérez Pararlos, A" />
+		<tag k='addr:full' v="carrer Narcis Monturiol,  1-3" />
+		<tag k='addr:postcode' v='17458' />
+		<tag k='addr:city' v="Fornells de la Selva" />
+		<tag k='contact:phone' v='+34972476330' />
+		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.951012175' lon='2.793597688'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623929' />
+		<tag k='name' v="Farmàcia Serra Rigau, M. Mercè" />
+		<tag k='addr:full' v="carretera  Sta. Coloma, 90" />
+		<tag k='addr:postcode' v='17180' />
+		<tag k='addr:city' v="Vilablareix" />
+		<tag k='contact:phone' v='+34972232605' />
+		<tag k='source:date' v='03/11/2020 07:59:38 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.980297089' lon='2.824439838'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623539' />
+		<tag k='name' v="Farmàcia Puig Aleman, Caritat" />
+		<tag k='addr:full' v="carrer Carme, 17" />
+		<tag k='addr:postcode' v='17004' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972200079' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.972278179' lon='2.826294651'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623830' />
+		<tag k='name' v="Farmàcia Riera Portell,Catalina/Fina Riera,Ester" />
+		<tag k='addr:full' v="carrer Andreu Tuyet Santamaria, 16" />
+		<tag k='addr:postcode' v='17003' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972212882' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.971072899' lon='2.794129765'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='6238154' />
+		<tag k='name' v="Farmàcia Auguet Escatllar, Neus" />
+		<tag k='addr:full' v="carrer La Moreneta, 39" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972607237' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.97264234' lon='2.791908841'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623977' />
+		<tag k='name' v="Farmàcia Muñoz Cubillo, José M." />
+		<tag k='addr:full' v="carrer Paissos Catalans, 145" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972243412' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-20' visible='true' lat='41.974872929' lon='2.826283053'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623732' />
+		<tag k='name' v="Farmàcia Manuel-Rimbau Muñoz, Albert" />
+		<tag k='addr:full' v="carrer Carme, 191" />
+		<tag k='addr:postcode' v='17004' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972201418' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-21' visible='true' lat='41.973900363' lon='2.806648041'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623763' />
+		<tag k='name' v="Farmàcia Alabau Calvet - Casas Bigorra - López L." />
+		<tag k='addr:full' v="carrer Sant Sebastià, 36" />
+		<tag k='addr:postcode' v='17006' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972240390' />
+		<tag k='source:date' v='03/11/2020 07:59:42 AM +0000' />
+	</node>
+	<node id='-22' visible='true' lat='41.968020024' lon='2.785414024'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621590' />
+		<tag k='name' v="Farmàcia Baleri Bosch, Maria Teresa" />
+		<tag k='addr:full' v="carrer Pla De Salt, 15" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972441001' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-23' visible='true' lat='41.976593396' lon='2.824315847'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623749' />
+		<tag k='name' v="Farmàcia Borrell Bousique, M - Mont Borrell, M" />
+		<tag k='addr:full' v="carrer Del Carme, 127" />
+		<tag k='addr:postcode' v='17004' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972208809' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-24' visible='true' lat='41.971742607' lon='2.786359177'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621737' />
+		<tag k='name' v="Farmàcia Noguera Nieto, Soledad" />
+		<tag k='addr:full' v="passatge Marqués De Camps, 20" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972232578' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-25' visible='true' lat='41.98203444' lon='2.818814387'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623540' />
+		<tag k='name' v="Farmàcia Palau Mallol, Susanna" />
+		<tag k='addr:full' v="plaça  Marques De Camps, 7" />
+		<tag k='addr:postcode' v='17001' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972200997' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-26' visible='true' lat='41.976728513' lon='2.817893562'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623756' />
+		<tag k='name' v="Farmàcia Vila Surribas, Rafael" />
+		<tag k='addr:full' v="carrer Francesc De Ciurana, 25" />
+		<tag k='addr:postcode' v='17002' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972208931' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-27' visible='true' lat='41.976725864' lon='2.81036671'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623767' />
+		<tag k='name' v="Farmàcia Boladeras Suárez, E.- Figueras Moner, F." />
+		<tag k='addr:full' v="passatge Olot, 22" />
+		<tag k='addr:postcode' v='17005' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972400414' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-28' visible='true' lat='41.938699021' lon='2.762601003'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624038' />
+		<tag k='name' v="Farmàcia Sendra Vives, Gemma" />
+		<tag k='addr:full' v=" ca circumval.lacio, 00003" />
+		<tag k='addr:postcode' v='17181' />
+		<tag k='addr:city' v="Aiguaviva" />
+		<tag k='contact:phone' v='+34972241254' />
+		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
+	</node>
+	<node id='-29' visible='true' lat='41.97736275' lon='2.813519865'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623542' />
+		<tag k='name' v="Farmàcia Frigola Castillón, M. - Quintana Frigola" />
+		<tag k='addr:full' v="avinguda Sant Narcís, 32" />
+		<tag k='addr:postcode' v='17005' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972232604' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-30' visible='true' lat='41.983312932' lon='2.824044531'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623545' />
+		<tag k='name' v="Farmàcia Altarriba Garriga, Olga" />
+		<tag k='addr:full' v="rambla Llibertat, 18" />
+		<tag k='addr:postcode' v='17004' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972200191' />
+		<tag k='source:date' v='03/11/2020 07:59:42 AM +0000' />
+	</node>
+	<node id='-31' visible='true' lat='41.974155366' lon='2.790611175'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623780' />
+		<tag k='name' v="Farmàcia Nieto Romeral, M. Soledad" />
+		<tag k='addr:full' v="carrer Angel Guimera, 75" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972233645' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-32' visible='true' lat='41.974073807' lon='2.804806239'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623762' />
+		<tag k='name' v="Farmàcia Feliu Ruiz, Joan" />
+		<tag k='addr:full' v="carrer Campcardós, 37" />
+		<tag k='addr:postcode' v='17006' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972231602' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-33' visible='true' lat='41.977788318' lon='2.808148217'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623651' />
+		<tag k='name' v="Farmàcia Cardelús Aranda, E-Cardelús Falguera, J" />
+		<tag k='addr:full' v="carrer Santa Eugènia, 98" />
+		<tag k='addr:postcode' v='17005' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972231845' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-34' visible='true' lat='41.935586893' lon='2.84246958'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623855' />
+		<tag k='name' v="Farmàcia Pérez González, Antonia" />
+		<tag k='addr:full' v="carretera De Girona, 27" />
+		<tag k='addr:postcode' v='17242' />
+		<tag k='addr:city' v="Quart" />
+		<tag k='contact:phone' v='+34972469003' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-35' visible='true' lat='41.980159111' lon='2.822084727'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623751' />
+		<tag k='name' v="Farmàcia Folch Camps, Francesc" />
+		<tag k='addr:full' v=" gv de jaume i, 61" />
+		<tag k='addr:postcode' v='17002' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972205905' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-36' visible='true' lat='41.974023155' lon='2.820156826'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623536' />
+		<tag k='name' v="Farmàcia de Ciurana Gay, M/Casellas de Ciurana,A" />
+		<tag k='addr:full' v="carrer Migdia, 54" />
+		<tag k='addr:postcode' v='17003' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972200280' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-37' visible='true' lat='41.894681593' lon='2.804641009'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623859' />
+		<tag k='name' v="Farmàcia Camps Soler, Anna Rosa" />
+		<tag k='addr:full' v="carrer Estacio, 37" />
+		<tag k='addr:postcode' v='17457' />
+		<tag k='addr:city' v="Riudellots de la Selva" />
+		<tag k='contact:phone' v='+34972477388' />
+		<tag k='source:date' v='03/11/2020 07:59:30 AM +0000' />
+	</node>
+	<node id='-38' visible='true' lat='41.970652612' lon='2.800030262'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621786' />
+		<tag k='name' v="Farmàcia Domènech Pol, Neus" />
+		<tag k='addr:full' v="carrer Llevadores,  7 - 9" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972439935' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+	<node id='-39' visible='true' lat='41.971045889' lon='2.844323354'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623744' />
+		<tag k='name' v="Farmàcia Boada Ordis, Marta" />
+		<tag k='addr:full' v=" di vila-roja, 177" />
+		<tag k='addr:postcode' v='17005' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972206615' />
+		<tag k='source:date' v='03/11/2020 07:59:42 AM +0000' />
+	</node>
+	<node id='-40' visible='true' lat='41.968566287' lon='2.824047351'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623965' />
+		<tag k='name' v="Farmàcia Arqué Barios, Albert" />
+		<tag k='addr:full' v="avinguda Lluis Pericot, 35" />
+		<tag k='addr:postcode' v='17003' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972224838' />
+		<tag k='source:date' v='03/11/2020 07:59:42 AM +0000' />
+	</node>
+	<node id='-41' visible='true' lat='41.970560487' lon='2.790992773'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623854' />
+		<tag k='name' v="Farmàcia Escatllar Sagrera, Josefina" />
+		<tag k='addr:full' v="carrer Guilleries, 60" />
+		<tag k='addr:postcode' v='17190' />
+		<tag k='addr:city' v="Salt" />
+		<tag k='contact:phone' v='+34972230103' />
+		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
+	</node>
+</osm>

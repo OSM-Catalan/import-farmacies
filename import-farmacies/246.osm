@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.876052529' lon='1.309672001'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624152' />
+		<tag k='name' v="Farmàcia Pujol Rius, Ricard" />
+		<tag k='addr:full' v="carrer Del Bassal, 4" />
+		<tag k='addr:postcode' v='25753' />
+		<tag k='addr:city' v="Sanaüja" />
+		<tag k='contact:phone' v='+34973550259' />
+		<tag k='source:date' v='03/11/2020 08:01:22 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.678225292' lon='1.846679625'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623143' />
+		<tag k='name' v="Farmàcia Serra Tenas, Tomàs" />
+		<tag k='addr:full' v="carretera De Manresa, 0" />
+		<tag k='addr:postcode' v='08297' />
+		<tag k='addr:city' v="Castellgalí" />
+		<tag k='source:date' v='03/11/2020 07:59:25 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.629255962' lon='1.86339663'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622236' />
+		<tag k='name' v="Farmàcia Guillermo Martínez, Antoni" />
+		<tag k='addr:full' v="avinguda Catalunya, 4,  escala b" />
+		<tag k='addr:postcode' v='08296' />
+		<tag k='addr:city' v="Castellbell i el Vilar" />
+		<tag k='contact:phone' v='+34938282179' />
+		<tag k='source:date' v='03/11/2020 07:59:25 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.701206802' lon='1.871742032'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624841' />
+		<tag k='name' v="Farmàcia Subirana Conde, M. Àngels" />
+		<tag k='addr:full' v="carrer Mestre Saura, 39" />
+		<tag k='addr:postcode' v='08254' />
+		<tag k='addr:city' v="Pont de Vilomara i Rocafort, el" />
+		<tag k='contact:phone' v='+34938317128' />
+		<tag k='source:date' v='03/11/2020 07:59:23 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.668782895' lon='1.865771626'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621589' />
+		<tag k='name' v="Farmàcia Molina Martinez, Isabel" />
+		<tag k='addr:full' v="carrer Sant Joan  De Dalt,  15-17" />
+		<tag k='addr:postcode' v='08295' />
+		<tag k='addr:city' v="Sant Vicenç de Castellet" />
+		<tag k='contact:phone' v='+34938330611' />
+		<tag k='source:date' v='03/11/2020 07:59:22 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.669100177' lon='1.863225378'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623007' />
+		<tag k='name' v="Farmàcia Torras Galí, Montserrat" />
+		<tag k='addr:full' v="carrer Eduard Pena, 25" />
+		<tag k='addr:postcode' v='08295' />
+		<tag k='addr:city' v="Sant Vicenç de Castellet" />
+		<tag k='source:date' v='03/11/2020 07:59:22 AM +0000' />
+	</node>
+</osm>

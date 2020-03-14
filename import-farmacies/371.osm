@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.251525869' lon='1.863823333'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624687' />
+		<tag k='name' v="Farmàcia Cascante Torrella, Roser" />
+		<tag k='addr:full' v="carrer Raval, 55" />
+		<tag k='addr:postcode' v='08695' />
+		<tag k='addr:city' v="Bagà" />
+		<tag k='contact:phone' v='+34938244101' />
+		<tag k='source:date' v='03/11/2020 07:59:21 AM +0000' />
+	</node>
+</osm>

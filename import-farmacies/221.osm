@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.786673709' lon='1.097847164'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624043' />
+		<tag k='name' v="Farmàcia Sole Chandre, Marta" />
+		<tag k='addr:full' v="carrer Sio, 22" />
+		<tag k='addr:postcode' v='25310' />
+		<tag k='addr:city' v="Agramunt" />
+		<tag k='contact:phone' v='+34973390087' />
+		<tag k='source:date' v='03/11/2020 08:01:15 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.783040216' lon='1.095554737'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621925' />
+		<tag k='name' v="Farmàcia Esteve Gatnau, Gilbert" />
+		<tag k='addr:full' v="carrer Institut, 2" />
+		<tag k='addr:postcode' v='25310' />
+		<tag k='addr:city' v="Agramunt" />
+		<tag k='contact:phone' v='+34973390695' />
+		<tag k='source:date' v='03/11/2020 08:01:15 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.786167849' lon='1.09855723'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624044' />
+		<tag k='name' v="Farmàcia Simona Dodut, Valeria" />
+		<tag k='addr:full' v="carrer Angel Guimera, 16" />
+		<tag k='addr:postcode' v='25310' />
+		<tag k='addr:city' v="Agramunt" />
+		<tag k='contact:phone' v='+34973390428' />
+		<tag k='source:date' v='03/11/2020 08:01:15 AM +0000' />
+	</node>
+</osm>

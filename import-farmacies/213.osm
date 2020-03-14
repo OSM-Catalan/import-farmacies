@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.443081762' lon='1.135082255'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624465' />
+		<tag k='name' v="Farmàcia Soler Pujol, M.Teresa" />
+		<tag k='addr:full' v="carrer Flora Cadena, 10" />
+		<tag k='addr:postcode' v='25594' />
+		<tag k='addr:city' v="Rialp" />
+		<tag k='contact:phone' v='+34973621217' />
+		<tag k='source:date' v='03/11/2020 07:59:07 AM +0000' />
+	</node>
+</osm>

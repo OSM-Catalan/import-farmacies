@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.571467095' lon='1.638670704'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624007' />
+		<tag k='name' v="Farmàcia Massana Closa, Roser" />
+		<tag k='addr:full' v="carrer Major, 95" />
+		<tag k='addr:postcode' v='08788' />
+		<tag k='addr:city' v="Vilanova del Camí" />
+		<tag k='contact:phone' v='+34938034667' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.573423313' lon='1.608230779'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623363' />
+		<tag k='name' v="Farmàcia Llamas Quintana, MI - Palop Torelló, E" />
+		<tag k='addr:full' v="carrer Nova, 3" />
+		<tag k='addr:postcode' v='08710' />
+		<tag k='addr:city' v="Santa Margarida de Montbui" />
+		<tag k='contact:phone' v='+34938034191' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.591558458' lon='1.622232569'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621790' />
+		<tag k='name' v="Farmàcia Esteve Roset, Josep" />
+		<tag k='addr:full' v="avinguda Països Catalans, 99" />
+		<tag k='addr:postcode' v='08700' />
+		<tag k='addr:city' v="Igualada" />
+		<tag k='contact:phone' v='+34938037319' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.530869273' lon='1.620859111'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624760' />
+		<tag k='name' v="Farmàcia Viñals Ferrer, Laia" />
+		<tag k='addr:full' v="carrer Sant Martí, 44" />
+		<tag k='addr:postcode' v='08787' />
+		<tag k='addr:city' v="Carme" />
+		<tag k='contact:phone' v='+34938080165' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.573827721' lon='1.609233033'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623418' />
+		<tag k='name' v="Farmàcia Bausili López Saez, Mercè i Araceli" />
+		<tag k='addr:full' v="passeig Espanya, 5" />
+		<tag k='addr:postcode' v='08710' />
+		<tag k='addr:city' v="Santa Margarida de Montbui" />
+		<tag k='contact:phone' v='+34938036452' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.583888375' lon='1.619841489'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624537' />
+		<tag k='name' v="Farmàcia Secanell Cambras, Xavier" />
+		<tag k='addr:full' v="carrer Odena, 84" />
+		<tag k='addr:postcode' v='08700' />
+		<tag k='addr:city' v="Igualada" />
+		<tag k='contact:phone' v='+34938035092' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.579706463' lon='1.631048681'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622927' />
+		<tag k='name' v="Farmàcia Pagés Bertran, F. Xavier" />
+		<tag k='addr:full' v="carrer Pau Muntades, 54" />
+		<tag k='addr:postcode' v='08700' />
+		<tag k='addr:city' v="Igualada" />
+		<tag k='contact:phone' v='+34938030075' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.576913581' lon='1.630958258'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624295' />
+		<tag k='name' v="Farmàcia Juvé Santacana, Anton" />
+		<tag k='addr:full' v="avinguda Montserrat, 27" />
+		<tag k='addr:postcode' v='08700' />
+		<tag k='addr:city' v="Igualada" />
+		<tag k='contact:phone' v='+34938037458' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.579156267' lon='1.61537685'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622273' />
+		<tag k='name' v="Farmàcia Godó Soler, J.M. i Godó Claramunt, J." />
+		<tag k='addr:full' v="plaça  Creu, 7" />
+		<tag k='addr:postcode' v='08700' />
+		<tag k='addr:city' v="Igualada" />
+		<tag k='contact:phone' v='+34938031488' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.555399723' lon='1.674513151'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621132' />
+		<tag k='name' v="Farmàcia Torres Gibert M./Torres Gibert J." />
+		<tag k='addr:full' v="avinguda De Catalunya, 25" />
+		<tag k='addr:postcode' v='08787' />
+		<tag k='addr:city' v="Pobla de Claramunt, la" />
+		<tag k='contact:phone' v='+34938086233' />
+		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.574453777' lon='1.608321969'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624028' />
+		<tag k='name' v="Farmàcia Secanell Roca, José M." />
+		<tag k='addr:full' v="carrer De Valls, 34" />
+		<tag k='addr:postcode' v='08710' />
+		<tag k='addr:city' v="Santa Margarida de Montbui" />
+		<tag k='contact:phone' v='+34938034834' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.590660016' lon='1.612010821'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622274' />
+		<tag k='name' v="Farmàcia Singla Barceló, Ramon" />
+		<tag k='addr:full' v="avinguda Mestre Montaner,  23-26" />
+		<tag k='addr:postcode' v='08700' />
+		<tag k='addr:city' v="Igualada" />
+		<tag k='contact:phone' v='+34938050479' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.533976321' lon='1.661574695'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624758' />
+		<tag k='name' v="Farmàcia Cordomí Campanyà, Gemma" />
+		<tag k='addr:full' v="carrer S.Joan Baptista, 6" />
+		<tag k='addr:postcode' v='08789' />
+		<tag k='addr:city' v="Torre de Claramunt, la" />
+		<tag k='contact:phone' v='+34938012000' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.572606311' lon='1.644913089'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623150' />
+		<tag k='name' v="Farmàcia Cases Sebastià, Immaculada" />
+		<tag k='addr:full' v="carrer Girona,  5-7" />
+		<tag k='addr:postcode' v='08788' />
+		<tag k='addr:city' v="Vilanova del Camí" />
+		<tag k='contact:phone' v='+34938060044' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.578952684' lon='1.618074593'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622272' />
+		<tag k='name' v="Farmàcia Bausili López-Sáez, Juan Bosco" />
+		<tag k='addr:full' v="carrer Born, 23" />
+		<tag k='addr:postcode' v='08700' />
+		<tag k='addr:city' v="Igualada" />
+		<tag k='contact:phone' v='+34938031933' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.586129086' lon='1.615453585'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624017' />
+		<tag k='name' v="Farmàcia Adzet Panadès, Maria Elena" />
+		<tag k='addr:full' v="avinguda Barcelona, 9" />
+		<tag k='addr:postcode' v='08700' />
+		<tag k='addr:city' v="Igualada" />
+		<tag k='contact:phone' v='+34938030947' />
+		<tag k='source:date' v='03/11/2020 07:59:28 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.568395014' lon='1.641135563'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624587' />
+		<tag k='name' v="Farmàcia Mora, Anna - Font, Alícia" />
+		<tag k='addr:full' v="carrer Santa Llucia, 97" />
+		<tag k='addr:postcode' v='08788' />
+		<tag k='addr:city' v="Vilanova del Camí" />
+		<tag k='contact:phone' v='+34938036171' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+</osm>

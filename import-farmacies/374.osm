@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.012618844' lon='1.842960927'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623696' />
+		<tag k='name' v="Farmàcia Roset Estivill, Antoni" />
+		<tag k='addr:full' v="carrer Bisbe Comelles, 63" />
+		<tag k='addr:postcode' v='08693' />
+		<tag k='addr:city' v="Casserres" />
+		<tag k='contact:phone' v='+34938234132' />
+		<tag k='source:date' v='03/11/2020 07:59:19 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.033608474' lon='1.880235398'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622251' />
+		<tag k='name' v="Farmàcia Guixé Simon, Xavier" />
+		<tag k='addr:full' v="avinguda Catalunya, 53" />
+		<tag k='addr:postcode' v='08680' />
+		<tag k='addr:city' v="Gironella" />
+		<tag k='contact:phone' v='+34938250177' />
+		<tag k='source:date' v='03/11/2020 07:59:19 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.020484426' lon='1.884014706'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623028' />
+		<tag k='name' v="Farmàcia Raich Balagué, Maria Carme" />
+		<tag k='addr:full' v="carretera Dels Bassacs, 50" />
+		<tag k='addr:postcode' v='08680' />
+		<tag k='addr:city' v="Gironella" />
+		<tag k='source:date' v='03/11/2020 07:59:19 AM +0000' />
+	</node>
+</osm>

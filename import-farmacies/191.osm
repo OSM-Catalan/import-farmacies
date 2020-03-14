@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.116756336' lon='1.044423127'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624323' />
+		<tag k='name' v="Farmàcia Agustí Garrigo, Joana" />
+		<tag k='addr:full' v="plaça  Portal, 10" />
+		<tag k='addr:postcode' v='25650' />
+		<tag k='addr:city' v="Isona i Conca Dellà" />
+		<tag k='contact:phone' v='+34973664160' />
+		<tag k='source:date' v='03/11/2020 07:59:08 AM +0000' />
+	</node>
+</osm>

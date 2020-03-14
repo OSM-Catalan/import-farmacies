@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.521939912' lon='2.403773896'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623281' />
+		<tag k='name' v="Farmàcia Manchado Casillas, M. Pilar" />
+		<tag k='addr:full' v="carrer Cami Del Mig, 114" />
+		<tag k='addr:postcode' v='08349' />
+		<tag k='addr:city' v="Cabrera de Mar" />
+		<tag k='contact:phone' v='+34937590548' />
+		<tag k='source:date' v='03/11/2020 07:57:41 AM +0000' />
+	</node>
+</osm>

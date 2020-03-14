@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.173129819' lon='1.316250316'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624335' />
+		<tag k='name' v="Farmàcia Pujol Blanch, Climent" />
+		<tag k='addr:full' v="avinguda Sant Climent, 53" />
+		<tag k='addr:postcode' v='25793' />
+		<tag k='addr:city' v="Coll de Nargó" />
+		<tag k='contact:phone' v='+34973383386' />
+		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.209952066' lon='1.325843124'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624091' />
+		<tag k='name' v="Farmàcia Simón Sala, Maria Àngels" />
+		<tag k='addr:full' v="carretera De Lleida, 30" />
+		<tag k='addr:postcode' v='25794' />
+		<tag k='addr:city' v="Organyà" />
+		<tag k='contact:phone' v='+34973382193' />
+		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
+	</node>
+</osm>

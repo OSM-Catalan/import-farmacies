@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.477449163' lon='2.311291657'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621270' />
+		<tag k='name' v="Farmàcia Domínguez Jiménez, M. Rosa" />
+		<tag k='addr:full' v="carrer Enamorats, 2" />
+		<tag k='addr:postcode' v='08320' />
+		<tag k='addr:city' v="Masnou, el" />
+		<tag k='contact:phone' v='+34935555936' />
+		<tag k='source:date' v='03/11/2020 07:57:40 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.504890783' lon='2.394334399'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622529' />
+		<tag k='name' v="Farmàcia Basté Barberan, M./Comas Basté O." />
+		<tag k='addr:full' v="carrer De Sant Josep, 85" />
+		<tag k='addr:postcode' v='08340' />
+		<tag k='addr:city' v="Vilassar de Mar" />
+		<tag k='contact:phone' v='+34937590941' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.524556535' lon='2.366918175'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621746' />
+		<tag k='name' v="Farmàcia Soldevila Selvas, Maria Engràcia" />
+		<tag k='addr:full' v="avinguda De Santa Elena, 32" />
+		<tag k='addr:postcode' v='08348' />
+		<tag k='addr:city' v="Cabrils" />
+		<tag k='contact:phone' v='+34937530053' />
+		<tag k='source:date' v='03/11/2020 07:57:41 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.494232021' lon='2.357226945'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621227' />
+		<tag k='name' v="Farmàcia Peraire Guitart, M.C/ Pumarola Peraire,H" />
+		<tag k='addr:full' v="carrer Joan Prim, 84" />
+		<tag k='addr:postcode' v='08330' />
+		<tag k='addr:city' v="Premià de Mar" />
+		<tag k='contact:phone' v='+34938548200' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.510069284' lon='2.387458792'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621599' />
+		<tag k='name' v="Farmàcia Molfulleda San Julian, Marta" />
+		<tag k='addr:full' v="carrer Manel Roca, 96" />
+		<tag k='addr:postcode' v='08340' />
+		<tag k='addr:city' v="Vilassar de Mar" />
+		<tag k='contact:phone' v='+34937502065' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.491773548' lon='2.355983268'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624740' />
+		<tag k='name' v="Farmàcia Gaza Pausas, Elisabet" />
+		<tag k='addr:full' v="carrer Gran Via, 136" />
+		<tag k='addr:postcode' v='08330' />
+		<tag k='addr:city' v="Premià de Mar" />
+		<tag k='contact:phone' v='+34937515800' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.517632722' lon='2.358837719'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622526' />
+		<tag k='name' v="Farmàcia Braso Serra, Josefa" />
+		<tag k='addr:full' v="carrer Mestre Viladrosa, 16" />
+		<tag k='addr:postcode' v='08339' />
+		<tag k='addr:city' v="Vilassar de Dalt" />
+		<tag k='contact:phone' v='+34937530803' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.493181321' lon='2.359240949'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623258' />
+		<tag k='name' v="Farmàcia Viayna Ornosa, M. Pilar" />
+		<tag k='addr:full' v="carrer Gran Via,  195-A" />
+		<tag k='addr:postcode' v='08330' />
+		<tag k='addr:city' v="Premià de Mar" />
+		<tag k='contact:phone' v='+34937517003' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.483862074' lon='2.304554035'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623144' />
+		<tag k='name' v="Farmàcia Bernal Piñol, Carlota" />
+		<tag k='addr:full' v="carrer Masnou, 30" />
+		<tag k='addr:postcode' v='08328' />
+		<tag k='addr:city' v="Alella" />
+		<tag k='contact:phone' v='+34935400383' />
+		<tag k='source:date' v='03/11/2020 07:57:42 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.50290644' lon='2.39034373'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622530' />
+		<tag k='name' v="Farmàcia Jover-Santiña Roca, M. Dèbora i Pilar" />
+		<tag k='addr:full' v="carrer De Montserrat, 1" />
+		<tag k='addr:postcode' v='08340' />
+		<tag k='addr:city' v="Vilassar de Mar" />
+		<tag k='contact:phone' v='+34937590939' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.501551391' lon='2.384600673'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624733' />
+		<tag k='name' v="Farmàcia Altirriba Pertegaz, Joan" />
+		<tag k='addr:full' v="carrer Sta. Maria, 93" />
+		<tag k='addr:postcode' v='08340' />
+		<tag k='addr:city' v="Vilassar de Mar" />
+		<tag k='contact:phone' v='+34937595958' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.508963928' lon='2.393252374'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623305' />
+		<tag k='name' v="Farmàcia Altarriba Gutiérrez, Joan" />
+		<tag k='addr:full' v="carrer Arquitecte Ferres,  136-1" />
+		<tag k='addr:postcode' v='08340' />
+		<tag k='addr:city' v="Vilassar de Mar" />
+		<tag k='contact:phone' v='+34937506953' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.478654582' lon='2.317290306'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622373' />
+		<tag k='name' v="Farmàcia Riera Serrat, Emili" />
+		<tag k='addr:full' v="carrer Josep Llimona, 22" />
+		<tag k='addr:postcode' v='08320' />
+		<tag k='addr:city' v="Masnou, el" />
+		<tag k='contact:phone' v='+34935550855' />
+		<tag k='source:date' v='03/11/2020 07:57:40 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.526214655' lon='2.36791293'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623083' />
+		<tag k='name' v="Farmàcia De Mena Obiols, Carles" />
+		<tag k='addr:full' v="carrer Emilia Carles, 3" />
+		<tag k='addr:postcode' v='08348' />
+		<tag k='addr:city' v="Cabrils" />
+		<tag k='contact:phone' v='+34937509377' />
+		<tag k='source:date' v='03/11/2020 07:57:41 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.496815094' lon='2.353398531'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621943' />
+		<tag k='name' v="Farmàcia Vilà Boix, Fernando" />
+		<tag k='addr:full' v="carrer Camí Del Mig, 59" />
+		<tag k='addr:postcode' v='08338' />
+		<tag k='addr:city' v="Premià de Dalt" />
+		<tag k='contact:phone' v='+34937514706' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.486582902' lon='2.308400139'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623491' />
+		<tag k='name' v="Farmàcia Aymar Terricabras, A. - Vianya Aymar, I." />
+		<tag k='addr:full' v="carrer Almeria, 14" />
+		<tag k='addr:postcode' v='08320' />
+		<tag k='addr:city' v="Masnou, el" />
+		<tag k='contact:phone' v='+34935550381' />
+		<tag k='source:date' v='03/11/2020 07:57:41 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.489869733' lon='2.351453511'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621411' />
+		<tag k='name' v="Farmàcia Matínez López, Anna de los Ángeles" />
+		<tag k='addr:full' v="avinguda Gran Via, 62" />
+		<tag k='addr:postcode' v='08330' />
+		<tag k='addr:city' v="Premià de Mar" />
+		<tag k='contact:phone' v='+34937547666' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.479486463' lon='2.321052888'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622372' />
+		<tag k='name' v="Farmàcia Cardona Trullas, M. Josep" />
+		<tag k='addr:full' v="passatge Prat De La Riba, 23" />
+		<tag k='addr:postcode' v='08320' />
+		<tag k='addr:city' v="Masnou, el" />
+		<tag k='contact:phone' v='+34935550403' />
+		<tag k='source:date' v='03/11/2020 07:57:40 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.512407432' lon='2.360339974'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621224' />
+		<tag k='name' v="Farmàcia Palacios Palomino, M. Dolors" />
+		<tag k='addr:full' v="carrer Mestre Salamero, 3" />
+		<tag k='addr:postcode' v='08339' />
+		<tag k='addr:city' v="Vilassar de Dalt" />
+		<tag k='contact:phone' v='+34937538735' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-20' visible='true' lat='41.497768489' lon='2.361644494'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624264' />
+		<tag k='name' v="Farmàcia Rodríguez Fatou, Fermin" />
+		<tag k='addr:full' v="avinguda Tarragona, 10" />
+		<tag k='addr:postcode' v='08338' />
+		<tag k='addr:city' v="Premià de Dalt" />
+		<tag k='contact:phone' v='+34937510119' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-21' visible='true' lat='41.497230265' lon='2.322150251'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623120' />
+		<tag k='name' v="Farmàcia Muñoz Casadevall, Joan" />
+		<tag k='addr:full' v="avinguda De La Riera, 54" />
+		<tag k='addr:postcode' v='08329' />
+		<tag k='addr:city' v="Teià" />
+		<tag k='contact:phone' v='+34935553518' />
+		<tag k='source:date' v='03/11/2020 07:57:35 AM +0000' />
+	</node>
+	<node id='-22' visible='true' lat='41.494460135' lon='2.295822605'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623245' />
+		<tag k='name' v="Farmàcia Gómez Torrents, M. Roser" />
+		<tag k='addr:full' v="carrer Angel Guimera, 54" />
+		<tag k='addr:postcode' v='08328' />
+		<tag k='addr:city' v="Alella" />
+		<tag k='contact:phone' v='+34935551608' />
+		<tag k='source:date' v='03/11/2020 07:57:42 AM +0000' />
+	</node>
+	<node id='-23' visible='true' lat='41.481160309' lon='2.325950453'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624142' />
+		<tag k='name' v="Farmàcia Vianya Cardona, Cristina" />
+		<tag k='addr:full' v="carrer Sant Domènec, 1" />
+		<tag k='addr:postcode' v='08320' />
+		<tag k='addr:city' v="Masnou, el" />
+		<tag k='contact:phone' v='+34935553308' />
+		<tag k='source:date' v='03/11/2020 07:57:40 AM +0000' />
+	</node>
+	<node id='-24' visible='true' lat='41.500419849' lon='2.389105758'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='9029402' />
+		<tag k='name' v="Farmàcia Mirats Marsiñach, Montserrat" />
+		<tag k='addr:full' v="carrer Sant Jaume, 27" />
+		<tag k='addr:postcode' v='08340' />
+		<tag k='addr:city' v="Vilassar de Mar" />
+		<tag k='contact:phone' v='+34937594470' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-25' visible='true' lat='41.514379701' lon='2.359679055'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622069' />
+		<tag k='name' v="Farmàcia Bonamusa Oliva, Lluis" />
+		<tag k='addr:full' v="carrer Murillo, 8" />
+		<tag k='addr:postcode' v='08339' />
+		<tag k='addr:city' v="Vilassar de Dalt" />
+		<tag k='contact:phone' v='+34930382028' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-26' visible='true' lat='41.488998198' lon='2.354613797'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622408' />
+		<tag k='name' v="Farmàcia Pueyo Salvador, Jorge" />
+		<tag k='addr:full' v="carrer Riera De Premia, 16,  portal 6" />
+		<tag k='addr:postcode' v='08330' />
+		<tag k='addr:city' v="Premià de Mar" />
+		<tag k='contact:phone' v='+34937529042' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-27' visible='true' lat='41.505126679' lon='2.389249663'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621764' />
+		<tag k='name' v="Farmàcia Puche Jové, Esther" />
+		<tag k='addr:full' v="plaça  De Picasso, 11" />
+		<tag k='addr:postcode' v='08340' />
+		<tag k='addr:city' v="Vilassar de Mar" />
+		<tag k='contact:phone' v='+34937591585' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-28' visible='true' lat='41.489813651' lon='2.292679536'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623329' />
+		<tag k='name' v="Farmàcia Martínez Solé, Josep Maria" />
+		<tag k='addr:full' v="carrer Farigola, 12" />
+		<tag k='addr:postcode' v='08328' />
+		<tag k='addr:city' v="Alella" />
+		<tag k='contact:phone' v='+34935402342' />
+		<tag k='source:date' v='03/11/2020 07:57:42 AM +0000' />
+	</node>
+	<node id='-29' visible='true' lat='41.51004569' lon='2.401660377'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623335' />
+		<tag k='name' v="Farmàcia Arribas Nicolau, Magdalena" />
+		<tag k='addr:full' v="carrer Pla Del Moli, 20" />
+		<tag k='addr:postcode' v='08349' />
+		<tag k='addr:city' v="Cabrera de Mar" />
+		<tag k='contact:phone' v='+34937500105' />
+		<tag k='source:date' v='03/11/2020 07:57:41 AM +0000' />
+	</node>
+	<node id='-30' visible='true' lat='41.49768445' lon='2.359827586'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623006' />
+		<tag k='name' v="Farmàcia Rodríguez Braun, Juan" />
+		<tag k='addr:full' v="carrer Mallorca, 18" />
+		<tag k='addr:postcode' v='08330' />
+		<tag k='addr:city' v="Premià de Mar" />
+		<tag k='contact:phone' v='+34937511874' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-31' visible='true' lat='41.495372525' lon='2.364631795'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623158' />
+		<tag k='name' v="Farmàcia Buenache Blanco, Alícia" />
+		<tag k='addr:full' v="carrer Gran Via, 241" />
+		<tag k='addr:postcode' v='08330' />
+		<tag k='addr:city' v="Premià de Mar" />
+		<tag k='contact:phone' v='+34937520488' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-32' visible='true' lat='41.506938319' lon='2.345531845'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624826' />
+		<tag k='name' v="Farmàcia Galcerán García, Meritxell" />
+		<tag k='addr:full' v="carrer Cisa, 22" />
+		<tag k='addr:postcode' v='08338' />
+		<tag k='addr:city' v="Premià de Dalt" />
+		<tag k='contact:phone' v='+34937513290' />
+		<tag k='source:date' v='03/11/2020 07:57:36 AM +0000' />
+	</node>
+	<node id='-33' visible='true' lat='41.480790236' lon='2.314926013'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623384' />
+		<tag k='name' v="Farmàcia Fàbregas Agustí, Josep Maria" />
+		<tag k='addr:full' v="carrer Navarra, 68" />
+		<tag k='addr:postcode' v='08320' />
+		<tag k='addr:city' v="Masnou, el" />
+		<tag k='contact:phone' v='+34935551979' />
+		<tag k='source:date' v='03/11/2020 07:57:40 AM +0000' />
+	</node>
+</osm>

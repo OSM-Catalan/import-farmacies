@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.954938531' lon='0.314270165'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624600' />
+		<tag k='name' v="Farmàcia Ferras Prats, Joaquim" />
+		<tag k='addr:full' v="carrer Navarra, 8" />
+		<tag k='addr:postcode' v='43596' />
+		<tag k='addr:city' v="Horta de Sant Joan" />
+		<tag k='contact:phone' v='+34977435016' />
+		<tag k='source:date' v='03/11/2020 07:59:56 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.251580657' lon='3.11612085'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623956' />
+		<tag k='name' v="Farmàcia Fajol Ayner, Dolors" />
+		<tag k='addr:full' v="carrer Joan Carles, 78" />
+		<tag k='addr:postcode' v='17486' />
+		<tag k='addr:city' v="Castelló d'Empúries" />
+		<tag k='contact:phone' v='+34972451664' />
+		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.171138948' lon='3.075065555'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623447' />
+		<tag k='name' v="Farmàcia Falguera Sacrest, M. Lluïsa" />
+		<tag k='addr:full' v="plaça  De Catalunya, 11" />
+		<tag k='addr:postcode' v='17472' />
+		<tag k='addr:city' v="Armentera, l'" />
+		<tag k='contact:phone' v='+34972520147' />
+		<tag k='source:date' v='03/11/2020 07:59:56 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.251537449' lon='3.112722816'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623979' />
+		<tag k='name' v="Farmàcia Menéndez de Alvarez Rguez., Mariano" />
+		<tag k='addr:full' v="carrer Port Banyuls, 1" />
+		<tag k='addr:postcode' v='17486' />
+		<tag k='addr:city' v="Castelló d'Empúries" />
+		<tag k='contact:phone' v='+34972452095' />
+		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.188860025' lon='3.082714106'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623647' />
+		<tag k='name' v="Farmàcia Poch Sabater, Josep Maria" />
+		<tag k='addr:full' v="carrer Mar, 25" />
+		<tag k='addr:postcode' v='17470' />
+		<tag k='addr:city' v="Sant Pere Pescador" />
+		<tag k='contact:phone' v='+34972520015' />
+		<tag k='source:date' v='03/11/2020 07:59:51 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='42.249338427' lon='3.113003233'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624042' />
+		<tag k='name' v="Farmàcia Camps Font, Jordi" />
+		<tag k='addr:full' v="avinguda Marinada, 40" />
+		<tag k='addr:postcode' v='17486' />
+		<tag k='addr:city' v="Castelló d'Empúries" />
+		<tag k='contact:phone' v='+34972450209' />
+		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='42.242673662' lon='3.031245109'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623928' />
+		<tag k='name' v="Farmàcia Marce Badosa, Núria" />
+		<tag k='addr:full' v="carretera Vila-Sacra, 3" />
+		<tag k='addr:postcode' v='17469' />
+		<tag k='addr:city' v="Fortià" />
+		<tag k='contact:phone' v='+34972953405' />
+		<tag k='source:date' v='03/11/2020 07:59:53 AM +0000' />
+	</node>
+</osm>

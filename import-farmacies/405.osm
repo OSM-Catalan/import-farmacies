@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.564468221' lon='1.953952781'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624570' />
+		<tag k='name' v="Farmàcia Troiano Gomà, Ricard" />
+		<tag k='addr:full' v="avinguda  De Barcelona, 2" />
+		<tag k='addr:postcode' v='08232' />
+		<tag k='addr:city' v="Viladecavalls" />
+		<tag k='contact:phone' v='+34937800559' />
+		<tag k='source:date' v='03/11/2020 07:57:15 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.563913189' lon='2.000040161'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624508' />
+		<tag k='name' v="Farmàcia Prieto Molina, Pedro" />
+		<tag k='addr:full' v="carrer Sant Marc, 69" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937880975' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.571242568' lon='2.036696525'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624832' />
+		<tag k='name' v="Farmàcia Schröder Vilar, Susana - Maria - Elena" />
+		<tag k='addr:full' v="carrer Tibidabo, 19" />
+		<tag k='addr:postcode' v='08227' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937860487' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.552396768' lon='2.02192461'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622955' />
+		<tag k='name' v="Farmàcia Jornet Recaste, Artur i M. Lluïsa" />
+		<tag k='addr:full' v="carrer Germa Joaquim,  113 B" />
+		<tag k='addr:postcode' v='08223' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937851691' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.577365999' lon='2.027827008'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622957' />
+		<tag k='name' v="Farmàcia Bastida Calvo-Vilaro Teixido-Vilaro Bast" />
+		<tag k='addr:full' v="rambla De Francesc Macià,  38-40" />
+		<tag k='addr:postcode' v='08226' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937856945' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.55971148' lon='1.999321615'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622115' />
+		<tag k='name' v="Farmàcia Sala Alegre, Emilia" />
+		<tag k='addr:full' v="carrer Doctor Salvà, 135" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34935251611' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.552702603' lon='2.028926033'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624711' />
+		<tag k='name' v="Farmàcia Buxeda Figuerola, Marta" />
+		<tag k='addr:full' v="avinguda Santa Eulàlia, 371,  bloc 2" />
+		<tag k='addr:postcode' v='08223' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937836960' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.564047177' lon='2.016713281'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622123' />
+		<tag k='name' v="Farmàcia Massana Folch, Núria" />
+		<tag k='addr:full' v="carrer Sant Antoni, 21" />
+		<tag k='addr:postcode' v='08221' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937839927' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.554965985' lon='2.025102325'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623898' />
+		<tag k='name' v="Farmàcia Asín Reig, Olga" />
+		<tag k='addr:full' v="carrer Colon, 286" />
+		<tag k='addr:postcode' v='08223' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937859887' />
+		<tag k='source:date' v='03/11/2020 07:57:19 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.571178596' lon='1.999132922'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624716' />
+		<tag k='name' v="Farmàcia Reynoso Bonet, M. Glòria" />
+		<tag k='addr:full' v="avinguda Can Boada Del Pi, 3,  bloc 5" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937808203' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.571397836' lon='2.018213756'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622164' />
+		<tag k='name' v="Farmàcia Muchart Masaller, Adriana" />
+		<tag k='addr:full' v="carretera Matadepera, 45" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937354138' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.575016979' lon='2.01763631'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624402' />
+		<tag k='name' v="Farmàcia Torras Cabo, Pol" />
+		<tag k='addr:full' v="avinguda Jaume I, 354" />
+		<tag k='addr:postcode' v='08226' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937356072' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.563900689' lon='1.996525358'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621938' />
+		<tag k='name' v="Farmàcia Galceran Roca, Andreu" />
+		<tag k='addr:full' v="carrer Santa Maria Mazzarello, 80" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937127584' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.55693741' lon='2.011422081'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621678' />
+		<tag k='name' v="Farmàcia Morte Galve, Mercedes" />
+		<tag k='addr:full' v="carretera De Montcada, 126" />
+		<tag k='addr:postcode' v='08223' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937838340' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.564084865' lon='2.020877907'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622156' />
+		<tag k='name' v="Farmàcia Losa Gaspà, Javier" />
+		<tag k='addr:full' v="carrer Enric Prat De La Riba, 4" />
+		<tag k='addr:postcode' v='08222' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937853644' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.577457724' lon='2.01349646'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622113' />
+		<tag k='name' v="Farmàcia Sola Garcia, M. Rosa" />
+		<tag k='addr:full' v="carrer Dels Voluntaris, 87" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34931386166' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.577675255' lon='2.003951239'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623725' />
+		<tag k='name' v="Farmàcia López Claveria, C - Serra López, M i E" />
+		<tag k='addr:full' v="carretera Rellinars, 298" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937884134' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.56884989' lon='2.004620353'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622632' />
+		<tag k='name' v="Farmàcia Camacho Àlvarez, Milagros" />
+		<tag k='addr:full' v="rambla Egara, 390" />
+		<tag k='addr:postcode' v='08221' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937883934' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.56984309' lon='2.001570219'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623795' />
+		<tag k='name' v="Farmàcia Bueno Pau, Marta" />
+		<tag k='addr:full' v="carrer Alexandre Galí, 34,  portal 6" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937885036' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-20' visible='true' lat='41.565786488' lon='2.014356902'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622628' />
+		<tag k='name' v="Farmàcia Mestre Gorné, Rosalia" />
+		<tag k='addr:full' v="carrer Nou De Sant Pere, 65" />
+		<tag k='addr:postcode' v='08221' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937318168' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-21' visible='true' lat='41.559810438' lon='2.003443744'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622135' />
+		<tag k='name' v="Farmàcia Figueras Remolat, Xavier" />
+		<tag k='addr:full' v="carrer Pi I Maragall, 18" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937880464' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-22' visible='true' lat='41.561984083' lon='2.010750825'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622629' />
+		<tag k='name' v="Farmàcia Torrent Solans, Anna" />
+		<tag k='addr:full' v="plaça  Vella, 2" />
+		<tag k='addr:postcode' v='08221' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937800910' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-23' visible='true' lat='41.55743677' lon='2.021103119'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622167' />
+		<tag k='name' v="Farmàcia Moreno López, Angel M." />
+		<tag k='addr:full' v="carretera De Montcada, 402" />
+		<tag k='addr:postcode' v='08223' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937859295' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-24' visible='true' lat='41.568116904' lon='2.0393325'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621272' />
+		<tag k='name' v="Farmàcia Batlle Tuset, Montserrat" />
+		<tag k='addr:full' v="passatge Camp Del Roure, 20,  bloc 10" />
+		<tag k='addr:postcode' v='08227' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937308323' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-25' visible='true' lat='41.574344601' lon='2.027836568'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3993926' />
+		<tag k='name' v="Farmàcia Hernandez Gonzalez, Pilar" />
+		<tag k='addr:full' v="carrer Periodista Grané, 182" />
+		<tag k='addr:postcode' v='08226' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34938082506' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-26' visible='true' lat='41.557819573' lon='2.000086832'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621089' />
+		<tag k='name' v="Farmàcia Bach Bonhora - Gibert Serra" />
+		<tag k='addr:full' v="avinguda Angel Sallent, 72" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937899066' />
+		<tag k='source:date' v='03/11/2020 07:57:19 AM +0000' />
+	</node>
+	<node id='-27' visible='true' lat='41.577012118' lon='2.024632988'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621616' />
+		<tag k='name' v="Farmàcia Montserrat Hernández, Eduard" />
+		<tag k='addr:full' v="rambla De Francesc Macià, 181" />
+		<tag k='addr:postcode' v='08226' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937354429' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-28' visible='true' lat='41.572160378' lon='2.003023363'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624291' />
+		<tag k='name' v="Farmàcia Balasch Iborra, Montserrat" />
+		<tag k='addr:full' v="carrer Pedrell, 4" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937886603' />
+		<tag k='source:date' v='03/11/2020 07:57:19 AM +0000' />
+	</node>
+	<node id='-29' visible='true' lat='41.563303523' lon='2.028904803'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624205' />
+		<tag k='name' v="Farmàcia Pi Culell, Anna" />
+		<tag k='addr:full' v="carrer Mossèn Àngel Rodamilans, 155" />
+		<tag k='addr:postcode' v='08222' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937853642' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-30' visible='true' lat='41.562988451' lon='2.014662248'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622627' />
+		<tag k='name' v="Farmàcia Tarin Cardona, Lluís" />
+		<tag k='addr:full' v="carrer Font Vella, 97" />
+		<tag k='addr:postcode' v='08221' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937362023' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-31' visible='true' lat='41.577548737' lon='2.033732415'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624367' />
+		<tag k='name' v="Farmàcia Barbera Casajuana, Saida" />
+		<tag k='addr:full' v="carretera Castellar,  480 G" />
+		<tag k='addr:postcode' v='08227' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937837989' />
+		<tag k='source:date' v='03/11/2020 07:57:19 AM +0000' />
+	</node>
+	<node id='-32' visible='true' lat='41.57463701' lon='2.007206698'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624226' />
+		<tag k='name' v="Farmàcia Guerrero Anarte, Ignasi" />
+		<tag k='addr:full' v="avinguda Abad Marcet, 241" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937882901' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-33' visible='true' lat='41.576280503' lon='2.029199652'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622626' />
+		<tag k='name' v="Farmàcia Vicente de Avilés, Faustino" />
+		<tag k='addr:full' v="avinguda Del Valles, 457" />
+		<tag k='addr:postcode' v='08226' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937853499' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-34' visible='true' lat='41.563359394' lon='2.008766216'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622624' />
+		<tag k='name' v="Farmàcia De Cacho Rivera, Jordi" />
+		<tag k='addr:full' v="raval Montserrat, 48" />
+		<tag k='addr:postcode' v='08221' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937885380' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-35' visible='true' lat='41.558460896' lon='1.989015854'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621781' />
+		<tag k='name' v="Farmàcia Barberà Casajuana, Montserrat" />
+		<tag k='addr:full' v="plaça  Del Roc Blanc, 32" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937204539' />
+		<tag k='source:date' v='03/11/2020 07:57:19 AM +0000' />
+	</node>
+	<node id='-36' visible='true' lat='41.565325703' lon='2.007035287'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622637' />
+		<tag k='name' v="Farmàcia Belmonte Castan, Cristina" />
+		<tag k='addr:full' v="rambla Egara, 289" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937807524' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-37' visible='true' lat='41.581932746' lon='2.013215364'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624103' />
+		<tag k='name' v="Farmàcia Garrabou Gomà, Manuel" />
+		<tag k='addr:full' v="avinguda Parlament, 28" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937351271' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-38' visible='true' lat='41.548948521' lon='2.017030554'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624290' />
+		<tag k='name' v="Farmàcia Reynoso Bonet, M. Victòria" />
+		<tag k='addr:full' v="carrer Igualada, 28" />
+		<tag k='addr:postcode' v='08223' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937851262' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-39' visible='true' lat='41.561885615' lon='2.040684809'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624423' />
+		<tag k='name' v="Farmàcia Rubio Ingerto, Maria Isabel" />
+		<tag k='addr:full' v="carrer Saragossa, 13" />
+		<tag k='addr:postcode' v='08227' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937850918' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-40' visible='true' lat='41.579849401' lon='2.009886605'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624591' />
+		<tag k='name' v="Farmàcia Masdeu Puig, M. Antònia" />
+		<tag k='addr:full' v="avinguda Béjar, 39" />
+		<tag k='addr:postcode' v='08225' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937354774' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-41' visible='true' lat='41.583397815' lon='2.01945502'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623171' />
+		<tag k='name' v="Farmàcia Amate Costa, Gemma" />
+		<tag k='addr:full' v="carrer Tarragona,  123 B" />
+		<tag k='addr:postcode' v='08226' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937351052' />
+		<tag k='source:date' v='03/11/2020 07:57:19 AM +0000' />
+	</node>
+	<node id='-42' visible='true' lat='41.565848571' lon='2.039095966'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='7981277' />
+		<tag k='name' v="Farmàcia Rex Martín, Gabriel" />
+		<tag k='addr:full' v="avinguda Madrid, 268" />
+		<tag k='addr:postcode' v='08227' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937319496' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-43' visible='true' lat='41.566763619' lon='2.02447736'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624211' />
+		<tag k='name' v="Farmàcia Pau Robiro, Núria" />
+		<tag k='addr:full' v="carretera Castellar, 110" />
+		<tag k='addr:postcode' v='08222' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937859948' />
+		<tag k='source:date' v='03/11/2020 07:57:17 AM +0000' />
+	</node>
+	<node id='-44' visible='true' lat='41.554957928' lon='1.954057952'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623162' />
+		<tag k='name' v="Farmàcia Tugues Molera, M. Àngels" />
+		<tag k='addr:full' v="carrer Antoni Soler Hospital, 13" />
+		<tag k='addr:postcode' v='08232' />
+		<tag k='addr:city' v="Viladecavalls" />
+		<tag k='source:date' v='03/11/2020 07:57:15 AM +0000' />
+	</node>
+	<node id='-45' visible='true' lat='41.602225914' lon='2.02410643'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621093' />
+		<tag k='name' v="Farmàcia Ballbé Sala, Emília" />
+		<tag k='addr:full' v="carrer Sant Llorenç, 91" />
+		<tag k='addr:postcode' v='08230' />
+		<tag k='addr:city' v="Matadepera" />
+		<tag k='contact:phone' v='+34937301720' />
+		<tag k='source:date' v='03/11/2020 07:57:34 AM +0000' />
+	</node>
+	<node id='-46' visible='true' lat='41.5591928' lon='2.012544044'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622635' />
+		<tag k='name' v="Farmàcia Torras Solà, Josep M." />
+		<tag k='addr:full' v="carrer Sant Francesc, 12" />
+		<tag k='addr:postcode' v='08221' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937800920' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-47' visible='true' lat='41.599653669' lon='2.026054357'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624024' />
+		<tag k='name' v="Farmàcia Jiménez Santano, Maria Ángela" />
+		<tag k='addr:full' v="carrer Antoni Genescà, 21" />
+		<tag k='addr:postcode' v='08230' />
+		<tag k='addr:city' v="Matadepera" />
+		<tag k='contact:phone' v='+34937870001' />
+		<tag k='source:date' v='03/11/2020 07:57:34 AM +0000' />
+	</node>
+	<node id='-48' visible='true' lat='41.573933672' lon='2.025292178'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623360' />
+		<tag k='name' v="Farmàcia Gavarró Puig, Roser" />
+		<tag k='addr:full' v="carrer Ample, 289" />
+		<tag k='addr:postcode' v='08226' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937843734' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-49' visible='true' lat='41.560266913' lon='1.997498518'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622953' />
+		<tag k='name' v="Farmàcia Garcia Porcel, Sílvia" />
+		<tag k='addr:full' v="carrer Nuria, 170" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937880429' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-50' visible='true' lat='41.560935199' lon='2.025347306'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623889' />
+		<tag k='name' v="Farmàcia Riba Viladrosa, Concepció" />
+		<tag k='addr:full' v="carrer Estanislau Figueres, 92" />
+		<tag k='addr:postcode' v='08222' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937856088' />
+		<tag k='source:date' v='03/11/2020 07:57:16 AM +0000' />
+	</node>
+	<node id='-51' visible='true' lat='41.556706275' lon='2.006434377'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624204' />
+		<tag k='name' v="Farmàcia Escudé Grau, M. Rosa i Mercè" />
+		<tag k='addr:full' v="carretera Martorell, 16" />
+		<tag k='addr:postcode' v='08224' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34937882188' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+</osm>

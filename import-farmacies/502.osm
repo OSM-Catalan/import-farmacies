@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.181699008' lon='2.482509518'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623562' />
+		<tag k='name' v="Farmàcia Bonmatí Castellà, P i Esteve Bonmatí,P" />
+		<tag k='addr:full' v="avinguda Reis Catòlics, 15" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972260085' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.169844053' lon='2.476649674'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623828' />
+		<tag k='name' v="Farmàcia Gou Clavera, Mercè - Masó Gou, Marta" />
+		<tag k='addr:full' v="avinguda  Santa Coloma, 87" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972261344' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.179275131' lon='2.484476787'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623566' />
+		<tag k='name' v="Farmàcia Jurado Cardelús, E. - Jurado Cardelús, C" />
+		<tag k='addr:full' v="passatge De Barcelona, 4" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972274550' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.181239271' lon='2.496311621'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623959' />
+		<tag k='name' v="Farmàcia Sans Rubio, Joan" />
+		<tag k='addr:full' v="carrer Ramon Barnades, 2" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972270241' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='42.182034297' lon='2.488567018'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623563' />
+		<tag k='name' v="Farmàcia Coromines Faja, Bruna" />
+		<tag k='addr:full' v="carrer Sant Esteve, 17" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972260690' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='42.181422768' lon='2.486864385'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623567' />
+		<tag k='name' v="Farmàcia Vayreda Casadevall, I /Ralita Vayreda, S" />
+		<tag k='addr:full' v="carrer Sant Rafel, 28" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972260595' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='42.171411996' lon='2.470733868'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623845' />
+		<tag k='name' v="Farmàcia Faja Canadell, Susanna" />
+		<tag k='addr:full' v="carrer Sant Feliu, 36" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972265819' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='42.182803396' lon='2.491397347'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623564' />
+		<tag k='name' v="Farmàcia Fajula Roura, Joan" />
+		<tag k='addr:full' v="plaça   Conill, 3" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972260987' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='42.187767593' lon='2.4974227'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623740' />
+		<tag k='name' v="Farmàcia Adam Arboix, Delfina" />
+		<tag k='addr:full' v="avinguda  Girona, 79" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972261239' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='42.183300253' lon='2.479321988'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623665' />
+		<tag k='name' v="Farmàcia Arau Valeri, Anna" />
+		<tag k='addr:full' v="plaça  De Montolivet, 4" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972271425' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='42.204279315' lon='2.49776114'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623850' />
+		<tag k='name' v="Farmàcia Abel Verges, Nuria" />
+		<tag k='addr:full' v="carretera D'Olot, 21" />
+		<tag k='addr:postcode' v='17813' />
+		<tag k='addr:city' v="Vall de Bianya, la" />
+		<tag k='contact:phone' v='+34972290935' />
+		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='42.184926482' lon='2.480690046'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623735' />
+		<tag k='name' v="Farmàcia Rispau Baone, Miquel" />
+		<tag k='addr:full' v="avinguda  Sant Joan De Les Abadesses, 6" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972261122' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='42.212402132' lon='2.512046335'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623646' />
+		<tag k='name' v="Farmàcia Arumi Prat, Montserrat" />
+		<tag k='addr:full' v="carretera D'Olot, 47" />
+		<tag k='addr:postcode' v='17857' />
+		<tag k='addr:city' v="Sant Joan les Fonts" />
+		<tag k='contact:phone' v='+34972292156' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='42.177668498' lon='2.490324785'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623774' />
+		<tag k='name' v="Farmàcia Feliu Bassols, Àngels i Carme" />
+		<tag k='addr:full' v="carretera  Santa Pau,  10-12" />
+		<tag k='addr:postcode' v='17800' />
+		<tag k='addr:city' v="Olot" />
+		<tag k='contact:phone' v='+34972261079' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+</osm>

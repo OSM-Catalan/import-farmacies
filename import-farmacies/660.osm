@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.055384311' lon='3.20052118'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623743' />
+		<tag k='name' v="Farmàcia Sanchez Ballester, Núria" />
+		<tag k='addr:full' v="carrer Santa Anna, 62" />
+		<tag k='addr:postcode' v='17257' />
+		<tag k='addr:city' v="Torroella de Montgrí" />
+		<tag k='contact:phone' v='+34972750926' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.04059532' lon='3.126536285'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623653' />
+		<tag k='name' v="Farmàcia Bancells Junca, Núria" />
+		<tag k='addr:full' v="carrer Hospital, 48" />
+		<tag k='addr:postcode' v='17257' />
+		<tag k='addr:city' v="Torroella de Montgrí" />
+		<tag k='contact:phone' v='+34972758280' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.041889542' lon='3.132073642'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621446' />
+		<tag k='name' v="Farmàcia Ferrer Bartra, Montserrat" />
+		<tag k='addr:full' v="carretera De L'Estartit,  S/N" />
+		<tag k='addr:postcode' v='17257' />
+		<tag k='addr:city' v="Torroella de Montgrí" />
+		<tag k='contact:phone' v='+34972757115' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.039342105' lon='3.127815981'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621904' />
+		<tag k='name' v="Farmàcia Corbalan Prat, Mireia" />
+		<tag k='addr:full' v="passatge Catalunya, 21" />
+		<tag k='addr:postcode' v='17257' />
+		<tag k='addr:city' v="Torroella de Montgrí" />
+		<tag k='contact:phone' v='+34972760149' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='42.040807788' lon='3.125946753'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623654' />
+		<tag k='name' v="Farmàcia Funtane Maso, Marc" />
+		<tag k='addr:full' v="carrer Major, 55" />
+		<tag k='addr:postcode' v='17257' />
+		<tag k='addr:city' v="Torroella de Montgrí" />
+		<tag k='contact:phone' v='+34972757018' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='42.050331283' lon='3.196371608'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623947' />
+		<tag k='name' v="Farmàcia Alaball Radresa, Carolina" />
+		<tag k='addr:full' v="avinguda  Grecia, 14" />
+		<tag k='addr:postcode' v='17257' />
+		<tag k='addr:city' v="Torroella de Montgrí" />
+		<tag k='contact:phone' v='+34972750524' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+</osm>

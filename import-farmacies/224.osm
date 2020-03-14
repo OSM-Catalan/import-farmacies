@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.437897824' lon='1.159347795'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623357' />
+		<tag k='name' v="Farmàcia Valero Gayet, Cristina" />
+		<tag k='addr:full' v="plaça  Vella, 6" />
+		<tag k='addr:postcode' v='43411' />
+		<tag k='addr:city' v="Blancafort" />
+		<tag k='contact:phone' v='+34977892447' />
+		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.456318403' lon='1.178369728'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624634' />
+		<tag k='name' v="Farmàcia Pros Saumoy, Sara" />
+		<tag k='addr:full' v="carretera Montblanch - Artesa, 45" />
+		<tag k='addr:postcode' v='43412' />
+		<tag k='addr:city' v="Solivella" />
+		<tag k='contact:phone' v='+34977892417' />
+		<tag k='source:date' v='03/11/2020 08:00:53 AM +0000' />
+	</node>
+</osm>

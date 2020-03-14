@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.21015481' lon='1.674871818'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621907' />
+		<tag k='name' v="Farmàcia Picomell Garau, Antoni" />
+		<tag k='addr:full' v="passatge Vilanova, 15" />
+		<tag k='addr:postcode' v='08880' />
+		<tag k='addr:city' v="Cubelles" />
+		<tag k='contact:phone' v='+34938953005' />
+		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.201956448' lon='1.678135799'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623153' />
+		<tag k='name' v="Farmàcia López Ferrer, Montserrat" />
+		<tag k='addr:full' v="carrer Mallorca, 14" />
+		<tag k='addr:postcode' v='08880' />
+		<tag k='addr:city' v="Cubelles" />
+		<tag k='contact:phone' v='+34938952804' />
+		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.197350133' lon='1.626339439'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621429' />
+		<tag k='name' v="Farmàcia Serrano Baiget, Jordi" />
+		<tag k='addr:full' v="avinguda Barcelona,  71-73" />
+		<tag k='addr:postcode' v='43881' />
+		<tag k='addr:city' v="Cunit" />
+		<tag k='contact:phone' v='+34658823218' />
+		<tag k='source:date' v='03/11/2020 07:58:45 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.193767164' lon='1.60415984'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623202' />
+		<tag k='name' v="Farmàcia Lázaro Martínez, P / Safont Albert, S" />
+		<tag k='addr:full' v="ronda Universitat, 5" />
+		<tag k='addr:postcode' v='43820' />
+		<tag k='addr:city' v="Calafell" />
+		<tag k='contact:phone' v='+34977160041' />
+		<tag k='source:date' v='03/11/2020 08:00:56 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.198864239' lon='1.636530379'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623210' />
+		<tag k='name' v="Farmàcia Franco Pàmies, M. Teresa" />
+		<tag k='addr:full' v="avinguda Barcelona, 207" />
+		<tag k='addr:postcode' v='43881' />
+		<tag k='addr:city' v="Cunit" />
+		<tag k='contact:phone' v='+34977675698' />
+		<tag k='source:date' v='03/11/2020 07:58:45 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.192239282' lon='1.616916031'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622880' />
+		<tag k='name' v="Farmàcia Prat Ayguasanosa, Daniel" />
+		<tag k='addr:full' v="avinguda Tarragona, 4" />
+		<tag k='addr:postcode' v='43881' />
+		<tag k='addr:city' v="Cunit" />
+		<tag k='contact:phone' v='+34977674181' />
+		<tag k='source:date' v='03/11/2020 07:58:45 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.187170735' lon='1.573550969'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622869' />
+		<tag k='name' v="Farmàcia Pujol Cid, Josep Maria" />
+		<tag k='addr:full' v="avinguda Sant Joan De Deu, 79" />
+		<tag k='addr:postcode' v='43820' />
+		<tag k='addr:city' v="Calafell" />
+		<tag k='contact:phone' v='+34977662528' />
+		<tag k='source:date' v='03/11/2020 08:00:56 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.190392629' lon='1.606739734'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='8806606' />
+		<tag k='name' v="Farmàcia Janés Casals, Maria" />
+		<tag k='addr:full' v="passatge Marítim Sant Joan De Deu, 238" />
+		<tag k='addr:postcode' v='43882' />
+		<tag k='addr:city' v="Calafell" />
+		<tag k='source:date' v='03/11/2020 08:00:57 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.196478317' lon='1.634967711'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='7750826' />
+		<tag k='name' v="Farmàcia Martínez Navas, Marta" />
+		<tag k='addr:full' v="carrer Puig I Cadafalch, 3" />
+		<tag k='addr:postcode' v='43881' />
+		<tag k='addr:city' v="Cunit" />
+		<tag k='contact:phone' v='+34977675437' />
+		<tag k='source:date' v='03/11/2020 07:58:45 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.207889948' lon='1.673021213'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623279' />
+		<tag k='name' v="Farmàcia Montaner Ferré, Josep J." />
+		<tag k='addr:full' v="carrer Narcis Bardaji, 10" />
+		<tag k='addr:postcode' v='08880' />
+		<tag k='addr:city' v="Cubelles" />
+		<tag k='contact:phone' v='+34938950703' />
+		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.193732225' lon='1.607883694'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621577' />
+		<tag k='name' v="Farmàcia Espuis Morera, Lluís Antoni" />
+		<tag k='addr:full' v="carretera Barcelona, 95" />
+		<tag k='addr:postcode' v='43820' />
+		<tag k='addr:city' v="Calafell" />
+		<tag k='contact:phone' v='+34977161350' />
+		<tag k='source:date' v='03/11/2020 08:00:57 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.239635845' lon='1.574784887'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623045' />
+		<tag k='name' v="Farmàcia Rosell Ollé, Mar" />
+		<tag k='addr:full' v="carrer Isabel Vilella, 9" />
+		<tag k='addr:postcode' v='43719' />
+		<tag k='addr:city' v="Bellvei" />
+		<tag k='contact:phone' v='+34977168477' />
+		<tag k='source:date' v='03/11/2020 08:00:58 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.191366136' lon='1.604499303'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623222' />
+		<tag k='name' v="Farmàcia Casulleras Romeu, Núria" />
+		<tag k='addr:full' v="carrer Rhin, 17" />
+		<tag k='addr:postcode' v='43820' />
+		<tag k='addr:city' v="Calafell" />
+		<tag k='contact:phone' v='+34977160181' />
+		<tag k='source:date' v='03/11/2020 08:00:57 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.188430369' lon='1.57497799'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621744' />
+		<tag k='name' v="Farmàcia Plaja Santalò, Carla" />
+		<tag k='addr:full' v="carrer Àngel Guimerà,  18-20" />
+		<tag k='addr:postcode' v='43820' />
+		<tag k='addr:city' v="Calafell" />
+		<tag k='contact:phone' v='+34977078517' />
+		<tag k='source:date' v='03/11/2020 08:00:56 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.537834877' lon='1.867499564'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621247' />
+		<tag k='name' v="Farmàcia Escarrer Cuadrench, Núria" />
+		<tag k='addr:full' v="carrer Francesc Macia,  25-27" />
+		<tag k='addr:postcode' v='08292' />
+		<tag k='addr:city' v="Esparreguera" />
+		<tag k='contact:phone' v='+34937708552' />
+		<tag k='source:date' v='03/11/2020 07:58:57 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.53607086' lon='1.863399497'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623023' />
+		<tag k='name' v="Farmàcia Taulé Romagosa, Francesc" />
+		<tag k='addr:full' v="carrer Princeps Espanya, 70" />
+		<tag k='addr:postcode' v='08292' />
+		<tag k='addr:city' v="Esparreguera" />
+		<tag k='contact:phone' v='+34937774054' />
+		<tag k='source:date' v='03/11/2020 07:58:57 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.54325708' lon='1.898148207'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621239' />
+		<tag k='name' v="Farmàcia Casal Vidal, Meritxell" />
+		<tag k='addr:full' v="carrer Sant Pere, 27" />
+		<tag k='addr:postcode' v='08640' />
+		<tag k='addr:city' v="Olesa de Montserrat" />
+		<tag k='contact:phone' v='+34937787234' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.536850024' lon='1.87128404'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621618' />
+		<tag k='name' v="Farmàcia Pla Granés, Gemma" />
+		<tag k='addr:full' v="carrer Barcelona, 32" />
+		<tag k='addr:postcode' v='08292' />
+		<tag k='addr:city' v="Esparreguera" />
+		<tag k='contact:phone' v='+34937709996' />
+		<tag k='source:date' v='03/11/2020 07:58:57 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.541378453' lon='1.894373522'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623424' />
+		<tag k='name' v="Farmàcia Abeleira Navarro, Nicolas" />
+		<tag k='addr:full' v="carrer Colom, 91" />
+		<tag k='addr:postcode' v='08640' />
+		<tag k='addr:city' v="Olesa de Montserrat" />
+		<tag k='contact:phone' v='+34937787079' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.605603106' lon='1.916865405'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622995' />
+		<tag k='name' v="Farmàcia Martínez Folch, Josep M." />
+		<tag k='addr:full' v="carrer Salvador Badia,  S/N" />
+		<tag k='addr:postcode' v='08233' />
+		<tag k='addr:city' v="Vacarisses" />
+		<tag k='contact:phone' v='+34938359400' />
+		<tag k='source:date' v='03/11/2020 07:59:13 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.54572377' lon='1.889963468'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624579' />
+		<tag k='name' v="Farmàcia Matas Margarit, Rosa M." />
+		<tag k='addr:full' v="carrer Argelines, 49" />
+		<tag k='addr:postcode' v='08640' />
+		<tag k='addr:city' v="Olesa de Montserrat" />
+		<tag k='contact:phone' v='+34937781036' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.534686701' lon='1.870405617'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623984' />
+		<tag k='name' v="Farmàcia Campabadal Monfà, Gemma" />
+		<tag k='addr:full' v="carrer Del Camí Ral, 12" />
+		<tag k='addr:postcode' v='08292' />
+		<tag k='addr:city' v="Esparreguera" />
+		<tag k='contact:phone' v='+34937772236' />
+		<tag k='source:date' v='03/11/2020 07:58:57 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.539711992' lon='1.895197512'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621762' />
+		<tag k='name' v="Farmàcia Vendranes Matas, Gemma" />
+		<tag k='addr:full' v="carrer Barcelona, 57" />
+		<tag k='addr:postcode' v='08640' />
+		<tag k='addr:city' v="Olesa de Montserrat" />
+		<tag k='contact:phone' v='+34937784048' />
+		<tag k='source:date' v='03/11/2020 07:58:53 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.567678731' lon='1.826917494'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624736' />
+		<tag k='name' v="Farmàcia Esteve Gatnau, Genar" />
+		<tag k='addr:full' v="carrer Sant Corneli, 1" />
+		<tag k='addr:postcode' v='08293' />
+		<tag k='addr:city' v="Collbató" />
+		<tag k='contact:phone' v='+34937770076' />
+		<tag k='source:date' v='03/11/2020 07:58:59 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.544004606' lon='1.887181176'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621414' />
+		<tag k='name' v="Farmàcia Bargalló Arqué, M. Salomé" />
+		<tag k='addr:full' v="carrer Arquebisbe Ramon Torrella, 22" />
+		<tag k='addr:postcode' v='08640' />
+		<tag k='addr:city' v="Olesa de Montserrat" />
+		<tag k='contact:phone' v='+34937787543' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.544212198' lon='1.893436437'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623397' />
+		<tag k='name' v="Farmàcia Ley Ceballos, M. Soletat" />
+		<tag k='addr:full' v="carrer Alfons Sala, 23" />
+		<tag k='addr:postcode' v='08640' />
+		<tag k='addr:city' v="Olesa de Montserrat" />
+		<tag k='contact:phone' v='+34937781539' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.539701942' lon='1.869717793'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622242' />
+		<tag k='name' v="Farmàcia Florensa Berenguer, Mireia" />
+		<tag k='addr:full' v="carrer Gran, 33" />
+		<tag k='addr:postcode' v='08292' />
+		<tag k='addr:city' v="Esparreguera" />
+		<tag k='contact:phone' v='+34937771189' />
+		<tag k='source:date' v='03/11/2020 07:58:57 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.543027898' lon='1.8947972'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622398' />
+		<tag k='name' v="Farmàcia Berenguer Amenos - Florensa Bere" />
+		<tag k='addr:full' v="carrer Anselm Clave, 114" />
+		<tag k='addr:postcode' v='08640' />
+		<tag k='addr:city' v="Olesa de Montserrat" />
+		<tag k='contact:phone' v='+34937780186' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.542843105' lon='1.865726415'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624287' />
+		<tag k='name' v="Farmàcia Alert Badia, Montserrat" />
+		<tag k='addr:full' v="plaça  S.Magi, 14" />
+		<tag k='addr:postcode' v='08292' />
+		<tag k='addr:city' v="Esparreguera" />
+		<tag k='contact:phone' v='+34937771435' />
+		<tag k='source:date' v='03/11/2020 07:58:57 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.539005516' lon='1.870553548'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622241' />
+		<tag k='name' v="Farmàcia López-Ybarra Flores, Rocío" />
+		<tag k='addr:full' v="plaça  Ajuntament, 14" />
+		<tag k='addr:postcode' v='08292' />
+		<tag k='addr:city' v="Esparreguera" />
+		<tag k='contact:phone' v='+34937771144' />
+		<tag k='source:date' v='03/11/2020 07:58:57 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.610649182' lon='1.845620716'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622393' />
+		<tag k='name' v="Farmàcia Ruyra Pagès, Pere" />
+		<tag k='addr:full' v="carrer Pont, 31" />
+		<tag k='addr:postcode' v='08691' />
+		<tag k='addr:city' v="Monistrol de Montserrat" />
+		<tag k='contact:phone' v='+34938350129' />
+		<tag k='source:date' v='03/11/2020 07:59:23 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.607359962' lon='1.918682916'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621261' />
+		<tag k='name' v="Farmàcia España Borrero, Yolanda" />
+		<tag k='addr:full' v="carrer Major, 9" />
+		<tag k='addr:postcode' v='08233' />
+		<tag k='addr:city' v="Vacarisses" />
+		<tag k='contact:phone' v='+34938359163' />
+		<tag k='source:date' v='03/11/2020 07:59:13 AM +0000' />
+	</node>
+</osm>

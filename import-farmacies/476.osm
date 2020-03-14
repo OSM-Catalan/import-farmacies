@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.233227604' lon='2.286623194'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623645' />
+		<tag k='name' v="Farmàcia Sunyer Creixans, M. Rosa" />
+		<tag k='addr:full' v="plaça   Rovira, 14" />
+		<tag k='addr:postcode' v='17860' />
+		<tag k='addr:city' v="Sant Joan de les Abadesses" />
+		<tag k='contact:phone' v='+34972720154' />
+		<tag k='source:date' v='03/11/2020 07:59:33 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.236001222' lon='2.290267192'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623974' />
+		<tag k='name' v="Farmàcia Camprubí Falcó, Gemma" />
+		<tag k='addr:full' v="carrer Ramon D'Urg, 56" />
+		<tag k='addr:postcode' v='17860' />
+		<tag k='addr:city' v="Sant Joan de les Abadesses" />
+		<tag k='contact:phone' v='+34972722226' />
+		<tag k='source:date' v='03/11/2020 07:59:33 AM +0000' />
+	</node>
+</osm>

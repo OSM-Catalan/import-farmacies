@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.369087664' lon='3.158717417'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623935' />
+		<tag k='name' v="Farmàcia Hortalà Daniel, M. Farners" />
+		<tag k='addr:full' v="carrer Castellar, 2" />
+		<tag k='addr:postcode' v='17490' />
+		<tag k='addr:city' v="Llançà" />
+		<tag k='contact:phone' v='+34972381496' />
+		<tag k='source:date' v='03/11/2020 07:59:53 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.363357327' lon='3.151544455'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623558' />
+		<tag k='name' v="Farmàcia Figa Noiseau, Joaquim" />
+		<tag k='addr:full' v="carrer Salmero, 5" />
+		<tag k='addr:postcode' v='17490' />
+		<tag k='addr:city' v="Llançà" />
+		<tag k='contact:phone' v='+34972121023' />
+		<tag k='source:date' v='03/11/2020 07:59:53 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.404034064' lon='3.152479181'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623953' />
+		<tag k='name' v="Farmàcia Revilla Estrach, Àngels" />
+		<tag k='addr:full' v="carrer Mar, 78" />
+		<tag k='addr:postcode' v='17496' />
+		<tag k='addr:city' v="Colera" />
+		<tag k='contact:phone' v='+34972389212' />
+		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.425941525' lon='3.159365973'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623576' />
+		<tag k='name' v="Farmàcia Llanta Nonell, M. Mercè" />
+		<tag k='addr:full' v="carrer Mar, 8" />
+		<tag k='addr:postcode' v='17497' />
+		<tag k='addr:city' v="Portbou" />
+		<tag k='contact:phone' v='+34972390145' />
+		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
+	</node>
+</osm>

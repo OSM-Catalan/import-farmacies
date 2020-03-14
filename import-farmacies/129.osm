@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.671771943' lon='0.747823915'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624776' />
+		<tag k='name' v="Farmàcia Blanch Pastor, Jordi" />
+		<tag k='addr:full' v="carrer Major, 1" />
+		<tag k='addr:postcode' v='43877' />
+		<tag k='addr:city' v="Sant Jaume d'Enveja" />
+		<tag k='contact:phone' v='+34977468111' />
+		<tag k='source:date' v='03/11/2020 07:59:58 AM +0000' />
+	</node>
+</osm>

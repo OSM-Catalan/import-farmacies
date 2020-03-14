@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.685544674' lon='1.778350893'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623018' />
+		<tag k='name' v="Farmàcia Cortés Espona, Jaume" />
+		<tag k='addr:full' v="carrer Sant Marc, 19" />
+		<tag k='addr:postcode' v='08253' />
+		<tag k='addr:city' v="Sant Salvador de Guardiola" />
+		<tag k='contact:phone' v='+34938352600' />
+		<tag k='source:date' v='03/11/2020 07:59:25 AM +0000' />
+	</node>
+</osm>

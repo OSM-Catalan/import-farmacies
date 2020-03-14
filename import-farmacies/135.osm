@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.476924353' lon='0.717736554'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624332' />
+		<tag k='name' v="Farmàcia Ponton Sivilla, Fernando" />
+		<tag k='addr:full' v="avinguda  Progres, 11" />
+		<tag k='addr:postcode' v='25552' />
+		<tag k='addr:city' v="Vilaller" />
+		<tag k='contact:phone' v='+34973698137' />
+		<tag k='source:date' v='03/11/2020 07:59:10 AM +0000' />
+	</node>
+</osm>

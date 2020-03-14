@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.283218434' lon='1.549853463'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622907' />
+		<tag k='name' v="Farmàcia Vidal Font, Anna M." />
+		<tag k='addr:full' v="carrer Alzina,  S/N" />
+		<tag k='addr:postcode' v='43712' />
+		<tag k='addr:city' v="Llorenç del Penedès" />
+		<tag k='contact:phone' v='+34977677409' />
+		<tag k='source:date' v='03/11/2020 08:00:56 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.296699919' lon='1.558297762'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623072' />
+		<tag k='name' v="Farmàcia Carbó Royo, Manuel" />
+		<tag k='addr:full' v="carrer Carretera, 24" />
+		<tag k='addr:postcode' v='43713' />
+		<tag k='addr:city' v="Sant Jaume dels Domenys" />
+		<tag k='contact:phone' v='+34977688541' />
+		<tag k='source:date' v='03/11/2020 08:00:55 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.279732657' lon='1.488651444'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624487' />
+		<tag k='name' v="Farmàcia Dalmau Aumenjach, Maria" />
+		<tag k='addr:full' v="carrer Llibertat, 11" />
+		<tag k='addr:postcode' v='43717' />
+		<tag k='addr:city' v="Bisbal del Penedès, la" />
+		<tag k='contact:phone' v='+34977688550' />
+		<tag k='source:date' v='03/11/2020 08:00:57 AM +0000' />
+	</node>
+</osm>

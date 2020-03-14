@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.00897' lon='2.02937'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622407' />
+		<tag k='name' v="Farmàcia Viver Fabregó. Francesc Xavier" />
+		<tag k='addr:full' v="carrer Major, 35" />
+		<tag k='addr:postcode' v='08513' />
+		<tag k='addr:city' v="Prats de Lluçanès" />
+		<tag k='contact:phone' v='+34938560287' />
+		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />
+	</node>
+</osm>

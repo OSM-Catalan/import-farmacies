@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.164336175' lon='0.893196951'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621789' />
+		<tag k='name' v="Farmàcia González Blanco, Glòria" />
+		<tag k='addr:full' v="carrer Tarragona, 19" />
+		<tag k='addr:postcode' v='25620' />
+		<tag k='addr:city' v="Tremp" />
+		<tag k='source:date' v='03/11/2020 07:59:07 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.16676621' lon='0.89599995'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624167' />
+		<tag k='name' v="Farmàcia Enjuanes Brualla, Montserrat" />
+		<tag k='addr:full' v="carrer Peresall, 55" />
+		<tag k='addr:postcode' v='25620' />
+		<tag k='addr:city' v="Tremp" />
+		<tag k='contact:phone' v='+34973650138' />
+		<tag k='source:date' v='03/11/2020 07:59:07 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.166913734' lon='0.897089663'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624168' />
+		<tag k='name' v="Farmàcia Martínez Borrás, Núria" />
+		<tag k='addr:full' v="carrer Soldevila, 11" />
+		<tag k='addr:postcode' v='25620' />
+		<tag k='addr:city' v="Tremp" />
+		<tag k='contact:phone' v='+34973650032' />
+		<tag k='source:date' v='03/11/2020 07:59:07 AM +0000' />
+	</node>
+</osm>

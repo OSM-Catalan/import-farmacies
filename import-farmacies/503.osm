@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.117994014' lon='2.457280915'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623639' />
+		<tag k='name' v="Farmàcia Corominas Sacrest, Marc" />
+		<tag k='addr:full' v="carretera D'Olot, 13" />
+		<tag k='addr:postcode' v='17176' />
+		<tag k='addr:city' v="Vall d'en Bas, la" />
+		<tag k='contact:phone' v='+34972690042' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.148437272' lon='2.460889079'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623846' />
+		<tag k='name' v="Farmàcia Prat Vila, M. - Matilló Prat, G." />
+		<tag k='addr:full' v="carretera De Santa Coloma, 25" />
+		<tag k='addr:postcode' v='17178' />
+		<tag k='addr:city' v="Preses, les" />
+		<tag k='contact:phone' v='+34972693308' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.074876481' lon='2.507968202'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623662' />
+		<tag k='name' v="Farmàcia Tarradas Pou, Anna" />
+		<tag k='addr:full' v="carrer Horta, 5" />
+		<tag k='addr:postcode' v='17174' />
+		<tag k='addr:city' v="Sant Feliu de Pallerols" />
+		<tag k='contact:phone' v='+34972444132' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+</osm>

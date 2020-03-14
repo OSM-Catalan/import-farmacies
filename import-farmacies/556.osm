@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.990585966' lon='2.756291124'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623833' />
+		<tag k='name' v="Farmàcia Ibáñez Aviñó, Laura" />
+		<tag k='addr:full' v="avinguda  Girona, 91" />
+		<tag k='addr:postcode' v='17150' />
+		<tag k='addr:city' v="Sant Gregori" />
+		<tag k='contact:phone' v='+34972428205' />
+		<tag k='source:date' v='03/11/2020 07:59:38 AM +0000' />
+	</node>
+</osm>

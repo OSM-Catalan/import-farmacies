@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.373801552' lon='0.548318432'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624084' />
+		<tag k='name' v="Farmàcia Blaco Gonzalez, Marina" />
+		<tag k='addr:full' v="carrer Santo Domingo, 9" />
+		<tag k='addr:postcode' v='25186' />
+		<tag k='addr:city' v="Llardecans" />
+		<tag k='contact:phone' v='+34973130455' />
+		<tag k='source:date' v='03/11/2020 08:01:17 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.364541641' lon='0.50536371'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624329' />
+		<tag k='name' v="Farmàcia Masana Pavón, Marta" />
+		<tag k='addr:full' v="carrer Barceloneta, 9" />
+		<tag k='addr:postcode' v='25179' />
+		<tag k='addr:city' v="Maials" />
+		<tag k='contact:phone' v='+34973130511' />
+		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
+	</node>
+</osm>

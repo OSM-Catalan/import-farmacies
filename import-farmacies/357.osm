@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.234921953' lon='1.80395842'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624128' />
+		<tag k='name' v="Farmàcia Torrents Lorca, M. del Carmen" />
+		<tag k='addr:full' v="carrer S.Mus,  S/N" />
+		<tag k='addr:postcode' v='08870' />
+		<tag k='addr:city' v="Sitges" />
+		<tag k='contact:phone' v='+34938943548' />
+		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.244906011' lon='1.802853767'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623301' />
+		<tag k='name' v="Farmàcia Miret Solé, M. Carme" />
+		<tag k='addr:full' v="carretera  Sant Pere De Ribes,  38-42" />
+		<tag k='addr:postcode' v='08870' />
+		<tag k='addr:city' v="Sitges" />
+		<tag k='contact:phone' v='+34938944911' />
+		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.237449091' lon='1.808385709'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622620' />
+		<tag k='name' v="Farmàcia Font Soler, Ma. Pilar" />
+		<tag k='addr:full' v="carrer Sant Francesc, 40" />
+		<tag k='addr:postcode' v='08870' />
+		<tag k='addr:city' v="Sitges" />
+		<tag k='contact:phone' v='+34938110033' />
+		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.220289029' lon='1.720781398'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624725' />
+		<tag k='name' v="Farmàcia Perales Agustín, Sara" />
+		<tag k='addr:full' v="avinguda Cubelles, 41" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938150604' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.229912434' lon='1.744627529'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623512' />
+		<tag k='name' v="Farmàcia Pascual Vidal, J. - Pascual Albareda, A." />
+		<tag k='addr:full' v="avinguda Catalunya, 10" />
+		<tag k='addr:postcode' v='08810' />
+		<tag k='addr:city' v="Sant Pere de Ribes" />
+		<tag k='contact:phone' v='+34938932487' />
+		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.219431132' lon='1.724908503'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621592' />
+		<tag k='name' v="Farmàcia Pérez Bravo, Guadalupe" />
+		<tag k='addr:full' v="rambla Salvador Sama,  95-97" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938106857' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.220042995' lon='1.728464477'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621945' />
+		<tag k='name' v="Farmàcia Farré Espar, Josep" />
+		<tag k='addr:full' v="carrer Llibertat, 93" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938532729' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.223085953' lon='1.726894486'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622658' />
+		<tag k='name' v="Farmàcia Pedraza Ferrer, Ferran" />
+		<tag k='addr:full' v="plaça  Soler I Gustems, 20" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938930096' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.236015014' lon='1.799263123'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623347' />
+		<tag k='name' v="Farmàcia Gómez Peña, Rosa Antònia" />
+		<tag k='addr:full' v="passeig Vilanova, 72" />
+		<tag k='addr:postcode' v='08870' />
+		<tag k='addr:city' v="Sitges" />
+		<tag k='contact:phone' v='+34938113801' />
+		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.22610683' lon='1.724292192'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622661' />
+		<tag k='name' v="Farmàcia Soler Miret, Maria Victòria" />
+		<tag k='addr:full' v="carrer Sant Gregori, 21" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938930030' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.215965604' lon='1.724827308'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621615' />
+		<tag k='name' v="Farmàcia Domínguez Cedazo, Maria" />
+		<tag k='addr:full' v="rambla Lluís Companys, 8" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938100978' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.222287745' lon='1.719149119'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622660' />
+		<tag k='name' v="Farmàcia Masip Guasch, Albert i Jordi" />
+		<tag k='addr:full' v="carrer Josep Coroleu, 79" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938156337' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.22381219' lon='1.720385605'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3691236' />
+		<tag k='name' v="Farmàcia Font Sanahuja, Salvador" />
+		<tag k='addr:full' v="carrer Jardí, 65" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.221088893' lon='1.715997369'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623918' />
+		<tag k='name' v="Farmàcia Mateu Peña, Carles Josep" />
+		<tag k='addr:full' v="avinguda Francesc Macia, 122" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938151669' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.219904983' lon='1.722852223'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623432' />
+		<tag k='name' v="Farmàcia López Cañada, Mireia" />
+		<tag k='addr:full' v="avinguda Jaume Balmes, 26" />
+		<tag k='addr:postcode' v='08800' />
+		<tag k='addr:city' v="Vilanova i la Geltrú" />
+		<tag k='contact:phone' v='+34938105528' />
+		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
+	</node>
+</osm>

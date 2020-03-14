@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.065770596' lon='1.061987181'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624490' />
+		<tag k='name' v="Farmàcia Mallafré Ribé, Maria Dolors" />
+		<tag k='addr:full' v="carrer Consolat De Mar, 60" />
+		<tag k='addr:postcode' v='43850' />
+		<tag k='addr:city' v="Cambrils" />
+		<tag k='contact:phone' v='+34977360270' />
+		<tag k='source:date' v='03/11/2020 08:01:05 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.066795402' lon='1.068209952'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='7696508' />
+		<tag k='name' v="Farmàcia Díaz Martí, Maria" />
+		<tag k='addr:full' v="avinguda Diputació, 12" />
+		<tag k='addr:postcode' v='43850' />
+		<tag k='addr:city' v="Cambrils" />
+		<tag k='source:date' v='03/11/2020 08:01:05 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.065863383' lon='1.062700776'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624799' />
+		<tag k='name' v="Farmàcia Cañas Tejedor, E. - Vidal Cañas, N." />
+		<tag k='addr:full' v="carrer Consolat De Mar, 70" />
+		<tag k='addr:postcode' v='43850' />
+		<tag k='addr:city' v="Cambrils" />
+		<tag k='contact:phone' v='+34977792712' />
+		<tag k='source:date' v='03/11/2020 08:01:05 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.064285681' lon='1.048916051'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623353' />
+		<tag k='name' v="Farmàcia Hernández Marimon, Blanca" />
+		<tag k='addr:full' v="carrer Golf De Sant Jordi, 2" />
+		<tag k='addr:postcode' v='43850' />
+		<tag k='addr:city' v="Cambrils" />
+		<tag k='source:date' v='03/11/2020 08:01:05 AM +0000' />
+	</node>
+</osm>

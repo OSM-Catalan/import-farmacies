@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.114096115' lon='2.762923115'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623848' />
+		<tag k='name' v="Farmàcia Gratacós Agullo, Joan" />
+		<tag k='addr:full' v="carrer Mossen Constans, 180" />
+		<tag k='addr:postcode' v='17820' />
+		<tag k='addr:city' v="Banyoles" />
+		<tag k='contact:phone' v='+34972572433' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.118665783' lon='2.765560446'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623452' />
+		<tag k='name' v="Farmàcia Omedes Masgrau, Jordi" />
+		<tag k='addr:full' v="carrer Mercadal, 6" />
+		<tag k='addr:postcode' v='17820' />
+		<tag k='addr:city' v="Banyoles" />
+		<tag k='contact:phone' v='+34972570146' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.112791986' lon='2.773072691'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621787' />
+		<tag k='name' v="Farmàcia Fàbrega Dilme, Maria" />
+		<tag k='addr:full' v="avinguda Països Catalans, 247" />
+		<tag k='addr:postcode' v='17820' />
+		<tag k='addr:city' v="Banyoles" />
+		<tag k='contact:phone' v='+34972583801' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.097745778' lon='2.76633048'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623942' />
+		<tag k='name' v="Farmàcia Frigole Oliver, M. Carme" />
+		<tag k='addr:full' v="carretera  Camós, 55" />
+		<tag k='addr:postcode' v='17834' />
+		<tag k='addr:city' v="Camós" />
+		<tag k='contact:phone' v='+34972574224' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='42.124916773' lon='2.76315722'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623451' />
+		<tag k='name' v="Farmàcia Ballo Brotons, Núria" />
+		<tag k='addr:full' v="carrer Llibertat,  70-74" />
+		<tag k='addr:postcode' v='17820' />
+		<tag k='addr:city' v="Banyoles" />
+		<tag k='contact:phone' v='+34972576308' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='42.108005543' lon='2.779552049'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623862' />
+		<tag k='name' v="Farmàcia Torres Gonzalez, Josep" />
+		<tag k='addr:full' v="carrer Sant Andreu, 20" />
+		<tag k='addr:postcode' v='17834' />
+		<tag k='addr:city' v="Porqueres" />
+		<tag k='contact:phone' v='+34972572799' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='42.117976209' lon='2.766153948'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623449' />
+		<tag k='name' v="Farmàcia Alsius Suñer, Esteve" />
+		<tag k='addr:full' v="carrer Girona, 7" />
+		<tag k='addr:postcode' v='17820' />
+		<tag k='addr:city' v="Banyoles" />
+		<tag k='contact:phone' v='+34972570079' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='42.114403152' lon='2.770049219'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623742' />
+		<tag k='name' v="Farmàcia Alsius Suñer, Rosa" />
+		<tag k='addr:full' v="avinguda Països Catalans, 171" />
+		<tag k='addr:postcode' v='17820' />
+		<tag k='addr:city' v="Banyoles" />
+		<tag k='contact:phone' v='+34972570595' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='42.118101677' lon='2.76418624'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623450' />
+		<tag k='name' v="Farmàcia Masgrau d'Ameller, A / Masgrau Simó, A" />
+		<tag k='addr:full' v="carrer Porta Turers, 8" />
+		<tag k='addr:postcode' v='17820' />
+		<tag k='addr:city' v="Banyoles" />
+		<tag k='contact:phone' v='+34972570129' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='42.142868521' lon='2.790656398'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623952' />
+		<tag k='name' v="Farmàcia Ruhi Brunso, Natàlia" />
+		<tag k='addr:full' v="carretera Figueres, 25" />
+		<tag k='addr:postcode' v='17833' />
+		<tag k='addr:city' v="Fontcoberta" />
+		<tag k='contact:phone' v='+34972573215' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='42.121769934' lon='2.774577692'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623955' />
+		<tag k='name' v="Farmàcia Llaveria Escatllar, Eva" />
+		<tag k='addr:full' v="carrer Figueres, 41" />
+		<tag k='addr:postcode' v='17820' />
+		<tag k='addr:city' v="Banyoles" />
+		<tag k='contact:phone' v='+34972582735' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='42.088280331' lon='2.815649321'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623666' />
+		<tag k='name' v="Farmàcia Busquet Vila, M. Carme" />
+		<tag k='addr:full' v="avinguda Girona, 8" />
+		<tag k='addr:postcode' v='17844' />
+		<tag k='addr:city' v="Cornellà del Terri" />
+		<tag k='contact:phone' v='+34972594011' />
+		<tag k='source:date' v='03/11/2020 07:59:35 AM +0000' />
+	</node>
+</osm>

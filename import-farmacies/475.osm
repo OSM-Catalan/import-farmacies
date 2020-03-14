@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.31359465' lon='2.367270947'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623464' />
+		<tag k='name' v="Farmàcia Pujol Suriñach, Martí" />
+		<tag k='addr:full' v="carrer Valencia, 44" />
+		<tag k='addr:postcode' v='17867' />
+		<tag k='addr:city' v="Camprodon" />
+		<tag k='contact:phone' v='+34972740392' />
+		<tag k='source:date' v='03/11/2020 07:59:34 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.320297438' lon='2.341386755'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624037' />
+		<tag k='name' v="Farmàcia Vidal Prujà, Lídia" />
+		<tag k='addr:full' v=" ca catalunya, 25" />
+		<tag k='addr:postcode' v='17869' />
+		<tag k='addr:city' v="Llanars" />
+		<tag k='contact:phone' v='+34972130417' />
+		<tag k='source:date' v='03/11/2020 07:59:34 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.261420964' lon='2.365432584'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623864' />
+		<tag k='name' v="Farmàcia Travería Padros, T. / Sala Travería, A." />
+		<tag k='addr:full' v="carrer Guardia, 4" />
+		<tag k='addr:postcode' v='17864' />
+		<tag k='addr:city' v="Sant Pau de Segúries" />
+		<tag k='contact:phone' v='+34972747119' />
+		<tag k='source:date' v='03/11/2020 07:59:33 AM +0000' />
+	</node>
+</osm>

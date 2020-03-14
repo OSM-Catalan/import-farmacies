@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.373071431' lon='1.163957569'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624602' />
+		<tag k='name' v="Farmàcia Felip Sànchez, Jaume" />
+		<tag k='addr:full' v="avinguda General Prim, 6" />
+		<tag k='addr:postcode' v='43400' />
+		<tag k='addr:city' v="Montblanc" />
+		<tag k='contact:phone' v='+34977860167' />
+		<tag k='source:date' v='03/11/2020 08:00:53 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.396034729' lon='1.103770663'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624498' />
+		<tag k='name' v="Farmàcia Rovira Minguella, David" />
+		<tag k='addr:full' v="passatge Canyelles, 15" />
+		<tag k='addr:postcode' v='43440' />
+		<tag k='addr:city' v="Espluga de Francolí, l'" />
+		<tag k='contact:phone' v='+34977870031' />
+		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.374643395' lon='1.164851197'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624603' />
+		<tag k='name' v="Farmàcia Sànchez Farré, Anna M." />
+		<tag k='addr:full' v="carrer Batlle Dionís Mestre, 1" />
+		<tag k='addr:postcode' v='43400' />
+		<tag k='addr:city' v="Montblanc" />
+		<tag k='contact:phone' v='+34977860020' />
+		<tag k='source:date' v='03/11/2020 08:00:53 AM +0000' />
+	</node>
+</osm>

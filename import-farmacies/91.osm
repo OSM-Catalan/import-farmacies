@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.736818683' lon='0.582883915'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624049' />
+		<tag k='name' v="Farmàcia Sapiens Ris, J - Lladonosa Sapiens, L." />
+		<tag k='addr:full' v="carrer Del Pati, 4" />
+		<tag k='addr:postcode' v='25125' />
+		<tag k='addr:city' v="Alguaire" />
+		<tag k='contact:phone' v='+34973757226' />
+		<tag k='source:date' v='03/11/2020 08:01:21 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.694208202' lon='0.595669782'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624311' />
+		<tag k='name' v="Farmàcia Revés Feixa, Clara" />
+		<tag k='addr:full' v="avinguda Guillem De Roselló,  s/n" />
+		<tag k='addr:postcode' v='25124' />
+		<tag k='addr:city' v="Rosselló" />
+		<tag k='contact:phone' v='+34973730386' />
+		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
+	</node>
+</osm>

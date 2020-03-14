@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.941258779' lon='2.022543782'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622990' />
+		<tag k='name' v="Farmàcia Acosta Lorenzo, Maria Dolores" />
+		<tag k='addr:full' v="carretera  De Manresa, 1" />
+		<tag k='addr:postcode' v='08274' />
+		<tag k='addr:city' v="Sant Feliu Sasserra" />
+		<tag k='contact:phone' v='+34938819006' />
+		<tag k='source:date' v='03/11/2020 07:59:22 AM +0000' />
+	</node>
+</osm>

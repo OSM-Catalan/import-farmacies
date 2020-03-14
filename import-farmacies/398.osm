@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.244065927' lon='1.975280367'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621639' />
+		<tag k='name' v="Farmàcia Anfruns Espuña, Teresa" />
+		<tag k='addr:full' v="carrer Porxos, 22" />
+		<tag k='addr:postcode' v='08696' />
+		<tag k='addr:city' v="Pobla de Lillet, la" />
+		<tag k='contact:phone' v='+34938236110' />
+		<tag k='source:date' v='03/11/2020 07:59:19 AM +0000' />
+	</node>
+</osm>

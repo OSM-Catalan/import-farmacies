@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.652536188' lon='0.390548557'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624078' />
+		<tag k='name' v="Farmàcia Gorrochategui Watson, Hermogenes" />
+		<tag k='addr:full' v="carrer De L'Est, 1" />
+		<tag k='addr:postcode' v='25112' />
+		<tag k='addr:city' v="Gimenells i el Pla de la Font" />
+		<tag k='contact:phone' v='+34973748083' />
+		<tag k='source:date' v='03/11/2020 08:01:15 AM +0000' />
+	</node>
+</osm>

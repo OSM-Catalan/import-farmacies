@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.705983199' lon='1.542933749'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622991' />
+		<tag k='name' v="Farmàcia Giménez López, Gabriel" />
+		<tag k='addr:full' v="plaça  De La Sardana, 10" />
+		<tag k='addr:postcode' v='08281' />
+		<tag k='addr:city' v="Prats de Rei, els" />
+		<tag k='contact:phone' v='+34938698869' />
+		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.731657992' lon='1.513940087'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622100' />
+		<tag k='name' v="Farmàcia Font Sabala, Meritxell" />
+		<tag k='addr:full' v="passatge Santa Calamanda, 7" />
+		<tag k='addr:postcode' v='08280' />
+		<tag k='addr:city' v="Calaf" />
+		<tag k='contact:phone' v='+34938698506' />
+		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
+	</node>
+</osm>

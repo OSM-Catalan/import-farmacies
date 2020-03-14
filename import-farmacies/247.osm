@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.784742379' lon='1.289126019'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624079' />
+		<tag k='name' v="Farmàcia Pujol, Josep i Jordi" />
+		<tag k='addr:full' v="carrer Fluvia, 16" />
+		<tag k='addr:postcode' v='25210' />
+		<tag k='addr:city' v="Guissona" />
+		<tag k='contact:phone' v='+34973550066' />
+		<tag k='source:date' v='03/11/2020 08:01:22 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.783228076' lon='1.290322027'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621444' />
+		<tag k='name' v="Farmàcia Cinca Codina, Rosa" />
+		<tag k='addr:full' v="avinguda Generalitat, 45" />
+		<tag k='addr:postcode' v='25210' />
+		<tag k='addr:city' v="Guissona" />
+		<tag k='contact:phone' v='+34973552506' />
+		<tag k='source:date' v='03/11/2020 08:01:22 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.568631224' lon='0.523757999'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621448' />
+		<tag k='name' v="Farmàcia Queralt Montañola, Rosa" />
+		<tag k='addr:full' v="passatge De Ronda, 42" />
+		<tag k='addr:postcode' v='25180' />
+		<tag k='addr:city' v="Alcarràs" />
+		<tag k='contact:phone' v='+34973784001' />
+		<tag k='source:date' v='03/11/2020 08:01:21 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.560083629' lon='0.589158328'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624463' />
+		<tag k='name' v="Farmàcia Céspedes Aleu, Mònica" />
+		<tag k='addr:full' v="carrer De La Creu, 2" />
+		<tag k='addr:postcode' v='25172' />
+		<tag k='addr:city' v="Montoliu de Lleida" />
+		<tag k='contact:phone' v='+34973720676' />
+		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.533471995' lon='0.488147712'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624308' />
+		<tag k='name' v="Farmàcia Bonet Porqueras, Isabel" />
+		<tag k='addr:full' v="carrer Sindicat, 36" />
+		<tag k='addr:postcode' v='25181' />
+		<tag k='addr:city' v="Soses" />
+		<tag k='contact:phone' v='+34973107484' />
+		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.533109823' lon='0.514406625'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624305' />
+		<tag k='name' v="Farmàcia Roure Campos, Yolanda" />
+		<tag k='addr:full' v="carrer Vinyes De Dalt, 5" />
+		<tag k='addr:postcode' v='25170' />
+		<tag k='addr:city' v="Torres de Segre" />
+		<tag k='contact:phone' v='+34973796084' />
+		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.563018199' lon='0.525058298'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624047' />
+		<tag k='name' v="Farmàcia Queralt Montañola, Montserrat" />
+		<tag k='addr:full' v="plaça  Major, 3" />
+		<tag k='addr:postcode' v='25180' />
+		<tag k='addr:city' v="Alcarràs" />
+		<tag k='contact:phone' v='+34973790022' />
+		<tag k='source:date' v='03/11/2020 08:01:21 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.56268483' lon='0.521380752'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621783' />
+		<tag k='name' v="Farmàcia Gómez Adrian, Cristina" />
+		<tag k='addr:full' v="carrer Major, 190" />
+		<tag k='addr:postcode' v='25180' />
+		<tag k='addr:city' v="Alcarràs" />
+		<tag k='source:date' v='03/11/2020 08:01:21 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.557214135' lon='0.56693721'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624338' />
+		<tag k='name' v="Farmàcia Blasco Vila, Eleuterio" />
+		<tag k='addr:full' v="carrer Sant Pere, 5" />
+		<tag k='addr:postcode' v='25173' />
+		<tag k='addr:city' v="Sudanell" />
+		<tag k='contact:phone' v='+34973258072' />
+		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
+	</node>
+</osm>

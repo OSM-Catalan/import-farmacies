@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.976760429' lon='2.30505624'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623004' />
+		<tag k='name' v="Farmàcia Hernandez Vallejo, Mikel" />
+		<tag k='addr:full' v="carrer Jacint Verdaguer, 1" />
+		<tag k='addr:postcode' v='08510' />
+		<tag k='addr:city' v="Roda de Ter" />
+		<tag k='contact:phone' v='+34938540553' />
+		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.923156152' lon='2.324102014'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623907' />
+		<tag k='name' v="Farmàcia Verdaguer Lorenzo, Alfred" />
+		<tag k='addr:full' v="carrer Núria, 11" />
+		<tag k='addr:postcode' v='08504' />
+		<tag k='addr:city' v="Sant Julià de Vilatorta" />
+		<tag k='contact:phone' v='+34938887054' />
+		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.980882396' lon='2.3091488'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622411' />
+		<tag k='name' v="Farmàcia Torrent Cardelus, M - Feliu Torrent, H" />
+		<tag k='addr:full' v="plaça  Major, 7" />
+		<tag k='addr:postcode' v='08510' />
+		<tag k='addr:city' v="Roda de Ter" />
+		<tag k='contact:phone' v='+34938540058' />
+		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.939363016' lon='2.315959488'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624742' />
+		<tag k='name' v="Farmàcia Vila Fontarnau, Maria" />
+		<tag k='addr:full' v="avinguda Poetes Catalans, 27" />
+		<tag k='addr:postcode' v='08519' />
+		<tag k='addr:city' v="Folgueroles" />
+		<tag k='contact:phone' v='+34938887085' />
+		<tag k='source:date' v='03/11/2020 07:59:18 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.925913923' lon='2.283719323'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624564' />
+		<tag k='name' v="Farmàcia Soler Canudas, M. Dolores" />
+		<tag k='addr:full' v="plaça  Vella, 4" />
+		<tag k='addr:postcode' v='08506' />
+		<tag k='addr:city' v="Calldetenes" />
+		<tag k='contact:phone' v='+34938861617' />
+		<tag k='source:date' v='03/11/2020 07:59:18 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.899996244' lon='2.283063945'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624558' />
+		<tag k='name' v="Farmàcia Colomer Llach, M. Mercedes" />
+		<tag k='addr:full' v="plaça  Nova, 1" />
+		<tag k='addr:postcode' v='08507' />
+		<tag k='addr:city' v="Santa Eugènia de Berga" />
+		<tag k='contact:phone' v='+34938855904' />
+		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />
+	</node>
+</osm>

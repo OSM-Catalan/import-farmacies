@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.053515643' lon='0.438163565'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624597' />
+		<tag k='name' v="Farmàcia Ruiz Félez, Carlos Pablo" />
+		<tag k='addr:full' v="carrer Major, 15" />
+		<tag k='addr:postcode' v='43780' />
+		<tag k='addr:city' v="Gandesa" />
+		<tag k='contact:phone' v='+34977420069' />
+		<tag k='source:date' v='03/11/2020 07:59:56 AM +0000' />
+	</node>
+</osm>

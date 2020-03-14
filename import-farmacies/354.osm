@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.445405786' lon='1.732122515'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622980' />
+		<tag k='name' v="Farmàcia Bosch Gibert, Montserrat" />
+		<tag k='addr:full' v="carrer Segimon Tomeu,  1BIS" />
+		<tag k='addr:postcode' v='08775' />
+		<tag k='addr:city' v="Torrelavit" />
+		<tag k='contact:phone' v='+34938995827' />
+		<tag k='source:date' v='03/11/2020 07:59:02 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.520799356' lon='1.749024078'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622402' />
+		<tag k='name' v="Farmàcia Recasens Isart, Miquel" />
+		<tag k='addr:full' v="carrer Sant Cristofol, 3" />
+		<tag k='addr:postcode' v='08784' />
+		<tag k='addr:city' v="Piera" />
+		<tag k='contact:phone' v='+34937788232' />
+		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.450967241' lon='1.704021372'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622536' />
+		<tag k='name' v="Farmàcia Bonfill Planes, Clara" />
+		<tag k='addr:full' v="carrer Montserrat,  56-58" />
+		<tag k='addr:postcode' v='08776' />
+		<tag k='addr:city' v="Sant Pere de Riudebitlles" />
+		<tag k='contact:phone' v='+34938995276' />
+		<tag k='source:date' v='03/11/2020 07:59:04 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.51941488' lon='1.708771339'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623728' />
+		<tag k='name' v="Farmàcia Font Sanahuja, C / Puiggros Font, A" />
+		<tag k='addr:full' v="carrer Major, 84" />
+		<tag k='addr:postcode' v='08785' />
+		<tag k='addr:city' v="Vallbona d'Anoia" />
+		<tag k='contact:phone' v='+34937718104' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.522916815' lon='1.752714405'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623906' />
+		<tag k='name' v="Farmàcia Vidal Alemany, Salvador" />
+		<tag k='addr:full' v="carrer Piereta, 31" />
+		<tag k='addr:postcode' v='08784' />
+		<tag k='addr:city' v="Piera" />
+		<tag k='contact:phone' v='+34937788360' />
+		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.520677482' lon='1.752186687'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621743' />
+		<tag k='name' v="Farmàcia Busquets Serret, Neus" />
+		<tag k='addr:full' v="carrer Llobregat, 20" />
+		<tag k='addr:postcode' v='08784' />
+		<tag k='addr:city' v="Piera" />
+		<tag k='contact:phone' v='+34937788613' />
+		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.521745093' lon='1.755064983'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623311' />
+		<tag k='name' v="Farmàcia Rigol Parera, Santiago" />
+		<tag k='addr:full' v="carrer Balmes, 37" />
+		<tag k='addr:postcode' v='08784' />
+		<tag k='addr:city' v="Piera" />
+		<tag k='contact:phone' v='+34937788603' />
+		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.505350347' lon='1.77852224'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621250' />
+		<tag k='name' v="Farmàcia Bertolin Parra, Núria" />
+		<tag k='addr:full' v="avinguda Corral Del Mas, 17" />
+		<tag k='addr:postcode' v='08784' />
+		<tag k='addr:city' v="Piera" />
+		<tag k='contact:phone' v='+34937788604' />
+		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.524064838' lon='1.749820304'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621619' />
+		<tag k='name' v="Farmàcia Bausili López-Sáez, Joaquin" />
+		<tag k='addr:full' v="carretera D'Igualada, 58" />
+		<tag k='addr:postcode' v='08784' />
+		<tag k='addr:city' v="Piera" />
+		<tag k='contact:phone' v='+34937789275' />
+		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
+	</node>
+</osm>

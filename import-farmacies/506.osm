@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.878787652' lon='2.508782444'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623644' />
+		<tag k='name' v="Farmàcia Broto Soucheiron, José Ramon" />
+		<tag k='addr:full' v="carrer Doctor Raventos, 1" />
+		<tag k='addr:postcode' v='17403' />
+		<tag k='addr:city' v="Sant Hilari Sacalm" />
+		<tag k='contact:phone' v='+34972868098' />
+		<tag k='source:date' v='03/11/2020 07:59:30 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.816730521' lon='2.51122707'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621580' />
+		<tag k='name' v="Farmàcia Soriano Barrufet, Abel" />
+		<tag k='addr:full' v="carrer Mossèn Segimon Folgueroles, 45" />
+		<tag k='addr:postcode' v='17401' />
+		<tag k='addr:city' v="Arbúcies" />
+		<tag k='contact:phone' v='+34972860444' />
+		<tag k='source:date' v='03/11/2020 07:59:33 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.815779444' lon='2.515666132'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623446' />
+		<tag k='name' v="Farmàcia Navarro Maldonado, M. Elena" />
+		<tag k='addr:full' v="carrer Camprodon, 22" />
+		<tag k='addr:postcode' v='17401' />
+		<tag k='addr:city' v="Arbúcies" />
+		<tag k='contact:phone' v='+34972860906' />
+		<tag k='source:date' v='03/11/2020 07:59:33 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.876495675' lon='2.513271352'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623840' />
+		<tag k='name' v="Farmàcia Muntalt Brugués, Francesc Xavier" />
+		<tag k='addr:full' v="carrer Busquets I Punset, 43" />
+		<tag k='addr:postcode' v='17403' />
+		<tag k='addr:city' v="Sant Hilari Sacalm" />
+		<tag k='contact:phone' v='+34972869049' />
+		<tag k='source:date' v='03/11/2020 07:59:30 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.817283395' lon='2.515445903'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621601' />
+		<tag k='name' v="Farmàcia González-Huix Espasa, Sergi" />
+		<tag k='addr:full' v="plaça  Doctor Turon, 19" />
+		<tag k='addr:postcode' v='17401' />
+		<tag k='addr:city' v="Arbúcies" />
+		<tag k='contact:phone' v='+34972162181' />
+		<tag k='source:date' v='03/11/2020 07:59:33 AM +0000' />
+	</node>
+</osm>

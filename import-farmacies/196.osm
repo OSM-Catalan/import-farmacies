@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.677678738' lon='1.015925724'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624061' />
+		<tag k='name' v="Farmàcia Huguet Mas, Marta" />
+		<tag k='addr:full' v="carrer Ramon I Cajal, 21" />
+		<tag k='addr:postcode' v='25262' />
+		<tag k='addr:city' v="Barbens" />
+		<tag k='contact:phone' v='+34973580376' />
+		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.648268877' lon='0.971149627'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624342' />
+		<tag k='name' v="Farmàcia Caus Esque, Josep M." />
+		<tag k='addr:full' v="plaça  Major, 1" />
+		<tag k='addr:postcode' v='25265' />
+		<tag k='addr:city' v="Castellnou de Seana" />
+		<tag k='contact:phone' v='+34973321259' />
+		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.613781493' lon='0.965024301'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624170' />
+		<tag k='name' v="Farmàcia Trull Borras, Joan" />
+		<tag k='addr:full' v="carrer Major, 71" />
+		<tag k='addr:postcode' v='25264' />
+		<tag k='addr:city' v="Vilanova de Bellpuig" />
+		<tag k='contact:phone' v='+34973321136' />
+		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.625412552' lon='1.010427527'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624064' />
+		<tag k='name' v="Farmàcia Robinat Rivadulla, Mercè i Joan" />
+		<tag k='addr:full' v="carrer Sant Roc, 16" />
+		<tag k='addr:postcode' v='25250' />
+		<tag k='addr:city' v="Bellpuig" />
+		<tag k='contact:phone' v='+34973320087' />
+		<tag k='source:date' v='03/11/2020 08:01:15 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.626244618' lon='1.009399972'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624065' />
+		<tag k='name' v="Farmàcia Arque Barrios, Josep Ramon" />
+		<tag k='addr:full' v="plaça  Ramon Folch, 33" />
+		<tag k='addr:postcode' v='25250' />
+		<tag k='addr:city' v="Bellpuig" />
+		<tag k='contact:phone' v='+34973320269' />
+		<tag k='source:date' v='03/11/2020 08:01:15 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.682370057' lon='0.986303209'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624080' />
+		<tag k='name' v="Farmàcia Graus Robinat, Esther" />
+		<tag k='addr:full' v="passatge Rodes, 6" />
+		<tag k='addr:postcode' v='25260' />
+		<tag k='addr:city' v="Ivars d'Urgell" />
+		<tag k='contact:phone' v='+34973580004' />
+		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.518579319' lon='0.871159094'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624068' />
+		<tag k='name' v="Farmàcia Riu Pelegrí, Ramon" />
+		<tag k='addr:full' v="carrer Raval Del Carme, 13" />
+		<tag k='addr:postcode' v='25400' />
+		<tag k='addr:city' v="Borges Blanques, les" />
+		<tag k='contact:phone' v='+34977142431' />
+		<tag k='source:date' v='03/11/2020 08:01:28 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.540934651' lon='0.925419508'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624054' />
+		<tag k='name' v="Farmàcia Naves Baget, Mireia" />
+		<tag k='addr:full' v="carrer Portals, 3" />
+		<tag k='addr:postcode' v='25140' />
+		<tag k='addr:city' v="Arbeca" />
+		<tag k='contact:phone' v='+34973170419' />
+		<tag k='source:date' v='03/11/2020 08:01:28 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.520767269' lon='0.86771101'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624069' />
+		<tag k='name' v="Farmàcia Niubó Aragues, M. Eugènia" />
+		<tag k='addr:full' v="plaça  Constitució, 3" />
+		<tag k='addr:postcode' v='25400' />
+		<tag k='addr:city' v="Borges Blanques, les" />
+		<tag k='contact:phone' v='+34973142068' />
+		<tag k='source:date' v='03/11/2020 08:01:28 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.91042172' lon='0.261453172'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623216' />
+		<tag k='name' v="Farmàcia Palomar Silvestre, M. Josep" />
+		<tag k='addr:full' v="carrer Pau Casals, 6" />
+		<tag k='addr:postcode' v='43597' />
+		<tag k='addr:city' v="Arnes" />
+		<tag k='contact:phone' v='+34977435389' />
+		<tag k='source:date' v='03/11/2020 07:59:57 AM +0000' />
+	</node>
+</osm>

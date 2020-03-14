@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.478495337' lon='1.982611211'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623331' />
+		<tag k='name' v="Farmàcia Gracia Franco, Anna" />
+		<tag k='addr:full' v="avinguda Sant Vicenç, 3" />
+		<tag k='addr:postcode' v='08755' />
+		<tag k='addr:city' v="Castellbisbal" />
+		<tag k='contact:phone' v='+34937723140' />
+		<tag k='source:date' v='03/11/2020 07:57:34 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.49581308' lon='2.034105583'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624095' />
+		<tag k='name' v="Farmàcia Montserrat Olivella, Antoni" />
+		<tag k='addr:full' v="carrer Sant Jordi, 25" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936990291' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.496966111' lon='2.040839433'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621782' />
+		<tag k='name' v="Farmàcia Blanca Pachón, Elisa" />
+		<tag k='addr:full' v="carrer Pastora, 28" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936995908' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.474861331' lon='1.980419602'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622234' />
+		<tag k='name' v="Farmàcia Escudero Martinez, P/Escudero Portera, M" />
+		<tag k='addr:full' v="plaça  De L'Esglesia, 8" />
+		<tag k='addr:postcode' v='08755' />
+		<tag k='addr:city' v="Castellbisbal" />
+		<tag k='contact:phone' v='+34937720134' />
+		<tag k='source:date' v='03/11/2020 07:57:34 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.500569142' lon='2.033077737'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623594' />
+		<tag k='name' v="Farmàcia Cases Ruiz, Carlos" />
+		<tag k='addr:full' v="carretera Sabadell, 95" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936995012' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.483716054' lon='2.031550307'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623496' />
+		<tag k='name' v="Farmàcia Lozano Caballero, Marta" />
+		<tag k='addr:full' v="passatge Les Torres, 2" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936991072' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.524652171' lon='2.036444634'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621757' />
+		<tag k='name' v="Farmàcia Ferran Cabeza, Clara" />
+		<tag k='addr:full' v="carrer Del Baix Riera, 49" />
+		<tag k='addr:postcode' v='08192' />
+		<tag k='addr:city' v="Sant Quirze del Vallès" />
+		<tag k='contact:phone' v='+34937310851' />
+		<tag k='source:date' v='03/11/2020 07:57:24 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.486877682' lon='2.038360248'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623116' />
+		<tag k='name' v="Farmàcia Batllori Calbó, Xavier" />
+		<tag k='addr:full' v="carrer Milà I Fontanals, 5" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936990388' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.490288614' lon='2.031221218'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622413' />
+		<tag k='name' v="Farmàcia Batallé Tapiolas, D - Carulla Batallé, M" />
+		<tag k='addr:full' v="passatge De Francesc Macià, 23" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936990430' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.447770224' lon='1.973826269'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624528' />
+		<tag k='name' v="Farmàcia Miralles Curto, Pere" />
+		<tag k='addr:full' v="carrer Major, 18" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34936530157' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.474873076' lon='1.924970213'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622370' />
+		<tag k='name' v="Farmàcia Rovira Berger, Laia" />
+		<tag k='addr:full' v="carrer Pau Claris, 3" />
+		<tag k='addr:postcode' v='08760' />
+		<tag k='addr:city' v="Martorell" />
+		<tag k='contact:phone' v='+34937750239' />
+		<tag k='source:date' v='03/11/2020 07:58:55 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.526732131' lon='1.956289744'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624738' />
+		<tag k='name' v="Farmàcia Avilés Cortés, Montserrat" />
+		<tag k='addr:full' v="carrer Serra, 27" />
+		<tag k='addr:postcode' v='08231' />
+		<tag k='addr:city' v="Ullastrell" />
+		<tag k='contact:phone' v='+34937809060' />
+		<tag k='source:date' v='03/11/2020 07:57:15 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.478645054' lon='1.926147039'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624729' />
+		<tag k='name' v="Farmàcia De Dios Culebras, Pilar" />
+		<tag k='addr:full' v="carrer Comers,  5/S.J" />
+		<tag k='addr:postcode' v='08760' />
+		<tag k='addr:city' v="Martorell" />
+		<tag k='contact:phone' v='+34937753229' />
+		<tag k='source:date' v='03/11/2020 07:58:55 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.447826117' lon='1.969824436'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623805' />
+		<tag k='name' v="Farmàcia Hernández Calvet, Jordi" />
+		<tag k='addr:full' v="carrer De La Vall Del Palau, 5" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34936530264' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.452178472' lon='1.963070695'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623361' />
+		<tag k='name' v="Farmàcia Fernández Giménez, Sandra" />
+		<tag k='addr:full' v="carrer Priorat,  LOCAL 5,  00010" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34936820603' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.495250423' lon='2.038247667'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623723' />
+		<tag k='name' v="Farmàcia Toro Serrano, Marc" />
+		<tag k='addr:full' v="carrer Nostra Senyora De Lourdes, 35" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936992281' />
+		<tag k='source:date' v='03/11/2020 07:57:30 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.472437214' lon='1.980682087'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621953' />
+		<tag k='name' v="Farmàcia Pedró Pujibet, Laura" />
+		<tag k='addr:full' v="carrer Jacint Verdaguer, 12" />
+		<tag k='addr:postcode' v='08755' />
+		<tag k='addr:city' v="Castellbisbal" />
+		<tag k='contact:phone' v='+34931705093' />
+		<tag k='source:date' v='03/11/2020 07:57:34 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.451404084' lon='1.96713758'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622065' />
+		<tag k='name' v="Farmàcia Aguiila Pijuan, M. Soledad" />
+		<tag k='addr:full' v="carrer L'Anoia, 21" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34931534915' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.493484672' lon='2.032489057'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623324' />
+		<tag k='name' v="Farmàcia Xapelli Mias, Anna" />
+		<tag k='addr:full' v="avinguda De Catalunya, 14" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34935880708' />
+		<tag k='source:date' v='03/11/2020 07:57:30 AM +0000' />
+	</node>
+	<node id='-20' visible='true' lat='41.446099255' lon='1.977235539'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621774' />
+		<tag k='name' v="Farmàcia Pugès García, Robert" />
+		<tag k='addr:full' v="carrer Rector Juanico, 35,  portal 2" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34936824215' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-21' visible='true' lat='41.487295953' lon='2.034656303'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623322' />
+		<tag k='name' v="Farmàcia Marimon Manero, Núria" />
+		<tag k='addr:full' v="carrer Verge De Fàtima,  11-13" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-22' visible='true' lat='41.444500013' lon='1.976869363'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621421' />
+		<tag k='name' v="Farmàcia Pascual Aventin, Adria" />
+		<tag k='addr:full' v="plaça  Onze De Setembre,  1-2" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34936823133' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-23' visible='true' lat='41.529310098' lon='2.036133582'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='8366119' />
+		<tag k='name' v="Farmàcia Jansana Puerta, Anna" />
+		<tag k='addr:full' v="passatge Lola Anglada, 18" />
+		<tag k='addr:postcode' v='08228' />
+		<tag k='addr:city' v="Terrassa" />
+		<tag k='contact:phone' v='+34722619719' />
+		<tag k='source:date' v='03/11/2020 07:57:18 AM +0000' />
+	</node>
+	<node id='-24' visible='true' lat='41.487687996' lon='2.031089848'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623291' />
+		<tag k='name' v="Farmàcia Baradad Segura, Gemma" />
+		<tag k='addr:full' v="avinguda Barcelona, 59" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936990953' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-25' visible='true' lat='41.498293122' lon='2.042963371'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623145' />
+		<tag k='name' v="Farmàcia Miñarro Ragón, David" />
+		<tag k='addr:full' v="carrer Segòvia, 1" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-26' visible='true' lat='41.488409008' lon='2.0245732'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624283' />
+		<tag k='name' v="Farmàcia Oriol, Lluís - Oriol, Esther" />
+		<tag k='addr:full' v="carrer Safir, 28" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936994398' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-27' visible='true' lat='41.497292747' lon='2.031284894'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621447' />
+		<tag k='name' v="Farmàcia Valls Planells, Josep Oriol" />
+		<tag k='addr:full' v="carretera Terrassa,  16-18" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936976273' />
+		<tag k='source:date' v='03/11/2020 07:57:30 AM +0000' />
+	</node>
+	<node id='-28' visible='true' lat='41.474363342' lon='1.929767055'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623186' />
+		<tag k='name' v="Farmàcia Parera Bayo, Montserrat" />
+		<tag k='addr:full' v="plaça  De La Vila, 11" />
+		<tag k='addr:postcode' v='08760' />
+		<tag k='addr:city' v="Martorell" />
+		<tag k='source:date' v='03/11/2020 07:58:55 AM +0000' />
+	</node>
+	<node id='-29' visible='true' lat='41.492002523' lon='2.036446448'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623339' />
+		<tag k='name' v="Farmàcia Condal Elies, Montserrat" />
+		<tag k='addr:full' v="carrer Pedro Calderón De La Barca, 11" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936998709' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-30' visible='true' lat='41.490990788' lon='2.020741542'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621437' />
+		<tag k='name' v="Farmàcia Piera Serra, Glòria" />
+		<tag k='addr:full' v="plaça  Josep Sapes Esmendia, 4" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936977163' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-31' visible='true' lat='41.485215188' lon='2.034746428'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623922' />
+		<tag k='name' v="Farmàcia Orenga Castells, G. - Fonts Mestres, S." />
+		<tag k='addr:full' v="passeig Cronos, 15" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936991301' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-32' visible='true' lat='41.498205221' lon='2.037433461'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623333' />
+		<tag k='name' v="Farmàcia Hidalgo Güimil, JL-Moscardó Martínez, R" />
+		<tag k='addr:full' v="carrer Sabadell, 79" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936973640' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-33' visible='true' lat='41.489818217' lon='2.037884342'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624418' />
+		<tag k='name' v="Farmàcia Mas Capdet, Anna" />
+		<tag k='addr:full' v="carrer Torres Oriol, 4" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936996899' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-34' visible='true' lat='41.45002197' lon='1.972443424'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621254' />
+		<tag k='name' v="Farmàcia Torres García, Maria Ruth" />
+		<tag k='addr:full' v="carrer Creu, 27" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34936533369' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-35' visible='true' lat='41.489740394' lon='2.033728115'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623020' />
+		<tag k='name' v="Farmàcia Arumi Esquis, M / March Vila, E" />
+		<tag k='addr:full' v="carrer Mestre Magí Ramentol, 7" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-36' visible='true' lat='41.453334018' lon='1.960633677'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624588' />
+		<tag k='name' v="Farmàcia Hernández Marcè, Begoña" />
+		<tag k='addr:full' v="avinguda Constitució,  76-80" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34936820357' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-37' visible='true' lat='41.491526581' lon='2.029304502'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622412' />
+		<tag k='name' v="Farmàcia Schmid Bosch, Elisenda" />
+		<tag k='addr:full' v="carrer La Riera,  12-14" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936991305' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+	<node id='-38' visible='true' lat='41.448125936' lon='1.976332183'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622998' />
+		<tag k='name' v="Farmàcia Lozano Arroyo, Ismael" />
+		<tag k='addr:full' v="carrer Guatemala, 16" />
+		<tag k='addr:postcode' v='08740' />
+		<tag k='addr:city' v="Sant Andreu de la Barca" />
+		<tag k='contact:phone' v='+34936533404' />
+		<tag k='source:date' v='03/11/2020 07:58:52 AM +0000' />
+	</node>
+	<node id='-39' visible='true' lat='41.49211019' lon='2.031681714'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624517' />
+		<tag k='name' v="Farmàcia Espert Año, Josep Lluís" />
+		<tag k='addr:full' v="passatge De Francesc Macià, 86" />
+		<tag k='addr:postcode' v='08191' />
+		<tag k='addr:city' v="Rubí" />
+		<tag k='contact:phone' v='+34936995047' />
+		<tag k='source:date' v='03/11/2020 07:57:31 AM +0000' />
+	</node>
+</osm>

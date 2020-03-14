@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.988254872' lon='3.015533072'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623777' />
+		<tag k='name' v="Farmàcia Comas Izquierdo, Carles" />
+		<tag k='addr:full' v="avinguda  Costa Brava, 2" />
+		<tag k='addr:postcode' v='17121' />
+		<tag k='addr:city' v="Corçà" />
+		<tag k='contact:phone' v='+34972630083' />
+		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.044907174' lon='3.118796036'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623872' />
+		<tag k='name' v="Farmàcia Comas Bergua, Maria Teresa" />
+		<tag k='addr:full' v="carretera  De La Roqueta, 1" />
+		<tag k='addr:postcode' v='17140' />
+		<tag k='addr:city' v="Ullà" />
+		<tag k='contact:phone' v='+34972757101' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.061414141' lon='3.046555529'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623656' />
+		<tag k='name' v="Farmàcia Vilabru Geli, Josep" />
+		<tag k='addr:full' v="carrer Major, 4" />
+		<tag k='addr:postcode' v='17142' />
+		<tag k='addr:city' v="Verges" />
+		<tag k='contact:phone' v='+34972780034' />
+		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.023587665' lon='3.031375425'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623861' />
+		<tag k='name' v="Farmàcia Mir Negre, Núria" />
+		<tag k='addr:full' v="carrer Matabou, 2" />
+		<tag k='addr:postcode' v='17133' />
+		<tag k='addr:city' v="Parlavà" />
+		<tag k='contact:phone' v='+34972769129' />
+		<tag k='source:date' v='03/11/2020 07:59:47 AM +0000' />
+	</node>
+</osm>

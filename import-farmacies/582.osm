@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.98509056' lon='2.823540071'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623546' />
+		<tag k='name' v="Farmàcia Xirgu Badia, Josep M." />
+		<tag k='addr:full' v="carrer Santa Clara, 58" />
+		<tag k='addr:postcode' v='17001' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972204687' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.995200457' lon='2.833678187'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621602' />
+		<tag k='name' v="Farmàcia Juanola Ferrerons, Rosa M." />
+		<tag k='addr:full' v="ronda Fort Roig, 15" />
+		<tag k='addr:postcode' v='17007' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972228711' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.014677976' lon='2.817189371'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623839' />
+		<tag k='name' v="Farmàcia Blanco Mariné, Anna M." />
+		<tag k='addr:full' v="passatge Federico Garcia Lorca, 8" />
+		<tag k='addr:postcode' v='17840' />
+		<tag k='addr:city' v="Sarrià de Ter" />
+		<tag k='contact:phone' v='+34972170030' />
+		<tag k='source:date' v='03/11/2020 07:59:38 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.986781455' lon='2.824391848'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623541' />
+		<tag k='name' v="Farmàcia Simón Bonet, Asunción" />
+		<tag k='addr:full' v=" pj sant feliu, 5" />
+		<tag k='addr:postcode' v='17004' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972205614' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='42.016547847' lon='2.824912926'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623648' />
+		<tag k='name' v="Farmàcia Estudis Pont, Pere" />
+		<tag k='addr:full' v="carrer Major De Sarria, 56" />
+		<tag k='addr:postcode' v='17840' />
+		<tag k='addr:city' v="Sarrià de Ter" />
+		<tag k='contact:phone' v='+34972171688' />
+		<tag k='source:date' v='03/11/2020 07:59:38 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.983826026' lon='2.813225633'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623753' />
+		<tag k='name' v="Farmàcia Peracaula de Garriga, Maria Mercè" />
+		<tag k='addr:full' v="carrer Caterina Albert, 5" />
+		<tag k='addr:postcode' v='17001' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972207154' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.992427189' lon='2.814537152'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623668' />
+		<tag k='name' v="Farmàcia Corretger Bobis, E" />
+		<tag k='addr:full' v="rambla Xavier Cugat, 34" />
+		<tag k='addr:postcode' v='17007' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972206322' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.984590676' lon='2.817638542'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623754' />
+		<tag k='name' v="Farmàcia Miralles Jiménez, Xavier" />
+		<tag k='addr:full' v="ronda Ferran Puig, 30" />
+		<tag k='addr:postcode' v='17001' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972208852' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.994913807' lon='2.804074721'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623832' />
+		<tag k='name' v="Farmàcia Campasol Teixidor, P-Frigola Campasol, M" />
+		<tag k='addr:full' v="carrer Josep Maria Prat, 4" />
+		<tag k='addr:postcode' v='17007' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972214534' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='42.048522017' lon='2.867899418'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623978' />
+		<tag k='name' v="Farmàcia Aragay Camps, Roser" />
+		<tag k='addr:full' v="carrer Dr. Fleming, 3" />
+		<tag k='addr:postcode' v='17482' />
+		<tag k='addr:city' v="Sant Julià de Ramis" />
+		<tag k='contact:phone' v='+34972498186' />
+		<tag k='source:date' v='03/11/2020 07:59:38 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='42.006638186' lon='2.824696388'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623970' />
+		<tag k='name' v="Farmàcia Juanola Ribera, Alexandre" />
+		<tag k='addr:full' v="passatge Sant Joan Bosco, 23" />
+		<tag k='addr:postcode' v='17007' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972204193' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.994085662' lon='2.806628226'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621420' />
+		<tag k='name' v="Farmàcia Brunso Casellas, M. Dolors" />
+		<tag k='addr:full' v="carretera Taialà, 17" />
+		<tag k='addr:postcode' v='17007' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972213601' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.991957376' lon='2.817341984'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621741' />
+		<tag k='name' v="Farmàcia Caballé Serra, Raquel" />
+		<tag k='addr:full' v="rambla Xavier Cugat, 1" />
+		<tag k='addr:postcode' v='17007' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34872081892' />
+		<tag k='source:date' v='03/11/2020 07:59:41 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='42.021153202' lon='2.824878642'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623873' />
+		<tag k='name' v="Farmàcia Brunso Teixidor, Josep" />
+		<tag k='addr:full' v="carretera  De Banyoles, 15" />
+		<tag k='addr:postcode' v='17481' />
+		<tag k='addr:city' v="Sant Julià de Ramis" />
+		<tag k='contact:phone' v='+34972170493' />
+		<tag k='source:date' v='03/11/2020 07:59:38 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='42.026585117' lon='2.879508826'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621919' />
+		<tag k='name' v="Farmàcia Batllori Dellonder, Marta" />
+		<tag k='addr:full' v="carretera Juià, 64" />
+		<tag k='addr:postcode' v='17460' />
+		<tag k='addr:city' v="Celrà" />
+		<tag k='contact:phone' v='+34972493552' />
+		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.985321803' lon='2.824815188'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623544' />
+		<tag k='name' v="Farmàcia Saguer Noguera, Lluís" />
+		<tag k='addr:full' v="carrer Argenteria, 29" />
+		<tag k='addr:postcode' v='17004' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972200227' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.984324242' lon='2.824820641'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623548' />
+		<tag k='name' v="Farmàcia Plana Roger, M. José" />
+		<tag k='addr:full' v="plaça  Castanyes, 9" />
+		<tag k='addr:postcode' v='17004' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972203246' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.99470824' lon='2.81963755'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623982' />
+		<tag k='name' v="Farmàcia Nebot Giralt, Ariadna" />
+		<tag k='addr:full' v="avinguda França, 40" />
+		<tag k='addr:postcode' v='17007' />
+		<tag k='addr:city' v="Girona" />
+		<tag k='contact:phone' v='+34972410938' />
+		<tag k='source:date' v='03/11/2020 07:59:40 AM +0000' />
+	</node>
+</osm>

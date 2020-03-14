@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.607233026' lon='2.286243484'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622254' />
+		<tag k='name' v="Farmàcia Viñamata Nebot, Isabel" />
+		<tag k='addr:full' v="carrer Museu,  20-22" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938794018' />
+		<tag k='source:date' v='03/11/2020 07:57:09 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.614854953' lon='2.288980392'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621932' />
+		<tag k='name' v="Farmàcia Icart Navarro, Maria del Carme" />
+		<tag k='addr:full' v="carrer Rosselló, 18" />
+		<tag k='addr:postcode' v='08401' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34937684138' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.615724666' lon='2.29105125'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623278' />
+		<tag k='name' v="Farmàcia Montaña Tuset, Eulàlia -hereus-" />
+		<tag k='addr:full' v="carrer Joan Prim, 207" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938499210' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.611271678' lon='2.289743151'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622256' />
+		<tag k='name' v="Farmàcia Bretcha Fors, Marta" />
+		<tag k='addr:full' v="carrer Joan Prim, 56" />
+		<tag k='addr:postcode' v='08402' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938403900' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.555075509' lon='2.355154029'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623188' />
+		<tag k='name' v="Farmàcia Écija Cuberta, Cristina" />
+		<tag k='addr:full' v="carretera De La Roca, ,  2" />
+		<tag k='addr:postcode' v='08317' />
+		<tag k='addr:city' v="Òrrius" />
+		<tag k='contact:phone' v='+34937560601' />
+		<tag k='source:date' v='03/11/2020 07:57:37 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.608351935' lon='2.283318968'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623160' />
+		<tag k='name' v="Farmàcia Font Olivé, Gemma" />
+		<tag k='addr:full' v="carrer Roger De Flor, 45" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.614660297' lon='2.29222454'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623442' />
+		<tag k='name' v="Farmàcia Serrano Martínez, Pilar" />
+		<tag k='addr:full' v="carrer Girona, 190" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938402748' />
+		<tag k='source:date' v='03/11/2020 07:57:09 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.603426965' lon='2.282903211'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624852' />
+		<tag k='name' v="Farmàcia Font Olivet, Anna M." />
+		<tag k='addr:full' v="carrer Roger De Flor, 119" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938706030' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.586353238' lon='2.325025211'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621644' />
+		<tag k='name' v="Farmàcia López, A. - Rios, L. - Martín, S." />
+		<tag k='addr:full' v="rambla Mestre Torrents, 22" />
+		<tag k='addr:postcode' v='08430' />
+		<tag k='addr:city' v="Roca del Vallès, la" />
+		<tag k='contact:phone' v='+34938420742' />
+		<tag k='source:date' v='03/11/2020 07:57:04 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.616988928' lon='2.294710772'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623700' />
+		<tag k='name' v="Farmàcia Xalabarder Sagales, Elisabet" />
+		<tag k='addr:full' v="plaça  Espanya, 19" />
+		<tag k='addr:postcode' v='08520' />
+		<tag k='addr:city' v="Franqueses del Vallès, les" />
+		<tag k='contact:phone' v='+34933505349' />
+		<tag k='source:date' v='03/11/2020 07:57:11 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.588521659' lon='2.325766054'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621748' />
+		<tag k='name' v="Farmàcia Giron Mongé, Neus" />
+		<tag k='addr:full' v="carrer Anselm Clavé, 19" />
+		<tag k='addr:postcode' v='08430' />
+		<tag k='addr:city' v="Roca del Vallès, la" />
+		<tag k='contact:phone' v='+34938421853' />
+		<tag k='source:date' v='03/11/2020 07:57:04 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.597699876' lon='2.286788059'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621086' />
+		<tag k='name' v="Farmàcia Pou Isalt, Àngela" />
+		<tag k='addr:full' v="carrer Emili Botey I Alsina, 4" />
+		<tag k='addr:postcode' v='08402' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938795869' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.601779392' lon='2.287524009'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622965' />
+		<tag k='name' v="Farmàcia Bellavista Jonch, Francesc" />
+		<tag k='addr:full' v="carrer Francesc Macià, 56" />
+		<tag k='addr:postcode' v='08401' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938701535' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.615583582' lon='2.283456725'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624673' />
+		<tag k='name' v="Farmàcia Carreras Font, Mireia" />
+		<tag k='addr:full' v="carrer Riera, 38" />
+		<tag k='addr:postcode' v='08420' />
+		<tag k='addr:city' v="Canovelles" />
+		<tag k='contact:phone' v='+34938490833' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.552813526' lon='2.287300136'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623011' />
+		<tag k='name' v="Farmàcia Lluch Villamor, M. Carme" />
+		<tag k='addr:full' v="passatge Del Centenari, 25" />
+		<tag k='addr:postcode' v='08410' />
+		<tag k='addr:city' v="Vilanova del Vallès" />
+		<tag k='contact:phone' v='+34932134874' />
+		<tag k='source:date' v='03/11/2020 07:57:00 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.554645843' lon='2.401550667'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622077' />
+		<tag k='name' v="Farmàcia Guillen Vidal, Núria" />
+		<tag k='addr:full' v="carrer Carrer Gran, 22" />
+		<tag k='addr:postcode' v='08310' />
+		<tag k='addr:city' v="Argentona" />
+		<tag k='contact:phone' v='+34937971262' />
+		<tag k='source:date' v='03/11/2020 07:57:41 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.608945061' lon='2.288814487'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622252' />
+		<tag k='name' v="Farmàcia Arimany Barceló, Marina" />
+		<tag k='addr:full' v="plaça  Josep Maluquer I Salvador, 11" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938794029' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.601348966' lon='2.298163897'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624421' />
+		<tag k='name' v="Farmàcia Blasi Gutierrez, M. Teresa" />
+		<tag k='addr:full' v="carrer Valencia, 17" />
+		<tag k='addr:postcode' v='08430' />
+		<tag k='addr:city' v="Roca del Vallès, la" />
+		<tag k='contact:phone' v='+34938707262' />
+		<tag k='source:date' v='03/11/2020 07:57:04 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.600330985' lon='2.289075498'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623427' />
+		<tag k='name' v="Farmàcia Bonet Vila, Josep M." />
+		<tag k='addr:full' v="carrer Sant Josep De Calassanç, 125" />
+		<tag k='addr:postcode' v='08402' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938709652' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-20' visible='true' lat='41.604073078' lon='2.290518381'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624442' />
+		<tag k='name' v="Farmàcia Dalmau Civit, Susanna" />
+		<tag k='addr:full' v="avinguda Sant Esteve, 23" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938708106' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-21' visible='true' lat='41.615072896' lon='2.281892405'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623472' />
+		<tag k='name' v="Farmàcia Barnils Puigvert, R i C - Barnils Gross" />
+		<tag k='addr:full' v="carrer Moli De La Sal, 27" />
+		<tag k='addr:postcode' v='08420' />
+		<tag k='addr:city' v="Canovelles" />
+		<tag k='contact:phone' v='+34938494438' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-22' visible='true' lat='41.593198348' lon='2.287759438'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623996' />
+		<tag k='name' v="Farmàcia Berenguer Llopart, Gemma" />
+		<tag k='addr:full' v=" cm pla de baix, 51" />
+		<tag k='addr:postcode' v='08402' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938705838' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-23' visible='true' lat='41.619651666' lon='2.2937696'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621083' />
+		<tag k='name' v="Farmàcia Pardo Rodríguez, M. Pilar" />
+		<tag k='addr:full' v="carrer Girona, 311" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938491716' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-24' visible='true' lat='41.613332957' lon='2.294318719'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624707' />
+		<tag k='name' v="Farmàcia Mas Lombarte, Antoni" />
+		<tag k='addr:full' v="carrer Bertran De Seva, 3" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938491810' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-25' visible='true' lat='41.611084725' lon='2.291049964'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621233' />
+		<tag k='name' v="Farmàcia Clasca Riera, Eulàlia" />
+		<tag k='addr:full' v="carrer Girona, 39" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938614002' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-26' visible='true' lat='41.617749679' lon='2.28177364'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621249' />
+		<tag k='name' v="Farmàcia Girbau Campdelacreu, Joan" />
+		<tag k='addr:full' v="carrer Del Sol, 65" />
+		<tag k='addr:postcode' v='08420' />
+		<tag k='addr:city' v="Canovelles" />
+		<tag k='contact:phone' v='+34938406108' />
+		<tag k='source:date' v='03/11/2020 07:57:13 AM +0000' />
+	</node>
+	<node id='-27' visible='true' lat='41.618803255' lon='2.297219977'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='9641796' />
+		<tag k='name' v="Farmàcia González Aguilar, Mª Elena" />
+		<tag k='addr:full' v="passatge D'Andalusia, 8" />
+		<tag k='addr:postcode' v='08520' />
+		<tag k='addr:city' v="Franqueses del Vallès, les" />
+		<tag k='contact:phone' v='+34933884964' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-28' visible='true' lat='41.53249082' lon='2.293396802'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623149' />
+		<tag k='name' v="Farmàcia Guanter Ballesta, Josep M." />
+		<tag k='addr:full' v="rambla Vallromanes, 14" />
+		<tag k='addr:postcode' v='08188' />
+		<tag k='addr:city' v="Vallromanes" />
+		<tag k='source:date' v='03/11/2020 07:57:00 AM +0000' />
+	</node>
+	<node id='-29' visible='true' lat='41.607410264' lon='2.288861613'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622253' />
+		<tag k='name' v="Farmàcia Torrents Arnaldich, Núria" />
+		<tag k='addr:full' v="carrer J.Anselm Clave, 31" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938700259' />
+		<tag k='source:date' v='03/11/2020 07:57:09 AM +0000' />
+	</node>
+</osm>

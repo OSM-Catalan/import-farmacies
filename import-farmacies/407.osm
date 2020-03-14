@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.408612638' lon='2.021249754'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621951' />
+		<tag k='name' v="Farmàcia Soler Vilaret, Pilar" />
+		<tag k='addr:full' v="avinguda Barcelona, 51" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34931147956' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.394681' lon='2.0102438'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622543' />
+		<tag k='name' v="Farmàcia Tabar Prats, Maria" />
+		<tag k='addr:full' v="carrer Barcelona, 64" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936560156' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.387760465' lon='2.014357163'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621920' />
+		<tag k='name' v="Farmàcia Sendra Vellvé, Maria Assumpció" />
+		<tag k='addr:full' v="carrer Nou, 158" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936769829' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.418382486' lon='1.966622492'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623172' />
+		<tag k='name' v="Farmàcia Bravo Tarifa, Natàlia" />
+		<tag k='addr:full' v=" gv de fontpineda, 2 bis" />
+		<tag k='addr:postcode' v='08780' />
+		<tag k='addr:city' v="Pallejà" />
+		<tag k='contact:phone' v='+34936880748' />
+		<tag k='source:date' v='03/11/2020 07:58:53 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.414686078' lon='2.017245653'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621931' />
+		<tag k='name' v="Farmàcia Lozano Merida, Jose Antonio" />
+		<tag k='addr:full' v="carrer Jacint Verdaguer, 68" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936817987' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.396917837' lon='2.010322821'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621443' />
+		<tag k='name' v="Farmàcia Roselló Rodon, Lluís" />
+		<tag k='addr:full' v="carretera Sant Boi,  76-82" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936567250' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.350285383' lon='2.028439508'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624276' />
+		<tag k='name' v="Farmàcia Gabarró Ballesteros, Rosa M." />
+		<tag k='addr:full' v="carrer Joaquim Rubió I Ors, 50" />
+		<tag k='addr:postcode' v='08830' />
+		<tag k='addr:city' v="Sant Boi de Llobregat" />
+		<tag k='contact:phone' v='+34936616343' />
+		<tag k='source:date' v='03/11/2020 07:58:50 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.38324187' lon='1.931379534'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623015' />
+		<tag k='name' v="Farmàcia Olivella Miquel, Raquel" />
+		<tag k='addr:full' v="carrer Miquel Batlle, 14" />
+		<tag k='addr:postcode' v='08759' />
+		<tag k='addr:city' v="Vallirana" />
+		<tag k='contact:phone' v='+34936601046' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.395823008' lon='1.954873897'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624848' />
+		<tag k='name' v="Farmàcia Alvez Martín, Maria Rosa" />
+		<tag k='addr:full' v="carrer Major, 48" />
+		<tag k='addr:postcode' v='08758' />
+		<tag k='addr:city' v="Cervelló" />
+		<tag k='contact:phone' v='+34936600540' />
+		<tag k='source:date' v='03/11/2020 07:58:59 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.414210199' lon='2.021243645'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624571' />
+		<tag k='name' v="Farmàcia Brun Casanovas, Núria" />
+		<tag k='addr:full' v="carrer Puigcerda, 53" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936682954' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.3939208' lon='2.0101376'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622937' />
+		<tag k='name' v="Farmàcia Pastor Rodríguez, Joaquim Maria" />
+		<tag k='addr:full' v="carrer Rafael De Casanova, 22" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936560807' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.390998303' lon='2.013037684'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621222' />
+		<tag k='name' v="Farmàcia Jorba Julià, Rosa M." />
+		<tag k='addr:full' v="carretera Sant Boi, 184" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936562938' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.389528958' lon='1.935052581'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621759' />
+		<tag k='name' v="Farmàcia Parrilla Hortelano, Alfredo" />
+		<tag k='addr:full' v="carrer Major, 238" />
+		<tag k='addr:postcode' v='08759' />
+		<tag k='addr:city' v="Vallirana" />
+		<tag k='contact:phone' v='+34936830394' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.350417194' lon='2.030688385'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624443' />
+		<tag k='name' v="Farmàcia Collado Pallarés, Esther" />
+		<tag k='addr:full' v="carrer Riera Gasulla, 10" />
+		<tag k='addr:postcode' v='08830' />
+		<tag k='addr:city' v="Sant Boi de Llobregat" />
+		<tag k='contact:phone' v='+34936401538' />
+		<tag k='source:date' v='03/11/2020 07:58:50 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.381737288' lon='2.04475868'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622522' />
+		<tag k='name' v="Farmàcia Pares Templer, Sylvia" />
+		<tag k='addr:full' v="carrer Joan Batllori, 8" />
+		<tag k='addr:postcode' v='08980' />
+		<tag k='addr:city' v="Sant Feliu de Llobregat" />
+		<tag k='contact:phone' v='+34936668867' />
+		<tag k='source:date' v='03/11/2020 07:58:48 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.421133212' lon='1.997234286'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622400' />
+		<tag k='name' v="Farmàcia Huguet Planes, Araceli" />
+		<tag k='addr:full' v="carrer Prat De La Riba, 26" />
+		<tag k='addr:postcode' v='08780' />
+		<tag k='addr:city' v="Pallejà" />
+		<tag k='contact:phone' v='+34936683559' />
+		<tag k='source:date' v='03/11/2020 07:58:53 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.413506219' lon='1.927847312'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='9611172' />
+		<tag k='name' v="Farmàcia Botet Piró, Carles Ramón" />
+		<tag k='addr:full' v="passatge Dels Arbres, 6" />
+		<tag k='addr:postcode' v='08757' />
+		<tag k='addr:city' v="Corbera de Llobregat" />
+		<tag k='contact:phone' v='+34933877887' />
+		<tag k='source:date' v='03/11/2020 07:58:59 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.353226856' lon='2.02515289'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623722' />
+		<tag k='name' v="Farmàcia Sanjuan Piñol, Roser" />
+		<tag k='addr:full' v="carrer Frederic Mompou,  13-15" />
+		<tag k='addr:postcode' v='08830' />
+		<tag k='addr:city' v="Sant Boi de Llobregat" />
+		<tag k='contact:phone' v='+34936612836' />
+		<tag k='source:date' v='03/11/2020 07:58:49 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.357908454' lon='2.032515365'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623885' />
+		<tag k='name' v="Farmàcia Morer Vilaró, JM - Morer Font, M" />
+		<tag k='addr:full' v="plaça  Ciutat Cooperativa,  S/N" />
+		<tag k='addr:postcode' v='08830' />
+		<tag k='addr:city' v="Sant Boi de Llobregat" />
+		<tag k='contact:phone' v='+34936615995' />
+		<tag k='source:date' v='03/11/2020 07:58:50 AM +0000' />
+	</node>
+	<node id='-20' visible='true' lat='41.380930451' lon='2.039822841'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623827' />
+		<tag k='name' v="Farmàcia Calduch Porta, Joan" />
+		<tag k='addr:full' v="carrer Jaume Ribas, 21,  bloc a1" />
+		<tag k='addr:postcode' v='08980' />
+		<tag k='addr:city' v="Sant Feliu de Llobregat" />
+		<tag k='contact:phone' v='+34936327102' />
+		<tag k='source:date' v='03/11/2020 07:58:48 AM +0000' />
+	</node>
+	<node id='-21' visible='true' lat='41.387955173' lon='1.931590972'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622644' />
+		<tag k='name' v="Farmàcia Zabala de Oleza, R / Oller Codina, A." />
+		<tag k='addr:full' v="carrer Major, 332" />
+		<tag k='addr:postcode' v='08759' />
+		<tag k='addr:city' v="Vallirana" />
+		<tag k='contact:phone' v='+34936601127' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-22' visible='true' lat='41.3891257' lon='2.0081374'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623818' />
+		<tag k='name' v="Farmàcia Arbat Bugié, Lluïsa" />
+		<tag k='addr:full' v="carrer Mestre Perez Moya,  2-6" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936562302' />
+		<tag k='source:date' v='03/11/2020 07:58:47 AM +0000' />
+	</node>
+	<node id='-23' visible='true' lat='41.413315946' lon='2.01650566'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622383' />
+		<tag k='name' v="Farmàcia Xuclà Godia, Mariano" />
+		<tag k='addr:full' v="carrer Alfons Ii D'Arago, 100" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936681994' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-24' visible='true' lat='41.410127327' lon='2.019344868'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622385' />
+		<tag k='name' v="Farmàcia Bermúdez Muiño, Susana" />
+		<tag k='addr:full' v="carrer Pi I Margall, 11" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936681429' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-25' visible='true' lat='41.411815538' lon='2.018338617'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622384' />
+		<tag k='name' v="Farmàcia Roca Brunet, Judit" />
+		<tag k='addr:full' v="carrer Major, 31" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936684949' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-26' visible='true' lat='41.368396049' lon='2.022344583'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621079' />
+		<tag k='name' v="Farmàcia Martínez Rodríguez, Bibiana" />
+		<tag k='addr:full' v="avinguda Santa Coloma,  82-85" />
+		<tag k='addr:postcode' v='08690' />
+		<tag k='addr:city' v="Santa Coloma de Cervelló" />
+		<tag k='contact:phone' v='+34936406421' />
+		<tag k='source:date' v='03/11/2020 07:58:47 AM +0000' />
+	</node>
+	<node id='-27' visible='true' lat='41.356638096' lon='2.032511787'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623259' />
+		<tag k='name' v="Farmàcia Artiga Sales, Olga-Espejo Artiga, Gemma" />
+		<tag k='addr:full' v="carrer Ramon Llull, 45" />
+		<tag k='addr:postcode' v='08830' />
+		<tag k='addr:city' v="Sant Boi de Llobregat" />
+		<tag k='contact:phone' v='+34936610883' />
+		<tag k='source:date' v='03/11/2020 07:58:51 AM +0000' />
+	</node>
+	<node id='-28' visible='true' lat='41.352870094' lon='2.027066409'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623822' />
+		<tag k='name' v="Farmàcia Fabián García, Maria Mercedes" />
+		<tag k='addr:full' v="ronda Sant Ramon, 57" />
+		<tag k='addr:postcode' v='08830' />
+		<tag k='addr:city' v="Sant Boi de Llobregat" />
+		<tag k='contact:phone' v='+34936615976' />
+		<tag k='source:date' v='03/11/2020 07:58:50 AM +0000' />
+	</node>
+	<node id='-29' visible='true' lat='41.385944591' lon='2.041278904'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624394' />
+		<tag k='name' v="Farmàcia Miranda Flores, A. Santiago" />
+		<tag k='addr:full' v="carrer Hospitalet, 3" />
+		<tag k='addr:postcode' v='08980' />
+		<tag k='addr:city' v="Sant Feliu de Llobregat" />
+		<tag k='contact:phone' v='+34936664750' />
+		<tag k='source:date' v='03/11/2020 07:58:48 AM +0000' />
+	</node>
+	<node id='-30' visible='true' lat='41.42228498' lon='1.999303735'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='6221785' />
+		<tag k='name' v="Farmàcia Zayas Sanza, Jose Maria" />
+		<tag k='addr:full' v="carrer Francesc Macia, 6" />
+		<tag k='addr:postcode' v='08780' />
+		<tag k='addr:city' v="Pallejà" />
+		<tag k='contact:phone' v='+34930277573' />
+		<tag k='source:date' v='03/11/2020 07:58:53 AM +0000' />
+	</node>
+	<node id='-31' visible='true' lat='41.425324709' lon='1.998270453'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624101' />
+		<tag k='name' v="Farmàcia Gibert Rovira, Joan A." />
+		<tag k='addr:full' v="carrer Pau Claris, 35" />
+		<tag k='addr:postcode' v='08780' />
+		<tag k='addr:city' v="Pallejà" />
+		<tag k='contact:phone' v='+34936682323' />
+		<tag k='source:date' v='03/11/2020 07:58:53 AM +0000' />
+	</node>
+	<node id='-32' visible='true' lat='41.3905319' lon='2.0032202'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624143' />
+		<tag k='name' v="Farmàcia Arroyo Fernández, Empar" />
+		<tag k='addr:full' v="carrer La Coruña, 46" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936561154' />
+		<tag k='source:date' v='03/11/2020 07:58:47 AM +0000' />
+	</node>
+	<node id='-33' visible='true' lat='41.3957545' lon='2.0085032'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623373' />
+		<tag k='name' v="Farmàcia Geronés Tares, Dolors" />
+		<tag k='addr:full' v="carrer Mossèn Jacint Verdaguer, 86" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936561257' />
+		<tag k='source:date' v='03/11/2020 07:58:47 AM +0000' />
+	</node>
+	<node id='-34' visible='true' lat='41.357902476' lon='1.980933958'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623514' />
+		<tag k='name' v="Farmàcia Hernández Civit, M. Assumpció" />
+		<tag k='addr:full' v="carrer Major, 14" />
+		<tag k='addr:postcode' v='08629' />
+		<tag k='addr:city' v="Torrelles de Llobregat" />
+		<tag k='contact:phone' v='+34936560414' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-35' visible='true' lat='41.356766984' lon='2.034517812'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624104' />
+		<tag k='name' v="Farmàcia Castellà Aumedes C. i Sanchez Murillo Ll" />
+		<tag k='addr:full' v="carrer Joan Maragall, 26" />
+		<tag k='addr:postcode' v='08830' />
+		<tag k='addr:city' v="Sant Boi de Llobregat" />
+		<tag k='contact:phone' v='+34936616945' />
+		<tag k='source:date' v='03/11/2020 07:58:50 AM +0000' />
+	</node>
+	<node id='-36' visible='true' lat='41.407806637' lon='2.017374272'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621235' />
+		<tag k='name' v="Farmàcia Mas Valls, M. Àngels" />
+		<tag k='addr:full' v="carrer Santiago Rusinyol,  8-10" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936800986' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-37' visible='true' lat='41.396269379' lon='1.95973016'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621576' />
+		<tag k='name' v="Farmàcia Tres Oliver, Olga" />
+		<tag k='addr:full' v="carrer Major, 168" />
+		<tag k='addr:postcode' v='08758' />
+		<tag k='addr:city' v="Cervelló" />
+		<tag k='contact:phone' v='+34936602832' />
+		<tag k='source:date' v='03/11/2020 07:58:59 AM +0000' />
+	</node>
+	<node id='-38' visible='true' lat='41.405369174' lon='2.020175769'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624404' />
+		<tag k='name' v="Farmàcia Espinet del Hoyo, Marc" />
+		<tag k='addr:full' v="carrer Menendez Pelayo, 36" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936684456' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-39' visible='true' lat='41.398485648' lon='2.005407587'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621445' />
+		<tag k='name' v="Farmàcia Medina Gallego, Teresa" />
+		<tag k='addr:full' v="avinguda Ferrocarril,  13-15" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936569370' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-40' visible='true' lat='41.388115406' lon='2.040264108'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='7715051' />
+		<tag k='name' v="Farmàcia Martin Herrero, Cristina" />
+		<tag k='addr:full' v="carretera Sansón, 2" />
+		<tag k='addr:postcode' v='08980' />
+		<tag k='addr:city' v="Sant Feliu de Llobregat" />
+		<tag k='contact:phone' v='+34936660472' />
+		<tag k='source:date' v='03/11/2020 07:58:48 AM +0000' />
+	</node>
+	<node id='-41' visible='true' lat='41.368011462' lon='2.017998501'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622545' />
+		<tag k='name' v="Farmàcia Tura Lladó, Jaume" />
+		<tag k='addr:full' v="avinguda Santa Coloma,  1-3" />
+		<tag k='addr:postcode' v='08690' />
+		<tag k='addr:city' v="Santa Coloma de Cervelló" />
+		<tag k='contact:phone' v='+34936613343' />
+		<tag k='source:date' v='03/11/2020 07:58:47 AM +0000' />
+	</node>
+	<node id='-42' visible='true' lat='41.404745868' lon='2.028102965'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623484' />
+		<tag k='name' v="Farmàcia Codina Lagostera, Lucía" />
+		<tag k='addr:full' v="carrer Ca La Cordia,  1-IEE" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936680496' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-43' visible='true' lat='41.399709916' lon='2.006369356'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623596' />
+		<tag k='name' v="Farmàcia Herreros Herrera, M. Cristina" />
+		<tag k='addr:full' v="carrer Mossèn Jacint Verdaguer, 232" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936562007' />
+		<tag k='source:date' v='03/11/2020 07:58:47 AM +0000' />
+	</node>
+	<node id='-44' visible='true' lat='41.397869511' lon='1.998599616'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622999' />
+		<tag k='name' v="Farmàcia Palacios Aguilar, Enrique" />
+		<tag k='addr:full' v="carrer Albacete, 127" />
+		<tag k='addr:postcode' v='08620' />
+		<tag k='addr:city' v="Sant Vicenç dels Horts" />
+		<tag k='contact:phone' v='+34936566252' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+	<node id='-45' visible='true' lat='41.415050106' lon='1.931027253'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624842' />
+		<tag k='name' v="Farmàcia Alsina Costa, Josep M." />
+		<tag k='addr:full' v="carrer Sant Antoni, 17" />
+		<tag k='addr:postcode' v='08757' />
+		<tag k='addr:city' v="Corbera de Llobregat" />
+		<tag k='contact:phone' v='+34936501753' />
+		<tag k='source:date' v='03/11/2020 07:58:59 AM +0000' />
+	</node>
+	<node id='-46' visible='true' lat='41.349301139' lon='2.034081238'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624444' />
+		<tag k='name' v="Farmàcia Terradas Muntañola, Glòria" />
+		<tag k='addr:full' v="carrer Joan Marti, 43" />
+		<tag k='addr:postcode' v='08830' />
+		<tag k='addr:city' v="Sant Boi de Llobregat" />
+		<tag k='contact:phone' v='+34936615384' />
+		<tag k='source:date' v='03/11/2020 07:58:49 AM +0000' />
+	</node>
+	<node id='-47' visible='true' lat='41.415350919' lon='2.013020886'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621771' />
+		<tag k='name' v="Farmàcia Valls Foix, Jordi" />
+		<tag k='addr:full' v="carrer Roseta Canalias, 16" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936680206' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-48' visible='true' lat='41.396113525' lon='1.960106758'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624560' />
+		<tag k='name' v="Farmàcia Peypoch Rojas, Núria" />
+		<tag k='addr:full' v="avinguda Catalunya, 54" />
+		<tag k='addr:postcode' v='08758' />
+		<tag k='addr:city' v="Cervelló" />
+		<tag k='contact:phone' v='+34936600146' />
+		<tag k='source:date' v='03/11/2020 07:58:59 AM +0000' />
+	</node>
+	<node id='-49' visible='true' lat='41.407366372' lon='2.023081822'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623926' />
+		<tag k='name' v="Farmàcia Mila Roca, M. Isabel" />
+		<tag k='addr:full' v="carrer Riera Mariona, 3" />
+		<tag k='addr:postcode' v='08750' />
+		<tag k='addr:city' v="Molins de Rei" />
+		<tag k='contact:phone' v='+34936683097' />
+		<tag k='source:date' v='03/11/2020 07:58:54 AM +0000' />
+	</node>
+	<node id='-50' visible='true' lat='41.386732375' lon='1.931750014'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621226' />
+		<tag k='name' v="Farmàcia Muñoz Garcia, FJ / Marin Loscertales, MT" />
+		<tag k='addr:full' v="carrer Major, 422" />
+		<tag k='addr:postcode' v='08759' />
+		<tag k='addr:city' v="Vallirana" />
+		<tag k='contact:phone' v='+34936833994' />
+		<tag k='source:date' v='03/11/2020 07:58:46 AM +0000' />
+	</node>
+</osm>

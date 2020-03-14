@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.832335536' lon='1.750785893'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622622' />
+		<tag k='name' v="Farmàcia Collado Gil, Virgínia" />
+		<tag k='addr:full' v="carrer Salvador Vancells, 28" />
+		<tag k='addr:postcode' v='08260' />
+		<tag k='addr:city' v="Súria" />
+		<tag k='contact:phone' v='+34938695695' />
+		<tag k='source:date' v='03/11/2020 07:59:21 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.834959595' lon='1.74858243'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621242' />
+		<tag k='name' v="Farmàcia Massó Muniesa, Jordi" />
+		<tag k='addr:full' v="carrer De Pompeu Fabra, 1" />
+		<tag k='addr:postcode' v='08260' />
+		<tag k='addr:city' v="Súria" />
+		<tag k='contact:phone' v='+34938682289' />
+		<tag k='source:date' v='03/11/2020 07:59:21 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.848023155' lon='1.722131069'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623161' />
+		<tag k='name' v="Farmàcia Descals Vilarnau, Mercè" />
+		<tag k='addr:full' v="carretera Cardona.Valls Torruella,  S/N" />
+		<tag k='addr:postcode' v='08263' />
+		<tag k='addr:city' v="Sant Mateu de Bages" />
+		<tag k='contact:phone' v='+34938696060' />
+		<tag k='source:date' v='03/11/2020 07:59:22 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.831320008' lon='1.751006847'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622621' />
+		<tag k='name' v="Farmàcia Ripoll Espinat, M. Angeles" />
+		<tag k='addr:full' v="carrer Salvador Vancells, 10" />
+		<tag k='addr:postcode' v='08260' />
+		<tag k='addr:city' v="Súria" />
+		<tag k='contact:phone' v='+34938695049' />
+		<tag k='source:date' v='03/11/2020 07:59:21 AM +0000' />
+	</node>
+</osm>

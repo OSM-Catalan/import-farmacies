@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.873783254' lon='2.035976389'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622975' />
+		<tag k='name' v="Farmàcia Gabarrós Guerrero, Anna" />
+		<tag k='addr:full' v="plaça  Sant Antoni Maria Claret, 4" />
+		<tag k='addr:postcode' v='08273' />
+		<tag k='addr:city' v="Santa Maria d'Oló" />
+		<tag k='contact:phone' v='+34938300050' />
+		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.863951605' lon='1.971316707'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624814' />
+		<tag k='name' v="Farmàcia Gavaldà Guiteres, Maria Pilar" />
+		<tag k='addr:full' v="plaça  Major, 14" />
+		<tag k='addr:postcode' v='08279' />
+		<tag k='addr:city' v="Avinyó" />
+		<tag k='contact:phone' v='+34938387000' />
+		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
+	</node>
+</osm>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.074525192' lon='2.295962526'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621656' />
+		<tag k='name' v="Farmàcia Pons Casals, Patrícia" />
+		<tag k='addr:full' v="carrer Sant Feliu, 1" />
+		<tag k='addr:postcode' v='08572' />
+		<tag k='addr:city' v="Sant Pere de Torelló" />
+		<tag k='contact:phone' v='+34938584035' />
+		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />
+	</node>
+</osm>

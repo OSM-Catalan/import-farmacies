@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.672288917' lon='0.520138546'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623206' />
+		<tag k='name' v="Farmàcia Agüera Balagué, Maria Pilar" />
+		<tag k='addr:full' v="carrer Del Forn, 5" />
+		<tag k='addr:postcode' v='43558' />
+		<tag k='addr:city' v="Freginals" />
+		<tag k='contact:phone' v='+34977719136' />
+		<tag k='source:date' v='03/11/2020 08:00:00 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='40.613026633' lon='0.586133287'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623356' />
+		<tag k='name' v="Farmàcia Lluís Gisbert, Laura - Noé Lluís, Aïda" />
+		<tag k='addr:full' v="carrer Sant Isidre, 177" />
+		<tag k='addr:postcode' v='43540' />
+		<tag k='addr:city' v="Sant Carles de la Ràpita" />
+		<tag k='contact:phone' v='+34977745545' />
+		<tag k='source:date' v='03/11/2020 07:59:59 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='40.620237068' lon='0.591978366'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624626' />
+		<tag k='name' v="Farmàcia Borrut Valles, Josep M." />
+		<tag k='addr:full' v="carrer Constancia, 6" />
+		<tag k='addr:postcode' v='43540' />
+		<tag k='addr:city' v="Sant Carles de la Ràpita" />
+		<tag k='contact:phone' v='+34977740160' />
+		<tag k='source:date' v='03/11/2020 07:59:59 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='40.616600999' lon='0.588841056'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622896' />
+		<tag k='name' v="Farmàcia Bel Armengol, Mercè - Mur Bel, Carles" />
+		<tag k='addr:full' v="carrer Sant Isidre, 87" />
+		<tag k='addr:postcode' v='43540' />
+		<tag k='addr:city' v="Sant Carles de la Ràpita" />
+		<tag k='contact:phone' v='+34977741460' />
+		<tag k='source:date' v='03/11/2020 07:59:59 AM +0000' />
+	</node>
+</osm>

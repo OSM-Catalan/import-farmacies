@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.039600123' lon='0.251099651'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623237' />
+		<tag k='name' v="Farmàcia Villanueva Pla, Francesc" />
+		<tag k='addr:full' v="carrer Major, 23" />
+		<tag k='addr:postcode' v='43787' />
+		<tag k='addr:city' v="Caseres" />
+		<tag k='contact:phone' v='+34977431859' />
+		<tag k='source:date' v='03/11/2020 07:59:57 AM +0000' />
+	</node>
+</osm>

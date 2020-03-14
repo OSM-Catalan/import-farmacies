@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.21210309' lon='2.607875943'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623869' />
+		<tag k='name' v="Farmàcia Isamat Balcells, Joaquim" />
+		<tag k='addr:full' v="carrer Major, 25" />
+		<tag k='addr:postcode' v='17854' />
+		<tag k='addr:city' v="Sant Jaume de Llierca" />
+		<tag k='contact:phone' v='+34972687201' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.21925127' lon='2.549260496'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623465' />
+		<tag k='name' v="Farmàcia Tarrés Vila, Susanna" />
+		<tag k='addr:full' v="carretera D'Olot, 5" />
+		<tag k='addr:postcode' v='17856' />
+		<tag k='addr:city' v="Castellfollit de la Roca" />
+		<tag k='contact:phone' v='+34972294018' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.233230609' lon='2.630242447'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623652' />
+		<tag k='name' v="Farmàcia Guixeras Magret, Carme" />
+		<tag k='addr:full' v="plaça  Del Mercat, 5" />
+		<tag k='addr:postcode' v='17853' />
+		<tag k='addr:city' v="Tortellà" />
+		<tag k='contact:phone' v='+34972287102' />
+		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.230697459' lon='2.594796147'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623938' />
+		<tag k='name' v="Farmàcia Albrich Plana, Esther" />
+		<tag k='addr:full' v="carrer Font, 6" />
+		<tag k='addr:postcode' v='17855' />
+		<tag k='addr:city' v="Montagut i Oix" />
+		<tag k='contact:phone' v='+34972687088' />
+		<tag k='source:date' v='03/11/2020 07:59:45 AM +0000' />
+	</node>
+</osm>

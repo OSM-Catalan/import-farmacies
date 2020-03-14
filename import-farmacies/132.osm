@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.702749281' lon='0.793940072'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624169' />
+		<tag k='name' v="Farmàcia Pala Ariño, Dolors" />
+		<tag k='addr:full' v="carrer Sentin, 2" />
+		<tag k='addr:postcode' v='25530' />
+		<tag k='addr:city' v="Vielha e Mijaran" />
+		<tag k='contact:phone' v='+34973642585' />
+		<tag k='source:date' v='03/11/2020 07:59:05 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.702370515' lon='0.796217507'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624456' />
+		<tag k='name' v="Farmàcia Botanch Català, Sílvia" />
+		<tag k='addr:full' v="carrer Pas D'Arro, 54" />
+		<tag k='addr:postcode' v='25530' />
+		<tag k='addr:city' v="Vielha e Mijaran" />
+		<tag k='contact:phone' v='+34973642346' />
+		<tag k='source:date' v='03/11/2020 07:59:05 AM +0000' />
+	</node>
+</osm>

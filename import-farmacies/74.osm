@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.922446007' lon='0.400863992'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623196' />
+		<tag k='name' v="Farmàcia Rodrigo Sújar, Gonzalo Alfredo" />
+		<tag k='addr:full' v="carrer De La Creu, 32" />
+		<tag k='addr:postcode' v='43593' />
+		<tag k='addr:city' v="Paüls" />
+		<tag k='contact:phone' v='+34977492213' />
+		<tag k='source:date' v='03/11/2020 08:00:26 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='40.906688974' lon='0.491732098'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624497' />
+		<tag k='name' v="Farmàcia Monllau Mayor, Lina" />
+		<tag k='addr:full' v="plaça   Major, 15" />
+		<tag k='addr:postcode' v='43592' />
+		<tag k='addr:city' v="Xerta" />
+		<tag k='contact:phone' v='+34977473412' />
+		<tag k='source:date' v='03/11/2020 08:00:26 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='40.879687867' lon='0.499536551'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623064' />
+		<tag k='name' v="Farmàcia Celma Pascual, M. Teresa" />
+		<tag k='addr:full' v="carretera Carretera, 56" />
+		<tag k='addr:postcode' v='43591' />
+		<tag k='addr:city' v="Aldover" />
+		<tag k='contact:phone' v='+34977473508' />
+		<tag k='source:date' v='03/11/2020 08:00:27 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='40.874292576' lon='0.400040162'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623218' />
+		<tag k='name' v="Farmàcia Ribera Caballé, Carles Manuel" />
+		<tag k='addr:full' v="carrer De La Bassa, 32" />
+		<tag k='addr:postcode' v='43528' />
+		<tag k='addr:city' v="Alfara de Carles" />
+		<tag k='source:date' v='03/11/2020 08:00:27 AM +0000' />
+	</node>
+</osm>

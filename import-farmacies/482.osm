@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.642447105' lon='2.364074677'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624721' />
+		<tag k='name' v="Farmàcia Gil Colomer, Pilar" />
+		<tag k='addr:full' v="carrer Arago, 39" />
+		<tag k='addr:postcode' v='08440' />
+		<tag k='addr:city' v="Cardedeu" />
+		<tag k='contact:phone' v='+34938460104' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.622969986' lon='2.291149657'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='8029969' />
+		<tag k='name' v="Farmàcia Pons Morales, Laura" />
+		<tag k='addr:full' v="carrer Pont, 16" />
+		<tag k='addr:postcode' v='08520' />
+		<tag k='addr:city' v="Franqueses del Vallès, les" />
+		<tag k='contact:phone' v='+34932696028' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.639999078' lon='2.361415851'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621082' />
+		<tag k='name' v="Farmàcia Palou Cunill, Maria" />
+		<tag k='addr:full' v="carrer Verge Del Pilar, 124,  porta 3c" />
+		<tag k='addr:postcode' v='08440' />
+		<tag k='addr:city' v="Cardedeu" />
+		<tag k='contact:phone' v='+34938460028' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.675035629' lon='2.39398652'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621905' />
+		<tag k='name' v="Farmàcia Canals Palau, M / Saborit Sancliment, R" />
+		<tag k='addr:full' v="avinguda Catalunya,  11-13" />
+		<tag k='addr:postcode' v='08459' />
+		<tag k='addr:city' v="Sant Antoni de Vilamajor" />
+		<tag k='contact:phone' v='+34938451516' />
+		<tag k='source:date' v='03/11/2020 07:57:04 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.67819416' lon='2.286276828'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621913' />
+		<tag k='name' v="Farmàcia Mimó Bardolet, Silvia" />
+		<tag k='addr:full' v="carrer Anselm Clave, 54" />
+		<tag k='addr:postcode' v='08530' />
+		<tag k='addr:city' v="Garriga, la" />
+		<tag k='contact:phone' v='+34938717286' />
+		<tag k='source:date' v='03/11/2020 07:57:11 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.633250517' lon='2.29695921'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623433' />
+		<tag k='name' v="Farmàcia Basté Sabe, M. Àngels" />
+		<tag k='addr:full' v="carrer Sant Antoni, 74" />
+		<tag k='addr:postcode' v='08520' />
+		<tag k='addr:city' v="Franqueses del Vallès, les" />
+		<tag k='contact:phone' v='+34938404866' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.63931662' lon='2.400662651'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622276' />
+		<tag k='name' v="Farmàcia Perich Tomas, Francesc" />
+		<tag k='addr:full' v="carrer Santiago Rusinyol,  31-33" />
+		<tag k='addr:postcode' v='08450' />
+		<tag k='addr:city' v="Llinars del Vallès" />
+		<tag k='contact:phone' v='+34938410094' />
+		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.637300291' lon='2.357292645'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622108' />
+		<tag k='name' v="Farmàcia Forés Jover, Maria Cinta" />
+		<tag k='addr:full' v="carrer Diagonal Fivaller, 8" />
+		<tag k='addr:postcode' v='08440' />
+		<tag k='addr:city' v="Cardedeu" />
+		<tag k='contact:phone' v='+34938461169' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.683958511' lon='2.390219487'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623165' />
+		<tag k='name' v="Farmàcia Sandoval Molera, Maria Isabel" />
+		<tag k='addr:full' v="carrer Sant Nonet,  15-17" />
+		<tag k='addr:postcode' v='08458' />
+		<tag k='addr:city' v="Sant Pere de Vilamajor" />
+		<tag k='source:date' v='03/11/2020 07:57:02 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.687700335' lon='2.286555366'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622994' />
+		<tag k='name' v="Farmàcia Crespí Arnaus, M. Dolors" />
+		<tag k='addr:full' v="carrer Calabria, 78" />
+		<tag k='addr:postcode' v='08530' />
+		<tag k='addr:city' v="Garriga, la" />
+		<tag k='contact:phone' v='+34938716996' />
+		<tag k='source:date' v='03/11/2020 07:57:11 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.638368561' lon='2.355918298'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622107' />
+		<tag k='name' v="Farmàcia Auqué Regaño, Bernat" />
+		<tag k='addr:full' v="carrer S.Antoni, 11" />
+		<tag k='addr:postcode' v='08440' />
+		<tag k='addr:city' v="Cardedeu" />
+		<tag k='contact:phone' v='+34938461071' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.685557049' lon='2.285460686'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622246' />
+		<tag k='name' v="Farmàcia Sunyol Genis, Martí" />
+		<tag k='addr:full' v="carrer Centre, 10" />
+		<tag k='addr:postcode' v='08530' />
+		<tag k='addr:city' v="Garriga, la" />
+		<tag k='contact:phone' v='+34938714686' />
+		<tag k='source:date' v='03/11/2020 07:57:11 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.642443387' lon='2.361102611'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621770' />
+		<tag k='name' v="Farmàcia Sitjà Tost, M. Dolors" />
+		<tag k='addr:full' v="plaça  Joan Alsina, 8" />
+		<tag k='addr:postcode' v='08440' />
+		<tag k='addr:city' v="Cardedeu" />
+		<tag k='contact:phone' v='+34938444570' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.627773977' lon='2.294796881'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624544' />
+		<tag k='name' v="Farmàcia Jimenez Ucero. M. del Pilar" />
+		<tag k='addr:full' v="carretera  De Ribes, 205" />
+		<tag k='addr:postcode' v='08520' />
+		<tag k='addr:city' v="Franqueses del Vallès, les" />
+		<tag k='contact:phone' v='+34938493772' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.637542478' lon='2.361724796'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621952' />
+		<tag k='name' v="Farmàcia German Castillo, Raquel" />
+		<tag k='addr:full' v="carrer Mare De Deu Del Pilar, 34" />
+		<tag k='addr:postcode' v='08440' />
+		<tag k='addr:city' v="Cardedeu" />
+		<tag k='contact:phone' v='+34936254401' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.685215579' lon='2.28542395'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622245' />
+		<tag k='name' v="Farmàcia Comaposada Beringues, Josefina" />
+		<tag k='addr:full' v="carrer Centre, 29" />
+		<tag k='addr:postcode' v='08530' />
+		<tag k='addr:city' v="Garriga, la" />
+		<tag k='contact:phone' v='+34938718314' />
+		<tag k='source:date' v='03/11/2020 07:57:11 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.6402293' lon='2.397676555'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623137' />
+		<tag k='name' v="Farmàcia Valenzuela Rumbero, Gemma" />
+		<tag k='addr:full' v="carrer De L' Esglesia, 2" />
+		<tag k='addr:postcode' v='08450' />
+		<tag k='addr:city' v="Llinars del Vallès" />
+		<tag k='contact:phone' v='+34938410303' />
+		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.680360964' lon='2.286280904'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621248' />
+		<tag k='name' v="Farmàcia Ferrarons Girbau, Francesc" />
+		<tag k='addr:full' v="carrer Banys, 106" />
+		<tag k='addr:postcode' v='08530' />
+		<tag k='addr:city' v="Garriga, la" />
+		<tag k='contact:phone' v='+34938718128' />
+		<tag k='source:date' v='03/11/2020 07:57:11 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.693971004' lon='2.354316969'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623021' />
+		<tag k='name' v="Farmàcia Basté Sabé, M. Immaculada" />
+		<tag k='addr:full' v="carrer El Sui, 2" />
+		<tag k='addr:postcode' v='08445' />
+		<tag k='addr:city' v="Cànoves i Samalús" />
+		<tag k='contact:phone' v='+34938710534' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+</osm>

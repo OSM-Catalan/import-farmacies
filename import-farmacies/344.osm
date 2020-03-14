@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.35992168' lon='1.698200008'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624086' />
+		<tag k='name' v="Farmàcia Santos Faugerat, Mercè" />
+		<tag k='addr:full' v="carrer Segre, 21" />
+		<tag k='addr:postcode' v='25725' />
+		<tag k='addr:city' v="Montellà i Martinet" />
+		<tag k='contact:phone' v='+34973515165' />
+		<tag k='source:date' v='03/11/2020 07:59:09 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.377783863' lon='1.738120459'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624471' />
+		<tag k='name' v="Farmàcia Aloson Berdun, Rosa" />
+		<tag k='addr:full' v="carrer Del Puig, 1" />
+		<tag k='addr:postcode' v='25727' />
+		<tag k='addr:city' v="Prullans" />
+		<tag k='contact:phone' v='+34973511158' />
+		<tag k='source:date' v='03/11/2020 07:59:09 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.370746732' lon='1.777469264'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624066' />
+		<tag k='name' v="Farmàcia Betriu Català, Maria" />
+		<tag k='addr:full' v="avinguda Pere Sicart, 12" />
+		<tag k='addr:postcode' v='25720' />
+		<tag k='addr:city' v="Bellver de Cerdanya" />
+		<tag k='contact:phone' v='+34973510079' />
+		<tag k='source:date' v='03/11/2020 07:59:09 AM +0000' />
+	</node>
+</osm>

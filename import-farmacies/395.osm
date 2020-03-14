@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.43144624' lon='1.928599089'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623628' />
+		<tag k='name' v="Farmàcia Muntané Bartra, Joan" />
+		<tag k='addr:full' v="carrer Escoles Pies, 8" />
+		<tag k='addr:postcode' v='17520' />
+		<tag k='addr:city' v="Puigcerdà" />
+		<tag k='contact:phone' v='+34972880163' />
+		<tag k='source:date' v='03/11/2020 07:59:09 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='42.432015567' lon='1.928344997'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623629' />
+		<tag k='name' v="Farmàcia Ballester Casino, Vicente Manuel" />
+		<tag k='addr:full' v="carrer Alfons I, 16" />
+		<tag k='addr:postcode' v='17520' />
+		<tag k='addr:city' v="Puigcerdà" />
+		<tag k='contact:phone' v='+34972880160' />
+		<tag k='source:date' v='03/11/2020 07:59:09 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='42.464307015' lon='1.982182653'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623857' />
+		<tag k='name' v="Farmàcia Vidal Casals, Alba" />
+		<tag k='addr:full' v="carrer Federic Bernades, 20" />
+		<tag k='addr:postcode' v='17527' />
+		<tag k='addr:city' v="Llívia" />
+		<tag k='contact:phone' v='+34972146204' />
+		<tag k='source:date' v='03/11/2020 07:59:09 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='42.432628397' lon='1.928116339'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623957' />
+		<tag k='name' v="Farmàcia Mallol Marco, Begoña" />
+		<tag k='addr:full' v="carretera Nacional,  152 (CT. VILALLOBENT),  " />
+		<tag k='addr:postcode' v='17520' />
+		<tag k='addr:city' v="Puigcerdà" />
+		<tag k='contact:phone' v='+34972882451' />
+		<tag k='source:date' v='03/11/2020 07:59:09 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='42.433872331' lon='1.927556855'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621784' />
+		<tag k='name' v="Farmàcia Muntané Manaut, Núria" />
+		<tag k='addr:full' v="plaça  Barcelona, 3" />
+		<tag k='addr:postcode' v='17520' />
+		<tag k='addr:city' v="Puigcerdà" />
+		<tag k='contact:phone' v='+34972883714' />
+		<tag k='source:date' v='03/11/2020 07:59:09 AM +0000' />
+	</node>
+</osm>

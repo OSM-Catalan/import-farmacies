@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.732979389' lon='2.502457812'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624749' />
+		<tag k='name' v="Farmàcia Molinas Colldefors, M. Antònia" />
+		<tag k='addr:full' v="carrer Bisbe Pons, 21" />
+		<tag k='addr:postcode' v='08474' />
+		<tag k='addr:city' v="Gualba" />
+		<tag k='contact:phone' v='+34938487028' />
+		<tag k='source:date' v='03/11/2020 07:57:09 AM +0000' />
+	</node>
+</osm>

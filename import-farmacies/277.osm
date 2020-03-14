@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.383396185' lon='1.362917255'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623061' />
+		<tag k='name' v="Farmàcia Artigau Sendros, M. Dolors" />
+		<tag k='addr:full' v="carrer Montserrat, 9" />
+		<tag k='addr:postcode' v='43817' />
+		<tag k='addr:city' v="Pont d'Armentera, el" />
+		<tag k='source:date' v='03/11/2020 08:01:09 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.34632324' lon='1.362951414'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623207' />
+		<tag k='name' v="Farmàcia Pulido Socias, Maria Roser" />
+		<tag k='addr:full' v="carrer Sant Bernat, 1" />
+		<tag k='addr:postcode' v='43815' />
+		<tag k='addr:city' v="Aiguamúrcia" />
+		<tag k='contact:phone' v='+34977384390' />
+		<tag k='source:date' v='03/11/2020 08:01:12 AM +0000' />
+	</node>
+</osm>

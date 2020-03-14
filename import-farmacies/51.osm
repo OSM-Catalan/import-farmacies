@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.634754693' lon='0.283947774'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621779' />
+		<tag k='name' v="Farmàcia Marcoval Martí, Marta" />
+		<tag k='addr:full' v="carrer Tarragona, 27" />
+		<tag k='addr:postcode' v='43560' />
+		<tag k='addr:city' v="Sénia, la" />
+		<tag k='contact:phone' v='+34977713234' />
+		<tag k='source:date' v='03/11/2020 08:00:00 AM +0000' />
+	</node>
+</osm>

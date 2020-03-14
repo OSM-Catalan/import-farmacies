@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.533640398' lon='2.214805133'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624025' />
+		<tag k='name' v="Farmàcia Sánchez Arias, Begoña" />
+		<tag k='addr:full' v="carrer Sant Ramon, 55" />
+		<tag k='addr:postcode' v='08100' />
+		<tag k='addr:city' v="Mollet del Vallès" />
+		<tag k='contact:phone' v='+34935933090' />
+		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.538893974' lon='2.210689512'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621901' />
+		<tag k='name' v="Farmàcia Belart Esquerrà, Albert" />
+		<tag k='addr:full' v="rambla Nova, 25" />
+		<tag k='addr:postcode' v='08100' />
+		<tag k='addr:city' v="Mollet del Vallès" />
+		<tag k='contact:phone' v='+34935791769' />
+		<tag k='source:date' v='03/11/2020 07:57:07 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.535470748' lon='2.181378426'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622549' />
+		<tag k='name' v="Farmàcia Dordal Caralt, Ester" />
+		<tag k='addr:full' v="carrer Pare Rodes, 10" />
+		<tag k='addr:postcode' v='08130' />
+		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
+		<tag k='contact:phone' v='+34935600204' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.541212015' lon='2.269542228'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621440' />
+		<tag k='name' v="Farmàcia Forn Vilar, Elisabet" />
+		<tag k='addr:full' v="carrer Major, 55,  portal d" />
+		<tag k='addr:postcode' v='08170' />
+		<tag k='addr:city' v="Montornès del Vallès" />
+		<tag k='contact:phone' v='+34935688330' />
+		<tag k='source:date' v='03/11/2020 07:57:05 AM +0000' />
+	</node>
+	<node id='-5' visible='true' lat='41.553717138' lon='2.267191835'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623400' />
+		<tag k='name' v="Farmàcia Sempere Asensi, Juan Carlos" />
+		<tag k='addr:full' v="carrer Federico Garcia Lorca, 3" />
+		<tag k='addr:postcode' v='08170' />
+		<tag k='addr:city' v="Montornès del Vallès" />
+		<tag k='contact:phone' v='+34935680899' />
+		<tag k='source:date' v='03/11/2020 07:57:05 AM +0000' />
+	</node>
+	<node id='-6' visible='true' lat='41.584474674' lon='2.169049897'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623154' />
+		<tag k='name' v="Farmàcia Lacorzana López, M. Lourdes" />
+		<tag k='addr:full' v="carrer La Sagrera, 4" />
+		<tag k='addr:postcode' v='08184' />
+		<tag k='addr:city' v="Palau-solità i Plegamans" />
+		<tag k='contact:phone' v='+34938966354' />
+		<tag k='source:date' v='03/11/2020 07:57:33 AM +0000' />
+	</node>
+	<node id='-7' visible='true' lat='41.531537124' lon='2.179093483'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624429' />
+		<tag k='name' v="Farmàcia Serrano Ortega, M. Carme" />
+		<tag k='addr:full' v="carrer Lleida, 9" />
+		<tag k='addr:postcode' v='08130' />
+		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
+		<tag k='contact:phone' v='+34935600556' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-8' visible='true' lat='41.586859105' lon='2.17958565'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624840' />
+		<tag k='name' v="Farmàcia Beatobe Muntada, Joaquim" />
+		<tag k='addr:full' v="carrer Anselm Clave, 1" />
+		<tag k='addr:postcode' v='08184' />
+		<tag k='addr:city' v="Palau-solità i Plegamans" />
+		<tag k='contact:phone' v='+34938648047' />
+		<tag k='source:date' v='03/11/2020 07:57:33 AM +0000' />
+	</node>
+	<node id='-9' visible='true' lat='41.547726197' lon='2.203289049'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623428' />
+		<tag k='name' v="Farmàcia Morales Martínez, Miquel" />
+		<tag k='addr:full' v="carrer Francesc Ferrer I Guàrdia,  49-51" />
+		<tag k='addr:postcode' v='08100' />
+		<tag k='addr:city' v="Mollet del Vallès" />
+		<tag k='contact:phone' v='+34935791378' />
+		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
+	</node>
+	<node id='-10' visible='true' lat='41.61473267' lon='2.279965843'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621441' />
+		<tag k='name' v="Farmàcia Fransi Gallart, Josefina" />
+		<tag k='addr:full' v="carrer Maria Palau, 27" />
+		<tag k='addr:postcode' v='08403' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34938405946' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-11' visible='true' lat='41.58321115' lon='2.179398488'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621788' />
+		<tag k='name' v="Farmàcia Pelegrí Mateu, Maria Antònia" />
+		<tag k='addr:full' v="carrer Camí Reial, 54" />
+		<tag k='addr:postcode' v='08184' />
+		<tag k='addr:city' v="Palau-solità i Plegamans" />
+		<tag k='contact:phone' v='+34938640046' />
+		<tag k='source:date' v='03/11/2020 07:57:33 AM +0000' />
+	</node>
+	<node id='-12' visible='true' lat='41.566634277' lon='2.229763774'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624706' />
+		<tag k='name' v="Farmàcia Isern García, M. Alegria" />
+		<tag k='addr:full' v="avinguda  Catalunya, 135" />
+		<tag k='addr:postcode' v='08150' />
+		<tag k='addr:city' v="Parets del Vallès" />
+		<tag k='contact:phone' v='+34935620472' />
+		<tag k='source:date' v='03/11/2020 07:57:05 AM +0000' />
+	</node>
+	<node id='-13' visible='true' lat='41.611269453' lon='2.240027618'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621415' />
+		<tag k='name' v="Farmàcia Codina Hernández, Meritxell" />
+		<tag k='addr:full' v="carrer Folch I Torres, 96" />
+		<tag k='addr:postcode' v='08186' />
+		<tag k='addr:city' v="Lliçà d'Amunt" />
+		<tag k='contact:phone' v='+34938415587' />
+		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
+	</node>
+	<node id='-14' visible='true' lat='41.53347337' lon='2.210053731'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624289' />
+		<tag k='name' v="Farmàcia Satorres Lapeña, Manuel" />
+		<tag k='addr:full' v="avinguda Llibertat,  36-38,  portal 1" />
+		<tag k='addr:postcode' v='08100' />
+		<tag k='addr:city' v="Mollet del Vallès" />
+		<tag k='contact:phone' v='+34935702518' />
+		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
+	</node>
+	<node id='-15' visible='true' lat='41.550553001' lon='2.242963461'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='10277467' />
+		<tag k='name' v="Farmàcia Colls Desvilar, Margarita" />
+		<tag k='addr:full' v="passatge Corts Catalanes, 10,  porta 081" />
+		<tag k='addr:postcode' v='08160' />
+		<tag k='addr:city' v="Montmeló" />
+		<tag k='contact:phone' v='+34931305542' />
+		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
+	</node>
+	<node id='-16' visible='true' lat='41.614287575' lon='2.275812735'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623495' />
+		<tag k='name' v="Farmàcia Ruiz Torrado, Eva" />
+		<tag k='addr:full' v="carretera De Caldes, 55" />
+		<tag k='addr:postcode' v='08400' />
+		<tag k='addr:city' v="Granollers" />
+		<tag k='contact:phone' v='+34933493994' />
+		<tag k='source:date' v='03/11/2020 07:57:10 AM +0000' />
+	</node>
+	<node id='-17' visible='true' lat='41.544634058' lon='2.266764794'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623425' />
+		<tag k='name' v="Farmàcia Moreno López, Josep Agustí" />
+		<tag k='addr:full' v="avinguda Onze De Setembre, 38" />
+		<tag k='addr:postcode' v='08170' />
+		<tag k='addr:city' v="Montornès del Vallès" />
+		<tag k='contact:phone' v='+34935444180' />
+		<tag k='source:date' v='03/11/2020 07:57:05 AM +0000' />
+	</node>
+	<node id='-18' visible='true' lat='41.540708296' lon='2.265186047'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621917' />
+		<tag k='name' v="Farmàcia Padros Gea, Carme" />
+		<tag k='addr:full' v="carrer Palau,  16-18" />
+		<tag k='addr:postcode' v='08170' />
+		<tag k='addr:city' v="Montornès del Vallès" />
+		<tag k='contact:phone' v='+34935720814' />
+		<tag k='source:date' v='03/11/2020 07:57:05 AM +0000' />
+	</node>
+	<node id='-19' visible='true' lat='41.551654043' lon='2.246623593'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624269' />
+		<tag k='name' v="Farmàcia Coll Casulleras, Clara" />
+		<tag k='addr:full' v="carrer De La Diputacio, 17" />
+		<tag k='addr:postcode' v='08160' />
+		<tag k='addr:city' v="Montmeló" />
+		<tag k='contact:phone' v='+34935681718' />
+		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
+	</node>
+	<node id='-20' visible='true' lat='41.536799129' lon='2.179446041'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621926' />
+		<tag k='name' v="Farmàcia Torres Pérez, Jordi" />
+		<tag k='addr:full' v="avinguda Santiga, 32" />
+		<tag k='addr:postcode' v='08130' />
+		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
+		<tag k='contact:phone' v='+34935448668' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-21' visible='true' lat='41.574287684' lon='2.235011013'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622401' />
+		<tag k='name' v="Farmàcia Barja González, M. Isabel" />
+		<tag k='addr:full' v="carrer Raval, 26" />
+		<tag k='addr:postcode' v='08150' />
+		<tag k='addr:city' v="Parets del Vallès" />
+		<tag k='contact:phone' v='+34935737512' />
+		<tag k='source:date' v='03/11/2020 07:57:05 AM +0000' />
+	</node>
+	<node id='-22' visible='true' lat='41.564145331' lon='2.229712349'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621745' />
+		<tag k='name' v="Farmàcia Arribas Gámez, Adrian" />
+		<tag k='addr:full' v="passeig De La Igualtat, 6,  bloc d-10" />
+		<tag k='addr:postcode' v='08150' />
+		<tag k='addr:city' v="Parets del Vallès" />
+		<tag k='contact:phone' v='+34935737101' />
+		<tag k='source:date' v='03/11/2020 07:57:05 AM +0000' />
+	</node>
+	<node id='-23' visible='true' lat='41.551886649' lon='2.248619673'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624523' />
+		<tag k='name' v="Farmàcia Fajas Fanés, M. Antònia" />
+		<tag k='addr:full' v="carrer Pompeu Fabra, 10" />
+		<tag k='addr:postcode' v='08160' />
+		<tag k='addr:city' v="Montmeló" />
+		<tag k='contact:phone' v='+34935680288' />
+		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
+	</node>
+	<node id='-24' visible='true' lat='41.580670522' lon='2.180852315'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623297' />
+		<tag k='name' v="Farmàcia Lagarda Bös, Diana" />
+		<tag k='addr:full' v="avinguda Catalunya, 138" />
+		<tag k='addr:postcode' v='08184' />
+		<tag k='addr:city' v="Palau-solità i Plegamans" />
+		<tag k='source:date' v='03/11/2020 07:57:33 AM +0000' />
+	</node>
+	<node id='-25' visible='true' lat='41.553420343' lon='2.243366552'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621263' />
+		<tag k='name' v="Farmàcia Farrés Viladrich, Isabel" />
+		<tag k='addr:full' v="plaça  Mil·Lenari, 7,  pis bx" />
+		<tag k='addr:postcode' v='08160' />
+		<tag k='addr:city' v="Montmeló" />
+		<tag k='contact:phone' v='+34935722817' />
+		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
+	</node>
+	<node id='-26' visible='true' lat='41.534766848' lon='2.180567816'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623109' />
+		<tag k='name' v="Farmàcia Relat Roca, Carmen" />
+		<tag k='addr:full' v="carrer Rambla, 11" />
+		<tag k='addr:postcode' v='08130' />
+		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
+		<tag k='contact:phone' v='+34935601062' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-27' visible='true' lat='41.530588233' lon='2.182992256'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621747' />
+		<tag k='name' v="Farmàcia Peya Llach, Josep" />
+		<tag k='addr:full' v="carrer Pablo Ruiz Picasso, 7" />
+		<tag k='addr:postcode' v='08130' />
+		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
+		<tag k='contact:phone' v='+34935605212' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+	<node id='-28' visible='true' lat='41.53790764' lon='2.212895054'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622388' />
+		<tag k='name' v="Farmàcia Ramon Tugas, Montserrat" />
+		<tag k='addr:full' v="plaça  Catalunya, 1" />
+		<tag k='addr:postcode' v='08100' />
+		<tag k='addr:city' v="Mollet del Vallès" />
+		<tag k='contact:phone' v='+34935930099' />
+		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
+	</node>
+	<node id='-29' visible='true' lat='41.612890093' lon='2.238108878'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3943960' />
+		<tag k='name' v="Farmàcia Pinin Lavin, Delia" />
+		<tag k='addr:full' v="carrer Anselm Clavé, 139" />
+		<tag k='addr:postcode' v='08186' />
+		<tag k='addr:city' v="Lliçà d'Amunt" />
+		<tag k='contact:phone' v='+34934568409' />
+		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
+	</node>
+	<node id='-30' visible='true' lat='41.581313175' lon='2.236749778'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621097' />
+		<tag k='name' v="Farmàcia Portabella Calvete, Montserrat" />
+		<tag k='addr:full' v="avinguda Catalunya, 39" />
+		<tag k='addr:postcode' v='08185' />
+		<tag k='addr:city' v="Lliçà de Vall" />
+		<tag k='contact:phone' v='+34938439301' />
+		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
+	</node>
+	<node id='-31' visible='true' lat='41.589372238' lon='2.205003305'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623177' />
+		<tag k='name' v="Farmàcia Mas Martí, Roser" />
+		<tag k='addr:full' v="carretera Palaudàries, 77" />
+		<tag k='addr:postcode' v='08186' />
+		<tag k='addr:city' v="Lliçà d'Amunt" />
+		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
+	</node>
+	<node id='-32' visible='true' lat='41.536717636' lon='2.208455224'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623404' />
+		<tag k='name' v="Farmàcia Martínez Marin, Ildefonsa" />
+		<tag k='addr:full' v="carrer Diputacio, 9" />
+		<tag k='addr:postcode' v='08100' />
+		<tag k='addr:city' v="Mollet del Vallès" />
+		<tag k='contact:phone' v='+34935930959' />
+		<tag k='source:date' v='03/11/2020 07:57:07 AM +0000' />
+	</node>
+	<node id='-33' visible='true' lat='41.585236934' lon='2.176737254'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621101' />
+		<tag k='name' v="Farmàcia Muntada Pagès, Núria" />
+		<tag k='addr:full' v="carrer Secretari Gil, 9" />
+		<tag k='addr:postcode' v='08184' />
+		<tag k='addr:city' v="Palau-solità i Plegamans" />
+		<tag k='contact:phone' v='+34938649680' />
+		<tag k='source:date' v='03/11/2020 07:57:33 AM +0000' />
+	</node>
+	<node id='-34' visible='true' lat='41.616851718' lon='2.275822534'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623179' />
+		<tag k='name' v="Farmàcia Márquez Lorente, Anna" />
+		<tag k='addr:full' v="carrer Mollo, 3" />
+		<tag k='addr:postcode' v='08420' />
+		<tag k='addr:city' v="Canovelles" />
+		<tag k='contact:phone' v='+34938401811' />
+		<tag k='source:date' v='03/11/2020 07:57:12 AM +0000' />
+	</node>
+	<node id='-35' visible='true' lat='41.558551626' lon='2.223917926'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623183' />
+		<tag k='name' v="Farmàcia Sans Gesa, Dolors" />
+		<tag k='addr:full' v="carrer Sant Joan, 29" />
+		<tag k='addr:postcode' v='08150' />
+		<tag k='addr:city' v="Parets del Vallès" />
+		<tag k='contact:phone' v='+34935730808' />
+		<tag k='source:date' v='03/11/2020 07:57:05 AM +0000' />
+	</node>
+	<node id='-36' visible='true' lat='41.533464561' lon='2.185480711'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623802' />
+		<tag k='name' v="Farmàcia Guillen Relat, Jaume" />
+		<tag k='addr:full' v="avinguda De Barcelona, 2" />
+		<tag k='addr:postcode' v='08130' />
+		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
+		<tag k='contact:phone' v='+34935601860' />
+		<tag k='source:date' v='03/11/2020 07:57:23 AM +0000' />
+	</node>
+</osm>

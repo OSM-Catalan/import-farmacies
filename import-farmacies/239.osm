@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='42.496007521' lon='1.211351585'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624457' />
+		<tag k='name' v="Farmàcia Viñas Folch, Eulàlia" />
+		<tag k='addr:full' v="carretera Vall D'Aran, 27" />
+		<tag k='addr:postcode' v='25595' />
+		<tag k='addr:city' v="Llavorsí" />
+		<tag k='contact:phone' v='+34973622218' />
+		<tag k='source:date' v='03/11/2020 07:59:07 AM +0000' />
+	</node>
+</osm>

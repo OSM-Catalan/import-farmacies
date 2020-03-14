@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.728217656' lon='2.147451088'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3621251' />
+		<tag k='name' v="Farmàcia Feu Español, Mireia" />
+		<tag k='addr:full' v="carretera Barcelona, 1" />
+		<tag k='addr:postcode' v='08189' />
+		<tag k='addr:city' v="Sant Quirze Safaja" />
+		<tag k='contact:phone' v='+34938662582' />
+		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.751787967' lon='2.120310425'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622235' />
+		<tag k='name' v="Farmàcia Carrión Ribas, Joan Anton" />
+		<tag k='addr:full' v="carrer Del Mig, 1" />
+		<tag k='addr:postcode' v='08183' />
+		<tag k='addr:city' v="Castellterçol" />
+		<tag k='contact:phone' v='+34938668033' />
+		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.760710883' lon='2.147887048'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623178' />
+		<tag k='name' v="Farmàcia Pujol Vallvé, Maria Teresa" />
+		<tag k='addr:full' v="carrer De La Llum,  S/N" />
+		<tag k='addr:postcode' v='08183' />
+		<tag k='addr:city' v="Castellcir" />
+		<tag k='contact:phone' v='+34938666138' />
+		<tag k='source:date' v='03/11/2020 07:59:13 AM +0000' />
+	</node>
+</osm>

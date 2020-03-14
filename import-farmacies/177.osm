@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='40.992680299' lon='0.923398153'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622875' />
+		<tag k='name' v="Farmàcia García Aragonés, Fernando" />
+		<tag k='addr:full' v="carrer Via Augusta (Bulevard Blau),  S/N" />
+		<tag k='addr:postcode' v='43891' />
+		<tag k='addr:city' v="Vandellòs i l'Hospitalet de l'Infant" />
+		<tag k='contact:phone' v='+34977823046' />
+		<tag k='source:date' v='03/11/2020 08:00:59 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.009866285' lon='0.940320218'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623238' />
+		<tag k='name' v="Farmàcia Sabaté Muñoz, Joaquim" />
+		<tag k='addr:full' v="plaça  Tarragona, 8" />
+		<tag k='addr:postcode' v='43300' />
+		<tag k='addr:city' v="Mont-roig del Camp" />
+		<tag k='contact:phone' v='+34977170044' />
+		<tag k='source:date' v='03/11/2020 08:01:04 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.005919517' lon='0.935234821'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3622893' />
+		<tag k='name' v="Farmàcia Solé Llevat, M. Dolors" />
+		<tag k='addr:full' v="avinguda Barcelona, 158" />
+		<tag k='addr:postcode' v='43300' />
+		<tag k='addr:city' v="Mont-roig del Camp" />
+		<tag k='contact:phone' v='+34977810221' />
+		<tag k='source:date' v='03/11/2020 08:01:04 AM +0000' />
+	</node>
+	<node id='-4' visible='true' lat='41.050448553' lon='0.872234095'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623215' />
+		<tag k='name' v="Farmàcia Olivé Alabart, Rosa" />
+		<tag k='addr:full' v="avinguda Catalunya, 23" />
+		<tag k='addr:postcode' v='43320' />
+		<tag k='addr:city' v="Pratdip" />
+		<tag k='contact:phone' v='+34977837277' />
+		<tag k='source:date' v='03/11/2020 08:01:04 AM +0000' />
+	</node>
+</osm>

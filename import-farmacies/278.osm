@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Farmacies CODIV-19'>
+	<node id='-1' visible='true' lat='41.310089244' lon='1.358154902'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3624791' />
+		<tag k='name' v="Farmàcia Cunillera Galofré, Albert" />
+		<tag k='addr:full' v="carrer Jacint Verdaguer, 8" />
+		<tag k='addr:postcode' v='43814' />
+		<tag k='addr:city' v="Vila-rodona" />
+		<tag k='contact:phone' v='+34977638056' />
+		<tag k='source:date' v='03/11/2020 08:01:06 AM +0000' />
+	</node>
+	<node id='-2' visible='true' lat='41.280094318' lon='1.398857199'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623228' />
+		<tag k='name' v="Farmàcia Fuentes Roca, M. Montiel" />
+		<tag k='addr:full' v="carrer Sant Joan, 1" />
+		<tag k='addr:postcode' v='43812' />
+		<tag k='addr:city' v="Rodonyà" />
+		<tag k='contact:phone' v='+34977628385' />
+		<tag k='source:date' v='03/11/2020 08:01:08 AM +0000' />
+	</node>
+	<node id='-3' visible='true' lat='41.26027449' lon='1.438009484'>
+		<tag k='amenity' v='pharmacy' />
+		<tag k='ref' v='3623076' />
+		<tag k='name' v="Farmàcia Conde Gonzalez, Enrique Juan" />
+		<tag k='addr:full' v="carrer Major, 1" />
+		<tag k='addr:postcode' v='43718' />
+		<tag k='addr:city' v="Masllorenç" />
+		<tag k='contact:phone' v='+34977628351' />
+		<tag k='source:date' v='03/11/2020 08:00:56 AM +0000' />
+	</node>
+</osm>
