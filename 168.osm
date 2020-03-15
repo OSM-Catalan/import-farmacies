@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624449' />
 		<tag k='name' v="Farmàcia Mas Lacruz, Maria José" />
 		<tag k='addr:full' v="carrer Balaguer, 1" />
+		<tag k='addr:street' v="carrer Balaguer" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25617' />
 		<tag k='addr:city' v="Sentiu de Sió, la" />
 		<tag k='contact:phone' v='+34973425051' />

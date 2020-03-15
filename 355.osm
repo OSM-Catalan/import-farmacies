@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622539' />
 		<tag k='name' v="Farmàcia Roca Carreras, M. - Naranjo Salom, E." />
 		<tag k='addr:full' v="carrer Dr.Escayola, 4" />
+		<tag k='addr:street' v="carrer Dr.Escayola" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08770' />
 		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
 		<tag k='contact:phone' v='+34938910188' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621253' />
 		<tag k='name' v="Farmàcia Ferrer Santos, Anna" />
 		<tag k='addr:full' v="rambla Generalitat, 47" />
+		<tag k='addr:street' v="rambla Generalitat" />
+		<tag k='addr:housenumber' v="47" />
 		<tag k='addr:postcode' v='08770' />
 		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
 		<tag k='contact:phone' v='+34938913871' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623182' />
 		<tag k='name' v="Farmàcia García Marné, Yolanda" />
 		<tag k='addr:full' v="avinguda U, 26" />
+		<tag k='addr:street' v="avinguda U" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08794' />
 		<tag k='addr:city' v="Cabanyes, les" />
 		<tag k='contact:phone' v='+34938181495' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624753' />
 		<tag k='name' v="Farmàcia Ferré Garrig, Josep M." />
 		<tag k='addr:full' v="carrer Sans Abdon I Senen,  S/N" />
+		<tag k='addr:street' v="carrer Sans Abdon I Senen" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08733' />
 		<tag k='addr:city' v="Pla del Penedès, el" />
 		<tag k='contact:phone' v='+34938921900' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623806' />
 		<tag k='name' v="Farmàcia Vilella Rodríguez, Delfina" />
 		<tag k='addr:full' v="carrer Tarragona, 39" />
+		<tag k='addr:street' v="carrer Tarragona" />
+		<tag k='addr:housenumber' v="39" />
 		<tag k='addr:postcode' v='08770' />
 		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
 		<tag k='contact:phone' v='+34938910040' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3622540' />
 		<tag k='name' v="Farmàcia Mestre Climent, Raquel" />
 		<tag k='addr:full' v="carrer Hospital, 2" />
+		<tag k='addr:street' v="carrer Hospital" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08770' />
 		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
 		<tag k='contact:phone' v='+34938912611' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623185' />
 		<tag k='name' v="Farmàcia Cuadras Vidal, Antònia" />
 		<tag k='addr:full' v="carrer Igualada, 48" />
+		<tag k='addr:street' v="carrer Igualada" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='08720' />
 		<tag k='addr:city' v="Vilafranca del Penedès" />
 		<tag k='contact:phone' v='+34938181581' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3624119' />
 		<tag k='name' v="Farmàcia Vidal Delclós - Juves Vidal" />
 		<tag k='addr:full' v="carrer Sant Cristofol, 8" />
+		<tag k='addr:street' v="carrer Sant Cristofol" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08792' />
 		<tag k='addr:city' v="Granada, la" />
 		<tag k='contact:phone' v='+34938974227' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3621768' />
 		<tag k='name' v="Farmàcia Gascón Mir, Maria Carmen" />
 		<tag k='addr:full' v="rambla Generalitat, 26" />
+		<tag k='addr:street' v="rambla Generalitat" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08770' />
 		<tag k='addr:city' v="Sant Sadurní d'Anoia" />
 		<tag k='contact:phone' v='+34938266975' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3624748' />
 		<tag k='name' v="Farmàcia Font Garriga, Xavier" />
 		<tag k='addr:full' v="carrer Barcelona, 43" />
+		<tag k='addr:street' v="carrer Barcelona" />
+		<tag k='addr:housenumber' v="43" />
 		<tag k='addr:postcode' v='08793' />
 		<tag k='addr:city' v="Avinyonet del Penedès" />
 		<tag k='contact:phone' v='+34938970082' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3622534' />
 		<tag k='name' v="Farmàcia Hernández Massana, Rafael" />
 		<tag k='addr:full' v="carrer Ponent, 16" />
+		<tag k='addr:street' v="carrer Ponent" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08739' />
 		<tag k='addr:city' v="Subirats" />
 		<tag k='contact:phone' v='+34938993003' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3623002' />
 		<tag k='name' v="Farmàcia Juves Vidal, Pere" />
 		<tag k='addr:full' v="carrer Mila I Fontanals,  18-20" />
+		<tag k='addr:street' v="carrer Mila I Fontanals" />
+		<tag k='addr:housenumber' v=" 18-20" />
 		<tag k='addr:postcode' v='08798' />
 		<tag k='addr:city' v="Sant Cugat Sesgarrigues" />
 		<tag k='contact:phone' v='+34938970243' />

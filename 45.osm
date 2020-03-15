@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623217' />
 		<tag k='name' v="Farmàcia Piñana Domènech, Raquel" />
 		<tag k='addr:full' v="plaça   De La Diputacio, 2" />
+		<tag k='addr:street' v="plaça   De La Diputacio" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43783' />
 		<tag k='addr:city' v="Pobla de Massaluca, la" />
 		<tag k='contact:phone' v='+34977439727' />

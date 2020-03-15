@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623934' />
 		<tag k='name' v="Farmàcia Coll Collet, Núria" />
 		<tag k='addr:full' v="carrer Figueres, 27" />
+		<tag k='addr:street' v="carrer Figueres" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='17475' />
 		<tag k='addr:city' v="Sant Miquel de Fluvià" />
 		<tag k='contact:phone' v='+34972568219' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623944' />
 		<tag k='name' v="Farmàcia Pi Herrero, Pietat" />
 		<tag k='addr:full' v="carretera Nacional Iia,  KM2,  5" />
+		<tag k='addr:street' v="carretera Nacional Iia" />
+		<tag k='addr:housenumber' v=" KM2" />
 		<tag k='addr:postcode' v='17469' />
 		<tag k='addr:city' v="Vilamalla" />
 		<tag k='contact:phone' v='+34972526073' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623858' />
 		<tag k='name' v="Farmàcia Gomez Gil, Pere" />
 		<tag k='addr:full' v="carrer Comerç, 43" />
+		<tag k='addr:street' v="carrer Comerç" />
+		<tag k='addr:housenumber' v="43" />
 		<tag k='addr:postcode' v='17740' />
 		<tag k='addr:city' v="Vilafant" />
 		<tag k='contact:phone' v='+34972506274' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623962' />
 		<tag k='name' v="Farmàcia Bertran Morera, Montserrat" />
 		<tag k='addr:full' v="carrer Simo Llauneta, 41" />
+		<tag k='addr:street' v="carrer Simo Llauneta" />
+		<tag k='addr:housenumber' v="41" />
 		<tag k='addr:postcode' v='17742' />
 		<tag k='addr:city' v="Avinyonet de Puigventós" />
 		<tag k='contact:phone' v='+34972546260' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623458' />
 		<tag k='name' v="Farmàcia Fornaguera Bernabeu, Mariona" />
 		<tag k='addr:full' v="carrer Figueres, 5" />
+		<tag k='addr:street' v="carrer Figueres" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17770' />
 		<tag k='addr:city' v="Borrassà" />
 		<tag k='contact:phone' v='+34972745885' />

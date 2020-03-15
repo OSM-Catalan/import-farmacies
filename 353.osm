@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622106' />
 		<tag k='name' v="Farmàcia Codina Sabater, Marta" />
 		<tag k='addr:full' v="plaça  Verdaguer, 3" />
+		<tag k='addr:street' v="plaça  Verdaguer" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08786' />
 		<tag k='addr:city' v="Capellades" />
 		<tag k='contact:phone' v='+34938010082' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621927' />
 		<tag k='name' v="Farmàcia Forns Farrés, Marta" />
 		<tag k='addr:full' v="avinguda Carretera D'Igualada, 105" />
+		<tag k='addr:street' v="avinguda Carretera D'Igualada" />
+		<tag k='addr:housenumber' v="105" />
 		<tag k='addr:postcode' v='08784' />
 		<tag k='addr:city' v="Piera" />
 		<tag k='contact:phone' v='+34937788619' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622978' />
 		<tag k='name' v="Farmàcia Junyent Santamaria, Elena" />
 		<tag k='addr:full' v="carrer Esglesia, 53" />
+		<tag k='addr:street' v="carrer Esglesia" />
+		<tag k='addr:housenumber' v="53" />
 		<tag k='addr:postcode' v='08781' />
 		<tag k='addr:city' v="Hostalets de Pierola, els" />
 		<tag k='contact:phone' v='+34937712355' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3621256' />
 		<tag k='name' v="Farmàcia Granero Campi, M. Teresa" />
 		<tag k='addr:full' v="carrer Immaculada Concepció,  15-17" />
+		<tag k='addr:street' v="carrer Immaculada Concepció" />
+		<tag k='addr:housenumber' v=" 15-17" />
 		<tag k='addr:postcode' v='08786' />
 		<tag k='addr:city' v="Capellades" />
 		<tag k='contact:phone' v='+34938012385' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623000' />
 		<tag k='name' v="Farmàcia Sola Badia, Olga" />
 		<tag k='addr:full' v="carrer Bruc Del Mig,  15 bi" />
+		<tag k='addr:street' v="carrer Bruc Del Mig" />
+		<tag k='addr:housenumber' v=" 15 bi" />
 		<tag k='addr:postcode' v='08294' />
 		<tag k='addr:city' v="Bruc, el" />
 		<tag k='contact:phone' v='+34937710201' />

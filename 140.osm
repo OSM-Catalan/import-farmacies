@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624337' />
 		<tag k='name' v="Farmàcia Josa Pons, Rosa Maria" />
 		<tag k='addr:full' v="avinguda Joan Oro, 6" />
+		<tag k='addr:street' v="avinguda Joan Oro" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='25691' />
 		<tag k='addr:city' v="Àger" />
 		<tag k='contact:phone' v='+34973455060' />

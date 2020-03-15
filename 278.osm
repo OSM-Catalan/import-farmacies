@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624791' />
 		<tag k='name' v="Farmàcia Cunillera Galofré, Albert" />
 		<tag k='addr:full' v="carrer Jacint Verdaguer, 8" />
+		<tag k='addr:street' v="carrer Jacint Verdaguer" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='43814' />
 		<tag k='addr:city' v="Vila-rodona" />
 		<tag k='contact:phone' v='+34977638056' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623228' />
 		<tag k='name' v="Farmàcia Fuentes Roca, M. Montiel" />
 		<tag k='addr:full' v="carrer Sant Joan, 1" />
+		<tag k='addr:street' v="carrer Sant Joan" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43812' />
 		<tag k='addr:city' v="Rodonyà" />
 		<tag k='contact:phone' v='+34977628385' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623076' />
 		<tag k='name' v="Farmàcia Conde Gonzalez, Enrique Juan" />
 		<tag k='addr:full' v="carrer Major, 1" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43718' />
 		<tag k='addr:city' v="Masllorenç" />
 		<tag k='contact:phone' v='+34977628351' />

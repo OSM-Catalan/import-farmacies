@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624312' />
 		<tag k='name' v="Farmàcia Casas Pons, Dolors" />
 		<tag k='addr:full' v="carretera De Berga, 23" />
+		<tag k='addr:street' v="carretera De Berga" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='25282' />
 		<tag k='addr:city' v="Sant Llorenç de Morunys" />
 		<tag k='contact:phone' v='+34973492279' />

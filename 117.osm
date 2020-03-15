@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624452' />
 		<tag k='name' v="Farmàcia Bertran Pique, Maria Isabel" />
 		<tag k='addr:full' v="plaça   De La Creu, 1" />
+		<tag k='addr:street' v="plaça   De La Creu" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25134' />
 		<tag k='addr:city' v="Portella, la" />
 		<tag k='contact:phone' v='+34973186298' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624325' />
 		<tag k='name' v="Farmàcia Vergoños Gili, Alfons" />
 		<tag k='addr:full' v="carrer Portella, 1" />
+		<tag k='addr:street' v="carrer Portella" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25132' />
 		<tag k='addr:city' v="Benavent de Segrià" />
 		<tag k='contact:phone' v='+34973777245' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624318' />
 		<tag k='name' v="Farmàcia Borrego Vicente, M. Pilar" />
 		<tag k='addr:full' v="carrer De La Creu, 4" />
+		<tag k='addr:street' v="carrer De La Creu" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='25137' />
 		<tag k='addr:city' v="Corbins" />
 		<tag k='contact:phone' v='+34973190255' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624347' />
 		<tag k='name' v="Farmàcia Barberà Subirà, D. i Andreu Barbera, X." />
 		<tag k='addr:full' v="carrer Carles Valles, 5" />
+		<tag k='addr:street' v="carrer Carles Valles" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='25133' />
 		<tag k='addr:city' v="Vilanova de Segrià" />
 		<tag k='contact:phone' v='+34973777288' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624045' />
 		<tag k='name' v="Farmàcia Nieto Torrent, Laia" />
 		<tag k='addr:full' v="carrer Plaça Major, 4" />
+		<tag k='addr:street' v="carrer Plaça Major" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='25135' />
 		<tag k='addr:city' v="Albesa" />
 		<tag k='contact:phone' v='+34973186033' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3624351' />
 		<tag k='name' v="Farmàcia Balañà Baró, Laura" />
 		<tag k='addr:full' v="carrer Balaguer, 3" />
+		<tag k='addr:street' v="carrer Balaguer" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='25138' />
 		<tag k='addr:city' v="Torrelameu" />
 		<tag k='contact:phone' v='+34973190505' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624055' />
 		<tag k='name' v="Farmàcia Pedró Carulla, Montserrat" />
 		<tag k='addr:full' v="carretera Agramunt, 17" />
+		<tag k='addr:street' v="carretera Agramunt" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='25730' />
 		<tag k='addr:city' v="Artesa de Segre" />
 		<tag k='contact:phone' v='+34973400064' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621769' />
 		<tag k='name' v="Farmàcia Mola Aldavó, Ignasi" />
 		<tag k='addr:full' v="avinguda Maria Anzizu,  31-33" />
+		<tag k='addr:street' v="avinguda Maria Anzizu" />
+		<tag k='addr:housenumber' v=" 31-33" />
 		<tag k='addr:postcode' v='25730' />
 		<tag k='addr:city' v="Artesa de Segre" />
 		<tag k='contact:phone' v='+34973400062' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623660' />
 		<tag k='name' v="Farmàcia Arrizabalaga Nieto, Adrián" />
 		<tag k='addr:full' v="carrer Major, 68" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="68" />
 		<tag k='addr:postcode' v='17162' />
 		<tag k='addr:city' v="Bescanó" />
 		<tag k='contact:phone' v='+34972440059' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623943' />
 		<tag k='name' v="Farmàcia Medina Bonora, M. José" />
 		<tag k='addr:full' v="carrer Sant Ramon, 4" />
+		<tag k='addr:street' v="carrer Sant Ramon" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='17164' />
 		<tag k='addr:city' v="Sant Julià del Llor i Bonmatí" />
 		<tag k='contact:phone' v='+34972422231' />

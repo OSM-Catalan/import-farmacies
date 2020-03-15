@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624598' />
 		<tag k='name' v="Farmàcia Peset Bosch, Tomas" />
 		<tag k='addr:full' v="carrer Sant Llorenç,  S/N" />
+		<tag k='addr:street' v="carrer Sant Llorenç" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43515' />
 		<tag k='addr:city' v="Galera, la" />
 		<tag k='contact:phone' v='+34977718329' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623056' />
 		<tag k='name' v="Farmàcia Godina Ferreres, Teresa" />
 		<tag k='addr:full' v="carrer Setembre, 8" />
+		<tag k='addr:street' v="carrer Setembre" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='43516' />
 		<tag k='addr:city' v="Godall" />
 		<tag k='contact:phone' v='+34977718805' />

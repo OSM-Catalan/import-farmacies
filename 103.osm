@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623206' />
 		<tag k='name' v="Farmàcia Agüera Balagué, Maria Pilar" />
 		<tag k='addr:full' v="carrer Del Forn, 5" />
+		<tag k='addr:street' v="carrer Del Forn" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='43558' />
 		<tag k='addr:city' v="Freginals" />
 		<tag k='contact:phone' v='+34977719136' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623356' />
 		<tag k='name' v="Farmàcia Lluís Gisbert, Laura - Noé Lluís, Aïda" />
 		<tag k='addr:full' v="carrer Sant Isidre, 177" />
+		<tag k='addr:street' v="carrer Sant Isidre" />
+		<tag k='addr:housenumber' v="177" />
 		<tag k='addr:postcode' v='43540' />
 		<tag k='addr:city' v="Sant Carles de la Ràpita" />
 		<tag k='contact:phone' v='+34977745545' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624626' />
 		<tag k='name' v="Farmàcia Borrut Valles, Josep M." />
 		<tag k='addr:full' v="carrer Constancia, 6" />
+		<tag k='addr:street' v="carrer Constancia" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43540' />
 		<tag k='addr:city' v="Sant Carles de la Ràpita" />
 		<tag k='contact:phone' v='+34977740160' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3622896' />
 		<tag k='name' v="Farmàcia Bel Armengol, Mercè - Mur Bel, Carles" />
 		<tag k='addr:full' v="carrer Sant Isidre, 87" />
+		<tag k='addr:street' v="carrer Sant Isidre" />
+		<tag k='addr:housenumber' v="87" />
 		<tag k='addr:postcode' v='43540' />
 		<tag k='addr:city' v="Sant Carles de la Ràpita" />
 		<tag k='contact:phone' v='+34977741460' />

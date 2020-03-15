@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623935' />
 		<tag k='name' v="Farmàcia Hortalà Daniel, M. Farners" />
 		<tag k='addr:full' v="carrer Castellar, 2" />
+		<tag k='addr:street' v="carrer Castellar" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17490' />
 		<tag k='addr:city' v="Llançà" />
 		<tag k='contact:phone' v='+34972381496' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623558' />
 		<tag k='name' v="Farmàcia Figa Noiseau, Joaquim" />
 		<tag k='addr:full' v="carrer Salmero, 5" />
+		<tag k='addr:street' v="carrer Salmero" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17490' />
 		<tag k='addr:city' v="Llançà" />
 		<tag k='contact:phone' v='+34972121023' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623953' />
 		<tag k='name' v="Farmàcia Revilla Estrach, Àngels" />
 		<tag k='addr:full' v="carrer Mar, 78" />
+		<tag k='addr:street' v="carrer Mar" />
+		<tag k='addr:housenumber' v="78" />
 		<tag k='addr:postcode' v='17496' />
 		<tag k='addr:city' v="Colera" />
 		<tag k='contact:phone' v='+34972389212' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623576' />
 		<tag k='name' v="Farmàcia Llanta Nonell, M. Mercè" />
 		<tag k='addr:full' v="carrer Mar, 8" />
+		<tag k='addr:street' v="carrer Mar" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='17497' />
 		<tag k='addr:city' v="Portbou" />
 		<tag k='contact:phone' v='+34972390145' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624147' />
 		<tag k='name' v="Farmàcia Solduga Camarero,F.X/Solduga Tartera,M.T" />
 		<tag k='addr:full' v="avinguda Verdaguer, 23" />
+		<tag k='addr:street' v="avinguda Verdaguer" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='25500' />
 		<tag k='addr:city' v="Pobla de Segur, la" />
 		<tag k='contact:phone' v='+34973680015' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624148' />
 		<tag k='name' v="Farmàcia Gabas Rocafort, Jordi" />
 		<tag k='addr:full' v="carrer Sant Miquel Del Puy, 8" />
+		<tag k='addr:street' v="carrer Sant Miquel Del Puy" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='25500' />
 		<tag k='addr:city' v="Pobla de Segur, la" />
 		<tag k='contact:phone' v='+34973680066' />

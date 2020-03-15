@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624075' />
 		<tag k='name' v="Farmàcia Reyes Moncada, M. Àngels" />
 		<tag k='addr:full' v="carrer Calvari, 2" />
+		<tag k='addr:street' v="carrer Calvari" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='25460' />
 		<tag k='addr:city' v="Cervià de les Garrigues" />
 		<tag k='contact:phone' v='+34973178033' />

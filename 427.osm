@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621091' />
 		<tag k='name' v="Farmàcia Castrillon Anderson, Dante Paolo" />
 		<tag k='addr:full' v="plaça  De L'Església, 2" />
+		<tag k='addr:street' v="plaça  De L'Església" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08518' />
 		<tag k='addr:city' v="Oristà" />
 		<tag k='contact:phone' v='+34938128018' />

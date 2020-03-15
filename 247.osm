@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624079' />
 		<tag k='name' v="Farmàcia Pujol, Josep i Jordi" />
 		<tag k='addr:full' v="carrer Fluvia, 16" />
+		<tag k='addr:street' v="carrer Fluvia" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='25210' />
 		<tag k='addr:city' v="Guissona" />
 		<tag k='contact:phone' v='+34973550066' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621444' />
 		<tag k='name' v="Farmàcia Cinca Codina, Rosa" />
 		<tag k='addr:full' v="avinguda Generalitat, 45" />
+		<tag k='addr:street' v="avinguda Generalitat" />
+		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='25210' />
 		<tag k='addr:city' v="Guissona" />
 		<tag k='contact:phone' v='+34973552506' />

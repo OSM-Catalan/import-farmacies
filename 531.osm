@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623445' />
 		<tag k='name' v="Farmàcia Franch Serra, M. Teresa" />
 		<tag k='addr:full' v="carrer Indústria, 41" />
+		<tag k='addr:street' v="carrer Indústria" />
+		<tag k='addr:housenumber' v="41" />
 		<tag k='addr:postcode' v='17160' />
 		<tag k='addr:city' v="Anglès" />
 		<tag k='contact:phone' v='+34972420051' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623770' />
 		<tag k='name' v="Farmàcia Bonmatí Castellà, Adela" />
 		<tag k='addr:full' v="carrer La Verneda, 57" />
+		<tag k='addr:street' v="carrer La Verneda" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='17160' />
 		<tag k='addr:city' v="Anglès" />
 		<tag k='contact:phone' v='+34972420889' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623555' />
 		<tag k='name' v="Farmàcia Jornet Bonet, Marta" />
 		<tag k='addr:full' v="carrer Dr. Codina, 22" />
+		<tag k='addr:street' v="carrer Dr. Codina" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='17165' />
 		<tag k='addr:city' v="Cellera de Ter, la" />
 		<tag k='contact:phone' v='+34972424163' />

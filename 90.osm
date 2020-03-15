@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624048' />
 		<tag k='name' v="Farmàcia Farran Cajal, Antònia" />
 		<tag k='addr:full' v="avinguda Catalunya, 6" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='25120' />
 		<tag k='addr:city' v="Alfarràs" />
 		<tag k='contact:phone' v='+34973760064' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624051' />
 		<tag k='name' v="Farmàcia Térmens Navarro, Núria" />
 		<tag k='addr:full' v="carrer De L'Horta, 6" />
+		<tag k='addr:street' v="carrer De L'Horta" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='25126' />
 		<tag k='addr:city' v="Almenar" />
 		<tag k='contact:phone' v='+34973770281' />

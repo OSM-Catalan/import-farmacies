@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624485' />
 		<tag k='name' v="Farmàcia Curto Gonzalvo, Mireia" />
 		<tag k='addr:full' v="avinguda Terra Alta, 24" />
+		<tag k='addr:street' v="avinguda Terra Alta" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='43786' />
 		<tag k='addr:city' v="Batea" />
 		<tag k='contact:phone' v='+34977430263' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624084' />
 		<tag k='name' v="Farmàcia Blaco Gonzalez, Marina" />
 		<tag k='addr:full' v="carrer Santo Domingo, 9" />
+		<tag k='addr:street' v="carrer Santo Domingo" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='25186' />
 		<tag k='addr:city' v="Llardecans" />
 		<tag k='contact:phone' v='+34973130455' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624329' />
 		<tag k='name' v="Farmàcia Masana Pavón, Marta" />
 		<tag k='addr:full' v="carrer Barceloneta, 9" />
+		<tag k='addr:street' v="carrer Barceloneta" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='25179' />
 		<tag k='addr:city' v="Maials" />
 		<tag k='contact:phone' v='+34973130511' />

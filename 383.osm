@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623241' />
 		<tag k='name' v="Farmàcia Benazet Lluís - Benazet Homedes, R. i X." />
 		<tag k='addr:full' v=" cm  dels capellans, 23" />
+		<tag k='addr:street' v=" cm  dels capellans" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='contact:phone' v='+34938941331' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624271' />
 		<tag k='name' v="Farmàcia Arroyo García, Gabriel" />
 		<tag k='addr:full' v="carrer Port Alegre, 57" />
+		<tag k='addr:street' v="carrer Port Alegre" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='contact:phone' v='+34938949496' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624381' />
 		<tag k='name' v="Farmàcia Planas Nogué, Gerard" />
 		<tag k='addr:full' v="avinguda Artur Carbonell, 30" />
+		<tag k='addr:street' v="avinguda Artur Carbonell" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='contact:phone' v='+34938941573' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3621611' />
 		<tag k='name' v="Farmàcia Massagué Sanz, Carme" />
 		<tag k='addr:full' v="carretera De Les Costes, 20" />
+		<tag k='addr:street' v="carretera De Les Costes" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='contact:phone' v='+34938946348' />

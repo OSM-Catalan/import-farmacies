@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624732' />
 		<tag k='name' v="Farmàcia López Santín, Lídia" />
 		<tag k='addr:full' v="passeig Doctor Lleopart, 4" />
+		<tag k='addr:street' v="passeig Doctor Lleopart" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08516' />
 		<tag k='addr:city' v="Olost" />
 		<tag k='contact:phone' v='+34938880209' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623152' />
 		<tag k='name' v="Farmàcia Macià Pou, Montserrat" />
 		<tag k='addr:full' v="passeig Del Lluçanès, 19" />
+		<tag k='addr:street' v="passeig Del Lluçanès" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08589' />
 		<tag k='addr:city' v="Sant Boi de Lluçanès" />
 		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624340' />
 		<tag k='name' v="Farmàcia Aiguabella Alenta, Josep" />
 		<tag k='addr:full' v="carrer Major, 5" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='25680' />
 		<tag k='addr:city' v="Vallfogona de Balaguer" />
 		<tag k='contact:phone' v='+34973432151' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624330' />
 		<tag k='name' v="Farmàcia Borras Bonete, Montserrat" />
 		<tag k='addr:full' v="carrer Major, 36" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="36" />
 		<tag k='addr:postcode' v='25139' />
 		<tag k='addr:city' v="Menàrguens" />
 		<tag k='contact:phone' v='+34973180519' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624164' />
 		<tag k='name' v="Farmàcia Clua Miquel, Teresa" />
 		<tag k='addr:full' v="carrer La Bàscula, 9" />
+		<tag k='addr:street' v="carrer La Bàscula" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='25670' />
 		<tag k='addr:city' v="Térmens" />
 		<tag k='contact:phone' v='+34973180037' />

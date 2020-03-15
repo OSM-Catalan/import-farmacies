@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623061' />
 		<tag k='name' v="Farmàcia Artigau Sendros, M. Dolors" />
 		<tag k='addr:full' v="carrer Montserrat, 9" />
+		<tag k='addr:street' v="carrer Montserrat" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='43817' />
 		<tag k='addr:city' v="Pont d'Armentera, el" />
 		<tag k='source:date' v='03/11/2020 08:01:09 AM +0000' />
@@ -14,6 +16,8 @@
 		<tag k='ref' v='3623207' />
 		<tag k='name' v="Farmàcia Pulido Socias, Maria Roser" />
 		<tag k='addr:full' v="carrer Sant Bernat, 1" />
+		<tag k='addr:street' v="carrer Sant Bernat" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43815' />
 		<tag k='addr:city' v="Aiguamúrcia" />
 		<tag k='contact:phone' v='+34977384390' />

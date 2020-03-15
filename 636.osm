@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623745' />
 		<tag k='name' v="Farmàcia Sala Calsina, Montserrat" />
 		<tag k='addr:full' v="avinguda  Costa Brava, 2" />
+		<tag k='addr:street' v="avinguda  Costa Brava" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17249' />
 		<tag k='addr:city' v="Castell-Platja d'Aro" />
 		<tag k='contact:phone' v='+34972817564' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623849' />
 		<tag k='name' v="Farmàcia Utzet Civit, M. Victòria" />
 		<tag k='addr:full' v="avinguda Cavall Bernat, 95" />
+		<tag k='addr:street' v="avinguda Cavall Bernat" />
+		<tag k='addr:housenumber' v="95" />
 		<tag k='addr:postcode' v='17249' />
 		<tag k='addr:city' v="Castell-Platja d'Aro" />
 		<tag k='contact:phone' v='+34972817768' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623461' />
 		<tag k='name' v="Farmàcia Puigrefagut Serra, M. Cinta" />
 		<tag k='addr:full' v="carrer Rutlla, 5" />
+		<tag k='addr:street' v="carrer Rutlla" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17251' />
 		<tag k='addr:city' v="Calonge i Sant Antoni" />
 		<tag k='contact:phone' v='+34972651719' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623939' />
 		<tag k='name' v="Farmàcia Felez Vidal, Montserrat" />
 		<tag k='addr:full' v="avinguda De La Platja, 68" />
+		<tag k='addr:street' v="avinguda De La Platja" />
+		<tag k='addr:housenumber' v="68" />
 		<tag k='addr:postcode' v='17249' />
 		<tag k='addr:city' v="Castell-Platja d'Aro" />
 		<tag k='contact:phone' v='+34972818543' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3621456' />
 		<tag k='name' v="Farmàcia Bores Domenech, Josep Maria" />
 		<tag k='addr:full' v="passatge Josep Mundet, 33" />
+		<tag k='addr:street' v="passatge Josep Mundet" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='17252' />
 		<tag k='addr:city' v="Calonge i Sant Antoni" />
 		<tag k='contact:phone' v='+34972651634' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621419' />
 		<tag k='name' v="Farmàcia Bech Solés, Marta" />
 		<tag k='addr:full' v="carrer Josep Maria Vilaseca, 73" />
+		<tag k='addr:street' v="carrer Josep Maria Vilaseca" />
+		<tag k='addr:housenumber' v="73" />
 		<tag k='addr:postcode' v='17251' />
 		<tag k='addr:city' v="Calonge i Sant Antoni" />
 		<tag k='contact:phone' v='+34972662950' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623976' />
 		<tag k='name' v="Farmàcia De Benito Vergés, Alejandro" />
 		<tag k='addr:full' v="avinguda De S'Agaró, 55" />
+		<tag k='addr:street' v="avinguda De S'Agaró" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='17250' />
 		<tag k='addr:city' v="Castell-Platja d'Aro" />
 		<tag k='contact:phone' v='+34972819683' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623664' />
 		<tag k='name' v="Farmàcia Vilchez Ruiz-Gimenez, Ana" />
 		<tag k='addr:full' v="avinguda Castell D'Aro, 14" />
+		<tag k='addr:street' v="avinguda Castell D'Aro" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='17249' />
 		<tag k='addr:city' v="Castell-Platja d'Aro" />
 		<tag k='contact:phone' v='+34972826452' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623730' />
 		<tag k='name' v="Farmàcia Costa Juscafresa, Neus" />
 		<tag k='addr:full' v="avinguda Catalunya, 116" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="116" />
 		<tag k='addr:postcode' v='17252' />
 		<tag k='addr:city' v="Calonge i Sant Antoni" />
 		<tag k='contact:phone' v='+34972650546' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3623967' />
 		<tag k='name' v="Farmàcia Urquizu Aranaga, M. Josep" />
 		<tag k='addr:full' v="avinguda Catalunya, 3" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17252' />
 		<tag k='addr:city' v="Calonge i Sant Antoni" />
 		<tag k='contact:phone' v='+34972661693' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3621914' />
 		<tag k='name' v="Farmàcia Miquel Casals, Maria" />
 		<tag k='addr:full' v="carrer Santiago Rusiñol,  s/n" />
+		<tag k='addr:street' v="carrer Santiago Rusiñol" />
+		<tag k='addr:housenumber' v=" s/n" />
 		<tag k='addr:postcode' v='17249' />
 		<tag k='addr:city' v="Castell-Platja d'Aro" />
 		<tag k='contact:phone' v='+34972817560' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3623975' />
 		<tag k='name' v="Farmàcia Granell Ortells, Climent" />
 		<tag k='addr:full' v="avinguda Costa Brava,  6-8" />
+		<tag k='addr:street' v="avinguda Costa Brava" />
+		<tag k='addr:housenumber' v=" 6-8" />
 		<tag k='addr:postcode' v='17252' />
 		<tag k='addr:city' v="Calonge i Sant Antoni" />
 		<tag k='contact:phone' v='+34972652705' />

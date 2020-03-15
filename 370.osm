@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623778' />
 		<tag k='name' v="Farmàcia Selva Pérez, I. - Dols Selva, I." />
 		<tag k='addr:full' v="carrer Del Nord, 17" />
+		<tag k='addr:street' v="carrer Del Nord" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='17538' />
 		<tag k='addr:city' v="Alp" />
 		<tag k='contact:phone' v='+34972890201' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623972' />
 		<tag k='name' v="Farmàcia Cano Arribi, Pau" />
 		<tag k='addr:full' v="carretera Vella,  SN" />
+		<tag k='addr:street' v="carretera Vella" />
+		<tag k='addr:housenumber' v=" SN" />
 		<tag k='addr:postcode' v='17539' />
 		<tag k='addr:city' v="Ger" />
 		<tag k='contact:phone' v='+34972147059' />

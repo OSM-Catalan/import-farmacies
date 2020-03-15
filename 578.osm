@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623471' />
 		<tag k='name' v="Farmàcia Varcárcel Rosell, Elisa" />
 		<tag k='addr:full' v="plaça  De L'Horta, 5" />
+		<tag k='addr:street' v="plaça  De L'Horta" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17722' />
 		<tag k='addr:city' v="Darnius" />
 		<tag k='contact:phone' v='+34972535063' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623556' />
 		<tag k='name' v="Farmàcia Escutia Celda, Guadalupe" />
 		<tag k='addr:full' v="carrer Major, 87" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="87" />
 		<tag k='addr:postcode' v='17700' />
 		<tag k='addr:city' v="Jonquera, la" />
 		<tag k='contact:phone' v='+34972554014' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623932' />
 		<tag k='name' v="Farmàcia Pinadell Giralt, Roser" />
 		<tag k='addr:full' v="plaça  Josep Serra, 1" />
+		<tag k='addr:street' v="plaça  Josep Serra" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17707' />
 		<tag k='addr:city' v="Agullana" />
 		<tag k='contact:phone' v='+34972535237' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622527' />
 		<tag k='name' v="Farmàcia Mirabent Sala, Anna" />
 		<tag k='addr:full' v="carrer Batlle Serrallonga,  8-10" />
+		<tag k='addr:street' v="carrer Batlle Serrallonga" />
+		<tag k='addr:housenumber' v=" 8-10" />
 		<tag k='addr:postcode' v='08512' />
 		<tag k='addr:city' v="Sant Hipòlit de Voltregà" />
 		<tag k='contact:phone' v='+34938570080' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622544' />
 		<tag k='name' v="Farmàcia Rifa Piñol, Margarida" />
 		<tag k='addr:full' v="plaça  Castell, 7" />
+		<tag k='addr:street' v="plaça  Castell" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08571' />
 		<tag k='addr:city' v="Sant Vicenç de Torelló" />
 		<tag k='contact:phone' v='+34938591216' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623295' />
 		<tag k='name' v="Farmàcia Portús Noguera, Joan" />
 		<tag k='addr:full' v="plaça  Balmes, 1" />
+		<tag k='addr:street' v="plaça  Balmes" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08509' />
 		<tag k='addr:city' v="Masies de Voltregà, les" />
 		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3624747' />
 		<tag k='name' v="Farmàcia Casacuberta Tor, Maria Lluïsa" />
 		<tag k='addr:full' v="carrer Vell,  SN" />
+		<tag k='addr:street' v="carrer Vell" />
+		<tag k='addr:housenumber' v=" SN" />
 		<tag k='addr:postcode' v='08519' />
 		<tag k='addr:city' v="Sant Bartomeu del Grau" />
 		<tag k='contact:phone' v='+34938889101' />
@@ -44,6 +52,8 @@
 		<tag k='ref' v='3624730' />
 		<tag k='name' v="Farmàcia Nofre Mercader, Berta" />
 		<tag k='addr:full' v="carrer Manlleu, 31" />
+		<tag k='addr:street' v="carrer Manlleu" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08570' />
 		<tag k='addr:city' v="Torelló" />
 		<tag k='contact:phone' v='+34938592252' />
@@ -54,6 +64,8 @@
 		<tag k='ref' v='3623121' />
 		<tag k='name' v="Farmàcia Duran Riera, M. Teresa" />
 		<tag k='addr:full' v="plaça  De L'Ajuntament, 1" />
+		<tag k='addr:street' v="plaça  De L'Ajuntament" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08571' />
 		<tag k='addr:city' v="Sant Vicenç de Torelló" />
 		<tag k='contact:phone' v='+34938590020' />
@@ -64,6 +76,8 @@
 		<tag k='ref' v='3622641' />
 		<tag k='name' v="Farmàcia Prat Bofill, Jordi i Fortià" />
 		<tag k='addr:full' v="carrer Pont, 31, l2" />
+		<tag k='addr:street' v="carrer Pont" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08570' />
 		<tag k='addr:city' v="Torelló" />
 		<tag k='contact:phone' v='+34938590381' />
@@ -74,6 +88,8 @@
 		<tag k='ref' v='3622642' />
 		<tag k='name' v="Farmàcia Font Bou, Mireia - Homs Castells, Neus" />
 		<tag k='addr:full' v="carrer Ansel Clavé, 2" />
+		<tag k='addr:street' v="carrer Ansel Clavé" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08570' />
 		<tag k='addr:city' v="Torelló" />
 		<tag k='contact:phone' v='+34938590088' />
@@ -84,6 +100,8 @@
 		<tag k='ref' v='3622924' />
 		<tag k='name' v="Farmàcia Camps Martínez, Agnès" />
 		<tag k='addr:full' v="carrer Major, 11" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08509' />
 		<tag k='addr:city' v="Masies de Voltregà, les" />
 		<tag k='contact:phone' v='+34938591394' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621606' />
 		<tag k='name' v="Farmàcia Alsina Argelés, Mario" />
 		<tag k='addr:full' v="carrer Santa Clara, 43" />
+		<tag k='addr:street' v="carrer Santa Clara" />
+		<tag k='addr:housenumber' v="43" />
 		<tag k='addr:postcode' v='17486' />
 		<tag k='addr:city' v="Castelló d'Empúries" />
 		<tag k='contact:phone' v='+34972250027' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623842' />
 		<tag k='name' v="Farmàcia Crosas Casalprim, Judith" />
 		<tag k='addr:full' v="carrer Preso, 6" />
+		<tag k='addr:street' v="carrer Preso" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17486' />
 		<tag k='addr:city' v="Castelló d'Empúries" />
 		<tag k='contact:phone' v='+34972250108' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621623' />
 		<tag k='name' v="Farmàcia Fornells Pagès, Susanna" />
 		<tag k='addr:full' v="carrer Pla De Roses,  15A" />
+		<tag k='addr:street' v="carrer Pla De Roses" />
+		<tag k='addr:housenumber' v=" 15A" />
 		<tag k='addr:postcode' v='17486' />
 		<tag k='addr:city' v="Castelló d'Empúries" />
 		<tag k='contact:phone' v='+34972452078' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623575' />
 		<tag k='name' v="Farmàcia Iñarra Iborra, Úrsula" />
 		<tag k='addr:full' v="avinguda Constitucio, 1" />
+		<tag k='addr:street' v="avinguda Constitucio" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17491' />
 		<tag k='addr:city' v="Peralada" />
 		<tag k='contact:phone' v='+34972538327' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623865' />
 		<tag k='name' v="Farmàcia Ymbert Pellejà, Helena" />
 		<tag k='addr:full' v="plaça  Margineda, 3" />
+		<tag k='addr:street' v="plaça  Margineda" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17493' />
 		<tag k='addr:city' v="Vilajuïga" />
 		<tag k='contact:phone' v='+34972530312' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623535' />
 		<tag k='name' v="Farmàcia Aubert Siques, Anna" />
 		<tag k='addr:full' v="carrer Gran, 35" />
+		<tag k='addr:street' v="carrer Gran" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='17780' />
 		<tag k='addr:city' v="Garriguella" />
 		<tag k='contact:phone' v='+34972530181' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623933' />
 		<tag k='name' v="Farmàcia Freixes Sanjuan, Remei" />
 		<tag k='addr:full' v="plaça  De L'Esglèsia, 7" />
+		<tag k='addr:street' v="plaça  De L'Esglèsia" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='17485' />
 		<tag k='addr:city' v="Vila-sacra" />
 		<tag k='contact:phone' v='+34972511216' />

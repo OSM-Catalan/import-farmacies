@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624341' />
 		<tag k='name' v="Farmàcia Rubies Prat, Núria" />
 		<tag k='addr:full' v="carrer Font Vella,  S/N" />
+		<tag k='addr:street' v="carrer Font Vella" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='25610' />
 		<tag k='addr:city' v="Os de Balaguer" />
 		<tag k='contact:phone' v='+34973438018' />

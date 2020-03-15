@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623777' />
 		<tag k='name' v="Farmàcia Comas Izquierdo, Carles" />
 		<tag k='addr:full' v="avinguda  Costa Brava, 2" />
+		<tag k='addr:street' v="avinguda  Costa Brava" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17121' />
 		<tag k='addr:city' v="Corçà" />
 		<tag k='contact:phone' v='+34972630083' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623872' />
 		<tag k='name' v="Farmàcia Comas Bergua, Maria Teresa" />
 		<tag k='addr:full' v="carretera  De La Roqueta, 1" />
+		<tag k='addr:street' v="carretera  De La Roqueta" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17140' />
 		<tag k='addr:city' v="Ullà" />
 		<tag k='contact:phone' v='+34972757101' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623656' />
 		<tag k='name' v="Farmàcia Vilabru Geli, Josep" />
 		<tag k='addr:full' v="carrer Major, 4" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='17142' />
 		<tag k='addr:city' v="Verges" />
 		<tag k='contact:phone' v='+34972780034' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623861' />
 		<tag k='name' v="Farmàcia Mir Negre, Núria" />
 		<tag k='addr:full' v="carrer Matabou, 2" />
+		<tag k='addr:street' v="carrer Matabou" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17133' />
 		<tag k='addr:city' v="Parlavà" />
 		<tag k='contact:phone' v='+34972769129' />

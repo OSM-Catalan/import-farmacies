@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622980' />
 		<tag k='name' v="Farmàcia Bosch Gibert, Montserrat" />
 		<tag k='addr:full' v="carrer Segimon Tomeu,  1BIS" />
+		<tag k='addr:street' v="carrer Segimon Tomeu" />
+		<tag k='addr:housenumber' v=" 1BIS" />
 		<tag k='addr:postcode' v='08775' />
 		<tag k='addr:city' v="Torrelavit" />
 		<tag k='contact:phone' v='+34938995827' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622402' />
 		<tag k='name' v="Farmàcia Recasens Isart, Miquel" />
 		<tag k='addr:full' v="carrer Sant Cristofol, 3" />
+		<tag k='addr:street' v="carrer Sant Cristofol" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08784' />
 		<tag k='addr:city' v="Piera" />
 		<tag k='contact:phone' v='+34937788232' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622536' />
 		<tag k='name' v="Farmàcia Bonfill Planes, Clara" />
 		<tag k='addr:full' v="carrer Montserrat,  56-58" />
+		<tag k='addr:street' v="carrer Montserrat" />
+		<tag k='addr:housenumber' v=" 56-58" />
 		<tag k='addr:postcode' v='08776' />
 		<tag k='addr:city' v="Sant Pere de Riudebitlles" />
 		<tag k='contact:phone' v='+34938995276' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623728' />
 		<tag k='name' v="Farmàcia Font Sanahuja, C / Puiggros Font, A" />
 		<tag k='addr:full' v="carrer Major, 84" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="84" />
 		<tag k='addr:postcode' v='08785' />
 		<tag k='addr:city' v="Vallbona d'Anoia" />
 		<tag k='contact:phone' v='+34937718104' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623906' />
 		<tag k='name' v="Farmàcia Vidal Alemany, Salvador" />
 		<tag k='addr:full' v="carrer Piereta, 31" />
+		<tag k='addr:street' v="carrer Piereta" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08784' />
 		<tag k='addr:city' v="Piera" />
 		<tag k='contact:phone' v='+34937788360' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621743' />
 		<tag k='name' v="Farmàcia Busquets Serret, Neus" />
 		<tag k='addr:full' v="carrer Llobregat, 20" />
+		<tag k='addr:street' v="carrer Llobregat" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08784' />
 		<tag k='addr:city' v="Piera" />
 		<tag k='contact:phone' v='+34937788613' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623311' />
 		<tag k='name' v="Farmàcia Rigol Parera, Santiago" />
 		<tag k='addr:full' v="carrer Balmes, 37" />
+		<tag k='addr:street' v="carrer Balmes" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='08784' />
 		<tag k='addr:city' v="Piera" />
 		<tag k='contact:phone' v='+34937788603' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3621250' />
 		<tag k='name' v="Farmàcia Bertolin Parra, Núria" />
 		<tag k='addr:full' v="avinguda Corral Del Mas, 17" />
+		<tag k='addr:street' v="avinguda Corral Del Mas" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08784' />
 		<tag k='addr:city' v="Piera" />
 		<tag k='contact:phone' v='+34937788604' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3621619' />
 		<tag k='name' v="Farmàcia Bausili López-Sáez, Joaquin" />
 		<tag k='addr:full' v="carretera D'Igualada, 58" />
+		<tag k='addr:street' v="carretera D'Igualada" />
+		<tag k='addr:housenumber' v="58" />
 		<tag k='addr:postcode' v='08784' />
 		<tag k='addr:city' v="Piera" />
 		<tag k='contact:phone' v='+34937789275' />

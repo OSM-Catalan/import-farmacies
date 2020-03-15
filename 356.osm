@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624744' />
 		<tag k='name' v="Farmàcia Engel Cellier, Carles" />
 		<tag k='addr:full' v="carrer Nou, 2" />
+		<tag k='addr:street' v="carrer Nou" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08811' />
 		<tag k='addr:city' v="Canyelles" />
 		<tag k='contact:phone' v='+34938973044' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621081' />
 		<tag k='name' v="Farmàcia Alonso Riera, Enric" />
 		<tag k='addr:full' v="carrer Aquari,  S/N" />
+		<tag k='addr:street' v="carrer Aquari" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08818' />
 		<tag k='addr:city' v="Olivella" />
 		<tag k='contact:phone' v='+34938968792' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621231' />
 		<tag k='name' v="Farmàcia Busquets Casso, Anna" />
 		<tag k='addr:full' v="carrer Lluis Companys, 72" />
+		<tag k='addr:street' v="carrer Lluis Companys" />
+		<tag k='addr:housenumber' v="72" />
 		<tag k='addr:postcode' v='08810' />
 		<tag k='addr:city' v="Sant Pere de Ribes" />
 		<tag k='contact:phone' v='+34938963825' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624752' />
 		<tag k='name' v="Farmàcia Gaya Montserrat, Santiago" />
 		<tag k='addr:full' v="carrer Carrerada, 28" />
+		<tag k='addr:street' v="carrer Carrerada" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08734' />
 		<tag k='addr:city' v="Olèrdola" />
 		<tag k='contact:phone' v='+34938903619' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624466' />
 		<tag k='name' v="Farmàcia Gallego Reñe, Llorenç" />
 		<tag k='addr:full' v="carretera De Balaguer, 22" />
+		<tag k='addr:street' v="carretera De Balaguer" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='25130' />
 		<tag k='addr:city' v="Algerri" />
 		<tag k='contact:phone' v='+34973426189' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624631' />
 		<tag k='name' v="Farmàcia Segura Castellví, Miquel Àngel" />
 		<tag k='addr:full' v="avinguda De La Conca, 42" />
+		<tag k='addr:street' v="avinguda De La Conca" />
+		<tag k='addr:housenumber' v="42" />
 		<tag k='addr:postcode' v='43424' />
 		<tag k='addr:city' v="Sarral" />
 		<tag k='contact:phone' v='+34977890275' />

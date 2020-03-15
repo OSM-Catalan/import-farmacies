@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624049' />
 		<tag k='name' v="Farmàcia Sapiens Ris, J - Lladonosa Sapiens, L." />
 		<tag k='addr:full' v="carrer Del Pati, 4" />
+		<tag k='addr:street' v="carrer Del Pati" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='25125' />
 		<tag k='addr:city' v="Alguaire" />
 		<tag k='contact:phone' v='+34973757226' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624311' />
 		<tag k='name' v="Farmàcia Revés Feixa, Clara" />
 		<tag k='addr:full' v="avinguda Guillem De Roselló,  s/n" />
+		<tag k='addr:street' v="avinguda Guillem De Roselló" />
+		<tag k='addr:housenumber' v=" s/n" />
 		<tag k='addr:postcode' v='25124' />
 		<tag k='addr:city' v="Rosselló" />
 		<tag k='contact:phone' v='+34973730386' />

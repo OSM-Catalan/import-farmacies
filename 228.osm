@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622912' />
 		<tag k='name' v="Farmàcia Vidiella Caelles, Laura" />
 		<tag k='addr:full' v="carrer Antiquaris, 2" />
+		<tag k='addr:street' v="carrer Antiquaris" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43205' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977757376' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624620' />
 		<tag k='name' v="Farmàcia Pique Calafell, Joaquim" />
 		<tag k='addr:full' v="avinguda President Francesc Macià,  21-23" />
+		<tag k='addr:street' v="avinguda President Francesc Macià" />
+		<tag k='addr:housenumber' v=" 21-23" />
 		<tag k='addr:postcode' v='43204' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977770830' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624792' />
 		<tag k='name' v="Farmàcia Jansa Grau, Carles" />
 		<tag k='addr:full' v="plaça   De Les Voltes, 4" />
+		<tag k='addr:street' v="plaça   De Les Voltes" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43480' />
 		<tag k='addr:city' v="Vila-seca" />
 		<tag k='contact:phone' v='+34977390374' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3622894' />
 		<tag k='name' v="Farmàcia Canals Nadal, M. Rosa" />
 		<tag k='addr:full' v="avinguda Carles Buigas, 14" />
+		<tag k='addr:street' v="avinguda Carles Buigas" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='43840' />
 		<tag k='addr:city' v="Salou" />
 		<tag k='contact:phone' v='+34977381363' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624801' />
 		<tag k='name' v="Farmàcia Ferrus Pàmies, Montserrat" />
 		<tag k='addr:full' v="carrer Jurats, 28" />
+		<tag k='addr:street' v="carrer Jurats" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='43205' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977312548' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623355' />
 		<tag k='name' v="Farmàcia Torell Sorio, Montserrat" />
 		<tag k='addr:full' v="carrer Riu Ter, 6" />
+		<tag k='addr:street' v="carrer Riu Ter" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43006' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977540872' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3624618' />
 		<tag k='name' v="Farmàcia Ornosa Gispert, Maria Teresa" />
 		<tag k='addr:full' v="raval Santa Anna, 80" />
+		<tag k='addr:street' v="raval Santa Anna" />
+		<tag k='addr:housenumber' v="80" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977303018' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3624612' />
 		<tag k='name' v="Farmàcia Ferrús Muntané, Margarita" />
 		<tag k='addr:full' v="raval De Jesús, 1" />
+		<tag k='addr:street' v="raval De Jesús" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977342237' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3624794' />
 		<tag k='name' v="Farmàcia Besora Anglerill, Josep" />
 		<tag k='addr:full' v="plaça  Bonet, 1" />
+		<tag k='addr:street' v="plaça  Bonet" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43840' />
 		<tag k='addr:city' v="Salou" />
 		<tag k='contact:phone' v='+34977380343' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3621436' />
 		<tag k='name' v="Farmàcia Domingo Roige, Silvia" />
 		<tag k='addr:full' v="avinguda Ramon D'Olçina,  40-42" />
+		<tag k='addr:street' v="avinguda Ramon D'Olçina" />
+		<tag k='addr:housenumber' v=" 40-42" />
 		<tag k='addr:postcode' v='43480' />
 		<tag k='addr:city' v="Vila-seca" />
 		<tag k='contact:phone' v='+34977376521' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3624492' />
 		<tag k='name' v="Farmàcia Escoda Llop, Oriol" />
 		<tag k='addr:full' v="carrer Raval, 56" />
+		<tag k='addr:street' v="carrer Raval" />
+		<tag k='addr:housenumber' v="56" />
 		<tag k='addr:postcode' v='43110' />
 		<tag k='addr:city' v="Canonja, la" />
 		<tag k='contact:phone' v='+34977545090' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3624646' />
 		<tag k='name' v="Farmàcia Carreras Jofre, Carme" />
 		<tag k='addr:full' v="carrer Quinze, 14" />
+		<tag k='addr:street' v="carrer Quinze" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='43100' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977544909' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3622911' />
 		<tag k='name' v="Farmàcia Miró Nuño, Maria Pilar i Eva" />
 		<tag k='addr:full' v="carrer Manuel Carrasco, 3" />
+		<tag k='addr:street' v="carrer Manuel Carrasco" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43110' />
 		<tag k='addr:city' v="Canonja, la" />
 		<tag k='contact:phone' v='+34977546060' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3621928' />
 		<tag k='name' v="Farmàcia Mas Castelltort, Lourdes" />
 		<tag k='addr:full' v="avinguda Montserrat, 24" />
+		<tag k='addr:street' v="avinguda Montserrat" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='43480' />
 		<tag k='addr:city' v="Vila-seca" />
 		<tag k='source:date' v='03/11/2020 08:00:30 AM +0000' />
@@ -144,6 +172,8 @@
 		<tag k='ref' v='3624619' />
 		<tag k='name' v="Farmàcia Sans Porta, Pau" />
 		<tag k='addr:full' v="carrer Llovera, 47" />
+		<tag k='addr:street' v="carrer Llovera" />
+		<tag k='addr:housenumber' v="47" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977341943' />
@@ -154,6 +184,8 @@
 		<tag k='ref' v='3623354' />
 		<tag k='name' v="Farmàcia Domingo Roige, Joan" />
 		<tag k='addr:full' v="carrer Tarragona, 5" />
+		<tag k='addr:street' v="carrer Tarragona" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='43480' />
 		<tag k='addr:city' v="Vila-seca" />
 		<tag k='contact:phone' v='+34977394084' />
@@ -164,6 +196,8 @@
 		<tag k='ref' v='3622870' />
 		<tag k='name' v="Farmàcia Nuño Escribano, Pilar" />
 		<tag k='addr:full' v="carrer 21, 45" />
+		<tag k='addr:street' v="carrer 21" />
+		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='43100' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977543990' />
@@ -174,6 +208,8 @@
 		<tag k='ref' v='3623047' />
 		<tag k='name' v="Farmàcia Calatayud Boquera, Maria Dolors" />
 		<tag k='addr:full' v=" vi roma, 17" />
+		<tag k='addr:street' v=" vi roma" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='43840' />
 		<tag k='addr:city' v="Salou" />
 		<tag k='contact:phone' v='+34977382761' />
@@ -184,6 +220,8 @@
 		<tag k='ref' v='10245397' />
 		<tag k='name' v="Farmàcia Castello Escriva, Jose Javier" />
 		<tag k='addr:full' v="carrer Vent, 44" />
+		<tag k='addr:street' v="carrer Vent" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977310949' />
@@ -194,6 +232,8 @@
 		<tag k='ref' v='3622881' />
 		<tag k='name' v="Farmàcia García Manzanares, MT-Plana García, V" />
 		<tag k='addr:full' v="carrer Sant Benildo, 10" />
+		<tag k='addr:street' v="carrer Sant Benildo" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='43006' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977549790' />
@@ -204,6 +244,8 @@
 		<tag k='ref' v='3623074' />
 		<tag k='name' v="Farmàcia Brufau de Barberà, Antoni" />
 		<tag k='addr:full' v="carrer Mas De L'Abelló, 24" />
+		<tag k='addr:street' v="carrer Mas De L'Abelló" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='43204' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977771089' />
@@ -214,6 +256,8 @@
 		<tag k='ref' v='3623046' />
 		<tag k='name' v="Farmàcia Escobar Poblet, Francesc" />
 		<tag k='addr:full' v="carrer Requet De Felix, 54" />
+		<tag k='addr:street' v="carrer Requet De Felix" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='43480' />
 		<tag k='addr:city' v="Vila-seca" />
 		<tag k='contact:phone' v='+34977382716' />
@@ -224,6 +268,8 @@
 		<tag k='ref' v='3624610' />
 		<tag k='name' v="Farmàcia Bru Fenech, Josep M." />
 		<tag k='addr:full' v="carrer Sant Joan, 15" />
+		<tag k='addr:street' v="carrer Sant Joan" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977315859' />
@@ -234,6 +280,8 @@
 		<tag k='ref' v='3624617' />
 		<tag k='name' v="Farmàcia Mariné Grau, Mònica" />
 		<tag k='addr:full' v="raval Santa Anna, 2" />
+		<tag k='addr:street' v="raval Santa Anna" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977302615' />
@@ -244,6 +292,8 @@
 		<tag k='ref' v='3622917' />
 		<tag k='name' v="Farmàcia Conde Peidro, Lucía" />
 		<tag k='addr:full' v="carrer Escultor Rocamora, 1" />
+		<tag k='addr:street' v="carrer Escultor Rocamora" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43204' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977757301' />
@@ -254,6 +304,8 @@
 		<tag k='ref' v='3622877' />
 		<tag k='name' v="Farmàcia Masot Roige, Francesca" />
 		<tag k='addr:full' v="carrer Pau Casals, 85" />
+		<tag k='addr:street' v="carrer Pau Casals" />
+		<tag k='addr:housenumber' v="85" />
 		<tag k='addr:postcode' v='43480' />
 		<tag k='addr:city' v="Vila-seca" />
 		<tag k='contact:phone' v='+34977384720' />
@@ -264,6 +316,8 @@
 		<tag k='ref' v='3624495' />
 		<tag k='name' v="Farmàcia Roig Aldasoro, M. Teresa" />
 		<tag k='addr:full' v="carrer Major, 6" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43120' />
 		<tag k='addr:city' v="Constantí" />
 		<tag k='contact:phone' v='+34977521710' />
@@ -274,6 +328,8 @@
 		<tag k='ref' v='3624611' />
 		<tag k='name' v="Farmàcia Cavallé Vallverdú, Jordi" />
 		<tag k='addr:full' v="raval De Jesús, 48" />
+		<tag k='addr:street' v="raval De Jesús" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977310657' />
@@ -284,6 +340,8 @@
 		<tag k='ref' v='3622909' />
 		<tag k='name' v="Farmàcia Ribé Dalmases, Mercè" />
 		<tag k='addr:full' v="raval Sant Pere, 22" />
+		<tag k='addr:street' v="raval Sant Pere" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977345988' />
@@ -294,6 +352,8 @@
 		<tag k='ref' v='3624804' />
 		<tag k='name' v="Farmàcia Roig Rovira, Cristina" />
 		<tag k='addr:full' v="avinguda Enric Prat De La Riba, 21" />
+		<tag k='addr:street' v="avinguda Enric Prat De La Riba" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='43201' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977314161' />
@@ -304,6 +364,8 @@
 		<tag k='ref' v='3622887' />
 		<tag k='name' v="Farmàcia Nebrera Montoro, AM - Borrero Nebrera, A" />
 		<tag k='addr:full' v="carrer Vint-I-Un, 24" />
+		<tag k='addr:street' v="carrer Vint-I-Un" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='43100' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977543207' />
@@ -314,6 +376,8 @@
 		<tag k='ref' v='3623359' />
 		<tag k='name' v="Farmàcia Coret Herrera, Rosa i Miquel Enric" />
 		<tag k='addr:full' v="carrer Sinies, 3" />
+		<tag k='addr:street' v="carrer Sinies" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43840' />
 		<tag k='addr:city' v="Salou" />
 		<tag k='contact:phone' v='+34977380788' />
@@ -324,6 +388,8 @@
 		<tag k='ref' v='3622876' />
 		<tag k='name' v="Farmàcia Tuset Pros, Josefina" />
 		<tag k='addr:full' v="plaça  Ponent, 2" />
+		<tag k='addr:street' v="plaça  Ponent" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43001' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977216959' />
@@ -334,6 +400,8 @@
 		<tag k='ref' v='3623236' />
 		<tag k='name' v="Farmàcia Sentis - Navas - Guillen - Villanueva" />
 		<tag k='addr:full' v="avinguda Paisos Catalans, 116" />
+		<tag k='addr:street' v="avinguda Paisos Catalans" />
+		<tag k='addr:housenumber' v="116" />
 		<tag k='addr:postcode' v='43205' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977322751' />
@@ -344,6 +412,8 @@
 		<tag k='ref' v='3622918' />
 		<tag k='name' v="Farmàcia Roig Ardévol, Joan Ramon" />
 		<tag k='addr:full' v="avinguda Cardenal Vidal I Barraquer, 32" />
+		<tag k='addr:street' v="avinguda Cardenal Vidal I Barraquer" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='43205' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977315195' />
@@ -354,6 +424,8 @@
 		<tag k='ref' v='3622888' />
 		<tag k='name' v="Farmàcia Ciutat Montserrat, R - Molero Ciutat, H" />
 		<tag k='addr:full' v="carrer Gran Canària, 11" />
+		<tag k='addr:street' v="carrer Gran Canària" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='43006' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977543189' />
@@ -364,6 +436,8 @@
 		<tag k='ref' v='3623035' />
 		<tag k='name' v="Farmàcia Bofarull Comamala, Josep" />
 		<tag k='addr:full' v="carrer Roger De Belfort, 49" />
+		<tag k='addr:street' v="carrer Roger De Belfort" />
+		<tag k='addr:housenumber' v="49" />
 		<tag k='addr:postcode' v='43202' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977316666' />
@@ -374,6 +448,8 @@
 		<tag k='ref' v='3622892' />
 		<tag k='name' v="Farmàcia Tuset Fornós, Laura" />
 		<tag k='addr:full' v="avinguda Francesc Macia, 11" />
+		<tag k='addr:street' v="avinguda Francesc Macia" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='43480' />
 		<tag k='addr:city' v="Vila-seca" />
 		<tag k='contact:phone' v='+34977390217' />
@@ -384,6 +460,8 @@
 		<tag k='ref' v='3621911' />
 		<tag k='name' v="Farmàcia Edqué Ruíz, M. Dolors" />
 		<tag k='addr:full' v="carrer Madrid,  11-13" />
+		<tag k='addr:street' v="carrer Madrid" />
+		<tag k='addr:housenumber' v=" 11-13" />
 		<tag k='addr:postcode' v='43840' />
 		<tag k='addr:city' v="Salou" />
 		<tag k='contact:phone' v='+34977350371' />

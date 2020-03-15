@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621408' />
 		<tag k='name' v="Farmàcia Mazó Riera, Anna" />
 		<tag k='addr:full' v="carrer Fira, 33" />
+		<tag k='addr:street' v="carrer Fira" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='17412' />
 		<tag k='addr:city' v="Maçanet de la Selva" />
 		<tag k='contact:phone' v='+34650163521' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621596' />
 		<tag k='name' v="Farmàcia Martínez Puig, J. i Martínez Planas, J." />
 		<tag k='addr:full' v="carrer Vidreres, 6" />
+		<tag k='addr:street' v="carrer Vidreres" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17412' />
 		<tag k='addr:city' v="Maçanet de la Selva" />
 		<tag k='contact:phone' v='+34972859243' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623748' />
 		<tag k='name' v="Farmàcia Riera Masgrau, Lluís" />
 		<tag k='addr:full' v="passatge De L'Esglesia, 16" />
+		<tag k='addr:street' v="passatge De L'Esglesia" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='17412' />
 		<tag k='addr:city' v="Maçanet de la Selva" />
 		<tag k='contact:phone' v='+34972858071' />

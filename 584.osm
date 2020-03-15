@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623467' />
 		<tag k='name' v="Farmàcia Domingo Roura, Agustí" />
 		<tag k='addr:full' v="carrer Del Pont, 1" />
+		<tag k='addr:street' v="carrer Del Pont" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17244' />
 		<tag k='addr:city' v="Cassà de la Selva" />
 		<tag k='contact:phone' v='+34972460098' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623466' />
 		<tag k='name' v="Farmàcia Frigola Carreras, Pedro" />
 		<tag k='addr:full' v="carrer Major, 1" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17244' />
 		<tag k='addr:city' v="Cassà de la Selva" />
 		<tag k='contact:phone' v='+34972460018' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621598' />
 		<tag k='name' v="Farmàcia Laguillo Sala, Anna" />
 		<tag k='addr:full' v="carretera Provincial, 289" />
+		<tag k='addr:street' v="carretera Provincial" />
+		<tag k='addr:housenumber' v="289" />
 		<tag k='addr:postcode' v='17244' />
 		<tag k='addr:city' v="Cassà de la Selva" />
 		<tag k='contact:phone' v='+34972464555' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623460' />
 		<tag k='name' v="Farmàcia Casanovas Altarriba, Margarita" />
 		<tag k='addr:full' v="carrer Vall-Llobera, 17" />
+		<tag k='addr:street' v="carrer Vall-Llobera" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='17455' />
 		<tag k='addr:city' v="Caldes de Malavella" />
 		<tag k='contact:phone' v='+34972470096' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623969' />
 		<tag k='name' v="Farmàcia Baleri Bosch, Elisabet" />
 		<tag k='addr:full' v="carrer Marina, 111" />
+		<tag k='addr:street' v="carrer Marina" />
+		<tag k='addr:housenumber' v="111" />
 		<tag k='addr:postcode' v='17244' />
 		<tag k='addr:city' v="Cassà de la Selva" />
 		<tag k='contact:phone' v='+34972461159' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621264' />
 		<tag k='name' v="Farmàcia Folch Rubau, Francesc" />
 		<tag k='addr:full' v="carrer Santa Maria, 28" />
+		<tag k='addr:street' v="carrer Santa Maria" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='17455' />
 		<tag k='addr:city' v="Caldes de Malavella" />
 		<tag k='contact:phone' v='+34972472794' />

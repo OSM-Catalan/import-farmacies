@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622405' />
 		<tag k='name' v="Farmàcia Garriga - Guimerà" />
 		<tag k='addr:full' v="carrer Centre, 15" />
+		<tag k='addr:street' v="carrer Centre" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933703802' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624559' />
 		<tag k='name' v="Farmàcia Portillo Fabró, Anna" />
 		<tag k='addr:full' v="carrer Enric Borràs, 35" />
+		<tag k='addr:street' v="carrer Enric Borràs" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933794044' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624413' />
 		<tag k='name' v="Farmàcia Catalan Gili, R - Catalan Salaberría, M" />
 		<tag k='addr:full' v="carrer Estany De La Murtra,  1-3" />
+		<tag k='addr:street' v="carrer Estany De La Murtra" />
+		<tag k='addr:housenumber' v=" 1-3" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933795493' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624577' />
 		<tag k='name' v="Farmàcia Marin Pares, Esther" />
 		<tag k='addr:full' v="carrer Maurici Vilomara, 48" />
+		<tag k='addr:street' v="carrer Maurici Vilomara" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933792200' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623825' />
 		<tag k='name' v="Farmàcia Pimentel Godoy, M. Elena" />
 		<tag k='addr:full' v="carrer Riu Ebre, 19,  bloc 1" />
+		<tag k='addr:street' v="carrer Riu Ebre" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933793945' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3624596' />
 		<tag k='name' v="Farmàcia Mila Prunte, Víctor" />
 		<tag k='addr:full' v="carrer Rosa Ribas Parellada,  0023L" />
+		<tag k='addr:street' v="carrer Rosa Ribas Parellada" />
+		<tag k='addr:housenumber' v=" 0023L" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933791096' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3624561' />
 		<tag k='name' v="Farmàcia López de Luca, Beatriz" />
 		<tag k='addr:full' v="avinguda Doctor Gallart I Monés, 28" />
+		<tag k='addr:street' v="avinguda Doctor Gallart I Monés" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933799953' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623582' />
 		<tag k='name' v="Farmàcia Milà Prünte, Eva" />
 		<tag k='addr:full' v="avinguda Verge De Montserrat,  45 E" />
+		<tag k='addr:street' v="avinguda Verge De Montserrat" />
+		<tag k='addr:housenumber' v=" 45 E" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933791230' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623413' />
 		<tag k='name' v="Farmàcia Mola Aldavo - Gelada Giménez" />
 		<tag k='addr:full' v="carrer Riu Llobregat,  BLOC" />
+		<tag k='addr:street' v="carrer Riu Llobregat" />
+		<tag k='addr:housenumber' v=" BLOC" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933791455' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3624578' />
 		<tag k='name' v="Farmàcia Morancho Echevarría, Olga" />
 		<tag k='addr:full' v="carrer Montsant,  18 BL" />
+		<tag k='addr:street' v="carrer Montsant" />
+		<tag k='addr:housenumber' v=" 18 BL" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933798721' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3623010' />
 		<tag k='name' v="Farmàcia Torreguitart, L - Guerrero, L - Pallí, S" />
 		<tag k='addr:full' v="carretera Aeroport,  S/N" />
+		<tag k='addr:street' v="carretera Aeroport" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933704503' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3624009' />
 		<tag k='name' v="Farmàcia Sánchez Calucho, Rosa" />
 		<tag k='addr:full' v="carretera La Marina, 128" />
+		<tag k='addr:street' v="carretera La Marina" />
+		<tag k='addr:housenumber' v="128" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933793481' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3624847' />
 		<tag k='name' v="Farmàcia Albasanz Olaortua, Fernando" />
 		<tag k='addr:full' v="avinguda Verge De Montserrat, 135" />
+		<tag k='addr:street' v="avinguda Verge De Montserrat" />
+		<tag k='addr:housenumber' v="135" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933791418' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3623917' />
 		<tag k='name' v="Farmàcia Herrera Guillen, Esther" />
 		<tag k='addr:full' v="carrer Urgell, 60" />
+		<tag k='addr:street' v="carrer Urgell" />
+		<tag k='addr:housenumber' v="60" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933794389' />
@@ -145,6 +173,8 @@
 		<tag k='ref' v='3624422' />
 		<tag k='name' v="Farmàcia Bosch Grañé, Marta" />
 		<tag k='addr:full' v="carrer Federic Soler, 55" />
+		<tag k='addr:street' v="carrer Federic Soler" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933794807' />
@@ -155,6 +185,8 @@
 		<tag k='ref' v='3624405' />
 		<tag k='name' v="Farmàcia Casas Sánchez, Xavier" />
 		<tag k='addr:full' v="carrer Lleida, 88" />
+		<tag k='addr:street' v="carrer Lleida" />
+		<tag k='addr:housenumber' v="88" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933794675' />
@@ -165,6 +197,8 @@
 		<tag k='ref' v='3622406' />
 		<tag k='name' v="Farmàcia Fabro Yagüe, M. Mercedes" />
 		<tag k='addr:full' v="carrer Ferran Puig, 8" />
+		<tag k='addr:street' v="carrer Ferran Puig" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933790122' />
@@ -175,6 +209,8 @@
 		<tag k='ref' v='3624415' />
 		<tag k='name' v="Farmàcia Cases Nabau, Elisabeth" />
 		<tag k='addr:full' v="carrer Girona, 74" />
+		<tag k='addr:street' v="carrer Girona" />
+		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933795526' />
@@ -185,6 +221,8 @@
 		<tag k='ref' v='3623437' />
 		<tag k='name' v="Farmàcia Serramia Bruxola, M. Carmen" />
 		<tag k='addr:full' v="avinguda Verge De Montserrat, 257" />
+		<tag k='addr:street' v="avinguda Verge De Montserrat" />
+		<tag k='addr:housenumber' v="257" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933795292' />
@@ -195,6 +233,8 @@
 		<tag k='ref' v='3623369' />
 		<tag k='name' v="Farmàcia Casas Pla, Jaume" />
 		<tag k='addr:full' v="carretera La Marina, 7" />
+		<tag k='addr:street' v="carretera La Marina" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933790996' />
@@ -205,6 +245,8 @@
 		<tag k='ref' v='3622404' />
 		<tag k='name' v="Farmàcia Âlvarez Rodíguez - Quintana Tomàs" />
 		<tag k='addr:full' v="carrer Major, 12" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933790601' />
@@ -215,6 +257,8 @@
 		<tag k='ref' v='3624660' />
 		<tag k='name' v="Farmàcia Falcó Ferrer, Neus" />
 		<tag k='addr:full' v="carrer Frederic Soler, 24" />
+		<tag k='addr:street' v="carrer Frederic Soler" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933791505' />
@@ -225,6 +269,8 @@
 		<tag k='ref' v='3624556' />
 		<tag k='name' v="Farmàcia Llull Ferro, Marta Mercè" />
 		<tag k='addr:full' v="carrer Palamos, 6" />
+		<tag k='addr:street' v="carrer Palamos" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933794756' />
@@ -235,6 +281,8 @@
 		<tag k='ref' v='3623602' />
 		<tag k='name' v="Farmàcia Casas Sánchez, Jorge" />
 		<tag k='addr:full' v="avinguda Onze De Setembre, 185" />
+		<tag k='addr:street' v="avinguda Onze De Setembre" />
+		<tag k='addr:housenumber' v="185" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34934787311' />
@@ -245,6 +293,8 @@
 		<tag k='ref' v='3624563' />
 		<tag k='name' v="Farmàcia Zuriñe Ventosa Barrón" />
 		<tag k='addr:full' v="carrer Priorat,  S/N" />
+		<tag k='addr:street' v="carrer Priorat" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08820' />
 		<tag k='addr:city' v="Prat de Llobregat, el" />
 		<tag k='contact:phone' v='+34933797522' />
@@ -255,6 +305,8 @@
 		<tag k='ref' v='3623816' />
 		<tag k='name' v="Farmàcia San Segundo Blázquez, Sergi" />
 		<tag k='addr:full' v="carrer Mercabarna, 2" />
+		<tag k='addr:street' v="carrer Mercabarna" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08004' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933253847' />
@@ -265,6 +317,8 @@
 		<tag k='ref' v='3623368' />
 		<tag k='name' v="Farmàcia Cortit Granollers, Lluís" />
 		<tag k='addr:full' v="avinguda Mare De Déu De Bellvitge, 24" />
+		<tag k='addr:street' v="avinguda Mare De Déu De Bellvitge" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='08907' />
 		<tag k='addr:city' v="Hospitalet de Llobregat, l'" />
 		<tag k='contact:phone' v='+34933350594' />

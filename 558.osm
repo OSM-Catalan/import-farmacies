@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623659' />
 		<tag k='name' v="Farmàcia Puigvert Pastells, J. - Puigvert Solà, M" />
 		<tag k='addr:full' v="carrer Onyar, 2" />
+		<tag k='addr:street' v="carrer Onyar" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17185' />
 		<tag k='addr:city' v="Vilobí d'Onyar" />
 		<tag k='contact:phone' v='+34972473008' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623634' />
 		<tag k='name' v="Farmàcia Puig Masó, Montserrat" />
 		<tag k='addr:full' v="carretera  Sta. Coloma, 34" />
+		<tag k='addr:street' v="carretera  Sta. Coloma" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='17421' />
 		<tag k='addr:city' v="Riudarenes" />
 		<tag k='contact:phone' v='+34972856137' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623661' />
 		<tag k='name' v="Farmàcia Altimir Echazarreta, Patricia" />
 		<tag k='addr:full' v="carretera Santa Coloma, 8" />
+		<tag k='addr:street' v="carretera Santa Coloma" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='17410' />
 		<tag k='addr:city' v="Sils" />
 		<tag k='contact:phone' v='+34972168750' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624040' />
 		<tag k='name' v="Farmàcia Solà Pou, A. - Joanmiquel Nadal, R." />
 		<tag k='addr:full' v="carrer Francesc Moragas, 84" />
+		<tag k='addr:street' v="carrer Francesc Moragas" />
+		<tag k='addr:housenumber' v="84" />
 		<tag k='addr:postcode' v='17430' />
 		<tag k='addr:city' v="Santa Coloma de Farners" />
 		<tag k='contact:phone' v='+34972843458' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3621738' />
 		<tag k='name' v="Farmàcia Auladell Soliva, Teresa" />
 		<tag k='addr:full' v="carrer Major,  9-11" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v=" 9-11" />
 		<tag k='addr:postcode' v='17410' />
 		<tag k='addr:city' v="Sils" />
 		<tag k='contact:phone' v='+34972168068' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='7713236' />
 		<tag k='name' v="Farmàcia Vidal i Tixis, Meritxell" />
 		<tag k='addr:full' v="plaça  Europa, 1" />
+		<tag k='addr:street' v="plaça  Europa" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17430' />
 		<tag k='addr:city' v="Santa Coloma de Farners" />
 		<tag k='contact:phone' v='+34872986236' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3621765' />
 		<tag k='name' v="Farmàcia Sureda Camps, Anna" />
 		<tag k='addr:full' v="carretera De Sils, 1" />
+		<tag k='addr:street' v="carretera De Sils" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17430' />
 		<tag k='addr:city' v="Santa Coloma de Farners" />
 		<tag k='contact:phone' v='+34972841195' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3621621' />
 		<tag k='name' v="Farmàcia Pujolràs Iglesias, Montserrat" />
 		<tag k='addr:full' v="carrer Francesc Moragas, 31" />
+		<tag k='addr:street' v="carrer Francesc Moragas" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='17430' />
 		<tag k='addr:city' v="Santa Coloma de Farners" />
 		<tag k='contact:phone' v='+34972843624' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623650' />
 		<tag k='name' v="Farmàcia Paulí Viñas, M. Dolors" />
 		<tag k='addr:full' v="carrer Hospital, 4" />
+		<tag k='addr:street' v="carrer Hospital" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='17430' />
 		<tag k='addr:city' v="Santa Coloma de Farners" />
 		<tag k='contact:phone' v='+34972841567' />

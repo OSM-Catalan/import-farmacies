@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624007' />
 		<tag k='name' v="Farmàcia Massana Closa, Roser" />
 		<tag k='addr:full' v="carrer Major, 95" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="95" />
 		<tag k='addr:postcode' v='08788' />
 		<tag k='addr:city' v="Vilanova del Camí" />
 		<tag k='contact:phone' v='+34938034667' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623363' />
 		<tag k='name' v="Farmàcia Llamas Quintana, MI - Palop Torelló, E" />
 		<tag k='addr:full' v="carrer Nova, 3" />
+		<tag k='addr:street' v="carrer Nova" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08710' />
 		<tag k='addr:city' v="Santa Margarida de Montbui" />
 		<tag k='contact:phone' v='+34938034191' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621790' />
 		<tag k='name' v="Farmàcia Esteve Roset, Josep" />
 		<tag k='addr:full' v="avinguda Països Catalans, 99" />
+		<tag k='addr:street' v="avinguda Països Catalans" />
+		<tag k='addr:housenumber' v="99" />
 		<tag k='addr:postcode' v='08700' />
 		<tag k='addr:city' v="Igualada" />
 		<tag k='contact:phone' v='+34938037319' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624760' />
 		<tag k='name' v="Farmàcia Viñals Ferrer, Laia" />
 		<tag k='addr:full' v="carrer Sant Martí, 44" />
+		<tag k='addr:street' v="carrer Sant Martí" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='08787' />
 		<tag k='addr:city' v="Carme" />
 		<tag k='contact:phone' v='+34938080165' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623418' />
 		<tag k='name' v="Farmàcia Bausili López Saez, Mercè i Araceli" />
 		<tag k='addr:full' v="passeig Espanya, 5" />
+		<tag k='addr:street' v="passeig Espanya" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08710' />
 		<tag k='addr:city' v="Santa Margarida de Montbui" />
 		<tag k='contact:phone' v='+34938036452' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3624537' />
 		<tag k='name' v="Farmàcia Secanell Cambras, Xavier" />
 		<tag k='addr:full' v="carrer Odena, 84" />
+		<tag k='addr:street' v="carrer Odena" />
+		<tag k='addr:housenumber' v="84" />
 		<tag k='addr:postcode' v='08700' />
 		<tag k='addr:city' v="Igualada" />
 		<tag k='contact:phone' v='+34938035092' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3622927' />
 		<tag k='name' v="Farmàcia Pagés Bertran, F. Xavier" />
 		<tag k='addr:full' v="carrer Pau Muntades, 54" />
+		<tag k='addr:street' v="carrer Pau Muntades" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='08700' />
 		<tag k='addr:city' v="Igualada" />
 		<tag k='contact:phone' v='+34938030075' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3624295' />
 		<tag k='name' v="Farmàcia Juvé Santacana, Anton" />
 		<tag k='addr:full' v="avinguda Montserrat, 27" />
+		<tag k='addr:street' v="avinguda Montserrat" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='08700' />
 		<tag k='addr:city' v="Igualada" />
 		<tag k='contact:phone' v='+34938037458' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3622273' />
 		<tag k='name' v="Farmàcia Godó Soler, J.M. i Godó Claramunt, J." />
 		<tag k='addr:full' v="plaça  Creu, 7" />
+		<tag k='addr:street' v="plaça  Creu" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08700' />
 		<tag k='addr:city' v="Igualada" />
 		<tag k='contact:phone' v='+34938031488' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3621132' />
 		<tag k='name' v="Farmàcia Torres Gibert M./Torres Gibert J." />
 		<tag k='addr:full' v="avinguda De Catalunya, 25" />
+		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08787' />
 		<tag k='addr:city' v="Pobla de Claramunt, la" />
 		<tag k='contact:phone' v='+34938086233' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3624028' />
 		<tag k='name' v="Farmàcia Secanell Roca, José M." />
 		<tag k='addr:full' v="carrer De Valls, 34" />
+		<tag k='addr:street' v="carrer De Valls" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08710' />
 		<tag k='addr:city' v="Santa Margarida de Montbui" />
 		<tag k='contact:phone' v='+34938034834' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3622274' />
 		<tag k='name' v="Farmàcia Singla Barceló, Ramon" />
 		<tag k='addr:full' v="avinguda Mestre Montaner,  23-26" />
+		<tag k='addr:street' v="avinguda Mestre Montaner" />
+		<tag k='addr:housenumber' v=" 23-26" />
 		<tag k='addr:postcode' v='08700' />
 		<tag k='addr:city' v="Igualada" />
 		<tag k='contact:phone' v='+34938050479' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3624758' />
 		<tag k='name' v="Farmàcia Cordomí Campanyà, Gemma" />
 		<tag k='addr:full' v="carrer S.Joan Baptista, 6" />
+		<tag k='addr:street' v="carrer S.Joan Baptista" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08789' />
 		<tag k='addr:city' v="Torre de Claramunt, la" />
 		<tag k='contact:phone' v='+34938012000' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3623150' />
 		<tag k='name' v="Farmàcia Cases Sebastià, Immaculada" />
 		<tag k='addr:full' v="carrer Girona,  5-7" />
+		<tag k='addr:street' v="carrer Girona" />
+		<tag k='addr:housenumber' v=" 5-7" />
 		<tag k='addr:postcode' v='08788' />
 		<tag k='addr:city' v="Vilanova del Camí" />
 		<tag k='contact:phone' v='+34938060044' />
@@ -145,6 +173,8 @@
 		<tag k='ref' v='3622272' />
 		<tag k='name' v="Farmàcia Bausili López-Sáez, Juan Bosco" />
 		<tag k='addr:full' v="carrer Born, 23" />
+		<tag k='addr:street' v="carrer Born" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='08700' />
 		<tag k='addr:city' v="Igualada" />
 		<tag k='contact:phone' v='+34938031933' />
@@ -155,6 +185,8 @@
 		<tag k='ref' v='3624017' />
 		<tag k='name' v="Farmàcia Adzet Panadès, Maria Elena" />
 		<tag k='addr:full' v="avinguda Barcelona, 9" />
+		<tag k='addr:street' v="avinguda Barcelona" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08700' />
 		<tag k='addr:city' v="Igualada" />
 		<tag k='contact:phone' v='+34938030947' />
@@ -165,6 +197,8 @@
 		<tag k='ref' v='3624587' />
 		<tag k='name' v="Farmàcia Mora, Anna - Font, Alícia" />
 		<tag k='addr:full' v="carrer Santa Llucia, 97" />
+		<tag k='addr:street' v="carrer Santa Llucia" />
+		<tag k='addr:housenumber' v="97" />
 		<tag k='addr:postcode' v='08788' />
 		<tag k='addr:city' v="Vilanova del Camí" />
 		<tag k='contact:phone' v='+34938036171' />

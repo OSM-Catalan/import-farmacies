@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624327' />
 		<tag k='name' v="Farmàcia Valiente Bautista, Miguel" />
 		<tag k='addr:full' v="plaça  Catalunya, 8" />
+		<tag k='addr:street' v="plaça  Catalunya" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='25154' />
 		<tag k='addr:city' v="Castelldans" />
 		<tag k='contact:phone' v='+34973120223' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624345' />
 		<tag k='name' v="Farmàcia Aluja Giné, Montserrat" />
 		<tag k='addr:full' v="carrer Pompeu Fabra, 20" />
+		<tag k='addr:street' v="carrer Pompeu Fabra" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='25155' />
 		<tag k='addr:city' v="Albagés, l'" />
 		<tag k='contact:phone' v='+34973120488' />

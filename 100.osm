@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623050' />
 		<tag k='name' v="Farmàcia Piñana Pla, Josep Lluís" />
 		<tag k='addr:full' v="carrer Generalitat, 38" />
+		<tag k='addr:street' v="carrer Generalitat" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='43511' />
 		<tag k='addr:city' v="Tivenys" />
 		<tag k='contact:phone' v='+34977496138' />

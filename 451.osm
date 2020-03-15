@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624739' />
 		<tag k='name' v="Farmàcia Utgés Gabarró, Núria" />
 		<tag k='addr:full' v="carrer S.Boi, 3" />
+		<tag k='addr:street' v="carrer S.Boi" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08585' />
 		<tag k='addr:city' v="Montesquiu" />
 		<tag k='contact:phone' v='+34938550077' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622538' />
 		<tag k='name' v="Farmàcia Besora Molins, Àgata i Éric" />
 		<tag k='addr:full' v="carrer Pont, 45" />
+		<tag k='addr:street' v="carrer Pont" />
+		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='08580' />
 		<tag k='addr:city' v="Sant Quirze de Besora" />
 		<tag k='contact:phone' v='+34938550044' />

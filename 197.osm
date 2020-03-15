@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624462' />
 		<tag k='name' v="Farmàcia Coll Serres, Carme" />
 		<tag k='addr:full' v="plaça  Catalunya, 3" />
+		<tag k='addr:street' v="plaça  Catalunya" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='25263' />
 		<tag k='addr:city' v="Preixana" />
 		<tag k='contact:phone' v='+34973322296' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624085' />
 		<tag k='name' v="Farmàcia Gaya Domingo, Josep M." />
 		<tag k='addr:full' v="plaça  Comandant Serret, 8" />
+		<tag k='addr:street' v="plaça  Comandant Serret" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='25266' />
 		<tag k='addr:city' v="Belianes" />
 		<tag k='contact:phone' v='+34973331129' />

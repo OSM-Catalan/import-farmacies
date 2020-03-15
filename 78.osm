@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624472' />
 		<tag k='name' v="Farmàcia Delgado Gardo, Maria Pilar" />
 		<tag k='addr:full' v="carrer Mestre Pedrell, 1" />
+		<tag k='addr:street' v="carrer Mestre Pedrell" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43530' />
 		<tag k='addr:city' v="Alcanar" />
 		<tag k='contact:phone' v='+34977732291' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624779' />
 		<tag k='name' v="Farmàcia Puig Salomon, Pius" />
 		<tag k='addr:full' v="carrer Sant Lluc, 34" />
+		<tag k='addr:street' v="carrer Sant Lluc" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='43550' />
 		<tag k='addr:city' v="Ulldecona" />
 		<tag k='contact:phone' v='+34977720161' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621433' />
 		<tag k='name' v="Farmàcia Soler Màrquez, Rita" />
 		<tag k='addr:full' v="plaça  Sales I Ferré, 7" />
+		<tag k='addr:street' v="plaça  Sales I Ferré" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='43550' />
 		<tag k='addr:city' v="Ulldecona" />
 		<tag k='contact:phone' v='+34977720913' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624780' />
 		<tag k='name' v="Farmàcia Viladot Subirats, A/Viladot Jaramillo,A" />
 		<tag k='addr:full' v="carrer Major, 75" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="75" />
 		<tag k='addr:postcode' v='43550' />
 		<tag k='addr:city' v="Ulldecona" />
 		<tag k='contact:phone' v='+34977720031' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624473' />
 		<tag k='name' v="Farmàcia Delgado Boix, Jordi" />
 		<tag k='addr:full' v="avinguda  Generalitat, 17" />
+		<tag k='addr:street' v="avinguda  Generalitat" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='43530' />
 		<tag k='addr:city' v="Alcanar" />
 		<tag k='contact:phone' v='+34977730105' />

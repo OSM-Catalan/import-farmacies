@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621583' />
 		<tag k='name' v="Farmàcia Vàzquez Franch, Viviana" />
 		<tag k='addr:full' v="carrer Pep Ventura, 23" />
+		<tag k='addr:street' v="carrer Pep Ventura" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972254959' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623635' />
 		<tag k='name' v="Farmàcia Targa Ballesta, Xavier" />
 		<tag k='addr:full' v="carrer Doctor Pi I Sunyer, 5" />
+		<tag k='addr:street' v="carrer Doctor Pi I Sunyer" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972256233' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621425' />
 		<tag k='name' v="Farmàcia Bosch Pujolar, Marta" />
 		<tag k='addr:full' v="avinguda Tarragona,  93-95" />
+		<tag k='addr:street' v="avinguda Tarragona" />
+		<tag k='addr:housenumber' v=" 93-95" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972256588' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3621594' />
 		<tag k='name' v="Farmàcia Roig Smagghe, Florència" />
 		<tag k='addr:full' v="carrer Riera Ginjolers, 109" />
+		<tag k='addr:street' v="carrer Riera Ginjolers" />
+		<tag k='addr:housenumber' v="109" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972535246' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623734' />
 		<tag k='name' v="Farmàcia Castelló Hors, Àlvar" />
 		<tag k='addr:full' v="ronda Miquel Oliva Prat, 4" />
+		<tag k='addr:street' v="ronda Miquel Oliva Prat" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972257723' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623671' />
 		<tag k='name' v="Farmàcia Sala Morell, M. Rosa" />
 		<tag k='addr:full' v="carrer Mar, 8" />
+		<tag k='addr:street' v="carrer Mar" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='17489' />
 		<tag k='addr:city' v="Port de la Selva, el" />
 		<tag k='contact:phone' v='+34972387065' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623960' />
 		<tag k='name' v="Farmàcia Martínez, Bibiana - Roca, Martí" />
 		<tag k='addr:full' v="carrer Pujada Del Puig-Rom, 17" />
+		<tag k='addr:street' v="carrer Pujada Del Puig-Rom" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972254802' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623841' />
 		<tag k='name' v="Farmàcia Gratacós Nou, M - Paniagua Gratacós, M" />
 		<tag k='addr:full' v="plaça  De Llevant, 6" />
+		<tag k='addr:street' v="plaça  De Llevant" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972257849' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3621275' />
 		<tag k='name' v="Farmàcia Celrà Frigolé, Montserrat" />
 		<tag k='addr:full' v="carrer Cap Norfeu, 45" />
+		<tag k='addr:street' v="carrer Cap Norfeu" />
+		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972570424' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3623945' />
 		<tag k='name' v="Farmàcia Casas Basco, Montserrat" />
 		<tag k='addr:full' v="avinguda Gola Estany, 27" />
+		<tag k='addr:street' v="avinguda Gola Estany" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972255658' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3623871' />
 		<tag k='name' v="Farmàcia Turón Pages, E. i C." />
 		<tag k='addr:full' v="carretera  De La Costa, 5" />
+		<tag k='addr:street' v="carretera  De La Costa" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17495' />
 		<tag k='addr:city' v="Palau-saverdera" />
 		<tag k='contact:phone' v='+34972530392' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3621442' />
 		<tag k='name' v="Farmàcia Haro Porcar, Eva" />
 		<tag k='addr:full' v="carrer Gran Via Pau Casals,  85-87" />
+		<tag k='addr:street' v="carrer Gran Via Pau Casals" />
+		<tag k='addr:housenumber' v=" 85-87" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972256375' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3623847' />
 		<tag k='name' v="Farmàcia Gonzalez Colom, Joaquim i Irene" />
 		<tag k='addr:full' v="carrer Jaume Ferran, 56" />
+		<tag k='addr:street' v="carrer Jaume Ferran" />
+		<tag k='addr:housenumber' v="56" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
 		<tag k='contact:phone' v='+34972152539' />

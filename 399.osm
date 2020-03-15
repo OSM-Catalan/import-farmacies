@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623008' />
 		<tag k='name' v="Farmàcia Guillen Simon, Laura" />
 		<tag k='addr:full' v="carrer Teodoro Miralles, 3" />
+		<tag k='addr:street' v="carrer Teodoro Miralles" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08613' />
 		<tag k='addr:city' v="Vilada" />
 		<tag k='source:date' v='03/11/2020 07:59:18 AM +0000' />
@@ -14,6 +16,8 @@
 		<tag k='ref' v='3623174' />
 		<tag k='name' v="Farmàcia Giner Ferrando, Gemma Susana" />
 		<tag k='addr:full' v="plaça  Major, 12" />
+		<tag k='addr:street' v="plaça  Major" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08619' />
 		<tag k='addr:city' v="Boadella i les Escaules" />
 		<tag k='contact:phone' v='+34938239090' />

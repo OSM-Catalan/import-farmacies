@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623453' />
 		<tag k='name' v="Farmàcia Gratacós Nou, M.M - Nadal Gratacós, A." />
 		<tag k='addr:full' v="carrer Ganganell, 44" />
+		<tag k='addr:street' v="carrer Ganganell" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='17850' />
 		<tag k='addr:city' v="Besalú" />
 		<tag k='contact:phone' v='+34972591273' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623936' />
 		<tag k='name' v="Farmàcia Pagés Molas, Anna M." />
 		<tag k='addr:full' v="carrer Nou, 48" />
+		<tag k='addr:street' v="carrer Nou" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='17852' />
 		<tag k='addr:city' v="Serinyà" />
 		<tag k='contact:phone' v='+34972593158' />

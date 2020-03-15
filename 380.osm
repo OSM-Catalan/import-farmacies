@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621225' />
 		<tag k='name' v="Farmàcia Gili Carulla, Marcel" />
 		<tag k='addr:full' v="carrer Antoni Gaudí, 61" />
+		<tag k='addr:street' v="carrer Antoni Gaudí" />
+		<tag k='addr:housenumber' v="61" />
 		<tag k='addr:postcode' v='08630' />
 		<tag k='addr:city' v="Abrera" />
 		<tag k='contact:phone' v='+34937703444' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='4094817' />
 		<tag k='name' v="Farmàcia Domingo Alguero, M. Teresa" />
 		<tag k='addr:full' v="carrer Lluis Gayà,  11-13" />
+		<tag k='addr:street' v="carrer Lluis Gayà" />
+		<tag k='addr:housenumber' v=" 11-13" />
 		<tag k='addr:postcode' v='08760' />
 		<tag k='addr:city' v="Martorell" />
 		<tag k='source:date' v='03/11/2020 07:58:55 AM +0000' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3623485' />
 		<tag k='name' v="Farmàcia Pujol Vallés, M. Teresa" />
 		<tag k='addr:full' v="carrer Martorell, 2" />
+		<tag k='addr:street' v="carrer Martorell" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08630' />
 		<tag k='addr:city' v="Abrera" />
 		<tag k='contact:phone' v='+34937700758' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3621936' />
 		<tag k='name' v="Farmàcia Durban Armenteras, Clotilde" />
 		<tag k='addr:full' v="carrer Doctor Rotllan, 43" />
+		<tag k='addr:street' v="carrer Doctor Rotllan" />
+		<tag k='addr:housenumber' v="43" />
 		<tag k='addr:postcode' v='08783' />
 		<tag k='addr:city' v="Masquefa" />
 		<tag k='contact:phone' v='+34937727806' />
@@ -44,6 +52,8 @@
 		<tag k='ref' v='3623167' />
 		<tag k='name' v="Farmàcia Cardona Regada, Artur" />
 		<tag k='addr:full' v="carrer Del Serral, 1" />
+		<tag k='addr:street' v="carrer Del Serral" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08769' />
 		<tag k='addr:city' v="Castellví de Rosanes" />
 		<tag k='contact:phone' v='+34937741013' />
@@ -54,6 +64,8 @@
 		<tag k='ref' v='3622374' />
 		<tag k='name' v="Farmàcia Jimenez Tort, Sílvia" />
 		<tag k='addr:full' v="carrer Major, 1" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08783' />
 		<tag k='addr:city' v="Masquefa" />
 		<tag k='contact:phone' v='+34937725301' />
@@ -64,6 +76,8 @@
 		<tag k='ref' v='3623597' />
 		<tag k='name' v="Farmàcia Miralles Via, Montserrat" />
 		<tag k='addr:full' v="carrer Germans Marti, 25" />
+		<tag k='addr:street' v="carrer Germans Marti" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08760' />
 		<tag k='addr:city' v="Martorell" />
 		<tag k='contact:phone' v='+34937765225' />
@@ -74,6 +88,8 @@
 		<tag k='ref' v='3623367' />
 		<tag k='name' v="Farmàcia Hernández Sales, Josep" />
 		<tag k='addr:full' v="carrer Lluis De Requesens, 4" />
+		<tag k='addr:street' v="carrer Lluis De Requesens" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08760' />
 		<tag k='addr:city' v="Martorell" />
 		<tag k='contact:phone' v='+34937754061' />
@@ -84,6 +100,8 @@
 		<tag k='ref' v='3621922' />
 		<tag k='name' v="Farmàcia Exojo Fernández, Fernando" />
 		<tag k='addr:full' v="carrer Llobregat, 7" />
+		<tag k='addr:street' v="carrer Llobregat" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08630' />
 		<tag k='addr:city' v="Abrera" />
 		<tag k='contact:phone' v='+34937680051' />
@@ -94,6 +112,8 @@
 		<tag k='ref' v='3621258' />
 		<tag k='name' v="Farmàcia Rojas Cano, Miquel" />
 		<tag k='addr:full' v="carrer Mossèn Cinto Verdaguer, 20" />
+		<tag k='addr:street' v="carrer Mossèn Cinto Verdaguer" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08635' />
 		<tag k='addr:city' v="Sant Esteve Sesrovires" />
 		<tag k='contact:phone' v='+34937798935' />
@@ -104,6 +124,8 @@
 		<tag k='ref' v='3622249' />
 		<tag k='name' v="Farmàcia Ribal Barrera, Eva Maria" />
 		<tag k='addr:full' v="carrer Major, 8" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08790' />
 		<tag k='addr:city' v="Gelida" />
 		<tag k='contact:phone' v='+34937790003' />
@@ -114,6 +136,8 @@
 		<tag k='ref' v='3624592' />
 		<tag k='name' v="Farmàcia Rocamora Ramonet, Josep M." />
 		<tag k='addr:full' v="passeig De L'Esglesia, 4" />
+		<tag k='addr:street' v="passeig De L'Esglesia" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08630' />
 		<tag k='addr:city' v="Abrera" />
 		<tag k='contact:phone' v='+34937703684' />
@@ -124,6 +148,8 @@
 		<tag k='ref' v='3624281' />
 		<tag k='name' v="Farmàcia Fonolla Cuixart, Pere Josep" />
 		<tag k='addr:full' v="carrer Santa Filomena, 34" />
+		<tag k='addr:street' v="carrer Santa Filomena" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08791' />
 		<tag k='addr:city' v="Sant Llorenç d'Hortons" />
 		<tag k='contact:phone' v='+34937716080' />
@@ -134,6 +160,8 @@
 		<tag k='ref' v='3623318' />
 		<tag k='name' v="Farmàcia Guiteras García, Maria Carme" />
 		<tag k='addr:full' v="plaça  Frederic Duran, 3" />
+		<tag k='addr:street' v="plaça  Frederic Duran" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08760' />
 		<tag k='addr:city' v="Martorell" />
 		<tag k='source:date' v='03/11/2020 07:58:55 AM +0000' />
@@ -143,6 +171,8 @@
 		<tag k='ref' v='7425705' />
 		<tag k='name' v="Farmàcia Vidal Martí, M. Rosa" />
 		<tag k='addr:full' v="ronda President Francesc Macià,  28-30" />
+		<tag k='addr:street' v="ronda President Francesc Macià" />
+		<tag k='addr:housenumber' v=" 28-30" />
 		<tag k='addr:postcode' v='08790' />
 		<tag k='addr:city' v="Gelida" />
 		<tag k='contact:phone' v='+34937754812' />
@@ -153,6 +183,8 @@
 		<tag k='ref' v='3623798' />
 		<tag k='name' v="Farmàcia Marce del Canto, M. Begonya" />
 		<tag k='addr:full' v="carrer Serafi Julia, 145" />
+		<tag k='addr:street' v="carrer Serafi Julia" />
+		<tag k='addr:housenumber' v="145" />
 		<tag k='addr:postcode' v='08635' />
 		<tag k='addr:city' v="Sant Esteve Sesrovires" />
 		<tag k='contact:phone' v='+34937714152' />
@@ -163,6 +195,8 @@
 		<tag k='ref' v='3622371' />
 		<tag k='name' v="Farmàcia Massaneda Rovira, Joaquim" />
 		<tag k='addr:full' v="carrer Mestre Vicens Rodriguez, 1" />
+		<tag k='addr:street' v="carrer Mestre Vicens Rodriguez" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08760' />
 		<tag k='addr:city' v="Martorell" />
 		<tag k='contact:phone' v='+34937751897' />
@@ -173,6 +207,8 @@
 		<tag k='ref' v='3623302' />
 		<tag k='name' v="Farmàcia Curto Tort, Josefina" />
 		<tag k='addr:full' v="carrer Sant Esteve Sesrovires, 6" />
+		<tag k='addr:street' v="carrer Sant Esteve Sesrovires" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08760' />
 		<tag k='addr:city' v="Martorell" />
 		<tag k='contact:phone' v='+34937752313' />

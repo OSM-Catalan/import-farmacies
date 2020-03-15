@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621098' />
 		<tag k='name' v="Farmàcia Cuy Prat, M. Teresa" />
 		<tag k='addr:full' v="avinguda De L' Estació, 7" />
+		<tag k='addr:street' v="avinguda De L' Estació" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='17530' />
 		<tag k='addr:city' v="Campdevànol" />
 		<tag k='contact:phone' v='+34972730651' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623834' />
 		<tag k='name' v="Farmàcia Roca Coma, Rosa" />
 		<tag k='addr:full' v="carretera  Barcelona, 38" />
+		<tag k='addr:street' v="carretera  Barcelona" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='17500' />
 		<tag k='addr:city' v="Ripoll" />
 		<tag k='contact:phone' v='+34972701490' />

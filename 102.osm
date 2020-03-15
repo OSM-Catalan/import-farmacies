@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624480' />
 		<tag k='name' v="Farmàcia Ferré Pujol, LL.M. / Ferré Pujol, X." />
 		<tag k='addr:full' v="passeig Canal, 7" />
+		<tag k='addr:street' v="passeig Canal" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='43870' />
 		<tag k='addr:city' v="Amposta" />
 		<tag k='contact:phone' v='+34977706247' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621434' />
 		<tag k='name' v="Farmàcia Moran Sitjà, Joan Carles" />
 		<tag k='addr:full' v="carrer Josep Tarradellas, 132" />
+		<tag k='addr:street' v="carrer Josep Tarradellas" />
+		<tag k='addr:housenumber' v="132" />
 		<tag k='addr:postcode' v='43870' />
 		<tag k='addr:city' v="Amposta" />
 		<tag k='contact:phone' v='+34977707701' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624479' />
 		<tag k='name' v="Farmàcia Salom Beltran, A / Salom Jovani, A" />
 		<tag k='addr:full' v="carrer Sebastià Joan Arbó, 85" />
+		<tag k='addr:street' v="carrer Sebastià Joan Arbó" />
+		<tag k='addr:housenumber' v="85" />
 		<tag k='addr:postcode' v='43870' />
 		<tag k='addr:city' v="Amposta" />
 		<tag k='source:date' v='03/11/2020 08:00:05 AM +0000' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3623054' />
 		<tag k='name' v="Farmàcia López Aguilò, Josep" />
 		<tag k='addr:full' v="carrer Barcelona, 64" />
+		<tag k='addr:street' v="carrer Barcelona" />
+		<tag k='addr:housenumber' v="64" />
 		<tag k='addr:postcode' v='43878' />
 		<tag k='addr:city' v="Masdenverge" />
 		<tag k='contact:phone' v='+34977718702' />
@@ -44,6 +52,8 @@
 		<tag k='ref' v='3624478' />
 		<tag k='name' v="Farmàcia Albella Beltran, M. Carme" />
 		<tag k='addr:full' v="avinguda Santa Bàrbara, 30" />
+		<tag k='addr:street' v="avinguda Santa Bàrbara" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='43870' />
 		<tag k='addr:city' v="Amposta" />
 		<tag k='contact:phone' v='+34977702613' />
@@ -54,6 +64,8 @@
 		<tag k='ref' v='3624772' />
 		<tag k='name' v="Farmàcia Gimeno Palatsí, M. Victòria" />
 		<tag k='addr:full' v="avinguda  Catalunya, 302" />
+		<tag k='addr:street' v="avinguda  Catalunya" />
+		<tag k='addr:housenumber' v="302" />
 		<tag k='addr:postcode' v='43896' />
 		<tag k='addr:city' v="Aldea, l'" />
 		<tag k='contact:phone' v='+34977450543' />
@@ -64,6 +76,8 @@
 		<tag k='ref' v='3624481' />
 		<tag k='name' v="Farmàcia Forcadell Alucha, Maria" />
 		<tag k='addr:full' v="carrer Grau, 49" />
+		<tag k='addr:street' v="carrer Grau" />
+		<tag k='addr:housenumber' v="49" />
 		<tag k='addr:postcode' v='43870' />
 		<tag k='addr:city' v="Amposta" />
 		<tag k='contact:phone' v='+34977700483' />
@@ -74,6 +88,8 @@
 		<tag k='ref' v='3622883' />
 		<tag k='name' v="Farmàcia Vidal Regolf - Baixauli Vidal" />
 		<tag k='addr:full' v="avinguda De Catalunya,  S/N" />
+		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43870' />
 		<tag k='addr:city' v="Amposta" />
 		<tag k='contact:phone' v='+34977701495' />
@@ -84,6 +100,8 @@
 		<tag k='ref' v='3623352' />
 		<tag k='name' v="Farmàcia Jiménez Piqueras, Araceli" />
 		<tag k='addr:full' v="avinguda Catalunya, 75" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="75" />
 		<tag k='addr:postcode' v='43896' />
 		<tag k='addr:city' v="Aldea, l'" />
 		<tag k='contact:phone' v='+34977452056' />
@@ -94,6 +112,8 @@
 		<tag k='ref' v='3621778' />
 		<tag k='name' v="Farmàcia Verges Alonso, Imelda" />
 		<tag k='addr:full' v="avinguda La Ràpita, 79" />
+		<tag k='addr:street' v="avinguda La Ràpita" />
+		<tag k='addr:housenumber' v="79" />
 		<tag k='addr:postcode' v='43870' />
 		<tag k='addr:city' v="Amposta" />
 		<tag k='contact:phone' v='+34977707332' />

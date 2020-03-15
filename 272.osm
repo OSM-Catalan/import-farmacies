@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624165' />
 		<tag k='name' v="Farmàcia Foix Mas, Maria" />
 		<tag k='addr:full' v="plaça  Del Pati, 5" />
+		<tag k='addr:street' v="plaça  Del Pati" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='25750' />
 		<tag k='addr:city' v="Torà" />
 		<tag k='contact:phone' v='+34973473220' />

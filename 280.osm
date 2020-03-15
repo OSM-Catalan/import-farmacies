@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623221' />
 		<tag k='name' v="Farmàcia Leon Alfaro, Montserrat" />
 		<tag k='addr:full' v="avinguda Verge De Montserrat, 4" />
+		<tag k='addr:street' v="avinguda Verge De Montserrat" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43830' />
 		<tag k='addr:city' v="Torredembarra" />
 		<tag k='contact:phone' v='+34977642704' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621597' />
 		<tag k='name' v="Farmàcia Corredera Sabarich, Beatriu" />
 		<tag k='addr:full' v="avinguda Sant Jordi,  19-21" />
+		<tag k='addr:street' v="avinguda Sant Jordi" />
+		<tag k='addr:housenumber' v=" 19-21" />
 		<tag k='addr:postcode' v='43830' />
 		<tag k='addr:city' v="Torredembarra" />
 		<tag k='source:date' v='03/11/2020 08:00:33 AM +0000' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3621241' />
 		<tag k='name' v="Farmàcia Escudé Pont, Marc" />
 		<tag k='addr:full' v="carrer Filadors,  6-8" />
+		<tag k='addr:street' v="carrer Filadors" />
+		<tag k='addr:housenumber' v=" 6-8" />
 		<tag k='addr:postcode' v='43830' />
 		<tag k='addr:city' v="Torredembarra" />
 		<tag k='contact:phone' v='+34977130735' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3621780' />
 		<tag k='name' v="Farmàcia Vaucouloux Esqué, Cristina" />
 		<tag k='addr:full' v="passatge Miramar, 193" />
+		<tag k='addr:street' v="passatge Miramar" />
+		<tag k='addr:housenumber' v="193" />
 		<tag k='addr:postcode' v='43830' />
 		<tag k='addr:city' v="Torredembarra" />
 		<tag k='contact:phone' v='+34977642022' />
@@ -44,6 +52,8 @@
 		<tag k='ref' v='3623350' />
 		<tag k='name' v="Farmàcia Sabaté Herrero, Joaquim" />
 		<tag k='addr:full' v="plaça  Dels Vents, 6" />
+		<tag k='addr:street' v="plaça  Dels Vents" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43893' />
 		<tag k='addr:city' v="Altafulla" />
 		<tag k='source:date' v='03/11/2020 08:00:49 AM +0000' />
@@ -53,6 +63,8 @@
 		<tag k='ref' v='3622872' />
 		<tag k='name' v="Farmàcia Domingo Navarro, Susana" />
 		<tag k='addr:full' v="carrer Escoles, 3" />
+		<tag k='addr:street' v="carrer Escoles" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43893' />
 		<tag k='addr:city' v="Altafulla" />
 		<tag k='contact:phone' v='+34977650207' />
@@ -63,6 +75,8 @@
 		<tag k='ref' v='3622886' />
 		<tag k='name' v="Farmàcia Miró Rodríguez, Ferran" />
 		<tag k='addr:full' v="carrer Pere Badia, 55" />
+		<tag k='addr:street' v="carrer Pere Badia" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='43830' />
 		<tag k='addr:city' v="Torredembarra" />
 		<tag k='contact:phone' v='+34977640735' />
@@ -73,6 +87,8 @@
 		<tag k='ref' v='3624651' />
 		<tag k='name' v="Farmàcia Cogul Ardevol, Maria Blanca" />
 		<tag k='addr:full' v="carrer D' Antoni Roig, 14" />
+		<tag k='addr:street' v="carrer D' Antoni Roig" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='43830' />
 		<tag k='addr:city' v="Torredembarra" />
 		<tag k='contact:phone' v='+34977640003' />

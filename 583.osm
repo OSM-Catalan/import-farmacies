@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623750' />
 		<tag k='name' v="Farmàcia Pla Cama, Lluís" />
 		<tag k='addr:full' v="carrer Joan Maragall, 36" />
+		<tag k='addr:street' v="carrer Joan Maragall" />
+		<tag k='addr:housenumber' v="36" />
 		<tag k='addr:postcode' v='17002' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972206075' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623836' />
 		<tag k='name' v="Farmàcia Fina Riera, Anna" />
 		<tag k='addr:full' v="avinguda Sant Narcís, 111" />
+		<tag k='addr:street' v="avinguda Sant Narcís" />
+		<tag k='addr:housenumber' v="111" />
 		<tag k='addr:postcode' v='17005' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972232601' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623636' />
 		<tag k='name' v="Farmàcia Aguer Gimbernat, Rosa" />
 		<tag k='addr:full' v="carrer Major, 269" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="269" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972231249' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623538' />
 		<tag k='name' v="Farmàcia Noguera Nieto, Teresa" />
 		<tag k='addr:full' v="carrer De La Creu, 18" />
+		<tag k='addr:street' v="carrer De La Creu" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='17002' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972203536' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623637' />
 		<tag k='name' v="Farmàcia Miguélez Morán, Andrés Miguel" />
 		<tag k='addr:full' v="carrer Major, 20" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972230568' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623537' />
 		<tag k='name' v="Farmàcia Agusti de Ciurana, Maria de les Neus i X" />
 		<tag k='addr:full' v="carrer Sant Antoni Maria Claret, 16" />
+		<tag k='addr:street' v="carrer Sant Antoni Maria Claret" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='17002' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972201949' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623543' />
 		<tag k='name' v="Farmàcia Arpa Camos, Núria" />
 		<tag k='addr:full' v="carrer Agudes, 30" />
+		<tag k='addr:street' v="carrer Agudes" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='17006' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972231844' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623852' />
 		<tag k='name' v="Farmàcia Ordis Trulls, Olga" />
 		<tag k='addr:full' v="passatge Països Catalans, 65" />
+		<tag k='addr:street' v="passatge Països Catalans" />
+		<tag k='addr:housenumber' v="65" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972237704' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3621955' />
 		<tag k='name' v="Farmàcia Aldehuelo Haro, Glòria" />
 		<tag k='addr:full' v="carrer Esteve Vila, 1" />
+		<tag k='addr:street' v="carrer Esteve Vila" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972978376' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3624039' />
 		<tag k='name' v="Farmàcia Bonjoch Argemi, Alba" />
 		<tag k='addr:full' v="carretera Sant Feliu De Guixols, 8" />
+		<tag k='addr:street' v="carretera Sant Feliu De Guixols" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='17243' />
 		<tag k='addr:city' v="Llambilles" />
 		<tag k='contact:phone' v='+34972468073' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3623733' />
 		<tag k='name' v="Farmàcia Jubero Capdeferro, Anna" />
 		<tag k='addr:full' v="carrer Major, 157" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="157" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972233518' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3623549' />
 		<tag k='name' v="Farmàcia Folch Rubau, Olga" />
 		<tag k='addr:full' v="carrer Joan Roca I Pinet,  S/N" />
+		<tag k='addr:street' v="carrer Joan Roca I Pinet" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='17003' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972200334' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3623771' />
 		<tag k='name' v="Farmàcia Canal Bellvehí, Marc" />
 		<tag k='addr:full' v="carrer Marques De Caldes De Montbui, 57" />
+		<tag k='addr:street' v="carrer Marques De Caldes De Montbui" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='17003' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972212139' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3623870' />
 		<tag k='name' v="Farmàcia Pararols Costa, P / Pérez Pararlos, A" />
 		<tag k='addr:full' v="carrer Narcis Monturiol,  1-3" />
+		<tag k='addr:street' v="carrer Narcis Monturiol" />
+		<tag k='addr:housenumber' v=" 1-3" />
 		<tag k='addr:postcode' v='17458' />
 		<tag k='addr:city' v="Fornells de la Selva" />
 		<tag k='contact:phone' v='+34972476330' />
@@ -145,6 +173,8 @@
 		<tag k='ref' v='3623929' />
 		<tag k='name' v="Farmàcia Serra Rigau, M. Mercè" />
 		<tag k='addr:full' v="carretera  Sta. Coloma, 90" />
+		<tag k='addr:street' v="carretera  Sta. Coloma" />
+		<tag k='addr:housenumber' v="90" />
 		<tag k='addr:postcode' v='17180' />
 		<tag k='addr:city' v="Vilablareix" />
 		<tag k='contact:phone' v='+34972232605' />
@@ -155,6 +185,8 @@
 		<tag k='ref' v='3623539' />
 		<tag k='name' v="Farmàcia Puig Aleman, Caritat" />
 		<tag k='addr:full' v="carrer Carme, 17" />
+		<tag k='addr:street' v="carrer Carme" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='17004' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972200079' />
@@ -165,6 +197,8 @@
 		<tag k='ref' v='3623830' />
 		<tag k='name' v="Farmàcia Riera Portell,Catalina/Fina Riera,Ester" />
 		<tag k='addr:full' v="carrer Andreu Tuyet Santamaria, 16" />
+		<tag k='addr:street' v="carrer Andreu Tuyet Santamaria" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='17003' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972212882' />
@@ -175,6 +209,8 @@
 		<tag k='ref' v='6238154' />
 		<tag k='name' v="Farmàcia Auguet Escatllar, Neus" />
 		<tag k='addr:full' v="carrer La Moreneta, 39" />
+		<tag k='addr:street' v="carrer La Moreneta" />
+		<tag k='addr:housenumber' v="39" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972607237' />
@@ -185,6 +221,8 @@
 		<tag k='ref' v='3623977' />
 		<tag k='name' v="Farmàcia Muñoz Cubillo, José M." />
 		<tag k='addr:full' v="carrer Paissos Catalans, 145" />
+		<tag k='addr:street' v="carrer Paissos Catalans" />
+		<tag k='addr:housenumber' v="145" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972243412' />
@@ -195,6 +233,8 @@
 		<tag k='ref' v='3623732' />
 		<tag k='name' v="Farmàcia Manuel-Rimbau Muñoz, Albert" />
 		<tag k='addr:full' v="carrer Carme, 191" />
+		<tag k='addr:street' v="carrer Carme" />
+		<tag k='addr:housenumber' v="191" />
 		<tag k='addr:postcode' v='17004' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972201418' />
@@ -205,6 +245,8 @@
 		<tag k='ref' v='3623763' />
 		<tag k='name' v="Farmàcia Alabau Calvet - Casas Bigorra - López L." />
 		<tag k='addr:full' v="carrer Sant Sebastià, 36" />
+		<tag k='addr:street' v="carrer Sant Sebastià" />
+		<tag k='addr:housenumber' v="36" />
 		<tag k='addr:postcode' v='17006' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972240390' />
@@ -215,6 +257,8 @@
 		<tag k='ref' v='3621590' />
 		<tag k='name' v="Farmàcia Baleri Bosch, Maria Teresa" />
 		<tag k='addr:full' v="carrer Pla De Salt, 15" />
+		<tag k='addr:street' v="carrer Pla De Salt" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972441001' />
@@ -225,6 +269,8 @@
 		<tag k='ref' v='3623749' />
 		<tag k='name' v="Farmàcia Borrell Bousique, M - Mont Borrell, M" />
 		<tag k='addr:full' v="carrer Del Carme, 127" />
+		<tag k='addr:street' v="carrer Del Carme" />
+		<tag k='addr:housenumber' v="127" />
 		<tag k='addr:postcode' v='17004' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972208809' />
@@ -235,6 +281,8 @@
 		<tag k='ref' v='3621737' />
 		<tag k='name' v="Farmàcia Noguera Nieto, Soledad" />
 		<tag k='addr:full' v="passatge Marqués De Camps, 20" />
+		<tag k='addr:street' v="passatge Marqués De Camps" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972232578' />
@@ -245,6 +293,8 @@
 		<tag k='ref' v='3623540' />
 		<tag k='name' v="Farmàcia Palau Mallol, Susanna" />
 		<tag k='addr:full' v="plaça  Marques De Camps, 7" />
+		<tag k='addr:street' v="plaça  Marques De Camps" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='17001' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972200997' />
@@ -255,6 +305,8 @@
 		<tag k='ref' v='3623756' />
 		<tag k='name' v="Farmàcia Vila Surribas, Rafael" />
 		<tag k='addr:full' v="carrer Francesc De Ciurana, 25" />
+		<tag k='addr:street' v="carrer Francesc De Ciurana" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='17002' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972208931' />
@@ -265,6 +317,8 @@
 		<tag k='ref' v='3623767' />
 		<tag k='name' v="Farmàcia Boladeras Suárez, E.- Figueras Moner, F." />
 		<tag k='addr:full' v="passatge Olot, 22" />
+		<tag k='addr:street' v="passatge Olot" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='17005' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972400414' />
@@ -275,6 +329,8 @@
 		<tag k='ref' v='3624038' />
 		<tag k='name' v="Farmàcia Sendra Vives, Gemma" />
 		<tag k='addr:full' v=" ca circumval.lacio, 00003" />
+		<tag k='addr:street' v=" ca circumval.lacio" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17181' />
 		<tag k='addr:city' v="Aiguaviva" />
 		<tag k='contact:phone' v='+34972241254' />
@@ -285,6 +341,8 @@
 		<tag k='ref' v='3623542' />
 		<tag k='name' v="Farmàcia Frigola Castillón, M. - Quintana Frigola" />
 		<tag k='addr:full' v="avinguda Sant Narcís, 32" />
+		<tag k='addr:street' v="avinguda Sant Narcís" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='17005' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972232604' />
@@ -295,6 +353,8 @@
 		<tag k='ref' v='3623545' />
 		<tag k='name' v="Farmàcia Altarriba Garriga, Olga" />
 		<tag k='addr:full' v="rambla Llibertat, 18" />
+		<tag k='addr:street' v="rambla Llibertat" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='17004' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972200191' />
@@ -305,6 +365,8 @@
 		<tag k='ref' v='3623780' />
 		<tag k='name' v="Farmàcia Nieto Romeral, M. Soledad" />
 		<tag k='addr:full' v="carrer Angel Guimera, 75" />
+		<tag k='addr:street' v="carrer Angel Guimera" />
+		<tag k='addr:housenumber' v="75" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972233645' />
@@ -315,6 +377,8 @@
 		<tag k='ref' v='3623762' />
 		<tag k='name' v="Farmàcia Feliu Ruiz, Joan" />
 		<tag k='addr:full' v="carrer Campcardós, 37" />
+		<tag k='addr:street' v="carrer Campcardós" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='17006' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972231602' />
@@ -325,6 +389,8 @@
 		<tag k='ref' v='3623651' />
 		<tag k='name' v="Farmàcia Cardelús Aranda, E-Cardelús Falguera, J" />
 		<tag k='addr:full' v="carrer Santa Eugènia, 98" />
+		<tag k='addr:street' v="carrer Santa Eugènia" />
+		<tag k='addr:housenumber' v="98" />
 		<tag k='addr:postcode' v='17005' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972231845' />
@@ -335,6 +401,8 @@
 		<tag k='ref' v='3623855' />
 		<tag k='name' v="Farmàcia Pérez González, Antonia" />
 		<tag k='addr:full' v="carretera De Girona, 27" />
+		<tag k='addr:street' v="carretera De Girona" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='17242' />
 		<tag k='addr:city' v="Quart" />
 		<tag k='contact:phone' v='+34972469003' />
@@ -345,6 +413,8 @@
 		<tag k='ref' v='3623751' />
 		<tag k='name' v="Farmàcia Folch Camps, Francesc" />
 		<tag k='addr:full' v=" gv de jaume i, 61" />
+		<tag k='addr:street' v=" gv de jaume i" />
+		<tag k='addr:housenumber' v="61" />
 		<tag k='addr:postcode' v='17002' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972205905' />
@@ -355,6 +425,8 @@
 		<tag k='ref' v='3623536' />
 		<tag k='name' v="Farmàcia de Ciurana Gay, M/Casellas de Ciurana,A" />
 		<tag k='addr:full' v="carrer Migdia, 54" />
+		<tag k='addr:street' v="carrer Migdia" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='17003' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972200280' />
@@ -365,6 +437,8 @@
 		<tag k='ref' v='3623859' />
 		<tag k='name' v="Farmàcia Camps Soler, Anna Rosa" />
 		<tag k='addr:full' v="carrer Estacio, 37" />
+		<tag k='addr:street' v="carrer Estacio" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='17457' />
 		<tag k='addr:city' v="Riudellots de la Selva" />
 		<tag k='contact:phone' v='+34972477388' />
@@ -375,6 +449,8 @@
 		<tag k='ref' v='3621786' />
 		<tag k='name' v="Farmàcia Domènech Pol, Neus" />
 		<tag k='addr:full' v="carrer Llevadores,  7 - 9" />
+		<tag k='addr:street' v="carrer Llevadores" />
+		<tag k='addr:housenumber' v=" 7 - 9" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972439935' />
@@ -385,6 +461,8 @@
 		<tag k='ref' v='3623744' />
 		<tag k='name' v="Farmàcia Boada Ordis, Marta" />
 		<tag k='addr:full' v=" di vila-roja, 177" />
+		<tag k='addr:street' v=" di vila-roja" />
+		<tag k='addr:housenumber' v="177" />
 		<tag k='addr:postcode' v='17005' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972206615' />
@@ -395,6 +473,8 @@
 		<tag k='ref' v='3623965' />
 		<tag k='name' v="Farmàcia Arqué Barios, Albert" />
 		<tag k='addr:full' v="avinguda Lluis Pericot, 35" />
+		<tag k='addr:street' v="avinguda Lluis Pericot" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='17003' />
 		<tag k='addr:city' v="Girona" />
 		<tag k='contact:phone' v='+34972224838' />
@@ -405,6 +485,8 @@
 		<tag k='ref' v='3623854' />
 		<tag k='name' v="Farmàcia Escatllar Sagrera, Josefina" />
 		<tag k='addr:full' v="carrer Guilleries, 60" />
+		<tag k='addr:street' v="carrer Guilleries" />
+		<tag k='addr:housenumber' v="60" />
 		<tag k='addr:postcode' v='17190' />
 		<tag k='addr:city' v="Salt" />
 		<tag k='contact:phone' v='+34972230103' />

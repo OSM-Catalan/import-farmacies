@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623075' />
 		<tag k='name' v="Farmàcia Capsir Eixarch, Manuel" />
 		<tag k='addr:full' v="carrer De Dins, 5" />
+		<tag k='addr:street' v="carrer De Dins" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='43151' />
 		<tag k='addr:city' v="Palma d'Ebre, la" />
 		<tag k='contact:phone' v='+34977819047' />

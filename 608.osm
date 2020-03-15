@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623731' />
 		<tag k='name' v="Farmàcia Pagés Bisba, Montserrat" />
 		<tag k='addr:full' v="plaça  Estacio, 2" />
+		<tag k='addr:street' v="plaça  Estacio" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17463' />
 		<tag k='addr:city' v="Flaçà" />
 		<tag k='contact:phone' v='+34972488108' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623469' />
 		<tag k='name' v="Farmàcia Dellonder Navarro, Mercè" />
 		<tag k='addr:full' v="carrer Aumet,  48-50" />
+		<tag k='addr:street' v="carrer Aumet" />
+		<tag k='addr:housenumber' v=" 48-50" />
 		<tag k='addr:postcode' v='17460' />
 		<tag k='addr:city' v="Celrà" />
 		<tag k='contact:phone' v='+34972492018' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623927' />
 		<tag k='name' v="Farmàcia Pla-Giribert Pons, Montserrat" />
 		<tag k='addr:full' v="carrer Baix, 5" />
+		<tag k='addr:street' v="carrer Baix" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17464' />
 		<tag k='addr:city' v="Sant Jordi Desvalls" />
 		<tag k='contact:phone' v='+34972798102' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623457' />
 		<tag k='name' v="Farmàcia Puig Mateu, Carme" />
 		<tag k='addr:full' v="carretera Palamós, 90" />
+		<tag k='addr:street' v="carretera Palamós" />
+		<tag k='addr:housenumber' v="90" />
 		<tag k='addr:postcode' v='17462' />
 		<tag k='addr:city' v="Bordils" />
 		<tag k='contact:phone' v='+34972490012' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623470' />
 		<tag k='name' v="Farmàcia Isern Finazzi, M. Àngels" />
 		<tag k='addr:full' v="avinguda  Catalunya, 46" />
+		<tag k='addr:street' v="avinguda  Catalunya" />
+		<tag k='addr:housenumber' v="46" />
 		<tag k='addr:postcode' v='17464' />
 		<tag k='addr:city' v="Cervià de Ter" />
 		<tag k='contact:phone' v='+34972496014' />

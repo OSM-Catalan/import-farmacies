@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621084' />
 		<tag k='name' v="Farmàcia Lores Catalan, M. Carmen" />
 		<tag k='addr:full' v="carrer Enric Granados, 9,  bloc 17" />
+		<tag k='addr:street' v="carrer Enric Granados" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='17320' />
 		<tag k='addr:city' v="Tossa de Mar" />
 		<tag k='contact:phone' v='+34972341172' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623843' />
 		<tag k='name' v="Farmàcia Castelló Cugat, Ramon" />
 		<tag k='addr:full' v="avinguda  Ferran Agullo, 12" />
+		<tag k='addr:street' v="avinguda  Ferran Agullo" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='17320' />
 		<tag k='addr:city' v="Tossa de Mar" />
 		<tag k='contact:phone' v='+34972341303' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621609' />
 		<tag k='name' v="Farmàcia Capell Vidal, Marcel" />
 		<tag k='addr:full' v="rambla Pau Casals,  12-20" />
+		<tag k='addr:street' v="rambla Pau Casals" />
+		<tag k='addr:housenumber' v=" 12-20" />
 		<tag k='addr:postcode' v='17320' />
 		<tag k='addr:city' v="Tossa de Mar" />
 		<tag k='contact:phone' v='+34972340208' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623655' />
 		<tag k='name' v="Farmàcia Arbusse Paracaula, Alfons" />
 		<tag k='addr:full' v="carrer Sant Telm, 19" />
+		<tag k='addr:street' v="carrer Sant Telm" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='17320' />
 		<tag k='addr:city' v="Tossa de Mar" />
 		<tag k='contact:phone' v='+34972340388' />

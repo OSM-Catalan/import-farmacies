@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622166' />
 		<tag k='name' v="Farmàcia Corominas Riqué, Cristina" />
 		<tag k='addr:full' v="ronda Ponent, 1" />
+		<tag k='addr:street' v="ronda Ponent" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937269704' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623913' />
 		<tag k='name' v="Farmàcia Bonet Ortiz, M. Teresa" />
 		<tag k='addr:full' v="carrer Llanera, 93" />
+		<tag k='addr:street' v="carrer Llanera" />
+		<tag k='addr:housenumber' v="93" />
 		<tag k='addr:postcode' v='08207' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937167133' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623699' />
 		<tag k='name' v="Farmàcia Capdevila Bassols, Anna M." />
 		<tag k='addr:full' v="carrer Sol I Padrís, 116" />
+		<tag k='addr:street' v="carrer Sol I Padrís" />
+		<tag k='addr:housenumber' v="116" />
 		<tag k='addr:postcode' v='08203' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937122574' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623309' />
 		<tag k='name' v="Farmàcia Carrera Graño, Rosa Maria" />
 		<tag k='addr:full' v="carretera Terrassa, 377" />
+		<tag k='addr:street' v="carretera Terrassa" />
+		<tag k='addr:housenumber' v="377" />
 		<tag k='addr:postcode' v='08205' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937264449' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3621234' />
 		<tag k='name' v="Farmàcia Moreno Fenoy, Cristina" />
 		<tag k='addr:full' v="carrer Barcelona, 58,  porta 1-2" />
+		<tag k='addr:street' v="carrer Barcelona" />
+		<tag k='addr:housenumber' v="58" />
 		<tag k='addr:postcode' v='08211' />
 		<tag k='addr:city' v="Castellar del Vallès" />
 		<tag k='contact:phone' v='+34937159099' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3622119' />
 		<tag k='name' v="Farmàcia Baques Roviralta, Josep" />
 		<tag k='addr:full' v="avinguda Onze De Setembre, 61" />
+		<tag k='addr:street' v="avinguda Onze De Setembre" />
+		<tag k='addr:housenumber' v="61" />
 		<tag k='addr:postcode' v='08208' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937252330' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3624213' />
 		<tag k='name' v="Farmàcia Garriga Majo, Marta" />
 		<tag k='addr:full' v="carrer Sallares I Pla, 140" />
+		<tag k='addr:street' v="carrer Sallares I Pla" />
+		<tag k='addr:housenumber' v="140" />
 		<tag k='addr:postcode' v='08202' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937259757' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3622498' />
 		<tag k='name' v="Farmàcia Crusafont Sabaté, Anna M." />
 		<tag k='addr:full' v="carrer Colom, 13" />
+		<tag k='addr:street' v="carrer Colom" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='08201' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937250777' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3622122' />
 		<tag k='name' v="Farmàcia Garrell Capdevila, Joan" />
 		<tag k='addr:full' v="carrer Borràs, 8" />
+		<tag k='addr:street' v="carrer Borràs" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08208' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='source:date' v='03/11/2020 07:57:28 AM +0000' />
@@ -94,6 +112,8 @@
 		<tag k='ref' v='3621410' />
 		<tag k='name' v="Farmàcia Masip Octavio, Núria" />
 		<tag k='addr:full' v="carrer Fernando Poo, 31" />
+		<tag k='addr:street' v="carrer Fernando Poo" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08205' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937259167' />
@@ -104,6 +124,8 @@
 		<tag k='ref' v='3622126' />
 		<tag k='name' v="Farmàcia Merce Sora, Anabel" />
 		<tag k='addr:full' v="carrer Sant Cugat, 95" />
+		<tag k='addr:street' v="carrer Sant Cugat" />
+		<tag k='addr:housenumber' v="95" />
 		<tag k='addr:postcode' v='08201' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937254325' />
@@ -114,6 +136,8 @@
 		<tag k='ref' v='3622414' />
 		<tag k='name' v="Farmàcia Colomina Brusau, M. Rosa" />
 		<tag k='addr:full' v="carrer Lusitania, 2" />
+		<tag k='addr:street' v="carrer Lusitania" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937162335' />
@@ -124,6 +148,8 @@
 		<tag k='ref' v='3623388' />
 		<tag k='name' v="Farmàcia De Cáceres Botello, José Ignacio" />
 		<tag k='addr:full' v="carrer Candanchu, 31" />
+		<tag k='addr:street' v="carrer Candanchu" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08207' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937163171' />
@@ -134,6 +160,8 @@
 		<tag k='ref' v='3624377' />
 		<tag k='name' v="Farmàcia Manent Margarit, Meritxell" />
 		<tag k='addr:full' v="carrer Tenerife, 52" />
+		<tag k='addr:street' v="carrer Tenerife" />
+		<tag k='addr:housenumber' v="52" />
 		<tag k='addr:postcode' v='08205' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937264420' />
@@ -144,6 +172,8 @@
 		<tag k='ref' v='3624000' />
 		<tag k='name' v="Farmàcia Grimalt Sancho, J - Vives Grimalt, MP" />
 		<tag k='addr:full' v="avinguda Paraires, 26" />
+		<tag k='addr:street' v="avinguda Paraires" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937165113' />
@@ -154,6 +184,8 @@
 		<tag k='ref' v='3624233' />
 		<tag k='name' v="Farmàcia Cruset Garrell, Núria" />
 		<tag k='addr:full' v="avinguda Concòrdia, 48" />
+		<tag k='addr:street' v="avinguda Concòrdia" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937230794' />
@@ -164,6 +196,8 @@
 		<tag k='ref' v='3622111' />
 		<tag k='name' v="Farmàcia Rodríguez Yangüela, Tania" />
 		<tag k='addr:full' v="carrer Torras, 2" />
+		<tag k='addr:street' v="carrer Torras" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08211' />
 		<tag k='addr:city' v="Castellar del Vallès" />
 		<tag k='contact:phone' v='+34937145289' />
@@ -174,6 +208,8 @@
 		<tag k='ref' v='3624366' />
 		<tag k='name' v="Farmàcia Gadea Melo, Olga" />
 		<tag k='addr:full' v="carretera De Terrassa, 316" />
+		<tag k='addr:street' v="carretera De Terrassa" />
+		<tag k='addr:housenumber' v="316" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937262371' />
@@ -184,6 +220,8 @@
 		<tag k='ref' v='3623407' />
 		<tag k='name' v="Farmàcia Grau Martí, Anna M." />
 		<tag k='addr:full' v="carrer Escipio, 35" />
+		<tag k='addr:street' v="carrer Escipio" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='08208' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937166024' />
@@ -194,6 +232,8 @@
 		<tag k='ref' v='3622505' />
 		<tag k='name' v="Farmàcia Rosell Gras, Maria" />
 		<tag k='addr:full' v="avinguda Barberà, 48" />
+		<tag k='addr:street' v="avinguda Barberà" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='08203' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937101343' />
@@ -204,6 +244,8 @@
 		<tag k='ref' v='3622112' />
 		<tag k='name' v="Farmàcia Ros Casanovas, Rosalina" />
 		<tag k='addr:full' v="avinguda Sant Esteve, 3" />
+		<tag k='addr:street' v="avinguda Sant Esteve" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08211' />
 		<tag k='addr:city' v="Castellar del Vallès" />
 		<tag k='contact:phone' v='+34937145233' />
@@ -214,6 +256,8 @@
 		<tag k='ref' v='3624424' />
 		<tag k='name' v="Farmàcia Oliveras Massana, M. Àngels" />
 		<tag k='addr:full' v="carrer Vila Puig, 87" />
+		<tag k='addr:street' v="carrer Vila Puig" />
+		<tag k='addr:housenumber' v="87" />
 		<tag k='addr:postcode' v='08192' />
 		<tag k='addr:city' v="Sant Quirze del Vallès" />
 		<tag k='contact:phone' v='+34937103933' />
@@ -224,6 +268,8 @@
 		<tag k='ref' v='3624369' />
 		<tag k='name' v="Farmàcia Fàbregas Martínez, Marta" />
 		<tag k='addr:full' v="avinguda Barbera, 299" />
+		<tag k='addr:street' v="avinguda Barbera" />
+		<tag k='addr:housenumber' v="299" />
 		<tag k='addr:postcode' v='08203' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937101337' />
@@ -234,6 +280,8 @@
 		<tag k='ref' v='3624582' />
 		<tag k='name' v="Farmàcia Sala Alegre, E. - Roca Huergo, S.I." />
 		<tag k='addr:full' v="carrer Balmes,  83-85" />
+		<tag k='addr:street' v="carrer Balmes" />
+		<tag k='addr:housenumber' v=" 83-85" />
 		<tag k='addr:postcode' v='08203' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937270594' />
@@ -244,6 +292,8 @@
 		<tag k='ref' v='3623091' />
 		<tag k='name' v="Farmàcia Esteban, M. Teresa - Lopera, M. Teresa" />
 		<tag k='addr:full' v="ronda Santa Maria,  28 A" />
+		<tag k='addr:street' v="ronda Santa Maria" />
+		<tag k='addr:housenumber' v=" 28 A" />
 		<tag k='addr:postcode' v='08204' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937102295' />
@@ -254,6 +304,8 @@
 		<tag k='ref' v='3623274' />
 		<tag k='name' v="Farmàcia Mora Palà, Mireia" />
 		<tag k='addr:full' v="carrer Sant Isidor, 80" />
+		<tag k='addr:street' v="carrer Sant Isidor" />
+		<tag k='addr:housenumber' v="80" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937163052' />
@@ -264,6 +316,8 @@
 		<tag k='ref' v='3624693' />
 		<tag k='name' v="Farmàcia Tous Geulen, Josep M." />
 		<tag k='addr:full' v="carrer Florit, 28" />
+		<tag k='addr:street' v="carrer Florit" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08208' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937168458' />
@@ -274,6 +328,8 @@
 		<tag k='ref' v='3624008' />
 		<tag k='name' v="Farmàcia Blanchart Tintó, Meritxell" />
 		<tag k='addr:full' v="carrer Cesar August Torras, 132" />
+		<tag k='addr:street' v="carrer Cesar August Torras" />
+		<tag k='addr:housenumber' v="132" />
 		<tag k='addr:postcode' v='08205' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937267104' />
@@ -284,6 +340,8 @@
 		<tag k='ref' v='3623175' />
 		<tag k='name' v="Farmàcia Permanyer García, Maria i Francesca" />
 		<tag k='addr:full' v="carretera De Sabadell, 48" />
+		<tag k='addr:street' v="carretera De Sabadell" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='08211' />
 		<tag k='addr:city' v="Castellar del Vallès" />
 		<tag k='contact:phone' v='+34937143829' />
@@ -294,6 +352,8 @@
 		<tag k='ref' v='3621735' />
 		<tag k='name' v="Farmàcia Sabata Prat, Mireia" />
 		<tag k='addr:full' v="carrer Barcelona,  78-80" />
+		<tag k='addr:street' v="carrer Barcelona" />
+		<tag k='addr:housenumber' v=" 78-80" />
 		<tag k='addr:postcode' v='08211' />
 		<tag k='addr:city' v="Castellar del Vallès" />
 		<tag k='contact:phone' v='+34937472890' />
@@ -304,6 +364,8 @@
 		<tag k='ref' v='3623719' />
 		<tag k='name' v="Farmàcia Pareja Cozcolluela, Josep Manel" />
 		<tag k='addr:full' v="ronda Zamenhoff, 145" />
+		<tag k='addr:street' v="ronda Zamenhoff" />
+		<tag k='addr:housenumber' v="145" />
 		<tag k='addr:postcode' v='08201' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937265628' />
@@ -314,6 +376,8 @@
 		<tag k='ref' v='3624535' />
 		<tag k='name' v="Farmàcia Relat Vidal, Jordi" />
 		<tag k='addr:full' v="avinguda Matadepera, 7" />
+		<tag k='addr:street' v="avinguda Matadepera" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08207' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937161065' />
@@ -324,6 +388,8 @@
 		<tag k='ref' v='3623591' />
 		<tag k='name' v="Farmàcia Pérez Riera, M. Teresa" />
 		<tag k='addr:full' v="carrer Cadi, 6" />
+		<tag k='addr:street' v="carrer Cadi" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08213' />
 		<tag k='addr:city' v="Polinyà" />
 		<tag k='contact:phone' v='+34937253916' />
@@ -334,6 +400,8 @@
 		<tag k='ref' v='3621950' />
 		<tag k='name' v="Farmàcia López Segarra, Ma. Lluïsa" />
 		<tag k='addr:full' v="avinguda Països Catalans, 10" />
+		<tag k='addr:street' v="avinguda Països Catalans" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08192' />
 		<tag k='addr:city' v="Sant Quirze del Vallès" />
 		<tag k='contact:phone' v='+34938549630' />
@@ -344,6 +412,8 @@
 		<tag k='ref' v='3624275' />
 		<tag k='name' v="Farmàcia Anarte Salvador, Maria del Prado" />
 		<tag k='addr:full' v="carrer França, 20" />
+		<tag k='addr:street' v="carrer França" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08228' />
 		<tag k='addr:city' v="Terrassa" />
 		<tag k='contact:phone' v='+34937851181' />
@@ -354,6 +424,8 @@
 		<tag k='ref' v='3622502' />
 		<tag k='name' v="Farmàcia Garriga Majó, Anna" />
 		<tag k='addr:full' v="passatge Plaça Major, 29" />
+		<tag k='addr:street' v="passatge Plaça Major" />
+		<tag k='addr:housenumber' v="29" />
 		<tag k='addr:postcode' v='08201' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937255353' />
@@ -364,6 +436,8 @@
 		<tag k='ref' v='3621236' />
 		<tag k='name' v="Farmàcia Brualla Espurt, M. Josep" />
 		<tag k='addr:full' v="carrer Francesc Layret, 5" />
+		<tag k='addr:street' v="carrer Francesc Layret" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08181' />
 		<tag k='addr:city' v="Sentmenat" />
 		<tag k='contact:phone' v='+34937152273' />
@@ -374,6 +448,8 @@
 		<tag k='ref' v='3624427' />
 		<tag k='name' v="Farmàcia Borja Fernandez, Laia" />
 		<tag k='addr:full' v="avinguda Polinyà, 65" />
+		<tag k='addr:street' v="avinguda Polinyà" />
+		<tag k='addr:housenumber' v="65" />
 		<tag k='addr:postcode' v='08202' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937252920' />
@@ -384,6 +460,8 @@
 		<tag k='ref' v='3622499' />
 		<tag k='name' v="Farmàcia Torres Costa, L. / Matarranz Torres, L." />
 		<tag k='addr:full' v="carretera Prats De Lluçanès,  84-89" />
+		<tag k='addr:street' v="carretera Prats De Lluçanès" />
+		<tag k='addr:housenumber' v=" 84-89" />
 		<tag k='addr:postcode' v='08208' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937161383' />
@@ -394,6 +472,8 @@
 		<tag k='ref' v='3621776' />
 		<tag k='name' v="Farmàcia Llauradó Quingles, Assumpció" />
 		<tag k='addr:full' v="avinguda Camí Del Mas, 12,  porta b" />
+		<tag k='addr:street' v="avinguda Camí Del Mas" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08192' />
 		<tag k='addr:city' v="Sant Quirze del Vallès" />
 		<tag k='contact:phone' v='+34937210783' />
@@ -404,6 +484,8 @@
 		<tag k='ref' v='3624250' />
 		<tag k='name' v="Farmàcia Montserrat Marco, M. Antònia" />
 		<tag k='addr:full' v="carrer Brutau, 187" />
+		<tag k='addr:street' v="carrer Brutau" />
+		<tag k='addr:housenumber' v="187" />
 		<tag k='addr:postcode' v='08203' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937103645' />
@@ -414,6 +496,8 @@
 		<tag k='ref' v='3623443' />
 		<tag k='name' v="Farmàcia Marcet Vicens, Jordi" />
 		<tag k='addr:full' v="carretera Barcelona, 74" />
+		<tag k='addr:street' v="carretera Barcelona" />
+		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='08205' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937478020' />
@@ -424,6 +508,8 @@
 		<tag k='ref' v='3622159' />
 		<tag k='name' v="Farmàcia Escarra Caldes, Pere" />
 		<tag k='addr:full' v="carrer Pintor Vila Cinca, 89" />
+		<tag k='addr:street' v="carrer Pintor Vila Cinca" />
+		<tag k='addr:housenumber' v="89" />
 		<tag k='addr:postcode' v='08208' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937162311' />
@@ -434,6 +520,8 @@
 		<tag k='ref' v='3623298' />
 		<tag k='name' v="Farmàcia Vila Terra, Dolors" />
 		<tag k='addr:full' v="carretera Sentmenat,  70-74" />
+		<tag k='addr:street' v="carretera Sentmenat" />
+		<tag k='addr:housenumber' v=" 70-74" />
 		<tag k='addr:postcode' v='08213' />
 		<tag k='addr:city' v="Polinyà" />
 		<tag k='source:date' v='03/11/2020 07:57:33 AM +0000' />
@@ -443,6 +531,8 @@
 		<tag k='ref' v='3623721' />
 		<tag k='name' v="Farmàcia Borrás Urtubia, Teresa" />
 		<tag k='addr:full' v="carrer Tàcit, 1" />
+		<tag k='addr:street' v="carrer Tàcit" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937161120' />
@@ -453,6 +543,8 @@
 		<tag k='ref' v='3621228' />
 		<tag k='name' v="Farmàcia Franco García, M. Pilar" />
 		<tag k='addr:full' v="plaça  Còrdoba,  14-15" />
+		<tag k='addr:street' v="plaça  Còrdoba" />
+		<tag k='addr:housenumber' v=" 14-15" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937465026' />
@@ -463,6 +555,8 @@
 		<tag k='ref' v='3624214' />
 		<tag k='name' v="Farmàcia Montané Bombardó, Glòria" />
 		<tag k='addr:full' v="carretera Barcelona, 219" />
+		<tag k='addr:street' v="carretera Barcelona" />
+		<tag k='addr:housenumber' v="219" />
 		<tag k='addr:postcode' v='08201' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937260539' />
@@ -473,6 +567,8 @@
 		<tag k='ref' v='3621930' />
 		<tag k='name' v="Farmàcia Busquet Mitjà, M. Àngels" />
 		<tag k='addr:full' v="carrer Malta, 70" />
+		<tag k='addr:street' v="carrer Malta" />
+		<tag k='addr:housenumber' v="70" />
 		<tag k='addr:postcode' v='08205' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937204911' />
@@ -483,6 +579,8 @@
 		<tag k='ref' v='3623372' />
 		<tag k='name' v="Farmàcia Martín Poveda, Ma. Dolores" />
 		<tag k='addr:full' v="carrer Valencia, 19" />
+		<tag k='addr:street' v="carrer Valencia" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08207' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937166238' />
@@ -493,6 +591,8 @@
 		<tag k='ref' v='3623336' />
 		<tag k='name' v="Farmàcia Puig Camarero, Lluis" />
 		<tag k='addr:full' v=" br via alexandra, 37" />
+		<tag k='addr:street' v=" br via alexandra" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='source:date' v='03/11/2020 07:57:27 AM +0000' />
@@ -502,6 +602,8 @@
 		<tag k='ref' v='3622504' />
 		<tag k='name' v="Farmàcia Segalas Carreras, M. Mercè" />
 		<tag k='addr:full' v="avinguda Sabadell, 26" />
+		<tag k='addr:street' v="avinguda Sabadell" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08203' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937257319' />
@@ -512,6 +614,8 @@
 		<tag k='ref' v='3621923' />
 		<tag k='name' v="Farmàcia Vicente Gose, Teresa" />
 		<tag k='addr:full' v="carretera De Sabadell, 3" />
+		<tag k='addr:street' v="carretera De Sabadell" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08211' />
 		<tag k='addr:city' v="Castellar del Vallès" />
 		<tag k='contact:phone' v='+34937203825' />
@@ -522,6 +626,8 @@
 		<tag k='ref' v='3622503' />
 		<tag k='name' v="Farmàcia Pons Samaranch, Isabel" />
 		<tag k='addr:full' v="plaça  Marquilles, 4" />
+		<tag k='addr:street' v="plaça  Marquilles" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08201' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937256745' />
@@ -532,6 +638,8 @@
 		<tag k='ref' v='3623879' />
 		<tag k='name' v="Farmàcia Herrero Torres, Ignacio" />
 		<tag k='addr:full' v="carrer Juvenal, 12" />
+		<tag k='addr:street' v="carrer Juvenal" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08206' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937160827' />
@@ -542,6 +650,8 @@
 		<tag k='ref' v='3621946' />
 		<tag k='name' v="Farmàcia Bofi Martinez, Patricia" />
 		<tag k='addr:full' v="avinguda Barberà, 226" />
+		<tag k='addr:street' v="avinguda Barberà" />
+		<tag k='addr:housenumber' v="226" />
 		<tag k='addr:postcode' v='08203' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34938545286' />
@@ -552,6 +662,8 @@
 		<tag k='ref' v='3621966' />
 		<tag k='name' v="Farmàcia Mujal Viñals, Assumpció" />
 		<tag k='addr:full' v="carrer Viladomat,  20-24" />
+		<tag k='addr:street' v="carrer Viladomat" />
+		<tag k='addr:housenumber' v=" 20-24" />
 		<tag k='addr:postcode' v='08205' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937100543' />
@@ -562,6 +674,8 @@
 		<tag k='ref' v='3622501' />
 		<tag k='name' v="Farmàcia Gili Segura, Marta" />
 		<tag k='addr:full' v="plaça  De L'Angel, 12" />
+		<tag k='addr:street' v="plaça  De L'Angel" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08202' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937251175' />
@@ -572,6 +686,8 @@
 		<tag k='ref' v='3623999' />
 		<tag k='name' v="Farmàcia Ros Casanovas, M. Dolores" />
 		<tag k='addr:full' v="avinguda S.Esteve, 71" />
+		<tag k='addr:street' v="avinguda S.Esteve" />
+		<tag k='addr:housenumber' v="71" />
 		<tag k='addr:postcode' v='08211' />
 		<tag k='addr:city' v="Castellar del Vallès" />
 		<tag k='contact:phone' v='+34937145025' />
@@ -582,6 +698,8 @@
 		<tag k='ref' v='3622415' />
 		<tag k='name' v="Farmàcia Bagan Tapioles, Montserrat" />
 		<tag k='addr:full' v="carrer Carme, 10" />
+		<tag k='addr:street' v="carrer Carme" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08202' />
 		<tag k='addr:city' v="Sabadell" />
 		<tag k='contact:phone' v='+34937250303' />
@@ -592,6 +710,8 @@
 		<tag k='ref' v='3622068' />
 		<tag k='name' v="Farmàcia Fabrega Casadella, J/Guardiola Zamora, A" />
 		<tag k='addr:full' v="avinguda Egara, 83" />
+		<tag k='addr:street' v="avinguda Egara" />
+		<tag k='addr:housenumber' v="83" />
 		<tag k='addr:postcode' v='08192' />
 		<tag k='addr:city' v="Sant Quirze del Vallès" />
 		<tag k='contact:phone' v='+34934997525' />

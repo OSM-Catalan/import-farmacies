@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623658' />
 		<tag k='name' v="Farmàcia Royo Carreras, M. Cristina" />
 		<tag k='addr:full' v="plaça  Major, 1" />
+		<tag k='addr:street' v="plaça  Major" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17406' />
 		<tag k='addr:city' v="Viladrau" />
 		<tag k='contact:phone' v='+34972849109' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622623' />
 		<tag k='name' v="Farmàcia Barfull Font, Anna" />
 		<tag k='addr:full' v="passeig Domenec Sert, 14" />
+		<tag k='addr:street' v="passeig Domenec Sert" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='08552' />
 		<tag k='addr:city' v="Taradell" />
 		<tag k='contact:phone' v='+34938800056' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623314' />
 		<tag k='name' v="Farmàcia Autonell Reixach, Montserrat" />
 		<tag k='addr:full' v="carrer Jordi Capell, 7" />
+		<tag k='addr:street' v="carrer Jordi Capell" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08552' />
 		<tag k='addr:city' v="Taradell" />
 		<tag k='contact:phone' v='+34938126159' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624712' />
 		<tag k='name' v="Farmàcia Gomez Mundo, Marta" />
 		<tag k='addr:full' v="avinguda Onze De Setembre, 38" />
+		<tag k='addr:street' v="avinguda Onze De Setembre" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='08553' />
 		<tag k='addr:city' v="Seva" />
 		<tag k='contact:phone' v='+34938840039' />

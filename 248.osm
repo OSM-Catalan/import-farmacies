@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624073' />
 		<tag k='name' v="Farmàcia Antonijuan Mateu, Ramona" />
 		<tag k='addr:full' v="avinguda Agramunt, 13" />
+		<tag k='addr:street' v="avinguda Agramunt" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='25200' />
 		<tag k='addr:city' v="Cervera" />
 		<tag k='contact:phone' v='+34973530278' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624072' />
 		<tag k='name' v="Farmàcia Goma Balcells, Mercè" />
 		<tag k='addr:full' v="avinguda Catalunya, 13" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='25200' />
 		<tag k='addr:city' v="Cervera" />
 		<tag k='contact:phone' v='+34973530226' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624074' />
 		<tag k='name' v="Farmàcia Martorell Solé, Neus" />
 		<tag k='addr:full' v="carrer Sta Anna, 4" />
+		<tag k='addr:street' v="carrer Sta Anna" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='25200' />
 		<tag k='addr:city' v="Cervera" />
 		<tag k='contact:phone' v='+34973530154' />

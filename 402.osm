@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622975' />
 		<tag k='name' v="Farmàcia Gabarrós Guerrero, Anna" />
 		<tag k='addr:full' v="plaça  Sant Antoni Maria Claret, 4" />
+		<tag k='addr:street' v="plaça  Sant Antoni Maria Claret" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08273' />
 		<tag k='addr:city' v="Santa Maria d'Oló" />
 		<tag k='contact:phone' v='+34938300050' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624814' />
 		<tag k='name' v="Farmàcia Gavaldà Guiteres, Maria Pilar" />
 		<tag k='addr:full' v="plaça  Major, 14" />
+		<tag k='addr:street' v="plaça  Major" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='08279' />
 		<tag k='addr:city' v="Avinyó" />
 		<tag k='contact:phone' v='+34938387000' />

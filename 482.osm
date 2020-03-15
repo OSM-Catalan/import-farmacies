@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624721' />
 		<tag k='name' v="Farmàcia Gil Colomer, Pilar" />
 		<tag k='addr:full' v="carrer Arago, 39" />
+		<tag k='addr:street' v="carrer Arago" />
+		<tag k='addr:housenumber' v="39" />
 		<tag k='addr:postcode' v='08440' />
 		<tag k='addr:city' v="Cardedeu" />
 		<tag k='contact:phone' v='+34938460104' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='8029969' />
 		<tag k='name' v="Farmàcia Pons Morales, Laura" />
 		<tag k='addr:full' v="carrer Pont, 16" />
+		<tag k='addr:street' v="carrer Pont" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08520' />
 		<tag k='addr:city' v="Franqueses del Vallès, les" />
 		<tag k='contact:phone' v='+34932696028' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621082' />
 		<tag k='name' v="Farmàcia Palou Cunill, Maria" />
 		<tag k='addr:full' v="carrer Verge Del Pilar, 124,  porta 3c" />
+		<tag k='addr:street' v="carrer Verge Del Pilar" />
+		<tag k='addr:housenumber' v="124" />
 		<tag k='addr:postcode' v='08440' />
 		<tag k='addr:city' v="Cardedeu" />
 		<tag k='contact:phone' v='+34938460028' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3621905' />
 		<tag k='name' v="Farmàcia Canals Palau, M / Saborit Sancliment, R" />
 		<tag k='addr:full' v="avinguda Catalunya,  11-13" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v=" 11-13" />
 		<tag k='addr:postcode' v='08459' />
 		<tag k='addr:city' v="Sant Antoni de Vilamajor" />
 		<tag k='contact:phone' v='+34938451516' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3621913' />
 		<tag k='name' v="Farmàcia Mimó Bardolet, Silvia" />
 		<tag k='addr:full' v="carrer Anselm Clave, 54" />
+		<tag k='addr:street' v="carrer Anselm Clave" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='08530' />
 		<tag k='addr:city' v="Garriga, la" />
 		<tag k='contact:phone' v='+34938717286' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623433' />
 		<tag k='name' v="Farmàcia Basté Sabe, M. Àngels" />
 		<tag k='addr:full' v="carrer Sant Antoni, 74" />
+		<tag k='addr:street' v="carrer Sant Antoni" />
+		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='08520' />
 		<tag k='addr:city' v="Franqueses del Vallès, les" />
 		<tag k='contact:phone' v='+34938404866' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3622276' />
 		<tag k='name' v="Farmàcia Perich Tomas, Francesc" />
 		<tag k='addr:full' v="carrer Santiago Rusinyol,  31-33" />
+		<tag k='addr:street' v="carrer Santiago Rusinyol" />
+		<tag k='addr:housenumber' v=" 31-33" />
 		<tag k='addr:postcode' v='08450' />
 		<tag k='addr:city' v="Llinars del Vallès" />
 		<tag k='contact:phone' v='+34938410094' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3622108' />
 		<tag k='name' v="Farmàcia Forés Jover, Maria Cinta" />
 		<tag k='addr:full' v="carrer Diagonal Fivaller, 8" />
+		<tag k='addr:street' v="carrer Diagonal Fivaller" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08440' />
 		<tag k='addr:city' v="Cardedeu" />
 		<tag k='contact:phone' v='+34938461169' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623165' />
 		<tag k='name' v="Farmàcia Sandoval Molera, Maria Isabel" />
 		<tag k='addr:full' v="carrer Sant Nonet,  15-17" />
+		<tag k='addr:street' v="carrer Sant Nonet" />
+		<tag k='addr:housenumber' v=" 15-17" />
 		<tag k='addr:postcode' v='08458' />
 		<tag k='addr:city' v="Sant Pere de Vilamajor" />
 		<tag k='source:date' v='03/11/2020 07:57:02 AM +0000' />
@@ -94,6 +112,8 @@
 		<tag k='ref' v='3622994' />
 		<tag k='name' v="Farmàcia Crespí Arnaus, M. Dolors" />
 		<tag k='addr:full' v="carrer Calabria, 78" />
+		<tag k='addr:street' v="carrer Calabria" />
+		<tag k='addr:housenumber' v="78" />
 		<tag k='addr:postcode' v='08530' />
 		<tag k='addr:city' v="Garriga, la" />
 		<tag k='contact:phone' v='+34938716996' />
@@ -104,6 +124,8 @@
 		<tag k='ref' v='3622107' />
 		<tag k='name' v="Farmàcia Auqué Regaño, Bernat" />
 		<tag k='addr:full' v="carrer S.Antoni, 11" />
+		<tag k='addr:street' v="carrer S.Antoni" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08440' />
 		<tag k='addr:city' v="Cardedeu" />
 		<tag k='contact:phone' v='+34938461071' />
@@ -114,6 +136,8 @@
 		<tag k='ref' v='3622246' />
 		<tag k='name' v="Farmàcia Sunyol Genis, Martí" />
 		<tag k='addr:full' v="carrer Centre, 10" />
+		<tag k='addr:street' v="carrer Centre" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08530' />
 		<tag k='addr:city' v="Garriga, la" />
 		<tag k='contact:phone' v='+34938714686' />
@@ -124,6 +148,8 @@
 		<tag k='ref' v='3621770' />
 		<tag k='name' v="Farmàcia Sitjà Tost, M. Dolors" />
 		<tag k='addr:full' v="plaça  Joan Alsina, 8" />
+		<tag k='addr:street' v="plaça  Joan Alsina" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08440' />
 		<tag k='addr:city' v="Cardedeu" />
 		<tag k='contact:phone' v='+34938444570' />
@@ -134,6 +160,8 @@
 		<tag k='ref' v='3624544' />
 		<tag k='name' v="Farmàcia Jimenez Ucero. M. del Pilar" />
 		<tag k='addr:full' v="carretera  De Ribes, 205" />
+		<tag k='addr:street' v="carretera  De Ribes" />
+		<tag k='addr:housenumber' v="205" />
 		<tag k='addr:postcode' v='08520' />
 		<tag k='addr:city' v="Franqueses del Vallès, les" />
 		<tag k='contact:phone' v='+34938493772' />
@@ -144,6 +172,8 @@
 		<tag k='ref' v='3621952' />
 		<tag k='name' v="Farmàcia German Castillo, Raquel" />
 		<tag k='addr:full' v="carrer Mare De Deu Del Pilar, 34" />
+		<tag k='addr:street' v="carrer Mare De Deu Del Pilar" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08440' />
 		<tag k='addr:city' v="Cardedeu" />
 		<tag k='contact:phone' v='+34936254401' />
@@ -154,6 +184,8 @@
 		<tag k='ref' v='3622245' />
 		<tag k='name' v="Farmàcia Comaposada Beringues, Josefina" />
 		<tag k='addr:full' v="carrer Centre, 29" />
+		<tag k='addr:street' v="carrer Centre" />
+		<tag k='addr:housenumber' v="29" />
 		<tag k='addr:postcode' v='08530' />
 		<tag k='addr:city' v="Garriga, la" />
 		<tag k='contact:phone' v='+34938718314' />
@@ -164,6 +196,8 @@
 		<tag k='ref' v='3623137' />
 		<tag k='name' v="Farmàcia Valenzuela Rumbero, Gemma" />
 		<tag k='addr:full' v="carrer De L' Esglesia, 2" />
+		<tag k='addr:street' v="carrer De L' Esglesia" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08450' />
 		<tag k='addr:city' v="Llinars del Vallès" />
 		<tag k='contact:phone' v='+34938410303' />
@@ -174,6 +208,8 @@
 		<tag k='ref' v='3621248' />
 		<tag k='name' v="Farmàcia Ferrarons Girbau, Francesc" />
 		<tag k='addr:full' v="carrer Banys, 106" />
+		<tag k='addr:street' v="carrer Banys" />
+		<tag k='addr:housenumber' v="106" />
 		<tag k='addr:postcode' v='08530' />
 		<tag k='addr:city' v="Garriga, la" />
 		<tag k='contact:phone' v='+34938718128' />
@@ -184,6 +220,8 @@
 		<tag k='ref' v='3623021' />
 		<tag k='name' v="Farmàcia Basté Sabé, M. Immaculada" />
 		<tag k='addr:full' v="carrer El Sui, 2" />
+		<tag k='addr:street' v="carrer El Sui" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08445' />
 		<tag k='addr:city' v="Cànoves i Samalús" />
 		<tag k='contact:phone' v='+34938710534' />

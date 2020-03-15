@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624745' />
 		<tag k='name' v="Farmàcia Segura Benante, Neus" />
 		<tag k='addr:full' v="plaça  Formico,  S/N" />
+		<tag k='addr:street' v="plaça  Formico" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08779' />
 		<tag k='addr:city' v="Llacuna, la" />
 		<tag k='contact:phone' v='+34938976154' />

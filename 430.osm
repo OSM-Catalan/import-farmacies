@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622533' />
 		<tag k='name' v="Farmàcia Pagans Gómez, Joan J." />
 		<tag k='addr:full' v="avinguda De Catalunya, 66" />
+		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:housenumber' v="66" />
 		<tag k='addr:postcode' v='08212' />
 		<tag k='addr:city' v="Sant Llorenç Savall" />
 		<tag k='contact:phone' v='+34937140021' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623212' />
 		<tag k='name' v="Farmàcia López Piñol, David" />
 		<tag k='addr:full' v="carrer Loreto, 25" />
+		<tag k='addr:street' v="carrer Loreto" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='43363' />
 		<tag k='addr:city' v="Ulldemolins" />
 		<tag k='contact:phone' v='+34977561625' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624496' />
 		<tag k='name' v="Farmàcia Tombas Ribas, Rosa M." />
 		<tag k='addr:full' v="carrer Major, 20" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='43360' />
 		<tag k='addr:city' v="Cornudella de Montsant" />
 		<tag k='contact:phone' v='+34977821093' />

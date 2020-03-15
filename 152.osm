@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624477' />
 		<tag k='name' v="Farmàcia Olivella Pedrola, Roser" />
 		<tag k='addr:full' v="carrer Llambric, 22" />
+		<tag k='addr:street' v="carrer Llambric" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='43860' />
 		<tag k='addr:city' v="Ametlla de Mar, l'" />
 		<tag k='contact:phone' v='+34977456132' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623348' />
 		<tag k='name' v="Farmàcia Borges Ayats, Joan" />
 		<tag k='addr:full' v="carrer Pau Casals, 54" />
+		<tag k='addr:street' v="carrer Pau Casals" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='43860' />
 		<tag k='addr:city' v="Ametlla de Mar, l'" />
 		<tag k='contact:phone' v='+34977493252' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621908' />
 		<tag k='name' v="Farmàcia Ruiz Félez, Jaume" />
 		<tag k='addr:full' v="plaça  Major,  S/N" />
+		<tag k='addr:street' v="plaça  Major" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43860' />
 		<tag k='addr:city' v="Ametlla de Mar, l'" />
 		<tag k='contact:phone' v='+34977457821' />

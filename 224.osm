@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623357' />
 		<tag k='name' v="Farmàcia Valero Gayet, Cristina" />
 		<tag k='addr:full' v="plaça  Vella, 6" />
+		<tag k='addr:street' v="plaça  Vella" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43411' />
 		<tag k='addr:city' v="Blancafort" />
 		<tag k='contact:phone' v='+34977892447' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624634' />
 		<tag k='name' v="Farmàcia Pros Saumoy, Sara" />
 		<tag k='addr:full' v="carretera Montblanch - Artesa, 45" />
+		<tag k='addr:street' v="carretera Montblanch - Artesa" />
+		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='43412' />
 		<tag k='addr:city' v="Solivella" />
 		<tag k='contact:phone' v='+34977892417' />

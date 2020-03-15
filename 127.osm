@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624608' />
 		<tag k='name' v="Farmàcia Cedó Rigalt, M. Rosa / Vendrell Cedó, R." />
 		<tag k='addr:full' v="carrer Prim, 9" />
+		<tag k='addr:street' v="carrer Prim" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='43519' />
 		<tag k='addr:city' v="Perelló, el" />
 		<tag k='contact:phone' v='+34977490047' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621591' />
 		<tag k='name' v="Farmàcia Estupiñà Martí, Teresa" />
 		<tag k='addr:full' v="plaça  Gonzalez Isla, 14" />
+		<tag k='addr:street' v="plaça  Gonzalez Isla" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='43895' />
 		<tag k='addr:city' v="Ampolla, l'" />
 		<tag k='source:date' v='03/11/2020 08:00:12 AM +0000' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3623038' />
 		<tag k='name' v="Farmàcia López Aguilò, Berta" />
 		<tag k='addr:full' v="carrer Marcel Miralles I Pallarès, 6" />
+		<tag k='addr:street' v="carrer Marcel Miralles I Pallarès" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43895' />
 		<tag k='addr:city' v="Ampolla, l'" />
 		<tag k='contact:phone' v='+34977460152' />

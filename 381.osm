@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623163' />
 		<tag k='name' v="Farmàcia Manyer Català, M - Asencio Repullés, S" />
 		<tag k='addr:full' v="carrer Andreu Cerda, 54" />
+		<tag k='addr:street' v="carrer Andreu Cerda" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='08757' />
 		<tag k='addr:city' v="Corbera de Llobregat" />
 		<tag k='contact:phone' v='+34936882888' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623017' />
 		<tag k='name' v="Farmàcia Cerdà, Ramon - Gabaldón, Virgili" />
 		<tag k='addr:full' v="carrer Moli, 19" />
+		<tag k='addr:street' v="carrer Moli" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08795' />
 		<tag k='addr:city' v="Olesa de Bonesvalls" />
 		<tag k='contact:phone' v='+34938984166' />

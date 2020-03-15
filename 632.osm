@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623956' />
 		<tag k='name' v="Farmàcia Fajol Ayner, Dolors" />
 		<tag k='addr:full' v="carrer Joan Carles, 78" />
+		<tag k='addr:street' v="carrer Joan Carles" />
+		<tag k='addr:housenumber' v="78" />
 		<tag k='addr:postcode' v='17486' />
 		<tag k='addr:city' v="Castelló d'Empúries" />
 		<tag k='contact:phone' v='+34972451664' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623447' />
 		<tag k='name' v="Farmàcia Falguera Sacrest, M. Lluïsa" />
 		<tag k='addr:full' v="plaça  De Catalunya, 11" />
+		<tag k='addr:street' v="plaça  De Catalunya" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='17472' />
 		<tag k='addr:city' v="Armentera, l'" />
 		<tag k='contact:phone' v='+34972520147' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623979' />
 		<tag k='name' v="Farmàcia Menéndez de Alvarez Rguez., Mariano" />
 		<tag k='addr:full' v="carrer Port Banyuls, 1" />
+		<tag k='addr:street' v="carrer Port Banyuls" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17486' />
 		<tag k='addr:city' v="Castelló d'Empúries" />
 		<tag k='contact:phone' v='+34972452095' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623647' />
 		<tag k='name' v="Farmàcia Poch Sabater, Josep Maria" />
 		<tag k='addr:full' v="carrer Mar, 25" />
+		<tag k='addr:street' v="carrer Mar" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='17470' />
 		<tag k='addr:city' v="Sant Pere Pescador" />
 		<tag k='contact:phone' v='+34972520015' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624042' />
 		<tag k='name' v="Farmàcia Camps Font, Jordi" />
 		<tag k='addr:full' v="avinguda Marinada, 40" />
+		<tag k='addr:street' v="avinguda Marinada" />
+		<tag k='addr:housenumber' v="40" />
 		<tag k='addr:postcode' v='17486' />
 		<tag k='addr:city' v="Castelló d'Empúries" />
 		<tag k='contact:phone' v='+34972450209' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623928' />
 		<tag k='name' v="Farmàcia Marce Badosa, Núria" />
 		<tag k='addr:full' v="carretera Vila-Sacra, 3" />
+		<tag k='addr:street' v="carretera Vila-Sacra" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17469' />
 		<tag k='addr:city' v="Fortià" />
 		<tag k='contact:phone' v='+34972953405' />

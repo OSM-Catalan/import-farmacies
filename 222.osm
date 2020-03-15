@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624349' />
 		<tag k='name' v="Farmàcia Totime Ebuera, Ernestina" />
 		<tag k='addr:full' v="carrer Sant Pelegri, 90" />
+		<tag k='addr:street' v="carrer Sant Pelegri" />
+		<tag k='addr:housenumber' v="90" />
 		<tag k='addr:postcode' v='25300' />
 		<tag k='addr:city' v="Tàrrega" />
 		<tag k='contact:phone' v='+34973311129' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624053' />
 		<tag k='name' v="Farmàcia Gutiérrez Argüeso, Lorena" />
 		<tag k='addr:full' v="avinguda  Catalunya, 26" />
+		<tag k='addr:street' v="avinguda  Catalunya" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='25320' />
 		<tag k='addr:city' v="Anglesola" />
 		<tag k='contact:phone' v='+34973308132' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624459' />
 		<tag k='name' v="Farmàcia Collado Baillo, Adelaida" />
 		<tag k='addr:full' v="carrer Ramon Perello, 1" />
+		<tag k='addr:street' v="carrer Ramon Perello" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25330' />
 		<tag k='addr:city' v="Vilagrassa" />
 		<tag k='contact:phone' v='+34973500397' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624160' />
 		<tag k='name' v="Farmàcia Robinat Felip, Francesc Xavier" />
 		<tag k='addr:full' v="carrer Alonso Martinez, 35" />
+		<tag k='addr:street' v="carrer Alonso Martinez" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='25300' />
 		<tag k='addr:city' v="Tàrrega" />
 		<tag k='contact:phone' v='+34973310117' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624162' />
 		<tag k='name' v="Farmàcia Robinat Albareda, Núria" />
 		<tag k='addr:full' v="carrer Santa Clara,  2A" />
+		<tag k='addr:street' v="carrer Santa Clara" />
+		<tag k='addr:housenumber' v=" 2A" />
 		<tag k='addr:postcode' v='25300' />
 		<tag k='addr:city' v="Tàrrega" />
 		<tag k='contact:phone' v='+34973310451' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3624161' />
 		<tag k='name' v="Farmàcia Mestres Duran, Anna M." />
 		<tag k='addr:full' v="avinguda Catalunya, 11" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='25300' />
 		<tag k='addr:city' v="Tàrrega" />
 		<tag k='contact:phone' v='+34973310738' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3624317' />
 		<tag k='name' v="Farmàcia Farras Minguell, Miquel" />
 		<tag k='addr:full' v="carrer Tomas Pellisso, 3" />
+		<tag k='addr:street' v="carrer Tomas Pellisso" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='25340' />
 		<tag k='addr:city' v="Verdú" />
 		<tag k='contact:phone' v='+34973347047' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3624163' />
 		<tag k='name' v="Farmàcia Biosca Carulla, Ramon" />
 		<tag k='addr:full' v="carrer Carmen, 28" />
+		<tag k='addr:street' v="carrer Carmen" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='25300' />
 		<tag k='addr:city' v="Tàrrega" />
 		<tag k='contact:phone' v='+34973310186' />

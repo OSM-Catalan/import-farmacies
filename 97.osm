@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624502' />
 		<tag k='name' v="Farmàcia Barbero Pàmies, Amèlia" />
 		<tag k='addr:full' v="carrer Major, 6" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43750' />
 		<tag k='addr:city' v="Flix" />
 		<tag k='contact:phone' v='+34977410129' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624483' />
 		<tag k='name' v="Farmàcia Pallarés Povill, M. Teresa" />
 		<tag k='addr:full' v="carrer Riu, 43" />
+		<tag k='addr:street' v="carrer Riu" />
+		<tag k='addr:housenumber' v="43" />
 		<tag k='addr:postcode' v='43791' />
 		<tag k='addr:city' v="Ascó" />
 		<tag k='contact:phone' v='+34977406109' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623214' />
 		<tag k='name' v="Farmàcia Mateo del Pozo, Francesc Xavier" />
 		<tag k='addr:full' v="avinguda Francesc Macia, 7" />
+		<tag k='addr:street' v="avinguda Francesc Macia" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='43792' />
 		<tag k='addr:city' v="Vinebre" />
 		<tag k='contact:phone' v='+34977406125' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624501' />
 		<tag k='name' v="Farmàcia Barbero Pàmies, Pilar" />
 		<tag k='addr:full' v="carrer Sant Jordi, 19" />
+		<tag k='addr:street' v="carrer Sant Jordi" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='43750' />
 		<tag k='addr:city' v="Flix" />
 		<tag k='contact:phone' v='+34977410529' />

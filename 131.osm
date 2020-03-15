@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624081' />
 		<tag k='name' v="Farmàcia Almansa Artiga, Margarita" />
 		<tag k='addr:full' v="plaça  Ressech,  S/N" />
+		<tag k='addr:street' v="plaça  Ressech" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='25540' />
 		<tag k='addr:city' v="Les" />
 		<tag k='contact:phone' v='+34973647244' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624070' />
 		<tag k='name' v="Farmàcia Almansa Artiga, Miquel" />
 		<tag k='addr:full' v="carrer Eduardo Aunós, 10" />
+		<tag k='addr:street' v="carrer Eduardo Aunós" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='25550' />
 		<tag k='addr:city' v="Bossòst" />
 		<tag k='contact:phone' v='+34973648219' />

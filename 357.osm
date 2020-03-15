@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624128' />
 		<tag k='name' v="Farmàcia Torrents Lorca, M. del Carmen" />
 		<tag k='addr:full' v="carrer S.Mus,  S/N" />
+		<tag k='addr:street' v="carrer S.Mus" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='contact:phone' v='+34938943548' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623301' />
 		<tag k='name' v="Farmàcia Miret Solé, M. Carme" />
 		<tag k='addr:full' v="carretera  Sant Pere De Ribes,  38-42" />
+		<tag k='addr:street' v="carretera  Sant Pere De Ribes" />
+		<tag k='addr:housenumber' v=" 38-42" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='contact:phone' v='+34938944911' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622620' />
 		<tag k='name' v="Farmàcia Font Soler, Ma. Pilar" />
 		<tag k='addr:full' v="carrer Sant Francesc, 40" />
+		<tag k='addr:street' v="carrer Sant Francesc" />
+		<tag k='addr:housenumber' v="40" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='contact:phone' v='+34938110033' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624725' />
 		<tag k='name' v="Farmàcia Perales Agustín, Sara" />
 		<tag k='addr:full' v="avinguda Cubelles, 41" />
+		<tag k='addr:street' v="avinguda Cubelles" />
+		<tag k='addr:housenumber' v="41" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938150604' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623512' />
 		<tag k='name' v="Farmàcia Pascual Vidal, J. - Pascual Albareda, A." />
 		<tag k='addr:full' v="avinguda Catalunya, 10" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08810' />
 		<tag k='addr:city' v="Sant Pere de Ribes" />
 		<tag k='contact:phone' v='+34938932487' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621592' />
 		<tag k='name' v="Farmàcia Pérez Bravo, Guadalupe" />
 		<tag k='addr:full' v="rambla Salvador Sama,  95-97" />
+		<tag k='addr:street' v="rambla Salvador Sama" />
+		<tag k='addr:housenumber' v=" 95-97" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938106857' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3621945' />
 		<tag k='name' v="Farmàcia Farré Espar, Josep" />
 		<tag k='addr:full' v="carrer Llibertat, 93" />
+		<tag k='addr:street' v="carrer Llibertat" />
+		<tag k='addr:housenumber' v="93" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938532729' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3622658' />
 		<tag k='name' v="Farmàcia Pedraza Ferrer, Ferran" />
 		<tag k='addr:full' v="plaça  Soler I Gustems, 20" />
+		<tag k='addr:street' v="plaça  Soler I Gustems" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938930096' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623347' />
 		<tag k='name' v="Farmàcia Gómez Peña, Rosa Antònia" />
 		<tag k='addr:full' v="passeig Vilanova, 72" />
+		<tag k='addr:street' v="passeig Vilanova" />
+		<tag k='addr:housenumber' v="72" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='contact:phone' v='+34938113801' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3622661' />
 		<tag k='name' v="Farmàcia Soler Miret, Maria Victòria" />
 		<tag k='addr:full' v="carrer Sant Gregori, 21" />
+		<tag k='addr:street' v="carrer Sant Gregori" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938930030' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3621615' />
 		<tag k='name' v="Farmàcia Domínguez Cedazo, Maria" />
 		<tag k='addr:full' v="rambla Lluís Companys, 8" />
+		<tag k='addr:street' v="rambla Lluís Companys" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938100978' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3622660' />
 		<tag k='name' v="Farmàcia Masip Guasch, Albert i Jordi" />
 		<tag k='addr:full' v="carrer Josep Coroleu, 79" />
+		<tag k='addr:street' v="carrer Josep Coroleu" />
+		<tag k='addr:housenumber' v="79" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938156337' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3691236' />
 		<tag k='name' v="Farmàcia Font Sanahuja, Salvador" />
 		<tag k='addr:full' v="carrer Jardí, 65" />
+		<tag k='addr:street' v="carrer Jardí" />
+		<tag k='addr:housenumber' v="65" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='source:date' v='03/11/2020 07:57:43 AM +0000' />
@@ -134,6 +160,8 @@
 		<tag k='ref' v='3623918' />
 		<tag k='name' v="Farmàcia Mateu Peña, Carles Josep" />
 		<tag k='addr:full' v="avinguda Francesc Macia, 122" />
+		<tag k='addr:street' v="avinguda Francesc Macia" />
+		<tag k='addr:housenumber' v="122" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938151669' />
@@ -144,6 +172,8 @@
 		<tag k='ref' v='3623432' />
 		<tag k='name' v="Farmàcia López Cañada, Mireia" />
 		<tag k='addr:full' v="avinguda Jaume Balmes, 26" />
+		<tag k='addr:street' v="avinguda Jaume Balmes" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08800' />
 		<tag k='addr:city' v="Vilanova i la Geltrú" />
 		<tag k='contact:phone' v='+34938105528' />

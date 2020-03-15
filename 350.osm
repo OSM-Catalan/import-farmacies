@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622622' />
 		<tag k='name' v="Farmàcia Collado Gil, Virgínia" />
 		<tag k='addr:full' v="carrer Salvador Vancells, 28" />
+		<tag k='addr:street' v="carrer Salvador Vancells" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08260' />
 		<tag k='addr:city' v="Súria" />
 		<tag k='contact:phone' v='+34938695695' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621242' />
 		<tag k='name' v="Farmàcia Massó Muniesa, Jordi" />
 		<tag k='addr:full' v="carrer De Pompeu Fabra, 1" />
+		<tag k='addr:street' v="carrer De Pompeu Fabra" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08260' />
 		<tag k='addr:city' v="Súria" />
 		<tag k='contact:phone' v='+34938682289' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623161' />
 		<tag k='name' v="Farmàcia Descals Vilarnau, Mercè" />
 		<tag k='addr:full' v="carretera Cardona.Valls Torruella,  S/N" />
+		<tag k='addr:street' v="carretera Cardona.Valls Torruella" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08263' />
 		<tag k='addr:city' v="Sant Mateu de Bages" />
 		<tag k='contact:phone' v='+34938696060' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3622621' />
 		<tag k='name' v="Farmàcia Ripoll Espinat, M. Angeles" />
 		<tag k='addr:full' v="carrer Salvador Vancells, 10" />
+		<tag k='addr:street' v="carrer Salvador Vancells" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08260' />
 		<tag k='addr:city' v="Súria" />
 		<tag k='contact:phone' v='+34938695049' />

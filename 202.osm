@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623060' />
 		<tag k='name' v="Farmàcia Colom Feliu, Lluís Maria" />
 		<tag k='addr:full' v="plaça  Concordia, 2" />
+		<tag k='addr:street' v="plaça  Concordia" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43391' />
 		<tag k='addr:city' v="Vinyols i els Arcs" />
 		<tag k='contact:phone' v='+34977362191' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623211' />
 		<tag k='name' v="Farmàcia Guillén Lacué, Núria" />
 		<tag k='addr:full' v="avinguda Verge De Montserrat,  6-8" />
+		<tag k='addr:street' v="avinguda Verge De Montserrat" />
+		<tag k='addr:housenumber' v=" 6-8" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='source:date' v='03/11/2020 08:01:05 AM +0000' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3623208' />
 		<tag k='name' v="Farmàcia Serrat Ferré, Rosa M." />
 		<tag k='addr:full' v="carrer Pujada Del Castell, 1" />
+		<tag k='addr:street' v="carrer Pujada Del Castell" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43772' />
 		<tag k='addr:city' v="Botarell" />
 		<tag k='contact:phone' v='+34977826283' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3621617' />
 		<tag k='name' v="Farmàcia Esqué Englund, Teresa" />
 		<tag k='addr:full' v="avinguda De Josep Vidal I Barraquer, 3" />
+		<tag k='addr:street' v="avinguda De Josep Vidal I Barraquer" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='contact:phone' v='+34977791702' />
@@ -44,6 +52,8 @@
 		<tag k='ref' v='3624807' />
 		<tag k='name' v="Farmàcia Mestres Vidiella, Joan" />
 		<tag k='addr:full' v="carrer Sant Jordi, 13" />
+		<tag k='addr:street' v="carrer Sant Jordi" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='43340' />
 		<tag k='addr:city' v="Montbrió del Camp" />
 		<tag k='contact:phone' v='+34977826060' />
@@ -54,6 +64,8 @@
 		<tag k='ref' v='3621268' />
 		<tag k='name' v="Farmàcia Gómez Sánchez, Sònia" />
 		<tag k='addr:full' v="carrer País Basc, 18" />
+		<tag k='addr:street' v="carrer País Basc" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='contact:phone' v='+34977369912' />
@@ -64,6 +76,8 @@
 		<tag k='ref' v='3624491' />
 		<tag k='name' v="Farmàcia Barcelona Martí, Frederic" />
 		<tag k='addr:full' v="avinguda Independència, 1" />
+		<tag k='addr:street' v="avinguda Independència" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='contact:phone' v='+34977360466' />
@@ -74,6 +88,8 @@
 		<tag k='ref' v='3621096' />
 		<tag k='name' v="Farmàcia Suils Mochales, M. Lourdes" />
 		<tag k='addr:full' v="carrer Moragas Barret, 2" />
+		<tag k='addr:street' v="carrer Moragas Barret" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='contact:phone' v='+34617358225' />
@@ -84,6 +100,8 @@
 		<tag k='ref' v='3624623' />
 		<tag k='name' v="Farmàcia Robusté Mateu, Ramon" />
 		<tag k='addr:full' v="carrer Doctor Fleming, 1" />
+		<tag k='addr:street' v="carrer Doctor Fleming" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='43330' />
 		<tag k='addr:city' v="Riudoms" />
 		<tag k='contact:phone' v='+34977768047' />
@@ -94,6 +112,8 @@
 		<tag k='ref' v='3623351' />
 		<tag k='name' v="Farmàcia Borràs Cabacès, Blanca" />
 		<tag k='addr:full' v="avinguda Diputacio, 79" />
+		<tag k='addr:street' v="avinguda Diputacio" />
+		<tag k='addr:housenumber' v="79" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='source:date' v='03/11/2020 08:01:06 AM +0000' />
@@ -103,6 +123,8 @@
 		<tag k='ref' v='3623203' />
 		<tag k='name' v="Farmàcia Valls Cucurella, M i Lobaco Valls, C" />
 		<tag k='addr:full' v="rambla  Jaume I, 17" />
+		<tag k='addr:street' v="rambla  Jaume I" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='contact:phone' v='+34977369003' />
@@ -113,6 +135,8 @@
 		<tag k='ref' v='3622871' />
 		<tag k='name' v="Farmàcia Maduell Canals, M. i Estapé Maduell, MM" />
 		<tag k='addr:full' v=" cm de riudoms, 49" />
+		<tag k='addr:street' v=" cm de riudoms" />
+		<tag k='addr:housenumber' v="49" />
 		<tag k='addr:postcode' v='43202' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977320707' />
@@ -123,6 +147,8 @@
 		<tag k='ref' v='3622067' />
 		<tag k='name' v="Farmàcia Cepero Calvete, Jorge" />
 		<tag k='addr:full' v="carrer Major,  18-20" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v=" 18-20" />
 		<tag k='addr:postcode' v='43330' />
 		<tag k='addr:city' v="Riudoms" />
 		<tag k='contact:phone' v='+34977506324' />

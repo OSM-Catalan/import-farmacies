@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623057' />
 		<tag k='name' v="Farmàcia Stolpa, Bettina" />
 		<tag k='addr:full' v="carrer Vall D'Estudi,  S/N" />
+		<tag k='addr:street' v="carrer Vall D'Estudi" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43781' />
 		<tag k='addr:city' v="Fatarella, la" />
 		<tag k='contact:phone' v='+34977413417' />

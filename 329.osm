@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623005' />
 		<tag k='name' v="Farmàcia Mitjans Baques, Pere Joan" />
 		<tag k='addr:full' v="carretera De La Diputacio,  s/n" />
+		<tag k='addr:street' v="carretera De La Diputacio" />
+		<tag k='addr:housenumber' v=" s/n" />
 		<tag k='addr:postcode' v='08735' />
 		<tag k='addr:city' v="Vilobí del Penedès" />
 		<tag k='source:date' v='03/11/2020 07:59:02 AM +0000' />
@@ -14,6 +16,8 @@
 		<tag k='ref' v='3622981' />
 		<tag k='name' v="Farmàcia Ferré Garrich, Irene" />
 		<tag k='addr:full' v="avinguda De Catalunya, 0" />
+		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:housenumber' v="0" />
 		<tag k='addr:postcode' v='08736' />
 		<tag k='addr:city' v="Font-rubí" />
 		<tag k='contact:phone' v='+34938978590' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3624566' />
 		<tag k='name' v="Farmàcia Martínez Rosell, M. Pilar" />
 		<tag k='addr:full' v="carrer De Pontons, 7" />
+		<tag k='addr:street' v="carrer De Pontons" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08737' />
 		<tag k='addr:city' v="Torrelles de Foix" />
 		<tag k='contact:phone' v='+34938972122' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3621105' />
 		<tag k='name' v="Farmàcia Monsarró Rafecas, J - Amado Monsarró, C" />
 		<tag k='addr:full' v="carrer Ansem Clave, 33" />
+		<tag k='addr:street' v="carrer Ansem Clave" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='08731' />
 		<tag k='addr:city' v="Sant Martí Sarroca" />
 		<tag k='contact:phone' v='+34938991204' />

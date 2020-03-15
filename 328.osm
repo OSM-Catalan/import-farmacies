@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622537' />
 		<tag k='name' v="Farmàcia Cerrillo Albaigés, Núria" />
 		<tag k='addr:full' v="avinguda Montserrat,  S/N" />
+		<tag k='addr:street' v="avinguda Montserrat" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08777' />
 		<tag k='addr:city' v="Sant Quintí de Mediona" />
 		<tag k='contact:phone' v='+34938998229' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622979' />
 		<tag k='name' v="Farmàcia Guma Vich, Josep" />
 		<tag k='addr:full' v="carrer Dr.Trueta, 16" />
+		<tag k='addr:street' v="carrer Dr.Trueta" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08773' />
 		<tag k='addr:city' v="Mediona" />
 		<tag k='contact:phone' v='+34938985058' />

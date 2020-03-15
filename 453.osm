@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623262' />
 		<tag k='name' v="Farmàcia Arumi Bellvehí, Josep" />
 		<tag k='addr:full' v="plaça  De La Divina Pastora, 5" />
+		<tag k='addr:street' v="plaça  De La Divina Pastora" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938862706' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623587' />
 		<tag k='name' v="Farmàcia Terricabras, Berta - Vilella, Elena" />
 		<tag k='addr:full' v="carrer Del Doctor Candi Bayés, 60" />
+		<tag k='addr:street' v="carrer Del Doctor Candi Bayés" />
+		<tag k='addr:housenumber' v="60" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938850283' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622648' />
 		<tag k='name' v="Farmàcia Urgell Canal, F. Xavier" />
 		<tag k='addr:full' v="rambla De L' Hospital, 18" />
+		<tag k='addr:street' v="rambla De L' Hospital" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938853863' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623148' />
 		<tag k='name' v="Farmàcia Espinosa Duro, Maria Isabel" />
 		<tag k='addr:full' v="carretera De Sant Bartomeu,  KM.1" />
+		<tag k='addr:street' v="carretera De Sant Bartomeu" />
+		<tag k='addr:housenumber' v=" KM.1" />
 		<tag k='addr:postcode' v='08503' />
 		<tag k='addr:city' v="Gurb" />
 		<tag k='contact:phone' v='+34938891023' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624094' />
 		<tag k='name' v="Farmàcia Aliberch Roca, Xavier" />
 		<tag k='addr:full' v="ronda De Francesc Camprodón, 36" />
+		<tag k='addr:street' v="ronda De Francesc Camprodón" />
+		<tag k='addr:housenumber' v="36" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938861248' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3622646' />
 		<tag k='name' v="Farmàcia Barnolas Puigbó, Felisa" />
 		<tag k='addr:full' v="rambla Del Carme, 49" />
+		<tag k='addr:street' v="rambla Del Carme" />
+		<tag k='addr:housenumber' v="49" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938863509' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623169' />
 		<tag k='name' v="Farmàcia Munmany Boix, Esteve" />
 		<tag k='addr:full' v="passeig Creu Del Marcé, 1" />
+		<tag k='addr:street' v="passeig Creu Del Marcé" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='source:date' v='03/11/2020 07:59:14 AM +0000' />
@@ -74,6 +88,8 @@
 		<tag k='ref' v='3622645' />
 		<tag k='name' v="Farmàcia Fargas Riera, Josep" />
 		<tag k='addr:full' v="carrer Bisbe Morgadas, 25" />
+		<tag k='addr:street' v="carrer Bisbe Morgadas" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938856162' />
@@ -84,6 +100,8 @@
 		<tag k='ref' v='3621740' />
 		<tag k='name' v="Farmàcia Casajuana Cortinas, Ma. Teresa" />
 		<tag k='addr:full' v="carrer Del Pare Huix, 15" />
+		<tag k='addr:street' v="carrer Del Pare Huix" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938836037' />
@@ -94,6 +112,8 @@
 		<tag k='ref' v='3622649' />
 		<tag k='name' v="Farmàcia Vilaplana Penella, J." />
 		<tag k='addr:full' v="plaça  Major, 17" />
+		<tag k='addr:street' v="plaça  Major" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938860824' />
@@ -104,6 +124,8 @@
 		<tag k='ref' v='3624036' />
 		<tag k='name' v="Farmàcia Euras Vilalta, Elena i Núria" />
 		<tag k='addr:full' v="carrer Tagamanent, 1" />
+		<tag k='addr:street' v="carrer Tagamanent" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938857067' />
@@ -114,6 +136,8 @@
 		<tag k='ref' v='3621574' />
 		<tag k='name' v="Farmàcia Ferrer Caritx, R.-Capdevila Castells,M.R" />
 		<tag k='addr:full' v="carrer Montserrat, 11" />
+		<tag k='addr:street' v="carrer Montserrat" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938892503' />
@@ -124,6 +148,8 @@
 		<tag k='ref' v='3621773' />
 		<tag k='name' v="Farmàcia Pou Portús, Anna" />
 		<tag k='addr:full' v="avinguda D'Olímpia, 5" />
+		<tag k='addr:street' v="avinguda D'Olímpia" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08500' />
 		<tag k='addr:city' v="Vic" />
 		<tag k='contact:phone' v='+34938836803' />

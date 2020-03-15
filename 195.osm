@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624077' />
 		<tag k='name' v="Farmàcia Trullols Cardona, Maria Elena" />
 		<tag k='addr:full' v="avinguda Catalunya, 20" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='25332' />
 		<tag k='addr:city' v="Fuliola, la" />
 		<tag k='contact:phone' v='+34973268391' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624071' />
 		<tag k='name' v="Farmàcia Rubió Rodríguez, Núria" />
 		<tag k='addr:full' v="plaça  De La Sardana, 7" />
+		<tag k='addr:street' v="plaça  De La Sardana" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='25334' />
 		<tag k='addr:city' v="Castellserà" />
 		<tag k='contact:phone' v='+34973610601' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624448' />
 		<tag k='name' v="Farmàcia Aumedes Farré, Teresa" />
 		<tag k='addr:full' v="carrer Del Mig, 12" />
+		<tag k='addr:street' v="carrer Del Mig" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='25335' />
 		<tag k='addr:city' v="Penelles" />
 		<tag k='contact:phone' v='+34973610582' />

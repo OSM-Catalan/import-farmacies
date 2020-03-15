@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624489' />
 		<tag k='name' v="Farmàcia Gràcia Castellví, Carles Xavier" />
 		<tag k='addr:full' v="carrer Jesus, 48" />
+		<tag k='addr:street' v="carrer Jesus" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='43820' />
 		<tag k='addr:city' v="Calafell" />
 		<tag k='contact:phone' v='+34977691639' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623081' />
 		<tag k='name' v="Farmàcia Linares Muñoz, Francesc de A." />
 		<tag k='addr:full' v="carrer Torras I Bages, 3" />
+		<tag k='addr:street' v="carrer Torras I Bages" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43710' />
 		<tag k='addr:city' v="Santa Oliva" />
 		<tag k='contact:phone' v='+34977662915' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623362' />
 		<tag k='name' v="Farmàcia López Alfonso, Cristina" />
 		<tag k='addr:full' v="avinguda Baix Penedes, 24" />
+		<tag k='addr:street' v="avinguda Baix Penedes" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977660333' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3622895' />
 		<tag k='name' v="Farmàcia Guilamany Barreras, Margarita" />
 		<tag k='addr:full' v="carrer Sant Isidre, 4" />
+		<tag k='addr:street' v="carrer Sant Isidre" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43883' />
 		<tag k='addr:city' v="Roda de Berà" />
 		<tag k='contact:phone' v='+34977657137' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3622879' />
 		<tag k='name' v="Farmàcia Tobella Batallé, Ricard" />
 		<tag k='addr:full' v="plaça  Trillas,  S/N" />
+		<tag k='addr:street' v="plaça  Trillas" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43880' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977680917' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3622910' />
 		<tag k='name' v="Farmàcia Bueno Andreu, Vicenç" />
 		<tag k='addr:full' v="carretera Valls, 72" />
+		<tag k='addr:street' v="carretera Valls" />
+		<tag k='addr:housenumber' v="72" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977661656' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3621245' />
 		<tag k='name' v="Farmàcia Juste Diez de Pinos, Josep Lluís" />
 		<tag k='addr:full' v="carrer De Les Flors, 74" />
+		<tag k='addr:street' v="carrer De Les Flors" />
+		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977660354' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623073' />
 		<tag k='name' v="Farmàcia Medrano de la Maza, Lluís Miquel" />
 		<tag k='addr:full' v="carrer Sant Pere,  44-46" />
+		<tag k='addr:street' v="carrer Sant Pere" />
+		<tag k='addr:housenumber' v=" 44-46" />
 		<tag k='addr:postcode' v='43820' />
 		<tag k='addr:city' v="Calafell" />
 		<tag k='contact:phone' v='+34977690308' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3621455' />
 		<tag k='name' v="Farmàcia Sisternes Vernia, Enric Vicenç" />
 		<tag k='addr:full' v="avinguda Sant Vicenç, 37" />
+		<tag k='addr:street' v="avinguda Sant Vicenç" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977155964' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3624788' />
 		<tag k='name' v="Farmàcia Rovira Ribas, Jaume" />
 		<tag k='addr:full' v="carrer Prat De La Riba, 6" />
+		<tag k='addr:street' v="carrer Prat De La Riba" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977660873' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3622898' />
 		<tag k='name' v="Farmàcia Rubio Moreno, Gregoria" />
 		<tag k='addr:full' v="carrer Roc De Sant Gaietà,  S/N" />
+		<tag k='addr:street' v="carrer Roc De Sant Gaietà" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43883' />
 		<tag k='addr:city' v="Roda de Berà" />
 		<tag k='contact:phone' v='+34977809902' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3623232' />
 		<tag k='name' v="Farmàcia Bargalló Mesones, Pilar" />
 		<tag k='addr:full' v="carretera N-340, 1185" />
+		<tag k='addr:street' v="carretera N-340" />
+		<tag k='addr:housenumber' v="1185" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='source:date' v='03/11/2020 08:00:55 AM +0000' />
@@ -124,6 +148,8 @@
 		<tag k='ref' v='3621240' />
 		<tag k='name' v="Farmàcia Bonet Serrano, Jaume" />
 		<tag k='addr:full' v="avinguda Palfuriana, 48" />
+		<tag k='addr:street' v="avinguda Palfuriana" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977684069' />
@@ -134,6 +160,8 @@
 		<tag k='ref' v='9025630' />
 		<tag k='name' v="Farmàcia Gas Aixendri, Carlos Jesús" />
 		<tag k='addr:full' v="carrer Narcis Monturiol,  16-18" />
+		<tag k='addr:street' v="carrer Narcis Monturiol" />
+		<tag k='addr:housenumber' v=" 16-18" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34877063819' />
@@ -144,6 +172,8 @@
 		<tag k='ref' v='3623080' />
 		<tag k='name' v="Farmàcia Parra Trillas, Pere" />
 		<tag k='addr:full' v="carrer Sant Xavier, 23" />
+		<tag k='addr:street' v="carrer Sant Xavier" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977660275' />
@@ -154,6 +184,8 @@
 		<tag k='ref' v='3623195' />
 		<tag k='name' v="Farmàcia Armengol Codina, Montserrat" />
 		<tag k='addr:full' v="carrer Afores, 5" />
+		<tag k='addr:street' v="carrer Afores" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='43716' />
 		<tag k='addr:city' v="Albinyana" />
 		<tag k='contact:phone' v='+34977687786' />
@@ -164,6 +196,8 @@
 		<tag k='ref' v='3624787' />
 		<tag k='name' v="Farmàcia Mestres Català, M. Carme" />
 		<tag k='addr:full' v="carrer Prat De La Riba, 2" />
+		<tag k='addr:street' v="carrer Prat De La Riba" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
 		<tag k='contact:phone' v='+34977666084' />

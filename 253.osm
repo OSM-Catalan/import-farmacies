@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623067' />
 		<tag k='name' v="Farmàcia Rosique Roman, M. Lluïsa" />
 		<tag k='addr:full' v="avinguda De Catalunya,  S/N" />
+		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43764' />
 		<tag k='addr:city' v="Catllar, el" />
 		<tag k='contact:phone' v='+34977655339' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622897' />
 		<tag k='name' v="Farmàcia Alcoceba Gutierrez, Mercè" />
 		<tag k='addr:full' v="carrer Muntaner,  13-15" />
+		<tag k='addr:street' v="carrer Muntaner" />
+		<tag k='addr:housenumber' v=" 13-15" />
 		<tag k='addr:postcode' v='43130' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977520537' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623192' />
 		<tag k='name' v="Farmàcia Anguela de Irizar, Xavier" />
 		<tag k='addr:full' v="carrer Nou, 7" />
+		<tag k='addr:street' v="carrer Nou" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='43152' />
 		<tag k='addr:city' v="Perafort" />
 		<tag k='source:date' v='03/11/2020 08:00:47 AM +0000' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3622885' />
 		<tag k='name' v="Farmàcia Pedrola Ferrando, Montserrat" />
 		<tag k='addr:full' v="avinguda Pirineus, 121" />
+		<tag k='addr:street' v="avinguda Pirineus" />
+		<tag k='addr:housenumber' v="121" />
 		<tag k='addr:postcode' v='43130' />
 		<tag k='addr:city' v="Tarragona" />
 		<tag k='contact:phone' v='+34977221759' />
@@ -44,6 +52,8 @@
 		<tag k='ref' v='3624789' />
 		<tag k='name' v="Farmàcia Mañé Figuerola, S.- Mañé Pablo, M." />
 		<tag k='addr:full' v="carrer Patrocini, 2" />
+		<tag k='addr:street' v="carrer Patrocini" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43886' />
 		<tag k='addr:city' v="Vilabella" />
 		<tag k='contact:phone' v='+34977620130' />
@@ -54,6 +64,8 @@
 		<tag k='ref' v='3623062' />
 		<tag k='name' v="Farmàcia Carbajo Josa, M. Teresa" />
 		<tag k='addr:full' v="carrer De La Unio, 48" />
+		<tag k='addr:street' v="carrer De La Unio" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='43144' />
 		<tag k='addr:city' v="Vallmoll" />
 		<tag k='contact:phone' v='+34977602273' />
@@ -64,6 +76,8 @@
 		<tag k='ref' v='3623220' />
 		<tag k='name' v="Farmàcia Serramia Rofes, Amor" />
 		<tag k='addr:full' v="carrer Jujol, 3" />
+		<tag k='addr:street' v="carrer Jujol" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43151' />
 		<tag k='addr:city' v="Pallaresos, els" />
 		<tag k='source:date' v='03/11/2020 08:00:47 AM +0000' />
@@ -73,6 +87,8 @@
 		<tag k='ref' v='3624632' />
 		<tag k='name' v="Farmàcia Sánchez Hidalgo, Estrella" />
 		<tag k='addr:full' v="carrer Sant Cristòfol, 35" />
+		<tag k='addr:street' v="carrer Sant Cristòfol" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='43765' />
 		<tag k='addr:city' v="Secuita, la" />
 		<tag k='contact:phone' v='+34977625042' />

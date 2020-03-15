@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624630' />
 		<tag k='name' v="Farmàcia Ximenos Alió, Immaculada" />
 		<tag k='addr:full' v="plaça  Major, 17" />
+		<tag k='addr:street' v="plaça  Major" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='43420' />
 		<tag k='addr:city' v="Santa Coloma de Queralt" />
 		<tag k='contact:phone' v='+34977880040' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624629' />
 		<tag k='name' v="Farmàcia Balcells Sabaté, Josep" />
 		<tag k='addr:full' v="carrer Major, 7" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='43420' />
 		<tag k='addr:city' v="Santa Coloma de Queralt" />
 		<tag k='contact:phone' v='+34977880030' />

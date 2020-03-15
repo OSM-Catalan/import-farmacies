@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624344' />
 		<tag k='name' v="Farmàcia Gabàs Curià, Miriam" />
 		<tag k='addr:full' v="carrer Nou, 8" />
+		<tag k='addr:street' v="carrer Nou" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='25184' />
 		<tag k='addr:city' v="Massalcoreig" />
 		<tag k='contact:phone' v='+34973780280' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624324' />
 		<tag k='name' v="Farmàcia Oliva Gistau, Montserrat" />
 		<tag k='addr:full' v="avinguda  Lleida, 10" />
+		<tag k='addr:street' v="avinguda  Lleida" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='25185' />
 		<tag k='addr:city' v="Granja d'Escarp, la" />
 		<tag k='contact:phone' v='+34973780296' />

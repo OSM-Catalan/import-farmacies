@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621262' />
 		<tag k='name' v="Farmàcia Castells Busquets, Ferran" />
 		<tag k='addr:full' v="plaça  Forgas, 11" />
+		<tag k='addr:street' v="plaça  Forgas" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='17255' />
 		<tag k='addr:city' v="Begur" />
 		<tag k='contact:phone' v='+34972623760' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623570' />
 		<tag k='name' v="Farmàcia Suñer Carbó, Júlia i Joaquim" />
 		<tag k='addr:full' v="plaça  De L'Esglesia, 9" />
+		<tag k='addr:street' v="plaça  De L'Esglesia" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972300691' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623571' />
 		<tag k='name' v="Farmàcia Roura Casellas, Meritxell" />
 		<tag k='addr:full' v="carrer Barris I Buixo, 27" />
+		<tag k='addr:street' v="carrer Barris I Buixo" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972300673' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623448' />
 		<tag k='name' v="Farmàcia Torres Areny, Sonia" />
 		<tag k='addr:full' v="carrer Onze De Setembre, 3" />
+		<tag k='addr:street' v="carrer Onze De Setembre" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17255' />
 		<tag k='addr:city' v="Begur" />
 		<tag k='contact:phone' v='+34972624243' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623574' />
 		<tag k='name' v="Farmàcia Lucas Falguera, Cristina" />
 		<tag k='addr:full' v="carrer Enginyer Algarra, 24" />
+		<tag k='addr:street' v="carrer Enginyer Algarra" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='17256' />
 		<tag k='addr:city' v="Pals" />
 		<tag k='contact:phone' v='+34972636032' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621259' />
 		<tag k='name' v="Farmàcia Barba Estany, Imma i Font Coll, Marina" />
 		<tag k='addr:full' v="avinguda Generalitat, 32" />
+		<tag k='addr:street' v="avinguda Generalitat" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972308415' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623568' />
 		<tag k='name' v="Farmàcia Montserrat Martí Pané" />
 		<tag k='addr:full' v="carrer Cavallers, 48" />
+		<tag k='addr:street' v="carrer Cavallers" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972300692' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623782' />
 		<tag k='name' v="Farmàcia Noguer Martorell, Marina" />
 		<tag k='addr:full' v="carretera  Torroella, 50" />
+		<tag k='addr:street' v="carretera  Torroella" />
+		<tag k='addr:housenumber' v="50" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972301766' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3621453' />
 		<tag k='name' v="Farmàcia Thomas Ferrer, Isabel" />
 		<tag k='addr:full' v="avinguda Pompeu Fabra, 134" />
+		<tag k='addr:street' v="avinguda Pompeu Fabra" />
+		<tag k='addr:housenumber' v="134" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972302642' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3623781' />
 		<tag k='name' v="Farmàcia Reixach - Trias - Rubau - Tarrés" />
 		<tag k='addr:full' v="carrer Sagunto, 36" />
+		<tag k='addr:street' v="carrer Sagunto" />
+		<tag k='addr:housenumber' v="36" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972300000' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3623569' />
 		<tag k='name' v="Farmàcia Dorca Garcia, M. Lluïsa" />
 		<tag k='addr:full' v="carrer Cavallers, 38" />
+		<tag k='addr:street' v="carrer Cavallers" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972300736' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3621435' />
 		<tag k='name' v="Farmàcia Arenas Displas, Montserrat" />
 		<tag k='addr:full' v="carrer Ample, 55" />
+		<tag k='addr:street' v="carrer Ample" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972303488' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3623966' />
 		<tag k='name' v="Farmàcia Devesa Borrell, Glòria" />
 		<tag k='addr:full' v="carretera Platja Masos De Pals, 103" />
+		<tag k='addr:street' v="carretera Platja Masos De Pals" />
+		<tag k='addr:housenumber' v="103" />
 		<tag k='addr:postcode' v='17256' />
 		<tag k='addr:city' v="Pals" />
 		<tag k='contact:phone' v='+34972667730' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3623867' />
 		<tag k='name' v="Farmàcia Montalban Vilas, Begonya" />
 		<tag k='addr:full' v="carrer Torres Jonama, 4" />
+		<tag k='addr:street' v="carrer Torres Jonama" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='17253' />
 		<tag k='addr:city' v="Mont-ras" />
 		<tag k='contact:phone' v='+34972304959' />

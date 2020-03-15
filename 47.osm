@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623193' />
 		<tag k='name' v="Farmàcia Galcerà Adell, Inmaculada" />
 		<tag k='addr:full' v="carrer Caseres, 42" />
+		<tag k='addr:street' v="carrer Caseres" />
+		<tag k='addr:housenumber' v="42" />
 		<tag k='addr:postcode' v='43785' />
 		<tag k='addr:city' v="Bot" />
 		<tag k='contact:phone' v='+34977428200' />

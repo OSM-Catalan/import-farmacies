@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624493' />
 		<tag k='name' v="Farmàcia Escuder Monfort, Lluís" />
 		<tag k='addr:full' v="carrer Ramon I Cajal, 20" />
+		<tag k='addr:street' v="carrer Ramon I Cajal" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='43560' />
 		<tag k='addr:city' v="Sénia, la" />
 		<tag k='contact:phone' v='+34977714177' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624494' />
 		<tag k='name' v="Farmàcia Mestre Abella, M. José" />
 		<tag k='addr:full' v="carrer Del Mig, 17" />
+		<tag k='addr:street' v="carrer Del Mig" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='43560' />
 		<tag k='addr:city' v="Sénia, la" />
 		<tag k='contact:phone' v='+34977713233' />

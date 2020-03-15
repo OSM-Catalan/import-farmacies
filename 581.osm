@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623848' />
 		<tag k='name' v="Farmàcia Gratacós Agullo, Joan" />
 		<tag k='addr:full' v="carrer Mossen Constans, 180" />
+		<tag k='addr:street' v="carrer Mossen Constans" />
+		<tag k='addr:housenumber' v="180" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972572433' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623452' />
 		<tag k='name' v="Farmàcia Omedes Masgrau, Jordi" />
 		<tag k='addr:full' v="carrer Mercadal, 6" />
+		<tag k='addr:street' v="carrer Mercadal" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972570146' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621787' />
 		<tag k='name' v="Farmàcia Fàbrega Dilme, Maria" />
 		<tag k='addr:full' v="avinguda Països Catalans, 247" />
+		<tag k='addr:street' v="avinguda Països Catalans" />
+		<tag k='addr:housenumber' v="247" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972583801' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623942' />
 		<tag k='name' v="Farmàcia Frigole Oliver, M. Carme" />
 		<tag k='addr:full' v="carretera  Camós, 55" />
+		<tag k='addr:street' v="carretera  Camós" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='17834' />
 		<tag k='addr:city' v="Camós" />
 		<tag k='contact:phone' v='+34972574224' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623451' />
 		<tag k='name' v="Farmàcia Ballo Brotons, Núria" />
 		<tag k='addr:full' v="carrer Llibertat,  70-74" />
+		<tag k='addr:street' v="carrer Llibertat" />
+		<tag k='addr:housenumber' v=" 70-74" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972576308' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623862' />
 		<tag k='name' v="Farmàcia Torres Gonzalez, Josep" />
 		<tag k='addr:full' v="carrer Sant Andreu, 20" />
+		<tag k='addr:street' v="carrer Sant Andreu" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='17834' />
 		<tag k='addr:city' v="Porqueres" />
 		<tag k='contact:phone' v='+34972572799' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623449' />
 		<tag k='name' v="Farmàcia Alsius Suñer, Esteve" />
 		<tag k='addr:full' v="carrer Girona, 7" />
+		<tag k='addr:street' v="carrer Girona" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972570079' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623742' />
 		<tag k='name' v="Farmàcia Alsius Suñer, Rosa" />
 		<tag k='addr:full' v="avinguda Països Catalans, 171" />
+		<tag k='addr:street' v="avinguda Països Catalans" />
+		<tag k='addr:housenumber' v="171" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972570595' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623450' />
 		<tag k='name' v="Farmàcia Masgrau d'Ameller, A / Masgrau Simó, A" />
 		<tag k='addr:full' v="carrer Porta Turers, 8" />
+		<tag k='addr:street' v="carrer Porta Turers" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972570129' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3623952' />
 		<tag k='name' v="Farmàcia Ruhi Brunso, Natàlia" />
 		<tag k='addr:full' v="carretera Figueres, 25" />
+		<tag k='addr:street' v="carretera Figueres" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='17833' />
 		<tag k='addr:city' v="Fontcoberta" />
 		<tag k='contact:phone' v='+34972573215' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3623955' />
 		<tag k='name' v="Farmàcia Llaveria Escatllar, Eva" />
 		<tag k='addr:full' v="carrer Figueres, 41" />
+		<tag k='addr:street' v="carrer Figueres" />
+		<tag k='addr:housenumber' v="41" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972582735' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3623666' />
 		<tag k='name' v="Farmàcia Busquet Vila, M. Carme" />
 		<tag k='addr:full' v="avinguda Girona, 8" />
+		<tag k='addr:street' v="avinguda Girona" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='17844' />
 		<tag k='addr:city' v="Cornellà del Terri" />
 		<tag k='contact:phone' v='+34972594011' />

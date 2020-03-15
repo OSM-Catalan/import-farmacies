@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624025' />
 		<tag k='name' v="Farmàcia Sánchez Arias, Begoña" />
 		<tag k='addr:full' v="carrer Sant Ramon, 55" />
+		<tag k='addr:street' v="carrer Sant Ramon" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='08100' />
 		<tag k='addr:city' v="Mollet del Vallès" />
 		<tag k='contact:phone' v='+34935933090' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621901' />
 		<tag k='name' v="Farmàcia Belart Esquerrà, Albert" />
 		<tag k='addr:full' v="rambla Nova, 25" />
+		<tag k='addr:street' v="rambla Nova" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08100' />
 		<tag k='addr:city' v="Mollet del Vallès" />
 		<tag k='contact:phone' v='+34935791769' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622549' />
 		<tag k='name' v="Farmàcia Dordal Caralt, Ester" />
 		<tag k='addr:full' v="carrer Pare Rodes, 10" />
+		<tag k='addr:street' v="carrer Pare Rodes" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08130' />
 		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
 		<tag k='contact:phone' v='+34935600204' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3621440' />
 		<tag k='name' v="Farmàcia Forn Vilar, Elisabet" />
 		<tag k='addr:full' v="carrer Major, 55,  portal d" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='08170' />
 		<tag k='addr:city' v="Montornès del Vallès" />
 		<tag k='contact:phone' v='+34935688330' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623400' />
 		<tag k='name' v="Farmàcia Sempere Asensi, Juan Carlos" />
 		<tag k='addr:full' v="carrer Federico Garcia Lorca, 3" />
+		<tag k='addr:street' v="carrer Federico Garcia Lorca" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08170' />
 		<tag k='addr:city' v="Montornès del Vallès" />
 		<tag k='contact:phone' v='+34935680899' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623154' />
 		<tag k='name' v="Farmàcia Lacorzana López, M. Lourdes" />
 		<tag k='addr:full' v="carrer La Sagrera, 4" />
+		<tag k='addr:street' v="carrer La Sagrera" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08184' />
 		<tag k='addr:city' v="Palau-solità i Plegamans" />
 		<tag k='contact:phone' v='+34938966354' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3624429' />
 		<tag k='name' v="Farmàcia Serrano Ortega, M. Carme" />
 		<tag k='addr:full' v="carrer Lleida, 9" />
+		<tag k='addr:street' v="carrer Lleida" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08130' />
 		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
 		<tag k='contact:phone' v='+34935600556' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3624840' />
 		<tag k='name' v="Farmàcia Beatobe Muntada, Joaquim" />
 		<tag k='addr:full' v="carrer Anselm Clave, 1" />
+		<tag k='addr:street' v="carrer Anselm Clave" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08184' />
 		<tag k='addr:city' v="Palau-solità i Plegamans" />
 		<tag k='contact:phone' v='+34938648047' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623428' />
 		<tag k='name' v="Farmàcia Morales Martínez, Miquel" />
 		<tag k='addr:full' v="carrer Francesc Ferrer I Guàrdia,  49-51" />
+		<tag k='addr:street' v="carrer Francesc Ferrer I Guàrdia" />
+		<tag k='addr:housenumber' v=" 49-51" />
 		<tag k='addr:postcode' v='08100' />
 		<tag k='addr:city' v="Mollet del Vallès" />
 		<tag k='contact:phone' v='+34935791378' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3621441' />
 		<tag k='name' v="Farmàcia Fransi Gallart, Josefina" />
 		<tag k='addr:full' v="carrer Maria Palau, 27" />
+		<tag k='addr:street' v="carrer Maria Palau" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='08403' />
 		<tag k='addr:city' v="Granollers" />
 		<tag k='contact:phone' v='+34938405946' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3621788' />
 		<tag k='name' v="Farmàcia Pelegrí Mateu, Maria Antònia" />
 		<tag k='addr:full' v="carrer Camí Reial, 54" />
+		<tag k='addr:street' v="carrer Camí Reial" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='08184' />
 		<tag k='addr:city' v="Palau-solità i Plegamans" />
 		<tag k='contact:phone' v='+34938640046' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3624706' />
 		<tag k='name' v="Farmàcia Isern García, M. Alegria" />
 		<tag k='addr:full' v="avinguda  Catalunya, 135" />
+		<tag k='addr:street' v="avinguda  Catalunya" />
+		<tag k='addr:housenumber' v="135" />
 		<tag k='addr:postcode' v='08150' />
 		<tag k='addr:city' v="Parets del Vallès" />
 		<tag k='contact:phone' v='+34935620472' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3621415' />
 		<tag k='name' v="Farmàcia Codina Hernández, Meritxell" />
 		<tag k='addr:full' v="carrer Folch I Torres, 96" />
+		<tag k='addr:street' v="carrer Folch I Torres" />
+		<tag k='addr:housenumber' v="96" />
 		<tag k='addr:postcode' v='08186' />
 		<tag k='addr:city' v="Lliçà d'Amunt" />
 		<tag k='contact:phone' v='+34938415587' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3624289' />
 		<tag k='name' v="Farmàcia Satorres Lapeña, Manuel" />
 		<tag k='addr:full' v="avinguda Llibertat,  36-38,  portal 1" />
+		<tag k='addr:street' v="avinguda Llibertat" />
+		<tag k='addr:housenumber' v=" 36-38" />
 		<tag k='addr:postcode' v='08100' />
 		<tag k='addr:city' v="Mollet del Vallès" />
 		<tag k='contact:phone' v='+34935702518' />
@@ -145,6 +173,8 @@
 		<tag k='ref' v='10277467' />
 		<tag k='name' v="Farmàcia Colls Desvilar, Margarita" />
 		<tag k='addr:full' v="passatge Corts Catalanes, 10,  porta 081" />
+		<tag k='addr:street' v="passatge Corts Catalanes" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08160' />
 		<tag k='addr:city' v="Montmeló" />
 		<tag k='contact:phone' v='+34931305542' />
@@ -155,6 +185,8 @@
 		<tag k='ref' v='3623495' />
 		<tag k='name' v="Farmàcia Ruiz Torrado, Eva" />
 		<tag k='addr:full' v="carretera De Caldes, 55" />
+		<tag k='addr:street' v="carretera De Caldes" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='08400' />
 		<tag k='addr:city' v="Granollers" />
 		<tag k='contact:phone' v='+34933493994' />
@@ -165,6 +197,8 @@
 		<tag k='ref' v='3623425' />
 		<tag k='name' v="Farmàcia Moreno López, Josep Agustí" />
 		<tag k='addr:full' v="avinguda Onze De Setembre, 38" />
+		<tag k='addr:street' v="avinguda Onze De Setembre" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='08170' />
 		<tag k='addr:city' v="Montornès del Vallès" />
 		<tag k='contact:phone' v='+34935444180' />
@@ -175,6 +209,8 @@
 		<tag k='ref' v='3621917' />
 		<tag k='name' v="Farmàcia Padros Gea, Carme" />
 		<tag k='addr:full' v="carrer Palau,  16-18" />
+		<tag k='addr:street' v="carrer Palau" />
+		<tag k='addr:housenumber' v=" 16-18" />
 		<tag k='addr:postcode' v='08170' />
 		<tag k='addr:city' v="Montornès del Vallès" />
 		<tag k='contact:phone' v='+34935720814' />
@@ -185,6 +221,8 @@
 		<tag k='ref' v='3624269' />
 		<tag k='name' v="Farmàcia Coll Casulleras, Clara" />
 		<tag k='addr:full' v="carrer De La Diputacio, 17" />
+		<tag k='addr:street' v="carrer De La Diputacio" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08160' />
 		<tag k='addr:city' v="Montmeló" />
 		<tag k='contact:phone' v='+34935681718' />
@@ -195,6 +233,8 @@
 		<tag k='ref' v='3621926' />
 		<tag k='name' v="Farmàcia Torres Pérez, Jordi" />
 		<tag k='addr:full' v="avinguda Santiga, 32" />
+		<tag k='addr:street' v="avinguda Santiga" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='08130' />
 		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
 		<tag k='contact:phone' v='+34935448668' />
@@ -205,6 +245,8 @@
 		<tag k='ref' v='3622401' />
 		<tag k='name' v="Farmàcia Barja González, M. Isabel" />
 		<tag k='addr:full' v="carrer Raval, 26" />
+		<tag k='addr:street' v="carrer Raval" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08150' />
 		<tag k='addr:city' v="Parets del Vallès" />
 		<tag k='contact:phone' v='+34935737512' />
@@ -215,6 +257,8 @@
 		<tag k='ref' v='3621745' />
 		<tag k='name' v="Farmàcia Arribas Gámez, Adrian" />
 		<tag k='addr:full' v="passeig De La Igualtat, 6,  bloc d-10" />
+		<tag k='addr:street' v="passeig De La Igualtat" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08150' />
 		<tag k='addr:city' v="Parets del Vallès" />
 		<tag k='contact:phone' v='+34935737101' />
@@ -225,6 +269,8 @@
 		<tag k='ref' v='3624523' />
 		<tag k='name' v="Farmàcia Fajas Fanés, M. Antònia" />
 		<tag k='addr:full' v="carrer Pompeu Fabra, 10" />
+		<tag k='addr:street' v="carrer Pompeu Fabra" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08160' />
 		<tag k='addr:city' v="Montmeló" />
 		<tag k='contact:phone' v='+34935680288' />
@@ -235,6 +281,8 @@
 		<tag k='ref' v='3623297' />
 		<tag k='name' v="Farmàcia Lagarda Bös, Diana" />
 		<tag k='addr:full' v="avinguda Catalunya, 138" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="138" />
 		<tag k='addr:postcode' v='08184' />
 		<tag k='addr:city' v="Palau-solità i Plegamans" />
 		<tag k='source:date' v='03/11/2020 07:57:33 AM +0000' />
@@ -244,6 +292,8 @@
 		<tag k='ref' v='3621263' />
 		<tag k='name' v="Farmàcia Farrés Viladrich, Isabel" />
 		<tag k='addr:full' v="plaça  Mil·Lenari, 7,  pis bx" />
+		<tag k='addr:street' v="plaça  Mil·Lenari" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08160' />
 		<tag k='addr:city' v="Montmeló" />
 		<tag k='contact:phone' v='+34935722817' />
@@ -254,6 +304,8 @@
 		<tag k='ref' v='3623109' />
 		<tag k='name' v="Farmàcia Relat Roca, Carmen" />
 		<tag k='addr:full' v="carrer Rambla, 11" />
+		<tag k='addr:street' v="carrer Rambla" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08130' />
 		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
 		<tag k='contact:phone' v='+34935601062' />
@@ -264,6 +316,8 @@
 		<tag k='ref' v='3621747' />
 		<tag k='name' v="Farmàcia Peya Llach, Josep" />
 		<tag k='addr:full' v="carrer Pablo Ruiz Picasso, 7" />
+		<tag k='addr:street' v="carrer Pablo Ruiz Picasso" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08130' />
 		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
 		<tag k='contact:phone' v='+34935605212' />
@@ -274,6 +328,8 @@
 		<tag k='ref' v='3622388' />
 		<tag k='name' v="Farmàcia Ramon Tugas, Montserrat" />
 		<tag k='addr:full' v="plaça  Catalunya, 1" />
+		<tag k='addr:street' v="plaça  Catalunya" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08100' />
 		<tag k='addr:city' v="Mollet del Vallès" />
 		<tag k='contact:phone' v='+34935930099' />
@@ -284,6 +340,8 @@
 		<tag k='ref' v='3943960' />
 		<tag k='name' v="Farmàcia Pinin Lavin, Delia" />
 		<tag k='addr:full' v="carrer Anselm Clavé, 139" />
+		<tag k='addr:street' v="carrer Anselm Clavé" />
+		<tag k='addr:housenumber' v="139" />
 		<tag k='addr:postcode' v='08186' />
 		<tag k='addr:city' v="Lliçà d'Amunt" />
 		<tag k='contact:phone' v='+34934568409' />
@@ -294,6 +352,8 @@
 		<tag k='ref' v='3621097' />
 		<tag k='name' v="Farmàcia Portabella Calvete, Montserrat" />
 		<tag k='addr:full' v="avinguda Catalunya, 39" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="39" />
 		<tag k='addr:postcode' v='08185' />
 		<tag k='addr:city' v="Lliçà de Vall" />
 		<tag k='contact:phone' v='+34938439301' />
@@ -304,6 +364,8 @@
 		<tag k='ref' v='3623177' />
 		<tag k='name' v="Farmàcia Mas Martí, Roser" />
 		<tag k='addr:full' v="carretera Palaudàries, 77" />
+		<tag k='addr:street' v="carretera Palaudàries" />
+		<tag k='addr:housenumber' v="77" />
 		<tag k='addr:postcode' v='08186' />
 		<tag k='addr:city' v="Lliçà d'Amunt" />
 		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
@@ -313,6 +375,8 @@
 		<tag k='ref' v='3623404' />
 		<tag k='name' v="Farmàcia Martínez Marin, Ildefonsa" />
 		<tag k='addr:full' v="carrer Diputacio, 9" />
+		<tag k='addr:street' v="carrer Diputacio" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08100' />
 		<tag k='addr:city' v="Mollet del Vallès" />
 		<tag k='contact:phone' v='+34935930959' />
@@ -323,6 +387,8 @@
 		<tag k='ref' v='3621101' />
 		<tag k='name' v="Farmàcia Muntada Pagès, Núria" />
 		<tag k='addr:full' v="carrer Secretari Gil, 9" />
+		<tag k='addr:street' v="carrer Secretari Gil" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08184' />
 		<tag k='addr:city' v="Palau-solità i Plegamans" />
 		<tag k='contact:phone' v='+34938649680' />
@@ -333,6 +399,8 @@
 		<tag k='ref' v='3623179' />
 		<tag k='name' v="Farmàcia Márquez Lorente, Anna" />
 		<tag k='addr:full' v="carrer Mollo, 3" />
+		<tag k='addr:street' v="carrer Mollo" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08420' />
 		<tag k='addr:city' v="Canovelles" />
 		<tag k='contact:phone' v='+34938401811' />
@@ -343,6 +411,8 @@
 		<tag k='ref' v='3623183' />
 		<tag k='name' v="Farmàcia Sans Gesa, Dolors" />
 		<tag k='addr:full' v="carrer Sant Joan, 29" />
+		<tag k='addr:street' v="carrer Sant Joan" />
+		<tag k='addr:housenumber' v="29" />
 		<tag k='addr:postcode' v='08150' />
 		<tag k='addr:city' v="Parets del Vallès" />
 		<tag k='contact:phone' v='+34935730808' />
@@ -353,6 +423,8 @@
 		<tag k='ref' v='3623802' />
 		<tag k='name' v="Farmàcia Guillen Relat, Jaume" />
 		<tag k='addr:full' v="avinguda De Barcelona, 2" />
+		<tag k='addr:street' v="avinguda De Barcelona" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08130' />
 		<tag k='addr:city' v="Santa Perpètua de Mogoda" />
 		<tag k='contact:phone' v='+34935601860' />

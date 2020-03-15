@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624600' />
 		<tag k='name' v="Farmàcia Ferras Prats, Joaquim" />
 		<tag k='addr:full' v="carrer Navarra, 8" />
+		<tag k='addr:street' v="carrer Navarra" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='43596' />
 		<tag k='addr:city' v="Horta de Sant Joan" />
 		<tag k='contact:phone' v='+34977435016' />

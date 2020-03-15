@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621639' />
 		<tag k='name' v="Farmàcia Anfruns Espuña, Teresa" />
 		<tag k='addr:full' v="carrer Porxos, 22" />
+		<tag k='addr:street' v="carrer Porxos" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='08696' />
 		<tag k='addr:city' v="Pobla de Lillet, la" />
 		<tag k='contact:phone' v='+34938236110' />

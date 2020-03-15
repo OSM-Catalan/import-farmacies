@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624350' />
 		<tag k='name' v="Farmàcia Orrit Rocafort, Assumpció" />
 		<tag k='addr:full' v="avinguda Flamisell, 17" />
+		<tag k='addr:street' v="avinguda Flamisell" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='25514' />
 		<tag k='addr:city' v="Senterada" />
 		<tag k='contact:phone' v='+34973661758' />

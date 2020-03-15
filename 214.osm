@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624159' />
 		<tag k='name' v="Farmàcia Mallorques Vilanova, Maria Teresa" />
 		<tag k='addr:full' v="carrer Major, 40" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="40" />
 		<tag k='addr:postcode' v='25560' />
 		<tag k='addr:city' v="Sort" />
 		<tag k='contact:phone' v='+34973620065' />

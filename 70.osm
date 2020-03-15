@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624622' />
 		<tag k='name' v="Farmàcia Puig Vilas, Montserrat" />
 		<tag k='addr:full' v="plaça  De L' Església, 8" />
+		<tag k='addr:street' v="plaça  De L' Església" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='43790' />
 		<tag k='addr:city' v="Riba-roja d'Ebre" />
 		<tag k='contact:phone' v='+34977416105' />

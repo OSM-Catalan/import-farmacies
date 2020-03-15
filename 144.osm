@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624450' />
 		<tag k='name' v="Farmàcia Moran Sitjà, M. José" />
 		<tag k='addr:full' v="carrer Carretera, 35" />
+		<tag k='addr:street' v="carrer Carretera" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='25222' />
 		<tag k='addr:city' v="Sidamon" />
 		<tag k='contact:phone' v='+34973717105' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624063' />
 		<tag k='name' v="Farmàcia Piñol Rodríguez, Alfons" />
 		<tag k='addr:full' v="carrer Urgell, 34" />
+		<tag k='addr:street' v="carrer Urgell" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='25220' />
 		<tag k='addr:city' v="Bell-lloc d'Urgell" />
 		<tag k='contact:phone' v='+34973560363' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624339' />
 		<tag k='name' v="Farmàcia Meda Baldoma, Mercè" />
 		<tag k='addr:full' v="carrer La Bassa, 8" />
+		<tag k='addr:street' v="carrer La Bassa" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='25221' />
 		<tag k='addr:city' v="Alamús, els" />
 		<tag k='contact:phone' v='+34973199129' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624334' />
 		<tag k='name' v="Farmàcia Ysac Armengol, M. Carme" />
 		<tag k='addr:full' v="carrer Carretera, 33" />
+		<tag k='addr:street' v="carrer Carretera" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='25690' />
 		<tag k='addr:city' v="Vilanova de la Barca" />
 		<tag k='contact:phone' v='+34973190307' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624067' />
 		<tag k='name' v="Farmàcia Corbella Reñe, Meritxell" />
 		<tag k='addr:full' v="passeig D'Urgell,  S/N" />
+		<tag k='addr:street' v="passeig D'Urgell" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='25142' />
 		<tag k='addr:city' v="Bellvís" />
 		<tag k='contact:phone' v='+34973565010' />

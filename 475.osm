@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623464' />
 		<tag k='name' v="Farmàcia Pujol Suriñach, Martí" />
 		<tag k='addr:full' v="carrer Valencia, 44" />
+		<tag k='addr:street' v="carrer Valencia" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='17867' />
 		<tag k='addr:city' v="Camprodon" />
 		<tag k='contact:phone' v='+34972740392' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624037' />
 		<tag k='name' v="Farmàcia Vidal Prujà, Lídia" />
 		<tag k='addr:full' v=" ca catalunya, 25" />
+		<tag k='addr:street' v=" ca catalunya" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='17869' />
 		<tag k='addr:city' v="Llanars" />
 		<tag k='contact:phone' v='+34972130417' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623864' />
 		<tag k='name' v="Farmàcia Travería Padros, T. / Sala Travería, A." />
 		<tag k='addr:full' v="carrer Guardia, 4" />
+		<tag k='addr:street' v="carrer Guardia" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='17864' />
 		<tag k='addr:city' v="Sant Pau de Segúries" />
 		<tag k='contact:phone' v='+34972747119' />

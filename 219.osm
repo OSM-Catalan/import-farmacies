@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624149' />
 		<tag k='name' v="Farmàcia Capellades Perera, Antoni" />
 		<tag k='addr:full' v="carretera De La Seu, 10" />
+		<tag k='addr:street' v="carretera De La Seu" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='25740' />
 		<tag k='addr:city' v="Ponts" />
 		<tag k='contact:phone' v='+34973460994' />

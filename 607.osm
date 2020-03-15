@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623736' />
 		<tag k='name' v="Farmàcia Pagès Alsina, Gisel·la" />
 		<tag k='addr:full' v="avinguda Alt Empordà, 28" />
+		<tag k='addr:street' v="avinguda Alt Empordà" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='17483' />
 		<tag k='addr:city' v="Bàscara" />
 		<tag k='contact:phone' v='+34972560024' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623462' />
 		<tag k='name' v="Farmàcia Tarradas Manté, Francesc Xavier" />
 		<tag k='addr:full' v="carrer Lluis Fabrega, 4" />
+		<tag k='addr:street' v="carrer Lluis Fabrega" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='17465' />
 		<tag k='addr:city' v="Saus" />
 		<tag k='contact:phone' v='+34972794010' />

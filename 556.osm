@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623833' />
 		<tag k='name' v="Farmàcia Ibáñez Aviñó, Laura" />
 		<tag k='addr:full' v="avinguda  Girona, 91" />
+		<tag k='addr:street' v="avinguda  Girona" />
+		<tag k='addr:housenumber' v="91" />
 		<tag k='addr:postcode' v='17150' />
 		<tag k='addr:city' v="Sant Gregori" />
 		<tag k='contact:phone' v='+34972428205' />

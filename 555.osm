@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622114' />
 		<tag k='name' v="Farmàcia Figueras Calsina, Francesc" />
 		<tag k='addr:full' v="avinguda Catalunya, 17" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='17820' />
 		<tag k='addr:city' v="Banyoles" />
 		<tag k='contact:phone' v='+34972571304' />

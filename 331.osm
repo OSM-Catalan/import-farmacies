@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621907' />
 		<tag k='name' v="Farmàcia Picomell Garau, Antoni" />
 		<tag k='addr:full' v="passatge Vilanova, 15" />
+		<tag k='addr:street' v="passatge Vilanova" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='08880' />
 		<tag k='addr:city' v="Cubelles" />
 		<tag k='contact:phone' v='+34938953005' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623153' />
 		<tag k='name' v="Farmàcia López Ferrer, Montserrat" />
 		<tag k='addr:full' v="carrer Mallorca, 14" />
+		<tag k='addr:street' v="carrer Mallorca" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='08880' />
 		<tag k='addr:city' v="Cubelles" />
 		<tag k='contact:phone' v='+34938952804' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621429' />
 		<tag k='name' v="Farmàcia Serrano Baiget, Jordi" />
 		<tag k='addr:full' v="avinguda Barcelona,  71-73" />
+		<tag k='addr:street' v="avinguda Barcelona" />
+		<tag k='addr:housenumber' v=" 71-73" />
 		<tag k='addr:postcode' v='43881' />
 		<tag k='addr:city' v="Cunit" />
 		<tag k='contact:phone' v='+34658823218' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623202' />
 		<tag k='name' v="Farmàcia Lázaro Martínez, P / Safont Albert, S" />
 		<tag k='addr:full' v="ronda Universitat, 5" />
+		<tag k='addr:street' v="ronda Universitat" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='43820' />
 		<tag k='addr:city' v="Calafell" />
 		<tag k='contact:phone' v='+34977160041' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623210' />
 		<tag k='name' v="Farmàcia Franco Pàmies, M. Teresa" />
 		<tag k='addr:full' v="avinguda Barcelona, 207" />
+		<tag k='addr:street' v="avinguda Barcelona" />
+		<tag k='addr:housenumber' v="207" />
 		<tag k='addr:postcode' v='43881' />
 		<tag k='addr:city' v="Cunit" />
 		<tag k='contact:phone' v='+34977675698' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3622880' />
 		<tag k='name' v="Farmàcia Prat Ayguasanosa, Daniel" />
 		<tag k='addr:full' v="avinguda Tarragona, 4" />
+		<tag k='addr:street' v="avinguda Tarragona" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43881' />
 		<tag k='addr:city' v="Cunit" />
 		<tag k='contact:phone' v='+34977674181' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3622869' />
 		<tag k='name' v="Farmàcia Pujol Cid, Josep Maria" />
 		<tag k='addr:full' v="avinguda Sant Joan De Deu, 79" />
+		<tag k='addr:street' v="avinguda Sant Joan De Deu" />
+		<tag k='addr:housenumber' v="79" />
 		<tag k='addr:postcode' v='43820' />
 		<tag k='addr:city' v="Calafell" />
 		<tag k='contact:phone' v='+34977662528' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='8806606' />
 		<tag k='name' v="Farmàcia Janés Casals, Maria" />
 		<tag k='addr:full' v="passatge Marítim Sant Joan De Deu, 238" />
+		<tag k='addr:street' v="passatge Marítim Sant Joan De Deu" />
+		<tag k='addr:housenumber' v="238" />
 		<tag k='addr:postcode' v='43882' />
 		<tag k='addr:city' v="Calafell" />
 		<tag k='source:date' v='03/11/2020 08:00:57 AM +0000' />
@@ -84,6 +100,8 @@
 		<tag k='ref' v='7750826' />
 		<tag k='name' v="Farmàcia Martínez Navas, Marta" />
 		<tag k='addr:full' v="carrer Puig I Cadafalch, 3" />
+		<tag k='addr:street' v="carrer Puig I Cadafalch" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43881' />
 		<tag k='addr:city' v="Cunit" />
 		<tag k='contact:phone' v='+34977675437' />
@@ -94,6 +112,8 @@
 		<tag k='ref' v='3623279' />
 		<tag k='name' v="Farmàcia Montaner Ferré, Josep J." />
 		<tag k='addr:full' v="carrer Narcis Bardaji, 10" />
+		<tag k='addr:street' v="carrer Narcis Bardaji" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08880' />
 		<tag k='addr:city' v="Cubelles" />
 		<tag k='contact:phone' v='+34938950703' />
@@ -104,6 +124,8 @@
 		<tag k='ref' v='3621577' />
 		<tag k='name' v="Farmàcia Espuis Morera, Lluís Antoni" />
 		<tag k='addr:full' v="carretera Barcelona, 95" />
+		<tag k='addr:street' v="carretera Barcelona" />
+		<tag k='addr:housenumber' v="95" />
 		<tag k='addr:postcode' v='43820' />
 		<tag k='addr:city' v="Calafell" />
 		<tag k='contact:phone' v='+34977161350' />
@@ -114,6 +136,8 @@
 		<tag k='ref' v='3623045' />
 		<tag k='name' v="Farmàcia Rosell Ollé, Mar" />
 		<tag k='addr:full' v="carrer Isabel Vilella, 9" />
+		<tag k='addr:street' v="carrer Isabel Vilella" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='43719' />
 		<tag k='addr:city' v="Bellvei" />
 		<tag k='contact:phone' v='+34977168477' />
@@ -124,6 +148,8 @@
 		<tag k='ref' v='3623222' />
 		<tag k='name' v="Farmàcia Casulleras Romeu, Núria" />
 		<tag k='addr:full' v="carrer Rhin, 17" />
+		<tag k='addr:street' v="carrer Rhin" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='43820' />
 		<tag k='addr:city' v="Calafell" />
 		<tag k='contact:phone' v='+34977160181' />
@@ -134,6 +160,8 @@
 		<tag k='ref' v='3621744' />
 		<tag k='name' v="Farmàcia Plaja Santalò, Carla" />
 		<tag k='addr:full' v="carrer Àngel Guimerà,  18-20" />
+		<tag k='addr:street' v="carrer Àngel Guimerà" />
+		<tag k='addr:housenumber' v=" 18-20" />
 		<tag k='addr:postcode' v='43820' />
 		<tag k='addr:city' v="Calafell" />
 		<tag k='contact:phone' v='+34977078517' />

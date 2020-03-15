@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623837' />
 		<tag k='name' v="Farmàcia Mazó Camps, Francesc" />
 		<tag k='addr:full' v="carrer Venecia, 75" />
+		<tag k='addr:street' v="carrer Venecia" />
+		<tag k='addr:housenumber' v="75" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972366155' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623454' />
 		<tag k='name' v="Farmàcia Sureda Casamor, M.-Carreras Sureda, C." />
 		<tag k='addr:full' v="passatge Dintre, 3" />
+		<tag k='addr:street' v="passatge Dintre" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17300' />
 		<tag k='addr:city' v="Blanes" />
 		<tag k='contact:phone' v='+34972330069' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621742' />
 		<tag k='name' v="Farmàcia Lladó, Maria José" />
 		<tag k='addr:full' v="avinguda Passaperas, 23" />
+		<tag k='addr:street' v="avinguda Passaperas" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972376412' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623729' />
 		<tag k='name' v="Farmàcia Pujol Pla, Narcís" />
 		<tag k='addr:full' v="plaça  Mare De Déu Del Vilar, 6" />
+		<tag k='addr:street' v="plaça  Mare De Déu Del Vilar" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17300' />
 		<tag k='addr:city' v="Blanes" />
 		<tag k='contact:phone' v='+34972330465' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623560' />
 		<tag k='name' v="Farmàcia Martínez Planas, A - Martínez Suris, M" />
 		<tag k='addr:full' v="carrer De Sant Pere, 6" />
+		<tag k='addr:street' v="carrer De Sant Pere" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972364379' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621944' />
 		<tag k='name' v="Farmàcia De la Hija Gilabert, Elisabet" />
 		<tag k='addr:full' v="carrer Comte Ramon Borrell,  6-8" />
+		<tag k='addr:street' v="carrer Comte Ramon Borrell" />
+		<tag k='addr:housenumber' v=" 6-8" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972362689' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3621775' />
 		<tag k='name' v="Farmàcia Masete Martínez, Miquel" />
 		<tag k='addr:full' v="carrer Valenti Almirall, 12" />
+		<tag k='addr:street' v="carrer Valenti Almirall" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972362371' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3621772' />
 		<tag k='name' v="Farmàcia Altimir Pau, Francesc Xavier" />
 		<tag k='addr:full' v="avinguda D'Europa, 27" />
+		<tag k='addr:street' v="avinguda D'Europa" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='17300' />
 		<tag k='addr:city' v="Blanes" />
 		<tag k='contact:phone' v='+34972355000' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623844' />
 		<tag k='name' v="Farmàcia Ramon Contreras, Borja" />
 		<tag k='addr:full' v="avinguda Vila De Madrid, 17" />
+		<tag k='addr:street' v="avinguda Vila De Madrid" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='17300' />
 		<tag k='addr:city' v="Blanes" />
 		<tag k='contact:phone' v='+34972334403' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3623949' />
 		<tag k='name' v="Farmàcia Fábregas Rebollo, Esteve" />
 		<tag k='addr:full' v="avinguda  Vidreres, 123" />
+		<tag k='addr:street' v="avinguda  Vidreres" />
+		<tag k='addr:housenumber' v="123" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972362206' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3623772' />
 		<tag k='name' v="Farmàcia Cabanas Rodríguez, Cristina" />
 		<tag k='addr:full' v="avinguda America, 27" />
+		<tag k='addr:street' v="avinguda America" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972365798' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3623773' />
 		<tag k='name' v="Farmàcia Tallada Mateu, Elvira" />
 		<tag k='addr:full' v="avinguda  Catalunya, 6" />
+		<tag k='addr:street' v="avinguda  Catalunya" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972369303' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3623759' />
 		<tag k='name' v="Farmàcia Cabañas Salamero, Maria" />
 		<tag k='addr:full' v="avinguda Just Marles, 66" />
+		<tag k='addr:street' v="avinguda Just Marles" />
+		<tag k='addr:housenumber' v="66" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972365796' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3621760' />
 		<tag k='name' v="Farmàcia Espinet Rius, Immaculada" />
 		<tag k='addr:full' v="carrer Del Carme, 46" />
+		<tag k='addr:street' v="carrer Del Carme" />
+		<tag k='addr:housenumber' v="46" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972365047' />
@@ -145,6 +173,8 @@
 		<tag k='ref' v='3621085' />
 		<tag k='name' v="Farmàcia Tallada Mateu, Montserrat" />
 		<tag k='addr:full' v="avinguda Just Marlés, 5" />
+		<tag k='addr:street' v="avinguda Just Marlés" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972372868' />
@@ -155,6 +185,8 @@
 		<tag k='ref' v='3623980' />
 		<tag k='name' v="Farmàcia Grima Aulet, Dolors" />
 		<tag k='addr:full' v="carrer Alhambra, 1" />
+		<tag k='addr:street' v="carrer Alhambra" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17300' />
 		<tag k='addr:city' v="Blanes" />
 		<tag k='contact:phone' v='+34972337010' />
@@ -165,6 +197,8 @@
 		<tag k='ref' v='3623769' />
 		<tag k='name' v="Farmàcia Bartrina Nogué, MD-Vives Roig, N" />
 		<tag k='addr:full' v="avinguda  Joan Carles I, 4" />
+		<tag k='addr:street' v="avinguda  Joan Carles I" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='17300' />
 		<tag k='addr:city' v="Blanes" />
 		<tag k='contact:phone' v='+34972331978' />
@@ -175,6 +209,8 @@
 		<tag k='ref' v='3623758' />
 		<tag k='name' v="Farmàcia Perpinyà Gombau, Magdalena" />
 		<tag k='addr:full' v="carrer Joan Bautista Lambert, 34" />
+		<tag k='addr:street' v="carrer Joan Bautista Lambert" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972365877' />
@@ -185,6 +221,8 @@
 		<tag k='ref' v='3623958' />
 		<tag k='name' v="Farmàcia Guillem Planella, Raquel" />
 		<tag k='addr:full' v="avinguda  Los Pavos, 30" />
+		<tag k='addr:street' v="avinguda  Los Pavos" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='17300' />
 		<tag k='addr:city' v="Blanes" />
 		<tag k='contact:phone' v='+34972351150' />
@@ -195,6 +233,8 @@
 		<tag k='ref' v='3623951' />
 		<tag k='name' v="Farmàcia Morell Olivé, Glòria" />
 		<tag k='addr:full' v="avinguda De Catalunya, 12" />
+		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='17300' />
 		<tag k='addr:city' v="Blanes" />
 		<tag k='contact:phone' v='+34972337445' />
@@ -205,6 +245,8 @@
 		<tag k='ref' v='3621260' />
 		<tag k='name' v="Farmàcia Borràs Francos, Xavier" />
 		<tag k='addr:full' v="carrer Maria Aurèlia Campmany,  2-4" />
+		<tag k='addr:street' v="carrer Maria Aurèlia Campmany" />
+		<tag k='addr:housenumber' v=" 2-4" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972377403' />
@@ -215,6 +257,8 @@
 		<tag k='ref' v='3622070' />
 		<tag k='name' v="Farmàcia Mateos Navarro, Sílvia" />
 		<tag k='addr:full' v="avinguda Vidreres, 146" />
+		<tag k='addr:street' v="avinguda Vidreres" />
+		<tag k='addr:housenumber' v="146" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972964655' />
@@ -225,6 +269,8 @@
 		<tag k='ref' v='3621934' />
 		<tag k='name' v="Farmàcia Morera Pons, Susana" />
 		<tag k='addr:full' v="carrer Josep Pla I Casadevall, 9" />
+		<tag k='addr:street' v="carrer Josep Pla I Casadevall" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972377525' />
@@ -235,6 +281,8 @@
 		<tag k='ref' v='3623559' />
 		<tag k='name' v="Farmàcia Vázquez Ruiz, Lourdes" />
 		<tag k='addr:full' v="carrer Emili Martínez Passapera, 9" />
+		<tag k='addr:street' v="carrer Emili Martínez Passapera" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972346187' />
@@ -245,6 +293,8 @@
 		<tag k='ref' v='3623983' />
 		<tag k='name' v="Farmàcia Tibau López, Maria" />
 		<tag k='addr:full' v="carrer L'Angel, 22" />
+		<tag k='addr:street' v="carrer L'Angel" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972371075' />
@@ -255,6 +305,8 @@
 		<tag k='ref' v='3621088' />
 		<tag k='name' v="Farmàcia Cànovas Moreras, Sílvia" />
 		<tag k='addr:full' v="carrer Sant Pere, 76" />
+		<tag k='addr:street' v="carrer Sant Pere" />
+		<tag k='addr:housenumber' v="76" />
 		<tag k='addr:postcode' v='17310' />
 		<tag k='addr:city' v="Lloret de Mar" />
 		<tag k='contact:phone' v='+34972367960' />

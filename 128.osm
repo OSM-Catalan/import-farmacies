@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624774' />
 		<tag k='name' v="Farmàcia Martí Marin, M. Àngels" />
 		<tag k='addr:full' v="carrer Goles De L'Ebre, 217" />
+		<tag k='addr:street' v="carrer Goles De L'Ebre" />
+		<tag k='addr:housenumber' v="217" />
 		<tag k='addr:postcode' v='43580' />
 		<tag k='addr:city' v="Deltebre" />
 		<tag k='contact:phone' v='+34977480032' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624775' />
 		<tag k='name' v="Farmàcia Queralt Álvarez, Matilde" />
 		<tag k='addr:full' v="carrer Goles De L'Ebre, 272" />
+		<tag k='addr:street' v="carrer Goles De L'Ebre" />
+		<tag k='addr:housenumber' v="272" />
 		<tag k='addr:postcode' v='43580' />
 		<tag k='addr:city' v="Deltebre" />
 		<tag k='contact:phone' v='+34977480070' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624773' />
 		<tag k='name' v="Farmàcia Fortuño Beltran, Jordi" />
 		<tag k='addr:full' v="carrer Vint - I - Vuit, 7" />
+		<tag k='addr:street' v="carrer Vint - I - Vuit" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='43894' />
 		<tag k='addr:city' v="Camarles" />
 		<tag k='contact:phone' v='+34977470010' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624778' />
 		<tag k='name' v="Farmàcia Ferreres Gimeno, Manuel" />
 		<tag k='addr:full' v="avinguda Catalunya, 2" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43580' />
 		<tag k='addr:city' v="Deltebre" />
 		<tag k='contact:phone' v='+34977489918' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3622063' />
 		<tag k='name' v="Farmàcia Molina Cabrera, Laura" />
 		<tag k='addr:full' v="carrer Sis, 5" />
+		<tag k='addr:street' v="carrer Sis" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='43894' />
 		<tag k='addr:city' v="Camarles" />
 		<tag k='source:date' v='03/11/2020 08:00:14 AM +0000' />
@@ -54,6 +64,8 @@
 		<tag k='ref' v='3623230' />
 		<tag k='name' v="Farmàcia Albiol Palles, F. Eduard" />
 		<tag k='addr:full' v="carrer Bruc, 21" />
+		<tag k='addr:street' v="carrer Bruc" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='43580' />
 		<tag k='addr:city' v="Deltebre" />
 		<tag k='source:date' v='03/11/2020 08:00:15 AM +0000' />

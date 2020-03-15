@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623139' />
 		<tag k='name' v="Farmàcia Alamo Ruiz, Trinitat" />
 		<tag k='addr:full' v="passeig De Les Eres, 6" />
+		<tag k='addr:street' v="passeig De Les Eres" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08719' />
 		<tag k='addr:city' v="Jorba" />
 		<tag k='contact:phone' v='+34938094102' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622982' />
 		<tag k='name' v="Farmàcia Domènech Fabregat, Josefina" />
 		<tag k='addr:full' v="carrer Prats, 5" />
+		<tag k='addr:street' v="carrer Prats" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08712' />
 		<tag k='addr:city' v="Sant Martí de Tous" />
 		<tag k='contact:phone' v='+34938096179' />

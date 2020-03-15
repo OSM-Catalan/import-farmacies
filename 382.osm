@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623244' />
 		<tag k='name' v="Farmàcia Tomero Bergós, Sonia" />
 		<tag k='addr:full' v="carrer Major, 37" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='08859' />
 		<tag k='addr:city' v="Begues" />
 		<tag k='contact:phone' v='+34936622884' />

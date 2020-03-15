@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623078' />
 		<tag k='name' v="Farmàcia Garrido García, Isabel" />
 		<tag k='addr:full' v="carrer Gandesa, 15" />
+		<tag k='addr:street' v="carrer Gandesa" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='43782' />
 		<tag k='addr:city' v="Vilalba dels Arcs" />
 		<tag k='contact:phone' v='+34977438105' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623041' />
 		<tag k='name' v="Farmàcia Bové Vallespir, M. Assumpta" />
 		<tag k='addr:full' v="avinguda Catalunya, 35" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='43784' />
 		<tag k='addr:city' v="Corbera d'Ebre" />
 		<tag k='contact:phone' v='+34977420465' />

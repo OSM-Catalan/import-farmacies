@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623645' />
 		<tag k='name' v="Farmàcia Sunyer Creixans, M. Rosa" />
 		<tag k='addr:full' v="plaça   Rovira, 14" />
+		<tag k='addr:street' v="plaça   Rovira" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='17860' />
 		<tag k='addr:city' v="Sant Joan de les Abadesses" />
 		<tag k='contact:phone' v='+34972720154' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623974' />
 		<tag k='name' v="Farmàcia Camprubí Falcó, Gemma" />
 		<tag k='addr:full' v="carrer Ramon D'Urg, 56" />
+		<tag k='addr:street' v="carrer Ramon D'Urg" />
+		<tag k='addr:housenumber' v="56" />
 		<tag k='addr:postcode' v='17860' />
 		<tag k='addr:city' v="Sant Joan de les Abadesses" />
 		<tag k='contact:phone' v='+34972722226' />

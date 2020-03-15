@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624684' />
 		<tag k='name' v="Farmàcia Pallarés Peremiquel, Maria Teresa" />
 		<tag k='addr:full' v="carrer Cos,  94-96" />
+		<tag k='addr:street' v="carrer Cos" />
+		<tag k='addr:housenumber' v=" 94-96" />
 		<tag k='addr:postcode' v='08650' />
 		<tag k='addr:city' v="Sallent" />
 		<tag k='contact:phone' v='+34938370718' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622095' />
 		<tag k='name' v="Farmàcia Iglesias Llagostera, Albert" />
 		<tag k='addr:full' v="carrer De Berga, 2" />
+		<tag k='addr:street' v="carrer De Berga" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08660' />
 		<tag k='addr:city' v="Balsareny" />
 		<tag k='contact:phone' v='+34938396121' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622509' />
 		<tag k='name' v="Farmàcia Franch Masferrer, Josep" />
 		<tag k='addr:full' v="plaça  De La Pau, 3" />
+		<tag k='addr:street' v="plaça  De La Pau" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08650' />
 		<tag k='addr:city' v="Sallent" />
 		<tag k='contact:phone' v='+34938370022' />

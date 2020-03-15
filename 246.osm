@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624152' />
 		<tag k='name' v="Farmàcia Pujol Rius, Ricard" />
 		<tag k='addr:full' v="carrer Del Bassal, 4" />
+		<tag k='addr:street' v="carrer Del Bassal" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='25753' />
 		<tag k='addr:city' v="Sanaüja" />
 		<tag k='contact:phone' v='+34973550259' />

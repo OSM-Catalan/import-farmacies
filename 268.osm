@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624335' />
 		<tag k='name' v="Farmàcia Pujol Blanch, Climent" />
 		<tag k='addr:full' v="avinguda Sant Climent, 53" />
+		<tag k='addr:street' v="avinguda Sant Climent" />
+		<tag k='addr:housenumber' v="53" />
 		<tag k='addr:postcode' v='25793' />
 		<tag k='addr:city' v="Coll de Nargó" />
 		<tag k='contact:phone' v='+34973383386' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624091' />
 		<tag k='name' v="Farmàcia Simón Sala, Maria Àngels" />
 		<tag k='addr:full' v="carretera De Lleida, 30" />
+		<tag k='addr:street' v="carretera De Lleida" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='25794' />
 		<tag k='addr:city' v="Organyà" />
 		<tag k='contact:phone' v='+34973382193' />

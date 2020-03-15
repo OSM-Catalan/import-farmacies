@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623051' />
 		<tag k='name' v="Farmàcia Blanch Escurriola, Laureà" />
 		<tag k='addr:full' v="carrer Lleida, 3" />
+		<tag k='addr:street' v="carrer Lleida" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43594' />
 		<tag k='addr:city' v="Pinell de Brai, el" />
 		<tag k='contact:phone' v='+34977426076' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623063' />
 		<tag k='name' v="Farmàcia Massó Juncosa, Immaculada" />
 		<tag k='addr:full' v="carrer Lluís Companys, 13" />
+		<tag k='addr:street' v="carrer Lluís Companys" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='43512' />
 		<tag k='addr:city' v="Benifallet" />
 		<tag k='contact:phone' v='+34977462040' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623069' />
 		<tag k='name' v="Farmàcia Pedret Ramos, Maria Mercè" />
 		<tag k='addr:full' v="carrer De La Plaça, 11" />
+		<tag k='addr:street' v="carrer De La Plaça" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='43513' />
 		<tag k='addr:city' v="Rasquera" />
 		<tag k='contact:phone' v='+34977409073' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623068' />
 		<tag k='name' v="Farmàcia Mora Muñoz, Anton" />
 		<tag k='addr:full' v="carrer De La Creu, 24" />
+		<tag k='addr:street' v="carrer De La Creu" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='43747' />
 		<tag k='addr:city' v="Miravet" />
 		<tag k='contact:phone' v='+34977407149' />

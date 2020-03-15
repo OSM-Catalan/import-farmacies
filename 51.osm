@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621779' />
 		<tag k='name' v="Farmàcia Marcoval Martí, Marta" />
 		<tag k='addr:full' v="carrer Tarragona, 27" />
+		<tag k='addr:street' v="carrer Tarragona" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='43560' />
 		<tag k='addr:city' v="Sénia, la" />
 		<tag k='contact:phone' v='+34977713234' />

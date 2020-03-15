@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624597' />
 		<tag k='name' v="Farmàcia Ruiz Félez, Carlos Pablo" />
 		<tag k='addr:full' v="carrer Major, 15" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='43780' />
 		<tag k='addr:city' v="Gandesa" />
 		<tag k='contact:phone' v='+34977420069' />

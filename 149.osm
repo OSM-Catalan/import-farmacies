@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623226' />
 		<tag k='name' v="Farmàcia Perpiñà Fortea, Vicente." />
 		<tag k='addr:full' v="carrer Nou, 94" />
+		<tag k='addr:street' v="carrer Nou" />
+		<tag k='addr:housenumber' v="94" />
 		<tag k='addr:postcode' v='43376' />
 		<tag k='addr:city' v="Poboleda" />
 		<tag k='contact:phone' v='+34977827201' />

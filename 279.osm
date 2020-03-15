@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623219' />
 		<tag k='name' v="Farmàcia Parrilla Bonet, M. Lluïsa" />
 		<tag k='addr:full' v="carrer Generalitat, 4" />
+		<tag k='addr:street' v="carrer Generalitat" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43763' />
 		<tag k='addr:city' v="Nou de Gaià, la" />
 		<tag k='contact:phone' v='+34977655515' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623053' />
 		<tag k='name' v="Farmàcia Vidal Domènech, Cristina" />
 		<tag k='addr:full' v="carrer Sant Antoni, 20" />
+		<tag k='addr:street' v="carrer Sant Antoni" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='43762' />
 		<tag k='addr:city' v="Riera de Gaià, la" />
 		<tag k='contact:phone' v='+34977655155' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623039' />
 		<tag k='name' v="Farmàcia Rodríguez Solano, M. Palau" />
 		<tag k='addr:full' v="avinguda Doctor Pujol, 2" />
+		<tag k='addr:street' v="avinguda Doctor Pujol" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43839' />
 		<tag k='addr:city' v="Creixell" />
 		<tag k='contact:phone' v='+34977641219' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623059' />
 		<tag k='name' v="Farmàcia Icart de Bofarull, Anna" />
 		<tag k='addr:full' v="carrer Major, 12" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='43761' />
 		<tag k='addr:city' v="Pobla de Montornès, la" />
 		<tag k='contact:phone' v='+34977641050' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623197' />
 		<tag k='name' v="Farmàcia Martí Mendoza, Elisabet" />
 		<tag k='addr:full' v="carrer Nou, 14" />
+		<tag k='addr:street' v="carrer Nou" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='43885' />
 		<tag k='addr:city' v="Salomó" />
 		<tag k='contact:phone' v='+34977629176' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621405' />
 		<tag k='name' v="Farmàcia Aytés Meneses, Agustí" />
 		<tag k='addr:full' v="carrer Cala Joanet, 6" />
+		<tag k='addr:street' v="carrer Cala Joanet" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43860' />
 		<tag k='addr:city' v="Ametlla de Mar, l'" />
 		<tag k='contact:phone' v='+34977493493' />

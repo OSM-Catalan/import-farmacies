@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624078' />
 		<tag k='name' v="Farmàcia Gorrochategui Watson, Hermogenes" />
 		<tag k='addr:full' v="carrer De L'Est, 1" />
+		<tag k='addr:street' v="carrer De L'Est" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25112' />
 		<tag k='addr:city' v="Gimenells i el Pla de la Font" />
 		<tag k='contact:phone' v='+34973748083' />

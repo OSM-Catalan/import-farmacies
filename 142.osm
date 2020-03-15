@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624343' />
 		<tag k='name' v="Farmàcia Pérez Torres, Rosa Maria" />
 		<tag k='addr:full' v="avinguda Catalunya, 12" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='25136' />
 		<tag k='addr:city' v="Castelló de Farfanya" />
 		<tag k='contact:phone' v='+34973428070' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624057' />
 		<tag k='name' v="Farmàcia García Aldavó, Ernest" />
 		<tag k='addr:full' v="passatge Estacio, 10" />
+		<tag k='addr:street' v="passatge Estacio" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='25600' />
 		<tag k='addr:city' v="Balaguer" />
 		<tag k='contact:phone' v='+34973450214' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624060' />
 		<tag k='name' v="Farmàcia Dolset Peris, Maria Dolors" />
 		<tag k='addr:full' v="carrer Sant Crist, 11" />
+		<tag k='addr:street' v="carrer Sant Crist" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='25600' />
 		<tag k='addr:city' v="Balaguer" />
 		<tag k='contact:phone' v='+34973445384' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624059' />
 		<tag k='name' v="Farmàcia Sala Goma, A. i L." />
 		<tag k='addr:full' v="plaça  Mercadal, 36" />
+		<tag k='addr:street' v="plaça  Mercadal" />
+		<tag k='addr:housenumber' v="36" />
 		<tag k='addr:postcode' v='25600' />
 		<tag k='addr:city' v="Balaguer" />
 		<tag k='contact:phone' v='+34973445087' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624058' />
 		<tag k='name' v="Farmàcia March Moles, E. - March Call, M." />
 		<tag k='addr:full' v="carrer Barcelona, 10" />
+		<tag k='addr:street' v="carrer Barcelona" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='25600' />
 		<tag k='addr:city' v="Balaguer" />
 		<tag k='contact:phone' v='+34973445280' />

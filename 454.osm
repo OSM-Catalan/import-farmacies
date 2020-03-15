@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623157' />
 		<tag k='name' v="Farmàcia Mahon Godayol, Rafael" />
 		<tag k='addr:full' v="carretera C-17, 17" />
+		<tag k='addr:street' v="carretera C-17" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08519' />
 		<tag k='addr:city' v="Malla" />
 		<tag k='contact:phone' v='+34938895255' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621581' />
 		<tag k='name' v="Farmàcia Jaime Bofill, Íngrid" />
 		<tag k='addr:full' v="carrer Antoni Figueras, 11" />
+		<tag k='addr:street' v="carrer Antoni Figueras" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08551' />
 		<tag k='addr:city' v="Tona" />
 		<tag k='contact:phone' v='+34938870195' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624286' />
 		<tag k='name' v="Farmàcia Vilalla Buxaderas, A-Niguera Vilella, B" />
 		<tag k='addr:full' v="carrer Seva, 1" />
+		<tag k='addr:street' v="carrer Seva" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08551' />
 		<tag k='addr:city' v="Tona" />
 		<tag k='contact:phone' v='+34938870169' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3622639' />
 		<tag k='name' v="Farmàcia Farré Buxaderas, Josep" />
 		<tag k='addr:full' v="carrer Barcelona, 2" />
+		<tag k='addr:street' v="carrer Barcelona" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08551' />
 		<tag k='addr:city' v="Tona" />
 		<tag k='contact:phone' v='+34938870238' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624674' />
 		<tag k='name' v="Farmàcia Mataró Reixach, Guillem" />
 		<tag k='addr:full' v="carrer Del Pont, 15" />
+		<tag k='addr:street' v="carrer Del Pont" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='08550' />
 		<tag k='addr:city' v="Balenyà" />
 		<tag k='contact:phone' v='+34938820059' />

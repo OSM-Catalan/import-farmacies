@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624129' />
 		<tag k='name' v="Farmàcia Yuste Botey, Miquel Àngel" />
 		<tag k='addr:full' v="carrer Galícia, 71" />
+		<tag k='addr:street' v="carrer Galícia" />
+		<tag k='addr:housenumber' v="71" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936402090' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='11239804' />
 		<tag k='name' v="Farmàcia Torné Felip, M. Mercedes" />
 		<tag k='addr:full' v="carrer Sant Lluís, 54" />
+		<tag k='addr:street' v="carrer Sant Lluís" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936318764' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624503' />
 		<tag k='name' v="Farmàcia Siñol Poch, M. Teresa" />
 		<tag k='addr:full' v="carrer Sant Pere, 50" />
+		<tag k='addr:street' v="carrer Sant Pere" />
+		<tag k='addr:housenumber' v="50" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936620577' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3622986' />
 		<tag k='name' v="Farmàcia Itarte Casanova, M.D/Belencoso Itarte,C." />
 		<tag k='addr:full' v="avinguda La Pineda, 20" />
+		<tag k='addr:street' v="avinguda La Pineda" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936654711' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623887' />
 		<tag k='name' v="Farmàcia Serra Guasch, Magdalena" />
 		<tag k='addr:full' v="carrer Lluis Pascual Roca, 45" />
+		<tag k='addr:street' v="carrer Lluis Pascual Roca" />
+		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936615247' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623482' />
 		<tag k='name' v="Farmàcia Ayala Pauner, Bausili" />
 		<tag k='addr:full' v="plaça  Penedès, 2" />
+		<tag k='addr:street' v="plaça  Penedès" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936400987' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623473' />
 		<tag k='name' v="Farmàcia Grases Capell, Josep i  Mireia" />
 		<tag k='addr:full' v="carrer Francesc Pi I Margall, 115" />
+		<tag k='addr:street' v="carrer Francesc Pi I Margall" />
+		<tag k='addr:housenumber' v="115" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936401345' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3624126' />
 		<tag k='name' v="Farmàcia Ferragut Ventura, Antonio" />
 		<tag k='addr:full' v="carrer Cerdanya, 22" />
+		<tag k='addr:street' v="carrer Cerdanya" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936617649' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623138' />
 		<tag k='name' v="Farmàcia Guix Capdevila, Mònica Griselda" />
 		<tag k='addr:full' v="avinguda De Les Botigues De Sitges, 6" />
+		<tag k='addr:street' v="avinguda De Les Botigues De Sitges" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Sitges" />
 		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
@@ -94,6 +112,8 @@
 		<tag k='ref' v='3624400' />
 		<tag k='name' v="Farmàcia Bañeres Merinero, Francesc" />
 		<tag k='addr:full' v="carrer Industria, 26" />
+		<tag k='addr:street' v="carrer Industria" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936613040' />
@@ -104,6 +124,8 @@
 		<tag k='ref' v='3622247' />
 		<tag k='name' v="Farmàcia Muñoz Mendez, Daniel" />
 		<tag k='addr:full' v="rambla Joaquim Vayreda, 24" />
+		<tag k='addr:street' v="rambla Joaquim Vayreda" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936620388' />
@@ -114,6 +136,8 @@
 		<tag k='ref' v='11620402' />
 		<tag k='name' v="Farmàcia Espina Mateos, Carlos" />
 		<tag k='addr:full' v="rambla Pompeu Fabra, 180" />
+		<tag k='addr:street' v="rambla Pompeu Fabra" />
+		<tag k='addr:housenumber' v="180" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34619571269' />
@@ -123,6 +147,8 @@
 		<tag k='ref' v='3624861' />
 		<tag k='name' v="Farmàcia Bresco Mancho, Jose Manuel" />
 		<tag k='addr:full' v="carrer Sol, 67" />
+		<tag k='addr:street' v="carrer Sol" />
+		<tag k='addr:housenumber' v="67" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936580895' />
@@ -133,6 +159,8 @@
 		<tag k='ref' v='3624407' />
 		<tag k='name' v="Farmàcia Sala Carcel, N - García Sala, D i X" />
 		<tag k='addr:full' v="carrer Sant  Marià, 99" />
+		<tag k='addr:street' v="carrer Sant  Marià" />
+		<tag k='addr:housenumber' v="99" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936580048' />
@@ -143,6 +171,8 @@
 		<tag k='ref' v='3623133' />
 		<tag k='name' v="Farmàcia San Segundo Blazquez, Sandra" />
 		<tag k='addr:full' v="carrer Francesc Macià, 21" />
+		<tag k='addr:street' v="carrer Francesc Macià" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936610905' />
@@ -153,6 +183,8 @@
 		<tag k='ref' v='3621739' />
 		<tag k='name' v="Farmàcia García López, Bertomeu - Corres Orué, JJ" />
 		<tag k='addr:full' v="carrer Arcadi Balaguer,  17-21" />
+		<tag k='addr:street' v="carrer Arcadi Balaguer" />
+		<tag k='addr:housenumber' v=" 17-21" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34931069853' />
@@ -163,6 +195,8 @@
 		<tag k='ref' v='3622515' />
 		<tag k='name' v="Farmàcia Pérez Galindo, Laura" />
 		<tag k='addr:full' v="plaça  Ajuntament, 9" />
+		<tag k='addr:street' v="plaça  Ajuntament" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936610019' />
@@ -173,6 +207,8 @@
 		<tag k='ref' v='3621136' />
 		<tag k='name' v="Farmàcia Culleré Cosidó, M. Antònia" />
 		<tag k='addr:full' v="avinguda Generalitat, 28" />
+		<tag k='addr:street' v="avinguda Generalitat" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936580444' />
@@ -183,6 +219,8 @@
 		<tag k='ref' v='10828322' />
 		<tag k='name' v="Farmàcia Berga Culleré, Carolina" />
 		<tag k='addr:full' v="carretera Sant Climent, 58" />
+		<tag k='addr:street' v="carretera Sant Climent" />
+		<tag k='addr:housenumber' v="58" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34935565065' />
@@ -193,6 +231,8 @@
 		<tag k='ref' v='3624581' />
 		<tag k='name' v="Farmàcia Ramis Miró, M. Teresa" />
 		<tag k='addr:full' v="carrer Rossello, 98" />
+		<tag k='addr:street' v="carrer Rossello" />
+		<tag k='addr:housenumber' v="98" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936523931' />
@@ -203,6 +243,8 @@
 		<tag k='ref' v='3624573' />
 		<tag k='name' v="Farmàcia Herreros Fernández, Felisa" />
 		<tag k='addr:full' v="carretera Santa Creu De Calafell, 135" />
+		<tag k='addr:street' v="carretera Santa Creu De Calafell" />
+		<tag k='addr:housenumber' v="135" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936623712' />
@@ -213,6 +255,8 @@
 		<tag k='ref' v='3624434' />
 		<tag k='name' v="Farmàcia Conesa López, M. Manuela" />
 		<tag k='addr:full' v="carrer Badajoz, 9" />
+		<tag k='addr:street' v="carrer Badajoz" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936614708' />
@@ -223,6 +267,8 @@
 		<tag k='ref' v='3624696' />
 		<tag k='name' v="Farmàcia Paz Donoso, Carme" />
 		<tag k='addr:full' v="carrer Santa Teresa, 74" />
+		<tag k='addr:street' v="carrer Santa Teresa" />
+		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936622646' />
@@ -233,6 +279,8 @@
 		<tag k='ref' v='3623270' />
 		<tag k='name' v="Farmàcia Montes Corrales, Manuel" />
 		<tag k='addr:full' v="plaça  De La Hispanitat,  S/N B" />
+		<tag k='addr:street' v="plaça  De La Hispanitat" />
+		<tag k='addr:housenumber' v=" S/N B" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936581498' />
@@ -243,6 +291,8 @@
 		<tag k='ref' v='3621761' />
 		<tag k='name' v="Farmàcia Puigdevall Valero, Miquel Àngel" />
 		<tag k='addr:full' v="avinguda Juan Carlos I, 56" />
+		<tag k='addr:street' v="avinguda Juan Carlos I" />
+		<tag k='addr:housenumber' v="56" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936381979' />
@@ -253,6 +303,8 @@
 		<tag k='ref' v='3621450' />
 		<tag k='name' v="Farmàcia Rocabeyera Ruiz, Luisa Margarita" />
 		<tag k='addr:full' v="carrer President Lluís Companys, 1" />
+		<tag k='addr:street' v="carrer President Lluís Companys" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936594665' />
@@ -263,6 +315,8 @@
 		<tag k='ref' v='3624259' />
 		<tag k='name' v="Farmàcia Martinez Codina, Marc" />
 		<tag k='addr:full' v="plaça  Arquebisbe Modrego, 11" />
+		<tag k='addr:street' v="plaça  Arquebisbe Modrego" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936581685' />
@@ -273,6 +327,8 @@
 		<tag k='ref' v='3623812' />
 		<tag k='name' v="Farmàcia López Paz, Sylvia Cristina" />
 		<tag k='addr:full' v="carrer Pere El Gran, 2" />
+		<tag k='addr:street' v="carrer Pere El Gran" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936621799' />
@@ -283,6 +339,8 @@
 		<tag k='ref' v='3621929' />
 		<tag k='name' v="Farmàcia Badia del Romero, Stella" />
 		<tag k='addr:full' v="avinguda President Francesc Macià, 17,  portal 1" />
+		<tag k='addr:street' v="avinguda President Francesc Macià" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936817238' />
@@ -293,6 +351,8 @@
 		<tag k='ref' v='3623883' />
 		<tag k='name' v="Farmàcia Alseda Bacardí, Jordi" />
 		<tag k='addr:full' v="avinguda Gavà, 13" />
+		<tag k='addr:street' v="avinguda Gavà" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936581837' />
@@ -303,6 +363,8 @@
 		<tag k='ref' v='3623277' />
 		<tag k='name' v="Farmàcia Llorens Bernat, M. Teresa" />
 		<tag k='addr:full' v="carrer Agustina D'Aragó, 87" />
+		<tag k='addr:street' v="carrer Agustina D'Aragó" />
+		<tag k='addr:housenumber' v="87" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936652694' />
@@ -313,6 +375,8 @@
 		<tag k='ref' v='3621417' />
 		<tag k='name' v="Farmàcia Albalà Hurtado, Soledad" />
 		<tag k='addr:full' v="ronda Ramón Otero Pedrayo, 32" />
+		<tag k='addr:street' v="ronda Ramón Otero Pedrayo" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936361059' />
@@ -323,6 +387,8 @@
 		<tag k='ref' v='3623012' />
 		<tag k='name' v="Farmàcia Berga Martí, Carles" />
 		<tag k='addr:full' v="carrer Jaume Abril, 23" />
+		<tag k='addr:street' v="carrer Jaume Abril" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936582598' />
@@ -333,6 +399,8 @@
 		<tag k='ref' v='3624380' />
 		<tag k='name' v="Farmàcia Cruz Olivé, Luis Alejandro" />
 		<tag k='addr:full' v="carrer Lluís Castells, 32" />
+		<tag k='addr:street' v="carrer Lluís Castells" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936400624' />
@@ -343,6 +411,8 @@
 		<tag k='ref' v='3623503' />
 		<tag k='name' v="Farmàcia Badía del Romero, Joan Carles" />
 		<tag k='addr:full' v="carrer Pere Sala, 60" />
+		<tag k='addr:street' v="carrer Pere Sala" />
+		<tag k='addr:housenumber' v="60" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936582642' />
@@ -353,6 +423,8 @@
 		<tag k='ref' v='3623380' />
 		<tag k='name' v="Farmàcia Bausili Morenza, Juan Bosco" />
 		<tag k='addr:full' v="carrer Blai Net, 74" />
+		<tag k='addr:street' v="carrer Blai Net" />
+		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936610148' />
@@ -363,6 +435,8 @@
 		<tag k='ref' v='3624005' />
 		<tag k='name' v="Farmàcia Llados Tirado, Joan Ramon" />
 		<tag k='addr:full' v="avinguda Constitució, 378" />
+		<tag k='addr:street' v="avinguda Constitució" />
+		<tag k='addr:housenumber' v="378" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936650083' />
@@ -373,6 +447,8 @@
 		<tag k='ref' v='3621100' />
 		<tag k='name' v="Farmàcia Escolano Truco, Víctor" />
 		<tag k='addr:full' v="carrer Begues, 6" />
+		<tag k='addr:street' v="carrer Begues" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936380866' />
@@ -383,6 +459,8 @@
 		<tag k='ref' v='3621255' />
 		<tag k='name' v="Farmàcia Faiman Szulc, Clàudia Patrícia" />
 		<tag k='addr:full' v="carrer Les Colomeres, 60" />
+		<tag k='addr:street' v="carrer Les Colomeres" />
+		<tag k='addr:housenumber' v="60" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936334477' />
@@ -393,6 +471,8 @@
 		<tag k='ref' v='3624262' />
 		<tag k='name' v="Farmàcia Rotllan Pare, Margarida" />
 		<tag k='addr:full' v="carrer Enric Prat De La Riba, 66" />
+		<tag k='addr:street' v="carrer Enric Prat De La Riba" />
+		<tag k='addr:housenumber' v="66" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936581184' />
@@ -403,6 +483,8 @@
 		<tag k='ref' v='3623345' />
 		<tag k='name' v="Farmàcia Uriz Fina, Mercedes" />
 		<tag k='addr:full' v="avinguda Miramar, 7" />
+		<tag k='addr:street' v="avinguda Miramar" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936472198' />
@@ -413,6 +495,8 @@
 		<tag k='ref' v='3623385' />
 		<tag k='name' v="Farmàcia Artola Codina, MD - Roca Pujadó, F" />
 		<tag k='addr:full' v="carrer Guifré El Pelós, 34" />
+		<tag k='addr:street' v="carrer Guifré El Pelós" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936582691' />
@@ -423,6 +507,8 @@
 		<tag k='ref' v='3623156' />
 		<tag k='name' v="Farmàcia Lluch Villamor, Maria Roser" />
 		<tag k='addr:full' v="carrer Josep Mariages, 17" />
+		<tag k='addr:street' v="carrer Josep Mariages" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936303122' />
@@ -433,6 +519,8 @@
 		<tag k='ref' v='3623191' />
 		<tag k='name' v="Farmàcia Beltran Artola, Maria Gràcia" />
 		<tag k='addr:full' v="carrer Mallorca, 60" />
+		<tag k='addr:street' v="carrer Mallorca" />
+		<tag k='addr:housenumber' v="60" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936307446' />
@@ -443,6 +531,8 @@
 		<tag k='ref' v='3623605' />
 		<tag k='name' v="Farmàcia Chalmeta Alonso, E - Cherta Chalmeta, S" />
 		<tag k='addr:full' v="carrer Arcadi Balaguer, 67" />
+		<tag k='addr:street' v="carrer Arcadi Balaguer" />
+		<tag k='addr:housenumber' v="67" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936650894' />
@@ -453,6 +543,8 @@
 		<tag k='ref' v='3624565' />
 		<tag k='name' v="Farmàcia Mallasen Zinsser, Isabel" />
 		<tag k='addr:full' v="carrer Narcís Monturiol I Estarrido, 3" />
+		<tag k='addr:street' v="carrer Narcís Monturiol I Estarrido" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936655011' />
@@ -463,6 +555,8 @@
 		<tag k='ref' v='3622938' />
 		<tag k='name' v="Farmàcia Ramos Diaz, Concepción" />
 		<tag k='addr:full' v="carrer Victor Balaguer, 34" />
+		<tag k='addr:street' v="carrer Victor Balaguer" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936400853' />
@@ -473,6 +567,8 @@
 		<tag k='ref' v='3623985' />
 		<tag k='name' v="Farmàcia Orobitg Morin, Daniel" />
 		<tag k='addr:full' v="carrer Eusebi Güell, 114" />
+		<tag k='addr:street' v="carrer Eusebi Güell" />
+		<tag k='addr:housenumber' v="114" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936615948' />
@@ -483,6 +579,8 @@
 		<tag k='ref' v='3622516' />
 		<tag k='name' v="Farmàcia Vaquer Fontanet, Anna" />
 		<tag k='addr:full' v="carrer Major, 23" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936400006' />
@@ -493,6 +591,8 @@
 		<tag k='ref' v='3623122' />
 		<tag k='name' v="Farmàcia Sánchez Moratos, Josefa" />
 		<tag k='addr:full' v="carrer Salvador Lluch, 18" />
+		<tag k='addr:street' v="carrer Salvador Lluch" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936621934' />
@@ -503,6 +603,8 @@
 		<tag k='ref' v='3623306' />
 		<tag k='name' v="Farmàcia Vilà Badia, Francesc" />
 		<tag k='addr:full' v="avinguda Moli, 37" />
+		<tag k='addr:street' v="avinguda Moli" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='source:date' v='03/11/2020 07:58:45 AM +0000' />
@@ -512,6 +614,8 @@
 		<tag k='ref' v='3623022' />
 		<tag k='name' v="Farmàcia Lauroba Canaleta, Carolina" />
 		<tag k='addr:full' v="carrer Autovia Castelldefels,  KM.16" />
+		<tag k='addr:street' v="carrer Autovia Castelldefels" />
+		<tag k='addr:housenumber' v=" KM.16" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936332133' />
@@ -522,6 +626,8 @@
 		<tag k='ref' v='3623697' />
 		<tag k='name' v="Farmàcia Martínez Valencia, Pau" />
 		<tag k='addr:full' v="carrer Viriat, 2" />
+		<tag k='addr:street' v="carrer Viriat" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936651138' />
@@ -532,6 +638,8 @@
 		<tag k='ref' v='3623346' />
 		<tag k='name' v="Farmàcia Grillo Dorca, Joan" />
 		<tag k='addr:full' v="carrer Pintor Serrasanta, 17" />
+		<tag k='addr:street' v="carrer Pintor Serrasanta" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936360416' />
@@ -542,6 +650,8 @@
 		<tag k='ref' v='3623595' />
 		<tag k='name' v="Farmàcia Pérez Urpina, M. Dolors" />
 		<tag k='addr:full' v="carrer Antoni Gaudi, 61" />
+		<tag k='addr:street' v="carrer Antoni Gaudi" />
+		<tag k='addr:housenumber' v="61" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936401937' />
@@ -552,6 +662,8 @@
 		<tag k='ref' v='3622248' />
 		<tag k='name' v="Farmàcia Rivero Moreno, Beatriz" />
 		<tag k='addr:full' v="avinguda Diagonal, 7" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936620144' />
@@ -562,6 +674,8 @@
 		<tag k='ref' v='3622974' />
 		<tag k='name' v="Farmàcia Uriarte Cullerè, Miquel" />
 		<tag k='addr:full' v="carrer Doctor Reig, 67" />
+		<tag k='addr:street' v="carrer Doctor Reig" />
+		<tag k='addr:housenumber' v="67" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936589251' />
@@ -572,6 +686,8 @@
 		<tag k='ref' v='3623524' />
 		<tag k='name' v="Farmàcia Rosés Fernàndez, M.Elena" />
 		<tag k='addr:full' v="avinguda General Prim, 17" />
+		<tag k='addr:street' v="avinguda General Prim" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936401684' />
@@ -582,6 +698,8 @@
 		<tag k='ref' v='9102999' />
 		<tag k='name' v="Farmàcia Sancho Cejas, Maria José" />
 		<tag k='addr:full' v="avinguda Constitució, 206" />
+		<tag k='addr:street' v="avinguda Constitució" />
+		<tag k='addr:housenumber' v="206" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34938685340' />
@@ -592,6 +710,8 @@
 		<tag k='ref' v='3624122' />
 		<tag k='name' v="Farmàcia Chacón Puig, Roberto Dario" />
 		<tag k='addr:full' v="avinguda Diagonal, 30" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936652318' />
@@ -602,6 +722,8 @@
 		<tag k='ref' v='3622970' />
 		<tag k='name' v="Farmàcia Moltó Rodríguez, Fernando" />
 		<tag k='addr:full' v="plaça  Lluis Companys, 6" />
+		<tag k='addr:street' v="plaça  Lluis Companys" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08849' />
 		<tag k='addr:city' v="Sant Climent de Llobregat" />
 		<tag k='contact:phone' v='+34936581491' />
@@ -612,6 +734,8 @@
 		<tag k='ref' v='3623341' />
 		<tag k='name' v="Farmàcia Garrido Zafra, Montserrat" />
 		<tag k='addr:full' v="carrer Canonge Doctor Auguet, 82" />
+		<tag k='addr:street' v="carrer Canonge Doctor Auguet" />
+		<tag k='addr:housenumber' v="82" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34936470080' />
@@ -622,6 +746,8 @@
 		<tag k='ref' v='3623919' />
 		<tag k='name' v="Farmàcia Estévez Gómez, Javier Alejandro" />
 		<tag k='addr:full' v="carrer Doctor Ignasi Barraquer, 8" />
+		<tag k='addr:street' v="carrer Doctor Ignasi Barraquer" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936614666' />
@@ -632,6 +758,8 @@
 		<tag k='ref' v='3624436' />
 		<tag k='name' v="Farmàcia Prat Borrell, Mercedes" />
 		<tag k='addr:full' v="carrer Rossello, 47" />
+		<tag k='addr:street' v="carrer Rossello" />
+		<tag k='addr:housenumber' v="47" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936520214' />
@@ -642,6 +770,8 @@
 		<tag k='ref' v='3624447' />
 		<tag k='name' v="Farmàcia Vila Bragado, Pau" />
 		<tag k='addr:full' v="carrer Baldiri Deu I Priu, 21" />
+		<tag k='addr:street' v="carrer Baldiri Deu I Priu" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936614199' />
@@ -652,6 +782,8 @@
 		<tag k='ref' v='3624120' />
 		<tag k='name' v="Farmàcia Terrassa Caffaro, M. Lluïsa" />
 		<tag k='addr:full' v="avinguda Onze De Setembre, 58" />
+		<tag k='addr:street' v="avinguda Onze De Setembre" />
+		<tag k='addr:housenumber' v="58" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936614648' />
@@ -662,6 +794,8 @@
 		<tag k='ref' v='3622514' />
 		<tag k='name' v="Farmàcia Calvo Delgado, José Maria" />
 		<tag k='addr:full' v="carrer General O'Donnell, 59" />
+		<tag k='addr:street' v="carrer General O'Donnell" />
+		<tag k='addr:housenumber' v="59" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936400219' />
@@ -672,6 +806,8 @@
 		<tag k='ref' v='3623142' />
 		<tag k='name' v="Farmàcia Galcerà Piñol, Mònica" />
 		<tag k='addr:full' v="passatge Marítim,  249-2" />
+		<tag k='addr:street' v="passatge Marítim" />
+		<tag k='addr:housenumber' v=" 249-2" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936657409' />
@@ -682,6 +818,8 @@
 		<tag k='ref' v='3621967' />
 		<tag k='name' v="Farmàcia Orrit Mackenzie, Jorge" />
 		<tag k='addr:full' v="avinguda Constitució, 119" />
+		<tag k='addr:street' v="avinguda Constitució" />
+		<tag k='addr:housenumber' v="119" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936651244' />
@@ -692,6 +830,8 @@
 		<tag k='ref' v='3621939' />
 		<tag k='name' v="Farmàcia Arribas Adrian, Jorge" />
 		<tag k='addr:full' v="avinguda Segle Xxi, 6" />
+		<tag k='addr:street' v="avinguda Segle Xxi" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08840' />
 		<tag k='addr:city' v="Viladecans" />
 		<tag k='contact:phone' v='+34935413499' />
@@ -702,6 +842,8 @@
 		<tag k='ref' v='3623888' />
 		<tag k='name' v="Farmàcia Marsal Fábregas, M. Mercedes" />
 		<tag k='addr:full' v="carrer Tres D'Abril, 34" />
+		<tag k='addr:street' v="carrer Tres D'Abril" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936615696' />
@@ -712,6 +854,8 @@
 		<tag k='ref' v='3622933' />
 		<tag k='name' v="Farmàcia Gordo Bort, Joan Carles" />
 		<tag k='addr:full' v="avinguda Mar, 2" />
+		<tag k='addr:street' v="avinguda Mar" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08860' />
 		<tag k='addr:city' v="Castelldefels" />
 		<tag k='contact:phone' v='+34936651893' />
@@ -722,6 +866,8 @@
 		<tag k='ref' v='3623901' />
 		<tag k='name' v="Farmàcia Jiménez Mogollón, Anabel i Elena" />
 		<tag k='addr:full' v="carrer Jaume Balmes, 33" />
+		<tag k='addr:street' v="carrer Jaume Balmes" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936612425' />
@@ -732,6 +878,8 @@
 		<tag k='ref' v='3623923' />
 		<tag k='name' v="Farmàcia Cabanas Miret, Josep" />
 		<tag k='addr:full' v="carrer Francesc Macia, 115" />
+		<tag k='addr:street' v="carrer Francesc Macia" />
+		<tag k='addr:housenumber' v="115" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936546452' />
@@ -742,6 +890,8 @@
 		<tag k='ref' v='3623890' />
 		<tag k='name' v="Farmàcia Pugès Crisol, M. Carme" />
 		<tag k='addr:full' v="passatge Joan Maragall, 23" />
+		<tag k='addr:street' v="passatge Joan Maragall" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='08850' />
 		<tag k='addr:city' v="Gavà" />
 		<tag k='contact:phone' v='+34936623113' />
@@ -752,6 +902,8 @@
 		<tag k='ref' v='3623877' />
 		<tag k='name' v="Farmàcia Monllor Gonzàlez, Jose Maria" />
 		<tag k='addr:full' v="carrer Montmany, 29" />
+		<tag k='addr:street' v="carrer Montmany" />
+		<tag k='addr:housenumber' v="29" />
 		<tag k='addr:postcode' v='08830' />
 		<tag k='addr:city' v="Sant Boi de Llobregat" />
 		<tag k='contact:phone' v='+34936616721' />

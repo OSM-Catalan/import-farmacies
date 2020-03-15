@@ -5,6 +5,8 @@
 		<tag k='ref' v='9926086' />
 		<tag k='name' v="Farmàcia Marti Piquer, Helena" />
 		<tag k='addr:full' v="avinguda De La Llibertat, 27" />
+		<tag k='addr:street' v="avinguda De La Llibertat" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='43470' />
 		<tag k='addr:city' v="Selva del Camp, la" />
 		<tag k='contact:phone' v='+34977266481' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623070' />
 		<tag k='name' v="Farmàcia De Miguel Gasol, M. Teresa" />
 		<tag k='addr:full' v="carrer Martirs, 2" />
+		<tag k='addr:street' v="carrer Martirs" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43140' />
 		<tag k='addr:city' v="Pobla de Mafumet, la" />
 		<tag k='contact:phone' v='+34977840525' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624803' />
 		<tag k='name' v="Farmàcia Bru Serra, Josep Maria" />
 		<tag k='addr:full' v="carrer Miró, 59" />
+		<tag k='addr:street' v="carrer Miró" />
+		<tag k='addr:housenumber' v="59" />
 		<tag k='addr:postcode' v='43202' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977344146' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624790' />
 		<tag k='name' v="Farmàcia Boronat Bové, M. Carme" />
 		<tag k='addr:full' v="avinguda Verge Del Roser, 4" />
+		<tag k='addr:street' v="avinguda Verge Del Roser" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43141' />
 		<tag k='addr:city' v="Vilallonga del Camp" />
 		<tag k='contact:phone' v='+34977840156' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624607' />
 		<tag k='name' v="Farmàcia Palau Torres, Pau" />
 		<tag k='addr:full' v="carrer Sant Placid, 2" />
+		<tag k='addr:street' v="carrer Sant Placid" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43760' />
 		<tag k='addr:city' v="Morell, el" />
 		<tag k='contact:phone' v='+34977840659' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623044' />
 		<tag k='name' v="Farmàcia Abajo Martin, Pere" />
 		<tag k='addr:full' v="avinguda Marià Fortuny, 49" />
+		<tag k='addr:street' v="avinguda Marià Fortuny" />
+		<tag k='addr:housenumber' v="49" />
 		<tag k='addr:postcode' v='43204' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977305052' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623234' />
 		<tag k='name' v="Farmàcia Fernández-Montesinos Aniorte, Cruz" />
 		<tag k='addr:full' v="carrer Josep Roselló, 3" />
+		<tag k='addr:street' v="carrer Josep Roselló" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43393' />
 		<tag k='addr:city' v="Almoster" />
 		<tag k='contact:phone' v='+34977762052' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623065' />
 		<tag k='name' v="Farmàcia Alijo Salamanca, David" />
 		<tag k='addr:full' v="carrer Pompeu Fabra, 27" />
+		<tag k='addr:street' v="carrer Pompeu Fabra" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='43392' />
 		<tag k='addr:city' v="Castellvell del Camp" />
 		<tag k='contact:phone' v='+34977855046' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3624616' />
 		<tag k='name' v="Farmàcia Feliu Llovera, Ernest" />
 		<tag k='addr:full' v="carrer Ample, 38" />
+		<tag k='addr:street' v="carrer Ample" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='43202' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977314062' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3624633' />
 		<tag k='name' v="Farmàcia Punsola Palau, Marc" />
 		<tag k='addr:full' v="avinguda Puig I Ferreter, 6" />
+		<tag k='addr:street' v="avinguda Puig I Ferreter" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43470' />
 		<tag k='addr:city' v="Selva del Camp, la" />
 		<tag k='contact:phone' v='+34977844415' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3622920' />
 		<tag k='name' v="Farmàcia Sànchez Hidalgo, José César" />
 		<tag k='addr:full' v="passatge Sunyer, 31" />
+		<tag k='addr:street' v="passatge Sunyer" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='43202' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977311669' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3622906' />
 		<tag k='name' v="Farmàcia Sans Benet, Gerard" />
 		<tag k='addr:full' v="avinguda Barcelona, 7" />
+		<tag k='addr:street' v="avinguda Barcelona" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='43206' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977332210' />

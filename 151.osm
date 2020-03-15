@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623209' />
 		<tag k='name' v="Farmàcia Gavaldà Cabrejas, Montserrat" />
 		<tag k='addr:full' v="carrer Estanislau Figueras, 37" />
+		<tag k='addr:street' v="carrer Estanislau Figueras" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='43891' />
 		<tag k='addr:city' v="Vandellòs i l'Hospitalet de l'Infant" />
 		<tag k='contact:phone' v='+34977824090' />

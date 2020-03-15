@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624321' />
 		<tag k='name' v="Farmàcia Tosquella Angrill, M. Dolors" />
 		<tag k='addr:full' v="carrer Major, 57" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='25215' />
 		<tag k='addr:city' v="Sant Ramon" />
 		<tag k='contact:phone' v='+34973524092' />

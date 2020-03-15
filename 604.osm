@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623638' />
 		<tag k='name' v="Farmàcia Bech Gibert, Núria" />
 		<tag k='addr:full' v="carrer Espolla, 20" />
+		<tag k='addr:street' v="carrer Espolla" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='17751' />
 		<tag k='addr:city' v="Sant Climent Sescebes" />
 		<tag k='contact:phone' v='+34972563336' />

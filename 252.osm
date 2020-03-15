@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623349' />
 		<tag k='name' v="Farmàcia Ferrus Brunet, Rosa Maria" />
 		<tag k='addr:full' v="carrer Alt Camp, 23" />
+		<tag k='addr:street' v="carrer Alt Camp" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='43800' />
 		<tag k='addr:city' v="Valls" />
 		<tag k='source:date' v='03/11/2020 08:01:07 AM +0000' />
@@ -14,6 +16,8 @@
 		<tag k='ref' v='3624784' />
 		<tag k='name' v="Farmàcia Angeles Miquel Alonso" />
 		<tag k='addr:full' v="plaça  Del Pati, 9" />
+		<tag k='addr:street' v="plaça  Del Pati" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='43800' />
 		<tag k='addr:city' v="Valls" />
 		<tag k='contact:phone' v='+34977600606' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3624786' />
 		<tag k='name' v="Farmàcia Climent Pons, Lourdes Rosario" />
 		<tag k='addr:full' v="carrer Anselm Clave, 35" />
+		<tag k='addr:street' v="carrer Anselm Clave" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='43800' />
 		<tag k='addr:city' v="Valls" />
 		<tag k='contact:phone' v='+34977600763' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3624782' />
 		<tag k='name' v="Farmàcia Galimany Solé, R - Murillo Galimany, A" />
 		<tag k='addr:full' v="plaça  Del Portal Nou, 4" />
+		<tag k='addr:street' v="plaça  Del Portal Nou" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43800' />
 		<tag k='addr:city' v="Valls" />
 		<tag k='contact:phone' v='+34977600597' />
@@ -44,6 +52,8 @@
 		<tag k='ref' v='3623071' />
 		<tag k='name' v="Farmàcia Magdalena Arnal, Lluís F." />
 		<tag k='addr:full' v="carrer Joaquima Vedruna, 2" />
+		<tag k='addr:street' v="carrer Joaquima Vedruna" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43800' />
 		<tag k='addr:city' v="Valls" />
 		<tag k='contact:phone' v='+34977600011' />
@@ -54,6 +64,8 @@
 		<tag k='ref' v='3624785' />
 		<tag k='name' v="Farmàcia Viscasillas Muret, Ma. Teresa" />
 		<tag k='addr:full' v="carrer Peixateria, 9" />
+		<tag k='addr:street' v="carrer Peixateria" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='43800' />
 		<tag k='addr:city' v="Valls" />
 		<tag k='contact:phone' v='+34977600490' />
@@ -64,6 +76,8 @@
 		<tag k='ref' v='3623223' />
 		<tag k='name' v="Farmàcia Mané Noya, Jordi" />
 		<tag k='addr:full' v="carretera De Vilabella, 18" />
+		<tag k='addr:street' v="carretera De Vilabella" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='43812' />
 		<tag k='addr:city' v="Puigpelat" />
 		<tag k='contact:phone' v='+34977612350' />
@@ -74,6 +88,8 @@
 		<tag k='ref' v='3622904' />
 		<tag k='name' v="Farmàcia Pérez Cerrada, Elena Pilar" />
 		<tag k='addr:full' v="carrer Vallvera, 10" />
+		<tag k='addr:street' v="carrer Vallvera" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='43800' />
 		<tag k='addr:city' v="Valls" />
 		<tag k='contact:phone' v='+34977602430' />
@@ -84,6 +100,8 @@
 		<tag k='ref' v='3624783' />
 		<tag k='name' v="Farmàcia Rull Ferré, Consol" />
 		<tag k='addr:full' v="carrer De La Cort, 26" />
+		<tag k='addr:street' v="carrer De La Cort" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='43800' />
 		<tag k='addr:city' v="Valls" />
 		<tag k='contact:phone' v='+34977612517' />

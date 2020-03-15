@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621448' />
 		<tag k='name' v="Farmàcia Queralt Montañola, Rosa" />
 		<tag k='addr:full' v="passatge De Ronda, 42" />
+		<tag k='addr:street' v="passatge De Ronda" />
+		<tag k='addr:housenumber' v="42" />
 		<tag k='addr:postcode' v='25180' />
 		<tag k='addr:city' v="Alcarràs" />
 		<tag k='contact:phone' v='+34973784001' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624463' />
 		<tag k='name' v="Farmàcia Céspedes Aleu, Mònica" />
 		<tag k='addr:full' v="carrer De La Creu, 2" />
+		<tag k='addr:street' v="carrer De La Creu" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='25172' />
 		<tag k='addr:city' v="Montoliu de Lleida" />
 		<tag k='contact:phone' v='+34973720676' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624308' />
 		<tag k='name' v="Farmàcia Bonet Porqueras, Isabel" />
 		<tag k='addr:full' v="carrer Sindicat, 36" />
+		<tag k='addr:street' v="carrer Sindicat" />
+		<tag k='addr:housenumber' v="36" />
 		<tag k='addr:postcode' v='25181' />
 		<tag k='addr:city' v="Soses" />
 		<tag k='contact:phone' v='+34973107484' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624305' />
 		<tag k='name' v="Farmàcia Roure Campos, Yolanda" />
 		<tag k='addr:full' v="carrer Vinyes De Dalt, 5" />
+		<tag k='addr:street' v="carrer Vinyes De Dalt" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='25170' />
 		<tag k='addr:city' v="Torres de Segre" />
 		<tag k='contact:phone' v='+34973796084' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624047' />
 		<tag k='name' v="Farmàcia Queralt Montañola, Montserrat" />
 		<tag k='addr:full' v="plaça  Major, 3" />
+		<tag k='addr:street' v="plaça  Major" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='25180' />
 		<tag k='addr:city' v="Alcarràs" />
 		<tag k='contact:phone' v='+34973790022' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621783' />
 		<tag k='name' v="Farmàcia Gómez Adrian, Cristina" />
 		<tag k='addr:full' v="carrer Major, 190" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="190" />
 		<tag k='addr:postcode' v='25180' />
 		<tag k='addr:city' v="Alcarràs" />
 		<tag k='source:date' v='03/11/2020 08:01:21 AM +0000' />
@@ -64,6 +76,8 @@
 		<tag k='ref' v='3624338' />
 		<tag k='name' v="Farmàcia Blasco Vila, Eleuterio" />
 		<tag k='addr:full' v="carrer Sant Pere, 5" />
+		<tag k='addr:street' v="carrer Sant Pere" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='25173' />
 		<tag k='addr:city' v="Sudanell" />
 		<tag k='contact:phone' v='+34973258072' />

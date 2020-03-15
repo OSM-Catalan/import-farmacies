@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624464' />
 		<tag k='name' v="Farmàcia Vicente-Franqueira Rodríguez, Ramon" />
 		<tag k='addr:full' v="carretera De La Seu, 1" />
+		<tag k='addr:street' v="carretera De La Seu" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25796' />
 		<tag k='addr:city' v="Ribera d'Urgellet" />
 		<tag k='contact:phone' v='+34973387387' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622991' />
 		<tag k='name' v="Farmàcia Giménez López, Gabriel" />
 		<tag k='addr:full' v="plaça  De La Sardana, 10" />
+		<tag k='addr:street' v="plaça  De La Sardana" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08281' />
 		<tag k='addr:city' v="Prats de Rei, els" />
 		<tag k='contact:phone' v='+34938698869' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622100' />
 		<tag k='name' v="Farmàcia Font Sabala, Meritxell" />
 		<tag k='addr:full' v="passatge Santa Calamanda, 7" />
+		<tag k='addr:street' v="passatge Santa Calamanda" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08280' />
 		<tag k='addr:city' v="Calaf" />
 		<tag k='contact:phone' v='+34938698506' />

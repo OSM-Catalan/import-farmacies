@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621246' />
 		<tag k='name' v="Farmàcia Vilardell Fajula, Júlia" />
 		<tag k='addr:full' v="carrer Girona, 37,  portal b" />
+		<tag k='addr:street' v="carrer Girona" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='17411' />
 		<tag k='addr:city' v="Vidreres" />
 		<tag k='contact:phone' v='+34972875009' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621413' />
 		<tag k='name' v="Farmàcia Biraud, Damien" />
 		<tag k='addr:full' v="carrer Josep Pla, 84" />
+		<tag k='addr:street' v="carrer Josep Pla" />
+		<tag k='addr:housenumber' v="84" />
 		<tag k='addr:postcode' v='17411' />
 		<tag k='addr:city' v="Vidreres" />
 		<tag k='contact:phone' v='+34972875666' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621941' />
 		<tag k='name' v="Farmàcia Rico Font, Eduard" />
 		<tag k='addr:full' v="carrer Costa Brava, 65" />
+		<tag k='addr:street' v="carrer Costa Brava" />
+		<tag k='addr:housenumber' v="65" />
 		<tag k='addr:postcode' v='17411' />
 		<tag k='addr:city' v="Vidreres" />
 		<tag k='contact:phone' v='+34972851515' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623657' />
 		<tag k='name' v="Farmàcia Moré Fábregas, M. Assumpta" />
 		<tag k='addr:full' v="carrer De Catalunya, 48" />
+		<tag k='addr:street' v="carrer De Catalunya" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='17411' />
 		<tag k='addr:city' v="Vidreres" />
 		<tag k='contact:phone' v='+34972850575' />

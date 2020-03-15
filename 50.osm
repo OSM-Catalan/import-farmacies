@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623077' />
 		<tag k='name' v="Farmàcia Castillo Ferri, Àngel Lluís" />
 		<tag k='addr:full' v="carrer Santa Teresa, 4" />
+		<tag k='addr:street' v="carrer Santa Teresa" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43514' />
 		<tag k='addr:city' v="Mas de Barberans" />
 		<tag k='contact:phone' v='+34977739005' />

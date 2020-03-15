@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622875' />
 		<tag k='name' v="Farmàcia García Aragonés, Fernando" />
 		<tag k='addr:full' v="carrer Via Augusta (Bulevard Blau),  S/N" />
+		<tag k='addr:street' v="carrer Via Augusta (Bulevard Blau)" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43891' />
 		<tag k='addr:city' v="Vandellòs i l'Hospitalet de l'Infant" />
 		<tag k='contact:phone' v='+34977823046' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623238' />
 		<tag k='name' v="Farmàcia Sabaté Muñoz, Joaquim" />
 		<tag k='addr:full' v="plaça  Tarragona, 8" />
+		<tag k='addr:street' v="plaça  Tarragona" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='43300' />
 		<tag k='addr:city' v="Mont-roig del Camp" />
 		<tag k='contact:phone' v='+34977170044' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622893' />
 		<tag k='name' v="Farmàcia Solé Llevat, M. Dolors" />
 		<tag k='addr:full' v="avinguda Barcelona, 158" />
+		<tag k='addr:street' v="avinguda Barcelona" />
+		<tag k='addr:housenumber' v="158" />
 		<tag k='addr:postcode' v='43300' />
 		<tag k='addr:city' v="Mont-roig del Camp" />
 		<tag k='contact:phone' v='+34977810221' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623215' />
 		<tag k='name' v="Farmàcia Olivé Alabart, Rosa" />
 		<tag k='addr:full' v="avinguda Catalunya, 23" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='43320' />
 		<tag k='addr:city' v="Pratdip" />
 		<tag k='contact:phone' v='+34977837277' />

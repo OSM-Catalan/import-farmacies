@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623532' />
 		<tag k='name' v="Farmàcia Soler Portell, Josep" />
 		<tag k='addr:full' v="carrer Nou, 22" />
+		<tag k='addr:street' v="carrer Nou" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972500299' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623737' />
 		<tag k='name' v="Farmàcia Rodeja Roca, Adela" />
 		<tag k='addr:full' v="carrer Vilallonga, 19" />
+		<tag k='addr:street' v="carrer Vilallonga" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972501641' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623766' />
 		<tag k='name' v="Farmàcia Rigall Carré, Carme" />
 		<tag k='addr:full' v="avinguda Marignane, 26" />
+		<tag k='addr:street' v="avinguda Marignane" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972502689' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623525' />
 		<tag k='name' v="Farmàcia Torrent Ferran, E - Torrent Sanchez, L" />
 		<tag k='addr:full' v="carrer Pujada Del Castell, 6" />
+		<tag k='addr:street' v="carrer Pujada Del Castell" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972502115' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623526' />
 		<tag k='name' v="Farmàcia Genís Rigall, Marta" />
 		<tag k='addr:full' v="carrer Ample, 28" />
+		<tag k='addr:street' v="carrer Ample" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972501763' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623527' />
 		<tag k='name' v="Farmàcia Sargatal Deulofeu, Francesc" />
 		<tag k='addr:full' v="carrer Monturiol, 19" />
+		<tag k='addr:street' v="carrer Monturiol" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972502423' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623930' />
 		<tag k='name' v="Farmàcia Puigdevall Dalmau, Pietat" />
 		<tag k='addr:full' v="carrer Escoles, 10" />
+		<tag k='addr:street' v="carrer Escoles" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='17761' />
 		<tag k='addr:city' v="Cabanes" />
 		<tag k='contact:phone' v='+34972509851' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623931' />
 		<tag k='name' v="Farmàcia Fahssi Rifi, Bouchra" />
 		<tag k='addr:full' v="carrer Sant Quirze, 1" />
+		<tag k='addr:street' v="carrer Sant Quirze" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17730' />
 		<tag k='addr:city' v="Llers" />
 		<tag k='contact:phone' v='+34972528204' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3623761' />
 		<tag k='name' v="Farmàcia De Vicente Roca, Sílvia" />
 		<tag k='addr:full' v="carrer Enric Sans, 2" />
+		<tag k='addr:street' v="carrer Enric Sans" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972501075' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3623533' />
 		<tag k='name' v="Farmàcia Grau Mariani, Olga" />
 		<tag k='addr:full' v="carrer Sant Antoni, 93" />
+		<tag k='addr:street' v="carrer Sant Antoni" />
+		<tag k='addr:housenumber' v="93" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972502417' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3623973' />
 		<tag k='name' v="Farmàcia Mont Gorgot, Josep" />
 		<tag k='addr:full' v="carrer Navata, 3" />
+		<tag k='addr:street' v="carrer Navata" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17740' />
 		<tag k='addr:city' v="Vilafant" />
 		<tag k='contact:phone' v='+34972671591' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3623746' />
 		<tag k='name' v="Farmàcia Valls Bosch, M. Rosa" />
 		<tag k='addr:full' v="carrer Gonzalez De Soto, 71" />
+		<tag k='addr:street' v="carrer Gonzalez De Soto" />
+		<tag k='addr:housenumber' v="71" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972505223' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3623528' />
 		<tag k='name' v="Farmàcia Cullell Riera, Núria" />
 		<tag k='addr:full' v="plaça   Ajuntament, 14" />
+		<tag k='addr:street' v="plaça   Ajuntament" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972501823' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3623531' />
 		<tag k='name' v="Farmàcia Bonmatí Pont, M. - Bonmatí Jacas, E." />
 		<tag k='addr:full' v="carrer Manuel De Falla, 21" />
+		<tag k='addr:street' v="carrer Manuel De Falla" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972501351' />
@@ -145,6 +173,8 @@
 		<tag k='ref' v='3623760' />
 		<tag k='name' v="Farmàcia Rey Harguindey, M. Rita" />
 		<tag k='addr:full' v="carrer Pujadas, 20" />
+		<tag k='addr:street' v="carrer Pujadas" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972500054' />
@@ -155,6 +185,8 @@
 		<tag k='ref' v='3623530' />
 		<tag k='name' v="Farmàcia Martínez Llonch, Carme" />
 		<tag k='addr:full' v="carrer Sant Pau, 38" />
+		<tag k='addr:street' v="carrer Sant Pau" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972500577' />
@@ -165,6 +197,8 @@
 		<tag k='ref' v='3623776' />
 		<tag k='name' v="Farmàcia Domenech Gurt, Jordi" />
 		<tag k='addr:full' v="carretera Roses, 21" />
+		<tag k='addr:street' v="carretera Roses" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972503894' />
@@ -175,6 +209,8 @@
 		<tag k='ref' v='3623757' />
 		<tag k='name' v="Farmàcia Mallolas Jiménez, Judith" />
 		<tag k='addr:full' v="carrer Avinyonet, 26" />
+		<tag k='addr:street' v="carrer Avinyonet" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972504557' />
@@ -185,6 +221,8 @@
 		<tag k='ref' v='3623860' />
 		<tag k='name' v="Farmàcia Ribas Figueras, Núria" />
 		<tag k='addr:full' v="carrer  Catalunya, 2" />
+		<tag k='addr:street' v="carrer  Catalunya" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17760' />
 		<tag k='addr:city' v="Vilabertran" />
 		<tag k='contact:phone' v='+34972509419' />
@@ -195,6 +233,8 @@
 		<tag k='ref' v='3623534' />
 		<tag k='name' v="Farmàcia Manera Fábrega, Caterina" />
 		<tag k='addr:full' v="carrer Joan Maragall, 7" />
+		<tag k='addr:street' v="carrer Joan Maragall" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972500295' />
@@ -205,6 +245,8 @@
 		<tag k='ref' v='3623941' />
 		<tag k='name' v="Farmàcia Taberner Mundet, M. Lourdes" />
 		<tag k='addr:full' v="carrer Sta. Llogaia,  15-17" />
+		<tag k='addr:street' v="carrer Sta. Llogaia" />
+		<tag k='addr:housenumber' v=" 15-17" />
 		<tag k='addr:postcode' v='17600' />
 		<tag k='addr:city' v="Figueres" />
 		<tag k='contact:phone' v='+34972511266' />

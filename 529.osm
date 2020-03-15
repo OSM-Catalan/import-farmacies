@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623856' />
 		<tag k='name' v="Farmàcia Soler Matabosch, M. Teresa" />
 		<tag k='addr:full' v="avinguda Dels Volcans, 15" />
+		<tag k='addr:street' v="avinguda Dels Volcans" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='17811' />
 		<tag k='addr:city' v="Santa Pau" />
 		<tag k='contact:phone' v='+34972680159' />

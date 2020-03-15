@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623743' />
 		<tag k='name' v="Farmàcia Sanchez Ballester, Núria" />
 		<tag k='addr:full' v="carrer Santa Anna, 62" />
+		<tag k='addr:street' v="carrer Santa Anna" />
+		<tag k='addr:housenumber' v="62" />
 		<tag k='addr:postcode' v='17257' />
 		<tag k='addr:city' v="Torroella de Montgrí" />
 		<tag k='contact:phone' v='+34972750926' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623653' />
 		<tag k='name' v="Farmàcia Bancells Junca, Núria" />
 		<tag k='addr:full' v="carrer Hospital, 48" />
+		<tag k='addr:street' v="carrer Hospital" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='17257' />
 		<tag k='addr:city' v="Torroella de Montgrí" />
 		<tag k='contact:phone' v='+34972758280' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3621446' />
 		<tag k='name' v="Farmàcia Ferrer Bartra, Montserrat" />
 		<tag k='addr:full' v="carretera De L'Estartit,  S/N" />
+		<tag k='addr:street' v="carretera De L'Estartit" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='17257' />
 		<tag k='addr:city' v="Torroella de Montgrí" />
 		<tag k='contact:phone' v='+34972757115' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3621904' />
 		<tag k='name' v="Farmàcia Corbalan Prat, Mireia" />
 		<tag k='addr:full' v="passatge Catalunya, 21" />
+		<tag k='addr:street' v="passatge Catalunya" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='17257' />
 		<tag k='addr:city' v="Torroella de Montgrí" />
 		<tag k='contact:phone' v='+34972760149' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623654' />
 		<tag k='name' v="Farmàcia Funtane Maso, Marc" />
 		<tag k='addr:full' v="carrer Major, 55" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='17257' />
 		<tag k='addr:city' v="Torroella de Montgrí" />
 		<tag k='contact:phone' v='+34972757018' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623947' />
 		<tag k='name' v="Farmàcia Alaball Radresa, Carolina" />
 		<tag k='addr:full' v="avinguda  Grecia, 14" />
+		<tag k='addr:street' v="avinguda  Grecia" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='17257' />
 		<tag k='addr:city' v="Torroella de Montgrí" />
 		<tag k='contact:phone' v='+34972750524' />

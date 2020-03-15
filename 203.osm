@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624490' />
 		<tag k='name' v="Farmàcia Mallafré Ribé, Maria Dolors" />
 		<tag k='addr:full' v="carrer Consolat De Mar, 60" />
+		<tag k='addr:street' v="carrer Consolat De Mar" />
+		<tag k='addr:housenumber' v="60" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='contact:phone' v='+34977360270' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='7696508' />
 		<tag k='name' v="Farmàcia Díaz Martí, Maria" />
 		<tag k='addr:full' v="avinguda Diputació, 12" />
+		<tag k='addr:street' v="avinguda Diputació" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='source:date' v='03/11/2020 08:01:05 AM +0000' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3624799' />
 		<tag k='name' v="Farmàcia Cañas Tejedor, E. - Vidal Cañas, N." />
 		<tag k='addr:full' v="carrer Consolat De Mar, 70" />
+		<tag k='addr:street' v="carrer Consolat De Mar" />
+		<tag k='addr:housenumber' v="70" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='contact:phone' v='+34977792712' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3623353' />
 		<tag k='name' v="Farmàcia Hernández Marimon, Blanca" />
 		<tag k='addr:full' v="carrer Golf De Sant Jordi, 2" />
+		<tag k='addr:street' v="carrer Golf De Sant Jordi" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43850' />
 		<tag k='addr:city' v="Cambrils" />
 		<tag k='source:date' v='03/11/2020 08:01:05 AM +0000' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623205' />
 		<tag k='name' v="Farmàcia Huguet Vilella, M. Teresa" />
 		<tag k='addr:full' v="carrer St Isidre, 7" />
+		<tag k='addr:street' v="carrer St Isidre" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='43380' />
 		<tag k='addr:city' v="Vilaplana" />
 		<tag k='contact:phone' v='+34977815379' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623055' />
 		<tag k='name' v="Farmàcia Cerezo Hernando, JV / Cerezo Hernando, J" />
 		<tag k='addr:full' v="carrer Joan Busquets Crusat, 8" />
+		<tag k='addr:street' v="carrer Joan Busquets Crusat" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='43202' />
 		<tag k='addr:city' v="Reus" />
 		<tag k='contact:phone' v='+34977321070' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624475' />
 		<tag k='name' v="Farmàcia Martí Solé, M. Cinta" />
 		<tag k='addr:full' v="avinguda Joaquim Mir, 43" />
+		<tag k='addr:street' v="avinguda Joaquim Mir" />
+		<tag k='addr:housenumber' v="43" />
 		<tag k='addr:postcode' v='43381' />
 		<tag k='addr:city' v="Aleixar, l'" />
 		<tag k='contact:phone' v='+34977815150' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3624484' />
 		<tag k='name' v="Farmàcia Solé Santacana, Josep" />
 		<tag k='addr:full' v="avinguda Magdalena Martorell, 56" />
+		<tag k='addr:street' v="avinguda Magdalena Martorell" />
+		<tag k='addr:housenumber' v="56" />
 		<tag k='addr:postcode' v='43350' />
 		<tag k='addr:city' v="Borges del Camp, les" />
 		<tag k='contact:phone' v='+34977816101' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3624476' />
 		<tag k='name' v="Farmàcia Mercadé Voltas, Candela" />
 		<tag k='addr:full' v="plaça  De Dalt, 5" />
+		<tag k='addr:street' v="plaça  De Dalt" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='43365' />
 		<tag k='addr:city' v="Alforja" />
 		<tag k='contact:phone' v='+34977816153' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623194' />
 		<tag k='name' v="Farmàcia Parrilla Bonet, Carme" />
 		<tag k='addr:full' v="plaça  Esglesia, 16" />
+		<tag k='addr:street' v="plaça  Esglesia" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='43382' />
 		<tag k='addr:city' v="Maspujols" />
 		<tag k='contact:phone' v='+34977318613' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623058' />
 		<tag k='name' v="Farmàcia Pellicer Aguade, Assumpta" />
 		<tag k='addr:full' v="carrer Major, 21" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='43390' />
 		<tag k='addr:city' v="Riudecols" />
 		<tag k='contact:phone' v='+34977817360' />

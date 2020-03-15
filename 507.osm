@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624749' />
 		<tag k='name' v="Farmàcia Molinas Colldefors, M. Antònia" />
 		<tag k='addr:full' v="carrer Bisbe Pons, 21" />
+		<tag k='addr:street' v="carrer Bisbe Pons" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='08474' />
 		<tag k='addr:city' v="Gualba" />
 		<tag k='contact:phone' v='+34938487028' />

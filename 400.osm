@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622407' />
 		<tag k='name' v="Farmàcia Viver Fabregó. Francesc Xavier" />
 		<tag k='addr:full' v="carrer Major, 35" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='08513' />
 		<tag k='addr:city' v="Prats de Lluçanès" />
 		<tag k='contact:phone' v='+34938560287' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623868' />
 		<tag k='name' v="Farmàcia De Casas Blanco, M. Immaculada" />
 		<tag k='addr:full' v="plaça  Vila, 11" />
+		<tag k='addr:street' v="plaça  Vila" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='17720' />
 		<tag k='addr:city' v="Maçanet de Cabrenys" />
 		<tag k='contact:phone' v='+34972544015' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623196' />
 		<tag k='name' v="Farmàcia Rodrigo Sújar, Gonzalo Alfredo" />
 		<tag k='addr:full' v="carrer De La Creu, 32" />
+		<tag k='addr:street' v="carrer De La Creu" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='43593' />
 		<tag k='addr:city' v="Paüls" />
 		<tag k='contact:phone' v='+34977492213' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624497' />
 		<tag k='name' v="Farmàcia Monllau Mayor, Lina" />
 		<tag k='addr:full' v="plaça   Major, 15" />
+		<tag k='addr:street' v="plaça   Major" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='43592' />
 		<tag k='addr:city' v="Xerta" />
 		<tag k='contact:phone' v='+34977473412' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623064' />
 		<tag k='name' v="Farmàcia Celma Pascual, M. Teresa" />
 		<tag k='addr:full' v="carretera Carretera, 56" />
+		<tag k='addr:street' v="carretera Carretera" />
+		<tag k='addr:housenumber' v="56" />
 		<tag k='addr:postcode' v='43591' />
 		<tag k='addr:city' v="Aldover" />
 		<tag k='contact:phone' v='+34977473508' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623218' />
 		<tag k='name' v="Farmàcia Ribera Caballé, Carles Manuel" />
 		<tag k='addr:full' v="carrer De La Bassa, 32" />
+		<tag k='addr:street' v="carrer De La Bassa" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='43528' />
 		<tag k='addr:city' v="Alfara de Carles" />
 		<tag k='source:date' v='03/11/2020 08:00:27 AM +0000' />

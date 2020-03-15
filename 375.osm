@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621426' />
 		<tag k='name' v="Farmàcia Vilella Lopez, Marta" />
 		<tag k='addr:full' v="passatge Ramon Vall, 91" />
+		<tag k='addr:street' v="passatge Ramon Vall" />
+		<tag k='addr:housenumber' v="91" />
 		<tag k='addr:postcode' v='08670' />
 		<tag k='addr:city' v="Navàs" />
 		<tag k='contact:phone' v='+34938392323' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622409' />
 		<tag k='name' v="Farmàcia Iglesias Manero, Eduard" />
 		<tag k='addr:full' v="plaça  De La Creu, 9" />
+		<tag k='addr:street' v="plaça  De La Creu" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08692' />
 		<tag k='addr:city' v="Puig-reig" />
 		<tag k='contact:phone' v='+34938380042' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622073' />
 		<tag k='name' v="Farmàcia Bertran Ambrós, Rosa M." />
 		<tag k='addr:full' v="carrer Sant Jordi, 11" />
+		<tag k='addr:street' v="carrer Sant Jordi" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08692' />
 		<tag k='addr:city' v="Puig-reig" />
 		<tag k='contact:phone' v='+34938290385' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3622397' />
 		<tag k='name' v="Farmàcia Riera Maristany, Martí" />
 		<tag k='addr:full' v="carretera De Berga, 45" />
+		<tag k='addr:street' v="carretera De Berga" />
+		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='08670' />
 		<tag k='addr:city' v="Navàs" />
 		<tag k='contact:phone' v='+34938390173' />

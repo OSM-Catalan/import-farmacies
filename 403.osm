@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623024' />
 		<tag k='name' v="Farmàcia Kaid-Salah Ferran, Sheddad" />
 		<tag k='addr:full' v="carrer Moli, 4" />
+		<tag k='addr:street' v="carrer Moli" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08275' />
 		<tag k='addr:city' v="Monistrol de Calders" />
 		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
@@ -14,6 +16,8 @@
 		<tag k='ref' v='3622078' />
 		<tag k='name' v="Farmàcia Boixareu Carrera, M. Àngels" />
 		<tag k='addr:full' v="carrer Rocafort, 26" />
+		<tag k='addr:street' v="carrer Rocafort" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08271' />
 		<tag k='addr:city' v="Artés" />
 		<tag k='contact:phone' v='+34938305265' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3624125' />
 		<tag k='name' v="Farmàcia Artigalas Boixareu, Núria" />
 		<tag k='addr:full' v="carrer Rocafort, 60" />
+		<tag k='addr:street' v="carrer Rocafort" />
+		<tag k='addr:housenumber' v="60" />
 		<tag k='addr:postcode' v='08271' />
 		<tag k='addr:city' v="Artés" />
 		<tag k='contact:phone' v='+34938305418' />
@@ -34,6 +40,8 @@
 		<tag k='ref' v='3623147' />
 		<tag k='name' v="Farmàcia Reixach Coll, Jorge" />
 		<tag k='addr:full' v="avinguda Paisos Catalans, 11" />
+		<tag k='addr:street' v="avinguda Paisos Catalans" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08275' />
 		<tag k='addr:city' v="Calders" />
 		<tag k='contact:phone' v='+34938309238' />

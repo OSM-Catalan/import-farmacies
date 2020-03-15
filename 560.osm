@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624722' />
 		<tag k='name' v="Farmàcia Llanso Sánchez, Oscar" />
 		<tag k='addr:full' v="carrer Ponent S/N, 0" />
+		<tag k='addr:street' v="carrer Ponent S/N" />
+		<tag k='addr:housenumber' v="0" />
 		<tag k='addr:postcode' v='08380' />
 		<tag k='addr:city' v="Malgrat de Mar" />
 		<tag k='contact:phone' v='+34937611904' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622640' />
 		<tag k='name' v="Farmàcia Marcoval Martí, Núria" />
 		<tag k='addr:full' v="plaça  Esglesia, 7" />
+		<tag k='addr:street' v="plaça  Esglesia" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08490' />
 		<tag k='addr:city' v="Tordera" />
 		<tag k='contact:phone' v='+34937640992' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622403' />
 		<tag k='name' v="Farmàcia Costa Perich, Francisca" />
 		<tag k='addr:full' v="carrer Del Mar, 16" />
+		<tag k='addr:street' v="carrer Del Mar" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08397' />
 		<tag k='addr:city' v="Pineda de Mar" />
 		<tag k='contact:phone' v='+34937623187' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623251' />
 		<tag k='name' v="Farmàcia Moner Daniel, Lluís" />
 		<tag k='addr:full' v="carrer Major, 13" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='08389' />
 		<tag k='addr:city' v="Palafolls" />
 		<tag k='contact:phone' v='+34937620179' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3621622' />
 		<tag k='name' v="Farmàcia Juan Peña, Carlos" />
 		<tag k='addr:full' v="passeig M. Aurèlia Capmany,  1-3" />
+		<tag k='addr:street' v="passeig M. Aurèlia Capmany" />
+		<tag k='addr:housenumber' v=" 1-3" />
 		<tag k='addr:postcode' v='08380' />
 		<tag k='addr:city' v="Malgrat de Mar" />
 		<tag k='contact:phone' v='+34937613191' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621924' />
 		<tag k='name' v="Farmàcia Reyes Ridríguez, Elisabeth" />
 		<tag k='addr:full' v="avinguda Tarragona, 31" />
+		<tag k='addr:street' v="avinguda Tarragona" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08380' />
 		<tag k='addr:city' v="Malgrat de Mar" />
 		<tag k='contact:phone' v='+34937611049' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3621767' />
 		<tag k='name' v="Farmàcia Polo Trasancos, M. Dolores" />
 		<tag k='addr:full' v="carrer Ovidi Montllor, 3" />
+		<tag k='addr:street' v="carrer Ovidi Montllor" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08389' />
 		<tag k='addr:city' v="Palafolls" />
 		<tag k='contact:phone' v='+34937666383' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3621940' />
 		<tag k='name' v="Farmàcia Torruella Esteban, Mariona" />
 		<tag k='addr:full' v="carrer Escoles,  31-33" />
+		<tag k='addr:street' v="carrer Escoles" />
+		<tag k='addr:housenumber' v=" 31-33" />
 		<tag k='addr:postcode' v='08380' />
 		<tag k='addr:city' v="Malgrat de Mar" />
 		<tag k='contact:phone' v='+34937612531' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3621910' />
 		<tag k='name' v="Farmàcia Lucena Sureda, Eva" />
 		<tag k='addr:full' v="carrer Amadeu Vives, 20" />
+		<tag k='addr:street' v="carrer Amadeu Vives" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08490' />
 		<tag k='addr:city' v="Tordera" />
 		<tag k='contact:phone' v='+34937650875' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3621094' />
 		<tag k='name' v="Farmàcia Gelpí Matas, Montserrat" />
 		<tag k='addr:full' v="avinguda Pau Casals, 13" />
+		<tag k='addr:street' v="avinguda Pau Casals" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='08389' />
 		<tag k='addr:city' v="Palafolls" />
 		<tag k='contact:phone' v='+34937620979' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3623009' />
 		<tag k='name' v="Farmàcia Pérez Martra, Pep" />
 		<tag k='addr:full' v="carrer Emili Vendrell, 6" />
+		<tag k='addr:street' v="carrer Emili Vendrell" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08490' />
 		<tag k='addr:city' v="Tordera" />
 		<tag k='contact:phone' v='+34937640455' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3623110' />
 		<tag k='name' v="Farmàcia Vendrell Matute, Pere" />
 		<tag k='addr:full' v="carrer Camí Ral,  84 BI" />
+		<tag k='addr:street' v="carrer Camí Ral" />
+		<tag k='addr:housenumber' v=" 84 BI" />
 		<tag k='addr:postcode' v='08490' />
 		<tag k='addr:city' v="Tordera" />
 		<tag k='contact:phone' v='+34937640655' />

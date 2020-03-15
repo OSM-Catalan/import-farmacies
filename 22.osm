@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623216' />
 		<tag k='name' v="Farmàcia Palomar Silvestre, M. Josep" />
 		<tag k='addr:full' v="carrer Pau Casals, 6" />
+		<tag k='addr:street' v="carrer Pau Casals" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43597' />
 		<tag k='addr:city' v="Arnes" />
 		<tag k='contact:phone' v='+34977435389' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621656' />
 		<tag k='name' v="Farmàcia Pons Casals, Patrícia" />
 		<tag k='addr:full' v="carrer Sant Feliu, 1" />
+		<tag k='addr:street' v="carrer Sant Feliu" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08572' />
 		<tag k='addr:city' v="Sant Pere de Torelló" />
 		<tag k='contact:phone' v='+34938584035' />

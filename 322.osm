@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624469' />
 		<tag k='name' v="Farmàcia Hidalgo Fernández, Rafael" />
 		<tag k='addr:full' v="carretera Manresa (Urb. El Pi De Sant Just), 28" />
+		<tag k='addr:street' v="carretera Manresa (Urb. El Pi De Sant Just)" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='25286' />
 		<tag k='addr:city' v="Olius" />
 		<tag k='contact:phone' v='+34973480466' />

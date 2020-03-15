@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623573' />
 		<tag k='name' v="Farmàcia Baviera Baviera, Josep" />
 		<tag k='addr:full' v="carrer Major, 1" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17230' />
 		<tag k='addr:city' v="Palamós" />
 		<tag k='contact:phone' v='+34972314170' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623572' />
 		<tag k='name' v="Farmàcia Matamala Joan, M. José" />
 		<tag k='addr:full' v="carrer Major, 39" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="39" />
 		<tag k='addr:postcode' v='17230' />
 		<tag k='addr:city' v="Palamós" />
 		<tag k='contact:phone' v='+34972314123' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623775' />
 		<tag k='name' v="Farmàcia Pou Juanola, Santiago" />
 		<tag k='addr:full' v="carrer Pirroig, 23" />
+		<tag k='addr:street' v="carrer Pirroig" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972615859' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3621404' />
 		<tag k='name' v="Farmàcia Gomez Maestre, M.Carmen" />
 		<tag k='addr:full' v="avinguda Catalunya, 3" />
+		<tag k='addr:street' v="avinguda Catalunya" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17230' />
 		<tag k='addr:city' v="Palamós" />
 		<tag k='contact:phone' v='+34972316197' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623741' />
 		<tag k='name' v="Farmàcia Clares Vigo, Victòria" />
 		<tag k='addr:full' v="avinguda President Macia, 62" />
+		<tag k='addr:street' v="avinguda President Macia" />
+		<tag k='addr:housenumber' v="62" />
 		<tag k='addr:postcode' v='17230' />
 		<tag k='addr:city' v="Palamós" />
 		<tag k='contact:phone' v='+34972314841' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623981' />
 		<tag k='name' v="Farmàcia Massaguer Comas, Marta" />
 		<tag k='addr:full' v="carrer Cami Ral, 1" />
+		<tag k='addr:street' v="carrer Cami Ral" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17253' />
 		<tag k='addr:city' v="Vall-llobrega" />
 		<tag k='contact:phone' v='+34972318096' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3623670' />
 		<tag k='name' v="Farmàcia Massaneda, J.M. - Massaneda, J.M." />
 		<tag k='addr:full' v="avinguda Llibertat, 99" />
+		<tag k='addr:street' v="avinguda Llibertat" />
+		<tag k='addr:housenumber' v="99" />
 		<tag k='addr:postcode' v='17230' />
 		<tag k='addr:city' v="Palamós" />
 		<tag k='contact:phone' v='+34972314587' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623838' />
 		<tag k='name' v="Farmàcia Rosanes Álvarez, Irene" />
 		<tag k='addr:full' v="carrer Xaloc, 25" />
+		<tag k='addr:street' v="carrer Xaloc" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='17230' />
 		<tag k='addr:city' v="Palamós" />
 		<tag k='contact:phone' v='+34972315831' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3621273' />
 		<tag k='name' v="Farmàcia Margalef Gironès, M. Mercè" />
 		<tag k='addr:full' v="carrer Vincke, 20" />
+		<tag k='addr:street' v="carrer Vincke" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='17230' />
 		<tag k='addr:city' v="Palamós" />
 		<tag k='contact:phone' v='+34972312715' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3623971' />
 		<tag k='name' v="Farmàcia Mendieta Fiter, Antoni" />
 		<tag k='addr:full' v="carrer Pere Pascuet, 37" />
+		<tag k='addr:street' v="carrer Pere Pascuet" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='17211' />
 		<tag k='addr:city' v="Palafrugell" />
 		<tag k='contact:phone' v='+34972302770' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3621593' />
 		<tag k='name' v="Farmàcia Pons López, Eva - Gascón Ramírez, Marina" />
 		<tag k='addr:full' v="carrer Carmel, 9,  portal a" />
+		<tag k='addr:street' v="carrer Carmel" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='17230' />
 		<tag k='addr:city' v="Palamós" />
 		<tag k='contact:phone' v='+34972316329' />

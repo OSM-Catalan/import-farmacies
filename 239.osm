@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624457' />
 		<tag k='name' v="Farmàcia Viñas Folch, Eulàlia" />
 		<tag k='addr:full' v="carretera Vall D'Aran, 27" />
+		<tag k='addr:street' v="carretera Vall D'Aran" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='25595' />
 		<tag k='addr:city' v="Llavorsí" />
 		<tag k='contact:phone' v='+34973622218' />

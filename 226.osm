@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624474' />
 		<tag k='name' v="Farmàcia Farras, Jordi i José M." />
 		<tag k='addr:full' v="avinguda Reus, 19" />
+		<tag k='addr:street' v="avinguda Reus" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='43460' />
 		<tag k='addr:city' v="Alcover" />
 		<tag k='contact:phone' v='+34977760479' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624621' />
 		<tag k='name' v="Farmàcia Lokhmatova, Galyna" />
 		<tag k='addr:full' v="carrer Raval, 0" />
+		<tag k='addr:street' v="carrer Raval" />
+		<tag k='addr:housenumber' v="0" />
 		<tag k='addr:postcode' v='43450' />
 		<tag k='addr:city' v="Riba, la" />
 		<tag k='contact:phone' v='+34977860126' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622257' />
 		<tag k='name' v="Farmàcia Vilades Freixa, Josep" />
 		<tag k='addr:full' v="carretera De Ribes, 1" />
+		<tag k='addr:street' v="carretera De Ribes" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08694' />
 		<tag k='addr:city' v="Guardiola de Berguedà" />
 		<tag k='contact:phone' v='+34938240006' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624086' />
 		<tag k='name' v="Farmàcia Santos Faugerat, Mercè" />
 		<tag k='addr:full' v="carrer Segre, 21" />
+		<tag k='addr:street' v="carrer Segre" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='25725' />
 		<tag k='addr:city' v="Montellà i Martinet" />
 		<tag k='contact:phone' v='+34973515165' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624471' />
 		<tag k='name' v="Farmàcia Aloson Berdun, Rosa" />
 		<tag k='addr:full' v="carrer Del Puig, 1" />
+		<tag k='addr:street' v="carrer Del Puig" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25727' />
 		<tag k='addr:city' v="Prullans" />
 		<tag k='contact:phone' v='+34973511158' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624066' />
 		<tag k='name' v="Farmàcia Betriu Català, Maria" />
 		<tag k='addr:full' v="avinguda Pere Sicart, 12" />
+		<tag k='addr:street' v="avinguda Pere Sicart" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='25720' />
 		<tag k='addr:city' v="Bellver de Cerdanya" />
 		<tag k='contact:phone' v='+34973510079' />

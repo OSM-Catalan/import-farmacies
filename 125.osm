@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624650' />
 		<tag k='name' v="Farmàcia Bayarri García, Manuela" />
 		<tag k='addr:full' v="plaça  Sitges, 9" />
+		<tag k='addr:street' v="plaça  Sitges" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='43746' />
 		<tag k='addr:city' v="Tivissa" />
 		<tag k='contact:phone' v='+34977418201' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624599' />
 		<tag k='name' v="Farmàcia Viladrich Mayor, Neus" />
 		<tag k='addr:full' v="carrer De L' Esglesia, 6" />
+		<tag k='addr:street' v="carrer De L' Esglesia" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43748' />
 		<tag k='addr:city' v="Ginestar" />
 		<tag k='contact:phone' v='+34977409047' />

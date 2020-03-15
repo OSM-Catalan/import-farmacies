@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621000' />
 		<tag k='name' v="Farmàcia Magrinyà Rull, Josep i Jordi" />
 		<tag k='addr:full' v="carrer Ramon Turro, 252" />
+		<tag k='addr:street' v="carrer Ramon Turro" />
+		<tag k='addr:housenumber' v="252" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933092443' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624526' />
 		<tag k='name' v="Farmàcia Tolosa Gomara, M. Josep" />
 		<tag k='addr:full' v="carrer De Les Acàcies, 57" />
+		<tag k='addr:street' v="carrer De Les Acàcies" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933517709' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3620970' />
 		<tag k='name' v="Farmàcia Fabré Rodríguez, Sergio" />
 		<tag k='addr:full' v="carrer Sardenya, 487" />
+		<tag k='addr:street' v="carrer Sardenya" />
+		<tag k='addr:housenumber' v="487" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932143587' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623272' />
 		<tag k='name' v="Farmàcia Rigat Salse, Lluis" />
 		<tag k='addr:full' v="carrer Jerez De La Frontera, 1" />
+		<tag k='addr:street' v="carrer Jerez De La Frontera" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08918' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933880146' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3621794' />
 		<tag k='name' v="Farmàcia Barceló Giró, Judith" />
 		<tag k='addr:full' v="carrer Vila-Seca, 39" />
+		<tag k='addr:street' v="carrer Vila-Seca" />
+		<tag k='addr:housenumber' v="39" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934293109' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3623521' />
 		<tag k='name' v="Farmàcia Pujadas Coscolla, Ferran" />
 		<tag k='addr:full' v="avinguda Diagonal, 32" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933070029' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3620889' />
 		<tag k='name' v="Farmàcia Riera Alibés, Francisco" />
 		<tag k='addr:full' v="carrer Arago, 286" />
+		<tag k='addr:street' v="carrer Arago" />
+		<tag k='addr:housenumber' v="286" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933025272' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3623096' />
 		<tag k='name' v="Farmàcia Nialet Prieto, Berta" />
 		<tag k='addr:full' v="rambla Prim, 74" />
+		<tag k='addr:street' v="rambla Prim" />
+		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933051751' />
@@ -85,6 +101,8 @@
 		<tag k='ref' v='3620588' />
 		<tag k='name' v="Farmàcia Beltran Rovira, Jordi" />
 		<tag k='addr:full' v="rambla Del Raval, 14" />
+		<tag k='addr:street' v="rambla Del Raval" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934415393' />
@@ -95,6 +113,8 @@
 		<tag k='ref' v='3621964' />
 		<tag k='name' v="Farmàcia Dominguez Gaya, Maria Carme" />
 		<tag k='addr:full' v="carrer Castillejos, 376" />
+		<tag k='addr:street' v="carrer Castillejos" />
+		<tag k='addr:housenumber' v="376" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934358485' />
@@ -105,6 +125,8 @@
 		<tag k='ref' v='3620872' />
 		<tag k='name' v="Farmàcia Trigo Diaz, Ana Maria" />
 		<tag k='addr:full' v="carrer Provença, 506" />
+		<tag k='addr:street' v="carrer Provença" />
+		<tag k='addr:housenumber' v="506" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932366688' />
@@ -115,6 +137,8 @@
 		<tag k='ref' v='3621007' />
 		<tag k='name' v="Farmàcia Alomar Ferrer, Patrícia" />
 		<tag k='addr:full' v="passatge Born, 11" />
+		<tag k='addr:street' v="passatge Born" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933195393' />
@@ -125,6 +149,8 @@
 		<tag k='ref' v='3621300' />
 		<tag k='name' v="Farmàcia Peñafiel Vercher, T - Molina Martínez, I" />
 		<tag k='addr:full' v="carrer Clot, 57" />
+		<tag k='addr:street' v="carrer Clot" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932312059' />
@@ -135,6 +161,8 @@
 		<tag k='ref' v='3620876' />
 		<tag k='name' v="Farmàcia De Vilarrubia Goula, Maria Carlota" />
 		<tag k='addr:full' v=" vi laietana, 00040" />
+		<tag k='addr:street' v=" vi laietana" />
+		<tag k='addr:housenumber' v="40" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932681579' />
@@ -145,6 +173,8 @@
 		<tag k='ref' v='3621824' />
 		<tag k='name' v="Farmàcia Xalabarder Torrents, Marc" />
 		<tag k='addr:full' v="carrer Princesa, 20" />
+		<tag k='addr:street' v="carrer Princesa" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933197711' />
@@ -155,6 +185,8 @@
 		<tag k='ref' v='3620728' />
 		<tag k='name' v="Farmàcia Romero Reche, José" />
 		<tag k='addr:full' v="carrer Sant Joan De Malta, 43" />
+		<tag k='addr:street' v="carrer Sant Joan De Malta" />
+		<tag k='addr:housenumber' v="43" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933075143' />
@@ -165,6 +197,8 @@
 		<tag k='ref' v='3622157' />
 		<tag k='name' v="Farmàcia Trillo Tejedor, Yolanda A." />
 		<tag k='addr:full' v="carrer Montsant,  31-33" />
+		<tag k='addr:street' v="carrer Montsant" />
+		<tag k='addr:housenumber' v=" 31-33" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934294113' />
@@ -175,6 +209,8 @@
 		<tag k='ref' v='3624019' />
 		<tag k='name' v="Farmàcia Miralles Tejedo, Jose Antonio" />
 		<tag k='addr:full' v="carrer Amilcar, 151" />
+		<tag k='addr:street' v="carrer Amilcar" />
+		<tag k='addr:housenumber' v="151" />
 		<tag k='addr:postcode' v='08032' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934364109' />
@@ -185,6 +221,8 @@
 		<tag k='ref' v='3621305' />
 		<tag k='name' v="Farmàcia Matas Boet, Núria" />
 		<tag k='addr:full' v="carrer Santa Anna, 21" />
+		<tag k='addr:street' v="carrer Santa Anna" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933027184' />
@@ -195,6 +233,8 @@
 		<tag k='ref' v='3620618' />
 		<tag k='name' v="Farmàcia Soler Gornals, Pep Lluís" />
 		<tag k='addr:full' v="carrer Consell De Cent, 312" />
+		<tag k='addr:street' v="carrer Consell De Cent" />
+		<tag k='addr:housenumber' v="312" />
 		<tag k='addr:postcode' v='08007' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934878094' />
@@ -205,6 +245,8 @@
 		<tag k='ref' v='3621465' />
 		<tag k='name' v="Farmàcia Rodríguez Villamur, M. Lluïsa" />
 		<tag k='addr:full' v="carrer Diputacio, 331" />
+		<tag k='addr:street' v="carrer Diputacio" />
+		<tag k='addr:housenumber' v="331" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933178594' />
@@ -215,6 +257,8 @@
 		<tag k='ref' v='4592762' />
 		<tag k='name' v="Farmàcia Perez Garcia, Juan Carlos" />
 		<tag k='addr:full' v="avinguda Catalana, 125" />
+		<tag k='addr:street' v="avinguda Catalana" />
+		<tag k='addr:housenumber' v="125" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34935250025' />
@@ -225,6 +269,8 @@
 		<tag k='ref' v='3622767' />
 		<tag k='name' v="Farmàcia Aguilar Hernández, Esther" />
 		<tag k='addr:full' v="carrer Navas De Tolosa, 375" />
+		<tag k='addr:street' v="carrer Navas De Tolosa" />
+		<tag k='addr:housenumber' v="375" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933518164' />
@@ -235,6 +281,8 @@
 		<tag k='ref' v='3620611' />
 		<tag k='name' v="Farmàcia Cercavins Carnicero, Sílvia i Olga" />
 		<tag k='addr:full' v="carrer Casp, 146" />
+		<tag k='addr:street' v="carrer Casp" />
+		<tag k='addr:housenumber' v="146" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933172384' />
@@ -245,6 +293,8 @@
 		<tag k='ref' v='3623912' />
 		<tag k='name' v="Farmàcia Tomas Puig, Neus" />
 		<tag k='addr:full' v="passeig Marina,  20 L1" />
+		<tag k='addr:street' v="passeig Marina" />
+		<tag k='addr:housenumber' v=" 20 L1" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932210128' />
@@ -255,6 +305,8 @@
 		<tag k='ref' v='3623115' />
 		<tag k='name' v="Farmàcia Bosch Sagrera, Núria" />
 		<tag k='addr:full' v="carrer Cantabria, 58" />
+		<tag k='addr:street' v="carrer Cantabria" />
+		<tag k='addr:housenumber' v="58" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933131401' />
@@ -265,6 +317,8 @@
 		<tag k='ref' v='3624655' />
 		<tag k='name' v="Farmàcia Garcia Velasco, Eider" />
 		<tag k='addr:full' v="carrer Alcalde De Mostoles, 33" />
+		<tag k='addr:street' v="carrer Alcalde De Mostoles" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934553036' />
@@ -275,6 +329,8 @@
 		<tag k='ref' v='3621469' />
 		<tag k='name' v="Farmàcia Serra Saval, Marta" />
 		<tag k='addr:full' v="carrer Valencia, 470" />
+		<tag k='addr:street' v="carrer Valencia" />
+		<tag k='addr:housenumber' v="470" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932312706' />
@@ -285,6 +341,8 @@
 		<tag k='ref' v='3621487' />
 		<tag k='name' v="Farmàcia Gilaberte Velasco, Lydia" />
 		<tag k='addr:full' v="carrer Bruc, 88" />
+		<tag k='addr:street' v="carrer Bruc" />
+		<tag k='addr:housenumber' v="88" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933010134' />
@@ -295,6 +353,8 @@
 		<tag k='ref' v='3624096' />
 		<tag k='name' v="Farmàcia Monells Pages, Guiomar" />
 		<tag k='addr:full' v="carrer Pintor Alsamora, 2" />
+		<tag k='addr:street' v="carrer Pintor Alsamora" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933504299' />
@@ -305,6 +365,8 @@
 		<tag k='ref' v='3621304' />
 		<tag k='name' v="Farmàcia Canals Castelló, J - Canals Colorado, M" />
 		<tag k='addr:full' v="carrer Consell De Cent, 475" />
+		<tag k='addr:street' v="carrer Consell De Cent" />
+		<tag k='addr:housenumber' v="475" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932327606' />
@@ -315,6 +377,8 @@
 		<tag k='ref' v='3620971' />
 		<tag k='name' v="Farmàcia Catalan Llobera, Jose Miguel" />
 		<tag k='addr:full' v="carrer Corsega, 446" />
+		<tag k='addr:street' v="carrer Corsega" />
+		<tag k='addr:housenumber' v="446" />
 		<tag k='addr:postcode' v='08037' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932571329' />
@@ -325,6 +389,8 @@
 		<tag k='ref' v='3620885' />
 		<tag k='name' v="Farmàcia Paricio Toledo, Jesus Carlos" />
 		<tag k='addr:full' v="plaça  Regomir, 3" />
+		<tag k='addr:street' v="plaça  Regomir" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933150305' />
@@ -335,6 +401,8 @@
 		<tag k='ref' v='3621492' />
 		<tag k='name' v="Farmàcia Prats Genis, M. - Centellas Prats, M." />
 		<tag k='addr:full' v="rambla Poblenou, 46" />
+		<tag k='addr:street' v="rambla Poblenou" />
+		<tag k='addr:housenumber' v="46" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933091869' />
@@ -345,6 +413,8 @@
 		<tag k='ref' v='3621996' />
 		<tag k='name' v="Farmàcia Cedran López, Maria Rosa" />
 		<tag k='addr:full' v="carrer Teodor Llorente, 4" />
+		<tag k='addr:street' v="carrer Teodor Llorente" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933517484' />
@@ -355,6 +425,8 @@
 		<tag k='ref' v='3620868' />
 		<tag k='name' v="Farmàcia Genis de Arana, Ignasi" />
 		<tag k='addr:full' v="carrer Carretes, 35" />
+		<tag k='addr:street' v="carrer Carretes" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934417184' />
@@ -365,6 +437,8 @@
 		<tag k='ref' v='3623483' />
 		<tag k='name' v="Farmàcia Solaní Tirado, Xavier" />
 		<tag k='addr:full' v="passatge Fabra I Puig, 439" />
+		<tag k='addr:street' v="passatge Fabra I Puig" />
+		<tag k='addr:housenumber' v="439" />
 		<tag k='addr:postcode' v='08042' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934273986' />
@@ -375,6 +449,8 @@
 		<tag k='ref' v='3624030' />
 		<tag k='name' v="Farmàcia Fons Jovani, Víctor Manuel i Guillem" />
 		<tag k='addr:full' v="carrer Trevol, 2" />
+		<tag k='addr:street' v="carrer Trevol" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08032' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933573119' />
@@ -385,6 +461,8 @@
 		<tag k='ref' v='3624137' />
 		<tag k='name' v="Farmàcia Chamarro Aguilera, Maria Rosa" />
 		<tag k='addr:full' v=" gv corts catalanes, 01052" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="1052" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933083247' />
@@ -395,6 +473,8 @@
 		<tag k='ref' v='3620740' />
 		<tag k='name' v="Farmàcia Teixidor Capalleras - Ventura Blasco" />
 		<tag k='addr:full' v="plaça  Comercial, 9" />
+		<tag k='addr:street' v="plaça  Comercial" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933195255' />
@@ -405,6 +485,8 @@
 		<tag k='ref' v='3623796' />
 		<tag k='name' v="Farmàcia Garrido Rodríguez, C. i C" />
 		<tag k='addr:full' v="carrer Rossello, 462" />
+		<tag k='addr:street' v="carrer Rossello" />
+		<tag k='addr:housenumber' v="462" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933197851' />
@@ -415,6 +497,8 @@
 		<tag k='ref' v='3621324' />
 		<tag k='name' v="Farmàcia Salvadó Lladó, Àngels" />
 		<tag k='addr:full' v="passatge Sant Joan, 2" />
+		<tag k='addr:street' v="passatge Sant Joan" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932364105' />
@@ -425,6 +509,8 @@
 		<tag k='ref' v='3624575' />
 		<tag k='name' v="Farmàcia Cotanda García, Anna Maria" />
 		<tag k='addr:full' v="carrer Lepant, 398" />
+		<tag k='addr:street' v="carrer Lepant" />
+		<tag k='addr:housenumber' v="398" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933473350' />
@@ -435,6 +521,8 @@
 		<tag k='ref' v='3621508' />
 		<tag k='name' v="Farmàcia Díez Pérez, Marta" />
 		<tag k='addr:full' v="carrer Taulat, 62" />
+		<tag k='addr:street' v="carrer Taulat" />
+		<tag k='addr:housenumber' v="62" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932253640' />
@@ -445,6 +533,8 @@
 		<tag k='ref' v='3622745' />
 		<tag k='name' v="Farmàcia Soler Gornals, Catalina" />
 		<tag k='addr:full' v="passatge Sant Joan, 117" />
+		<tag k='addr:street' v="passatge Sant Joan" />
+		<tag k='addr:housenumber' v="117" />
 		<tag k='addr:postcode' v='08037' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932576339' />
@@ -455,6 +545,8 @@
 		<tag k='ref' v='3620617' />
 		<tag k='name' v="Farmàcia Domènech Pérez, Antoni" />
 		<tag k='addr:full' v="carrer Andrea Doria, 14" />
+		<tag k='addr:street' v="carrer Andrea Doria" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933194236' />
@@ -465,6 +557,8 @@
 		<tag k='ref' v='3624123' />
 		<tag k='name' v="Farmàcia Fernández Rodríguez, Leandro" />
 		<tag k='addr:full' v="avinguda Meridiana, 344" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v="344" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933118651' />
@@ -475,6 +569,8 @@
 		<tag k='ref' v='3623899' />
 		<tag k='name' v="Farmàcia Villar Mateo, Fernando del" />
 		<tag k='addr:full' v="carrer Wellington, 52" />
+		<tag k='addr:street' v="carrer Wellington" />
+		<tag k='addr:housenumber' v="52" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933094013' />
@@ -485,6 +581,8 @@
 		<tag k='ref' v='3621459' />
 		<tag k='name' v="Farmàcia Martí Tort, Josep" />
 		<tag k='addr:full' v="carrer Arago, 395" />
+		<tag k='addr:street' v="carrer Arago" />
+		<tag k='addr:housenumber' v="395" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934586295' />
@@ -495,6 +593,8 @@
 		<tag k='ref' v='3621478' />
 		<tag k='name' v="Farmàcia Moragrega Estrany, L - Rojas Estrany, ME" />
 		<tag k='addr:full' v=" vi laietana, 00050" />
+		<tag k='addr:street' v=" vi laietana" />
+		<tag k='addr:housenumber' v="50" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933015750' />
@@ -505,6 +605,8 @@
 		<tag k='ref' v='3620987' />
 		<tag k='name' v="Farmàcia Pascual Arnau, Lluís" />
 		<tag k='addr:full' v="carrer Arago, 537" />
+		<tag k='addr:street' v="carrer Arago" />
+		<tag k='addr:housenumber' v="537" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932320056' />
@@ -515,6 +617,8 @@
 		<tag k='ref' v='3624145' />
 		<tag k='name' v="Farmàcia Molina Romero, Josefa" />
 		<tag k='addr:full' v="carrer Maresme, 218" />
+		<tag k='addr:street' v="carrer Maresme" />
+		<tag k='addr:housenumber' v="218" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933132027' />
@@ -525,6 +629,8 @@
 		<tag k='ref' v='3624515' />
 		<tag k='name' v="Farmàcia Navarrete Mora, Yadira Lorena" />
 		<tag k='addr:full' v="carrer Maresme, 104" />
+		<tag k='addr:street' v="carrer Maresme" />
+		<tag k='addr:housenumber' v="104" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933071043' />
@@ -535,6 +641,8 @@
 		<tag k='ref' v='3624268' />
 		<tag k='name' v="Farmàcia Torres Puente, Z / Manera Beltran, S" />
 		<tag k='addr:full' v="carrer Napols, 235" />
+		<tag k='addr:street' v="carrer Napols" />
+		<tag k='addr:housenumber' v="235" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932071974' />
@@ -545,6 +653,8 @@
 		<tag k='ref' v='3622008' />
 		<tag k='name' v="Farmàcia Bover Ferrer, Catalina" />
 		<tag k='addr:full' v="passatge Maragall, 248" />
+		<tag k='addr:street' v="passatge Maragall" />
+		<tag k='addr:housenumber' v="248" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932290823' />
@@ -555,6 +665,8 @@
 		<tag k='ref' v='3620589' />
 		<tag k='name' v="Farmàcia Pujol Cos, M. Desamparados" />
 		<tag k='addr:full' v="carrer Rossello, 284" />
+		<tag k='addr:street' v="carrer Rossello" />
+		<tag k='addr:housenumber' v="284" />
 		<tag k='addr:postcode' v='08037' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932580139' />
@@ -565,6 +677,8 @@
 		<tag k='ref' v='3623621' />
 		<tag k='name' v="Farmàcia Peña Haitz, Isabel" />
 		<tag k='addr:full' v="avinguda Marques De Mont-Roig, 207" />
+		<tag k='addr:street' v="avinguda Marques De Mont-Roig" />
+		<tag k='addr:housenumber' v="207" />
 		<tag k='addr:postcode' v='08918' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34934600624' />
@@ -575,6 +689,8 @@
 		<tag k='ref' v='3624361' />
 		<tag k='name' v="Farmàcia Borràs Falcó - Borràs, Jaume i M. Dolors" />
 		<tag k='addr:full' v="passatge Valldaura, 247" />
+		<tag k='addr:street' v="passatge Valldaura" />
+		<tag k='addr:housenumber' v="247" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933546102' />
@@ -585,6 +701,8 @@
 		<tag k='ref' v='3621510' />
 		<tag k='name' v="Farmàcia Schmid Bosch, Elisenda" />
 		<tag k='addr:full' v="carrer Carders, 44" />
+		<tag k='addr:street' v="carrer Carders" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933198855' />
@@ -595,6 +713,8 @@
 		<tag k='ref' v='3622931' />
 		<tag k='name' v="Farmàcia Broggi Coma, Antoni" />
 		<tag k='addr:full' v="passeig Arriaza, 5" />
+		<tag k='addr:street' v="passeig Arriaza" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933139096' />
@@ -605,6 +725,8 @@
 		<tag k='ref' v='3622929' />
 		<tag k='name' v="Farmàcia Vives Segrí, M. Assumpció" />
 		<tag k='addr:full' v=" gv corts catalanes, 1158" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="1158" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933146860' />
@@ -615,6 +737,8 @@
 		<tag k='ref' v='3624393' />
 		<tag k='name' v="Farmàcia Roig Avilés, Isabel" />
 		<tag k='addr:full' v="carrer Rosalia De Castro, 52" />
+		<tag k='addr:street' v="carrer Rosalia De Castro" />
+		<tag k='addr:housenumber' v="52" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932369997' />
@@ -625,6 +749,8 @@
 		<tag k='ref' v='3623416' />
 		<tag k='name' v="Farmàcia Serra Simón, Susanna" />
 		<tag k='addr:full' v="carrer Pacífic, 61" />
+		<tag k='addr:street' v="carrer Pacífic" />
+		<tag k='addr:housenumber' v="61" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933409520' />
@@ -635,6 +761,8 @@
 		<tag k='ref' v='3624702' />
 		<tag k='name' v="Farmàcia Carbonell Roger, Guillem" />
 		<tag k='addr:full' v="carrer Compte Borrell, 7" />
+		<tag k='addr:street' v="carrer Compte Borrell" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08015' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934419411' />
@@ -645,6 +773,8 @@
 		<tag k='ref' v='3624676' />
 		<tag k='name' v="Farmàcia Castellanos Vila, Xavier" />
 		<tag k='addr:full' v="carrer Ruben Dario, 79" />
+		<tag k='addr:street' v="carrer Ruben Dario" />
+		<tag k='addr:housenumber' v="79" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933452043' />
@@ -655,6 +785,8 @@
 		<tag k='ref' v='3624685' />
 		<tag k='name' v="Farmàcia Bouyat Salamanca, Jean-Paul" />
 		<tag k='addr:full' v="avinguda Icaria, 160" />
+		<tag k='addr:street' v="avinguda Icaria" />
+		<tag k='addr:housenumber' v="160" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932210620' />
@@ -665,6 +797,8 @@
 		<tag k='ref' v='3620887' />
 		<tag k='name' v="Farmàcia Malo Cruz, Irene" />
 		<tag k='addr:full' v="carrer Industria, 80" />
+		<tag k='addr:street' v="carrer Industria" />
+		<tag k='addr:housenumber' v="80" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932570620' />
@@ -675,6 +809,8 @@
 		<tag k='ref' v='3622145' />
 		<tag k='name' v="Farmàcia Labarta Brustenga, Georgina" />
 		<tag k='addr:full' v="carrer Pardo, 17" />
+		<tag k='addr:street' v="carrer Pardo" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933528403' />
@@ -685,6 +821,8 @@
 		<tag k='ref' v='3620837' />
 		<tag k='name' v="Farmàcia Quirós Bernal, M. Carme" />
 		<tag k='addr:full' v="plaça  Sagrada Família, 7" />
+		<tag k='addr:street' v="plaça  Sagrada Família" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932577651' />
@@ -695,6 +833,8 @@
 		<tag k='ref' v='3621010' />
 		<tag k='name' v="Farmàcia Cerra, Mario" />
 		<tag k='addr:full' v="carrer Montcada, 10" />
+		<tag k='addr:street' v="carrer Montcada" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933197632' />
@@ -705,6 +845,8 @@
 		<tag k='ref' v='3624146' />
 		<tag k='name' v="Farmàcia Segarra Gurria, M.Pilar" />
 		<tag k='addr:full' v=" gv corts catalanes, 00839" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="839" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933008515' />
@@ -715,6 +857,8 @@
 		<tag k='ref' v='3621002' />
 		<tag k='name' v="Farmàcia Perez Villagrasa, A / Tomas Sabate, M" />
 		<tag k='addr:full' v="carrer Napols, 258" />
+		<tag k='addr:street' v="carrer Napols" />
+		<tag k='addr:housenumber' v="258" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932579052' />
@@ -725,6 +869,8 @@
 		<tag k='ref' v='3624267' />
 		<tag k='name' v="Farmàcia García Moros, M. Pilar" />
 		<tag k='addr:full' v="carrer Llull, 229" />
+		<tag k='addr:street' v="carrer Llull" />
+		<tag k='addr:housenumber' v="229" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933091529' />
@@ -735,6 +881,8 @@
 		<tag k='ref' v='3622781' />
 		<tag k='name' v="Farmàcia Ruiz Sentis, Montserrat" />
 		<tag k='addr:full' v="carrer Sagrera, 110" />
+		<tag k='addr:street' v="carrer Sagrera" />
+		<tag k='addr:housenumber' v="110" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933522909' />
@@ -745,6 +893,8 @@
 		<tag k='ref' v='3620993' />
 		<tag k='name' v="Farmàcia Piqué Figuerola, Raimon" />
 		<tag k='addr:full' v="carrer Sant Carles, 7" />
+		<tag k='addr:street' v="carrer Sant Carles" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933194803' />
@@ -755,6 +905,8 @@
 		<tag k='ref' v='3620734' />
 		<tag k='name' v="Farmàcia Sánchez García, José" />
 		<tag k='addr:full' v="plaça  Sant Agustí Vell, 11" />
+		<tag k='addr:street' v="plaça  Sant Agustí Vell" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933198507' />
@@ -765,6 +917,8 @@
 		<tag k='ref' v='3623423' />
 		<tag k='name' v="Farmàcia Elsaheb Mourad, Ahmad" />
 		<tag k='addr:full' v="carrer Lleo Fontova, 16" />
+		<tag k='addr:street' v="carrer Lleo Fontova" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08913' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933998231' />
@@ -775,6 +929,8 @@
 		<tag k='ref' v='3620845' />
 		<tag k='name' v="Farmàcia Alegre Valls, J. - Rodríguez Pareja, J." />
 		<tag k='addr:full' v="carrer Balmes, 18" />
+		<tag k='addr:street' v="carrer Balmes" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='08007' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933179347' />
@@ -785,6 +941,8 @@
 		<tag k='ref' v='3623612' />
 		<tag k='name' v="Farmàcia Palau-Ribes O'callaghan - Adsara" />
 		<tag k='addr:full' v="avinguda Marques De Sant Mori, 127" />
+		<tag k='addr:street' v="avinguda Marques De Sant Mori" />
+		<tag k='addr:housenumber' v="127" />
 		<tag k='addr:postcode' v='08913' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933878348' />
@@ -795,6 +953,8 @@
 		<tag k='ref' v='3623275' />
 		<tag k='name' v="Farmàcia Garcia Forester, Pau" />
 		<tag k='addr:full' v=" gv corts catalanes, 00938" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="938" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='source:date' v='03/11/2020 07:58:23 AM +0000' />
@@ -804,6 +964,8 @@
 		<tag k='ref' v='3624032' />
 		<tag k='name' v="Farmàcia Engelberto Muhr, Pablo" />
 		<tag k='addr:full' v="carrer Andrade, 151" />
+		<tag k='addr:street' v="carrer Andrade" />
+		<tag k='addr:housenumber' v="151" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933149760' />
@@ -814,6 +976,8 @@
 		<tag k='ref' v='3624249' />
 		<tag k='name' v="Farmàcia García Modrego, Enric" />
 		<tag k='addr:full' v="carrer Sas, 31" />
+		<tag k='addr:street' v="carrer Sas" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933455019' />
@@ -824,6 +988,8 @@
 		<tag k='ref' v='3622162' />
 		<tag k='name' v="Farmàcia Carbonell Uberos - Martínez Roman" />
 		<tag k='addr:full' v="carrer Concili De Trento, 194" />
+		<tag k='addr:street' v="carrer Concili De Trento" />
+		<tag k='addr:housenumber' v="194" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933148958' />
@@ -834,6 +1000,8 @@
 		<tag k='ref' v='3623365' />
 		<tag k='name' v="Farmàcia Balagué Zalacain, Montserrat" />
 		<tag k='addr:full' v="passatge Valldaura, 184" />
+		<tag k='addr:street' v="passatge Valldaura" />
+		<tag k='addr:housenumber' v="184" />
 		<tag k='addr:postcode' v='08042' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933596408' />
@@ -844,6 +1012,8 @@
 		<tag k='ref' v='3622964' />
 		<tag k='name' v="Farmàcia Baeta Alquezar - Bou Sais, Alícia" />
 		<tag k='addr:full' v="carrer Felip Ii, 70" />
+		<tag k='addr:street' v="carrer Felip Ii" />
+		<tag k='addr:housenumber' v="70" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933523159' />
@@ -854,6 +1024,8 @@
 		<tag k='ref' v='3620989' />
 		<tag k='name' v="Farmàcia Aparisi Serrano, Joan F." />
 		<tag k='addr:full' v="carrer Muntanya, 79" />
+		<tag k='addr:street' v="carrer Muntanya" />
+		<tag k='addr:housenumber' v="79" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934330900' />
@@ -864,6 +1036,8 @@
 		<tag k='ref' v='3621482' />
 		<tag k='name' v="Farmàcia Clapés Viñas, Jaume i Antoni" />
 		<tag k='addr:full' v="carrer  Gran De Sant Andreu, 204" />
+		<tag k='addr:street' v="carrer  Gran De Sant Andreu" />
+		<tag k='addr:housenumber' v="204" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933466356' />
@@ -874,6 +1048,8 @@
 		<tag k='ref' v='3623492' />
 		<tag k='name' v="Farmàcia Izquierdo Ridorsa, Laura" />
 		<tag k='addr:full' v="passatge Valldaura, 175" />
+		<tag k='addr:street' v="passatge Valldaura" />
+		<tag k='addr:housenumber' v="175" />
 		<tag k='addr:postcode' v='08042' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933592841' />
@@ -884,6 +1060,8 @@
 		<tag k='ref' v='3621003' />
 		<tag k='name' v="Farmàcia Ariño Porta, Mercedes" />
 		<tag k='addr:full' v="carrer Ginebra, 13" />
+		<tag k='addr:street' v="carrer Ginebra" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933194895' />
@@ -894,6 +1072,8 @@
 		<tag k='ref' v='3623104' />
 		<tag k='name' v="Farmàcia Brillas Elias, Pere" />
 		<tag k='addr:full' v="carrer Industria, 329" />
+		<tag k='addr:street' v="carrer Industria" />
+		<tag k='addr:housenumber' v="329" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933524402' />
@@ -904,6 +1084,8 @@
 		<tag k='ref' v='3621288' />
 		<tag k='name' v="Farmàcia Noguera Huguet, Borja" />
 		<tag k='addr:full' v="carrer Baluard, 34" />
+		<tag k='addr:street' v="carrer Baluard" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933192490' />
@@ -914,6 +1096,8 @@
 		<tag k='ref' v='3623119' />
 		<tag k='name' v="Farmàcia Garrifé Pujol, Roser" />
 		<tag k='addr:full' v="carrer Francesc Bolos, 35" />
+		<tag k='addr:street' v="carrer Francesc Bolos" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934296525' />
@@ -924,6 +1108,8 @@
 		<tag k='ref' v='3620856' />
 		<tag k='name' v="Farmàcia Lafarga Mestre, Jordi" />
 		<tag k='addr:full' v="ronda Sant Pere, 15" />
+		<tag k='addr:street' v="ronda Sant Pere" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933173938' />
@@ -934,6 +1120,8 @@
 		<tag k='ref' v='3624529' />
 		<tag k='name' v="Farmàcia Rubio Moreno, Margarita" />
 		<tag k='addr:full' v="carrer Padilla, 378" />
+		<tag k='addr:street' v="carrer Padilla" />
+		<tag k='addr:housenumber' v="378" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934558245' />
@@ -944,6 +1132,8 @@
 		<tag k='ref' v='3624831' />
 		<tag k='name' v="Farmàcia Mérida Donoso, Salvador" />
 		<tag k='addr:full' v="carrer Lepant, 330" />
+		<tag k='addr:street' v="carrer Lepant" />
+		<tag k='addr:housenumber' v="330" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932362343' />
@@ -954,6 +1144,8 @@
 		<tag k='ref' v='3623904' />
 		<tag k='name' v="Farmàcia Casanova Cid, M. Fe" />
 		<tag k='addr:full' v="passatge Valldaura, 166" />
+		<tag k='addr:street' v="passatge Valldaura" />
+		<tag k='addr:housenumber' v="166" />
 		<tag k='addr:postcode' v='08042' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934272309' />
@@ -964,6 +1156,8 @@
 		<tag k='ref' v='3620603' />
 		<tag k='name' v="Farmàcia Agramonte Bucho, Zoila Adelfa" />
 		<tag k='addr:full' v="plaça  Llana, 11" />
+		<tag k='addr:street' v="plaça  Llana" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933195921' />
@@ -974,6 +1168,8 @@
 		<tag k='ref' v='3621143' />
 		<tag k='name' v="Farmàcia Torelló Colet, Ramon" />
 		<tag k='addr:full' v="passatge De Joan De Borbó Comte De Barcelona, 72" />
+		<tag k='addr:street' v="passatge De Joan De Borbó Comte De Barcelona" />
+		<tag k='addr:housenumber' v="72" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933194502' />
@@ -984,6 +1180,8 @@
 		<tag k='ref' v='3624121' />
 		<tag k='name' v="Farmàcia Puga Gasull, Berta" />
 		<tag k='addr:full' v="carrer Sant Raimon De Penyafort, 3" />
+		<tag k='addr:street' v="carrer Sant Raimon De Penyafort" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933580900' />
@@ -994,6 +1192,8 @@
 		<tag k='ref' v='3621993' />
 		<tag k='name' v="Farmàcia Cardellà Pou, Maria Loreto" />
 		<tag k='addr:full' v="passatge Fabra I Puig, 136" />
+		<tag k='addr:street' v="passatge Fabra I Puig" />
+		<tag k='addr:housenumber' v="136" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933493282' />
@@ -1004,6 +1204,8 @@
 		<tag k='ref' v='3621485' />
 		<tag k='name' v="Farmàcia Nolla Winkel, Ingrid" />
 		<tag k='addr:full' v="rambla Poblenou, 134" />
+		<tag k='addr:street' v="rambla Poblenou" />
+		<tag k='addr:housenumber' v="134" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933002255' />
@@ -1014,6 +1216,8 @@
 		<tag k='ref' v='3623292' />
 		<tag k='name' v="Farmàcia García Llorente, M. Pilar" />
 		<tag k='addr:full' v="carrer Puigcerda, 253" />
+		<tag k='addr:street' v="carrer Puigcerda" />
+		<tag k='addr:housenumber' v="253" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933131064' />
@@ -1024,6 +1228,8 @@
 		<tag k='ref' v='3624698' />
 		<tag k='name' v="Farmàcia Àlvarez Granja, Guadalupe" />
 		<tag k='addr:full' v="passatge De Gràcia, 26" />
+		<tag k='addr:street' v="passatge De Gràcia" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08007' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933021124' />
@@ -1034,6 +1240,8 @@
 		<tag k='ref' v='3623415' />
 		<tag k='name' v="Farmàcia Camps Arràez, Marta" />
 		<tag k='addr:full' v="carrer Foc Follet, 69" />
+		<tag k='addr:street' v="carrer Foc Follet" />
+		<tag k='addr:housenumber' v="69" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932788166' />
@@ -1044,6 +1252,8 @@
 		<tag k='ref' v='3624385' />
 		<tag k='name' v="Farmàcia Santigosa Bosch, Núria" />
 		<tag k='addr:full' v="carrer Valencia, 621" />
+		<tag k='addr:street' v="carrer Valencia" />
+		<tag k='addr:housenumber' v="621" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932310608' />
@@ -1054,6 +1264,8 @@
 		<tag k='ref' v='3624703' />
 		<tag k='name' v="Farmàcia Lozano Salvatella, Joan Josep" />
 		<tag k='addr:full' v="carrer Maladeta, 7" />
+		<tag k='addr:street' v="carrer Maladeta" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933527804' />
@@ -1064,6 +1276,8 @@
 		<tag k='ref' v='3621501' />
 		<tag k='name' v="Farmàcia Miró Aspa, Antoni" />
 		<tag k='addr:full' v="carrer Almirall Cervera, 15" />
+		<tag k='addr:street' v="carrer Almirall Cervera" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933194195' />
@@ -1074,6 +1288,8 @@
 		<tag k='ref' v='3622146' />
 		<tag k='name' v="Farmàcia Alberdi Eurasquin, Iñigo" />
 		<tag k='addr:full' v="avinguda Diagonal,  84-86" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v=" 84-86" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933071340' />
@@ -1084,6 +1300,8 @@
 		<tag k='ref' v='3622512' />
 		<tag k='name' v="Farmàcia Bolos Causadias, Esperanza" />
 		<tag k='addr:full' v="avinguda De Catalunya,  92-94" />
+		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:housenumber' v=" 92-94" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34933811804' />
@@ -1094,6 +1312,8 @@
 		<tag k='ref' v='3624114' />
 		<tag k='name' v="Farmàcia Peris Zaragoza, M. Carme" />
 		<tag k='addr:full' v="carrer Bailen, 92" />
+		<tag k='addr:street' v="carrer Bailen" />
+		<tag k='addr:housenumber' v="92" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932462566' />
@@ -1104,6 +1324,8 @@
 		<tag k='ref' v='3622785' />
 		<tag k='name' v="Farmàcia Borràs Sampere, Laia" />
 		<tag k='addr:full' v="passatge Maragall, 20" />
+		<tag k='addr:street' v="passatge Maragall" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934363365' />
@@ -1114,6 +1336,8 @@
 		<tag k='ref' v='3621019' />
 		<tag k='name' v="Farmàcia Grimau Guardiola, Cristian" />
 		<tag k='addr:full' v=" gv corts catalanes, 931" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="931" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933074050' />
@@ -1124,6 +1348,8 @@
 		<tag k='ref' v='3622662' />
 		<tag k='name' v="Farmàcia González Solà, Francesc M." />
 		<tag k='addr:full' v="carrer Mallorca, 519" />
+		<tag k='addr:street' v="carrer Mallorca" />
+		<tag k='addr:housenumber' v="519" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932356885' />
@@ -1134,6 +1360,8 @@
 		<tag k='ref' v='3620861' />
 		<tag k='name' v="Farmàcia Jimenez Bonet, Jordi" />
 		<tag k='addr:full' v="carrer Trinxant, 65" />
+		<tag k='addr:street' v="carrer Trinxant" />
+		<tag k='addr:housenumber' v="65" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932361920' />
@@ -1144,6 +1372,8 @@
 		<tag k='ref' v='3622009' />
 		<tag k='name' v="Farmàcia Arrasaté Perpiñà, Josefa" />
 		<tag k='addr:full' v="avinguda Mare De Déu De Montserrat, 71" />
+		<tag k='addr:street' v="avinguda Mare De Déu De Montserrat" />
+		<tag k='addr:housenumber' v="71" />
 		<tag k='addr:postcode' v='08024' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932141528' />
@@ -1154,6 +1384,8 @@
 		<tag k='ref' v='3620736' />
 		<tag k='name' v="Farmàcia Bernabeu Balaña, I. Concepció" />
 		<tag k='addr:full' v="carrer Tallers, 42" />
+		<tag k='addr:street' v="carrer Tallers" />
+		<tag k='addr:housenumber' v="42" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933180988' />
@@ -1164,6 +1396,8 @@
 		<tag k='ref' v='3624241' />
 		<tag k='name' v="Farmàcia Granché García, Sara" />
 		<tag k='addr:full' v="carrer Juliol, 27" />
+		<tag k='addr:street' v="carrer Juliol" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932368842' />
@@ -1174,6 +1408,8 @@
 		<tag k='ref' v='3623626' />
 		<tag k='name' v="Farmàcia Malaspina Casulleras, Anna M." />
 		<tag k='addr:full' v="carrer Roger De Flor,  9 bis" />
+		<tag k='addr:street' v="carrer Roger De Flor" />
+		<tag k='addr:housenumber' v=" 9 bis" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933099270' />
@@ -1184,6 +1420,8 @@
 		<tag k='ref' v='3622769' />
 		<tag k='name' v="Farmàcia Toledo Fernández, Esther" />
 		<tag k='addr:full' v="carrer Portaferrissa, 1" />
+		<tag k='addr:street' v="carrer Portaferrissa" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933024345' />
@@ -1194,6 +1432,8 @@
 		<tag k='ref' v='3624395' />
 		<tag k='name' v="Farmàcia Bruna Reverter, M. Àngels" />
 		<tag k='addr:full' v="carrer Dos De Maig, 288" />
+		<tag k='addr:street' v="carrer Dos De Maig" />
+		<tag k='addr:housenumber' v="288" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932350542' />
@@ -1204,6 +1444,8 @@
 		<tag k='ref' v='3621152' />
 		<tag k='name' v="Farmàcia Planas Pascual, Josep Maria" />
 		<tag k='addr:full' v="passatge Torras I Bages, 83" />
+		<tag k='addr:street' v="passatge Torras I Bages" />
+		<tag k='addr:housenumber' v="83" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933450634' />
@@ -1214,6 +1456,8 @@
 		<tag k='ref' v='3621004' />
 		<tag k='name' v="Farmàcia Cortes Bosch de Basea, Magda" />
 		<tag k='addr:full' v="carrer Bruc, 134" />
+		<tag k='addr:street' v="carrer Bruc" />
+		<tag k='addr:housenumber' v="134" />
 		<tag k='addr:postcode' v='08037' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934579333' />
@@ -1224,6 +1468,8 @@
 		<tag k='ref' v='3624279' />
 		<tag k='name' v="Farmàcia Bainad Caballé, Jacint" />
 		<tag k='addr:full' v="carrer Ali-Bei, 38" />
+		<tag k='addr:street' v="carrer Ali-Bei" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932314256' />
@@ -1234,6 +1480,8 @@
 		<tag k='ref' v='3620719' />
 		<tag k='name' v="Farmàcia Berbel Fenoy, Andrés" />
 		<tag k='addr:full' v="carrer Sardenya, 61" />
+		<tag k='addr:street' v="carrer Sardenya" />
+		<tag k='addr:housenumber' v="61" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933095180' />
@@ -1244,6 +1492,8 @@
 		<tag k='ref' v='3620712' />
 		<tag k='name' v="Farmàcia Úbeda Fernández, Nieves" />
 		<tag k='addr:full' v="carrer Carders, 3" />
+		<tag k='addr:street' v="carrer Carders" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933199379' />
@@ -1254,6 +1504,8 @@
 		<tag k='ref' v='3624107' />
 		<tag k='name' v="Farmàcia Jové Gascón, M. Rosa" />
 		<tag k='addr:full' v="carrer Menorca, 6" />
+		<tag k='addr:street' v="carrer Menorca" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933074934' />
@@ -1264,6 +1516,8 @@
 		<tag k='ref' v='3624243' />
 		<tag k='name' v="Farmàcia Masons Bueno, M. Carme" />
 		<tag k='addr:full' v="carrer Felip Ii, 271" />
+		<tag k='addr:street' v="carrer Felip Ii" />
+		<tag k='addr:housenumber' v="271" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933522451' />
@@ -1274,6 +1528,8 @@
 		<tag k='ref' v='3620610' />
 		<tag k='name' v="Farmàcia Balasch Terradellas, Martí" />
 		<tag k='addr:full' v="carrer Cartagena, 267" />
+		<tag k='addr:street' v="carrer Cartagena" />
+		<tag k='addr:housenumber' v="267" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932364041' />
@@ -1284,6 +1540,8 @@
 		<tag k='ref' v='3621640' />
 		<tag k='name' v="Farmàcia Navarro Marco, Joan Manel" />
 		<tag k='addr:full' v="avinguda Diagonal, 197" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v="197" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='source:date' v='03/11/2020 07:58:14 AM +0000' />
@@ -1293,6 +1551,8 @@
 		<tag k='ref' v='3620849' />
 		<tag k='name' v="Farmàcia Infiesta Bárcena, Maria" />
 		<tag k='addr:full' v="avinguda Bogatell, 19" />
+		<tag k='addr:street' v="avinguda Bogatell" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933000168' />
@@ -1303,6 +1563,8 @@
 		<tag k='ref' v='3624550' />
 		<tag k='name' v="Farmàcia Reines Picornell, Catalina" />
 		<tag k='addr:full' v="carrer Alella, 12" />
+		<tag k='addr:street' v="carrer Alella" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933523954' />
@@ -1313,6 +1575,8 @@
 		<tag k='ref' v='3622754' />
 		<tag k='name' v="Farmàcia Castelló Tortellà, Rafael" />
 		<tag k='addr:full' v="carrer Duc De La Victoria, 10" />
+		<tag k='addr:street' v="carrer Duc De La Victoria" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933178840' />
@@ -1323,6 +1587,8 @@
 		<tag k='ref' v='3622960' />
 		<tag k='name' v="Farmàcia Soldevila Sitges, Santiago" />
 		<tag k='addr:full' v="passatge Maragall, 310" />
+		<tag k='addr:street' v="passatge Maragall" />
+		<tag k='addr:housenumber' v="310" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932291165' />
@@ -1333,6 +1599,8 @@
 		<tag k='ref' v='3621008' />
 		<tag k='name' v="Farmàcia Peris Grau, Joaquim" />
 		<tag k='addr:full' v="carrer Llenguadoc, 118" />
+		<tag k='addr:street' v="carrer Llenguadoc" />
+		<tag k='addr:housenumber' v="118" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933966056' />
@@ -1343,6 +1611,8 @@
 		<tag k='ref' v='3622930' />
 		<tag k='name' v="Farmàcia Tintore Calcedo, Anna i Begoña" />
 		<tag k='addr:full' v="carrer Andrade, 198" />
+		<tag k='addr:street' v="carrer Andrade" />
+		<tag k='addr:housenumber' v="198" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933143118' />
@@ -1353,6 +1623,8 @@
 		<tag k='ref' v='3621145' />
 		<tag k='name' v="Farmàcia Marfa Vila, Josep" />
 		<tag k='addr:full' v="avinguda Meridiana, 259" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v="259" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933524509' />
@@ -1363,6 +1635,8 @@
 		<tag k='ref' v='3621018' />
 		<tag k='name' v="Farmàcia Comas Castellà, Maria Nieves" />
 		<tag k='addr:full' v="plaça  Sant Pere, 5" />
+		<tag k='addr:street' v="plaça  Sant Pere" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933191238' />
@@ -1373,6 +1647,8 @@
 		<tag k='ref' v='3620863' />
 		<tag k='name' v="Farmàcia Macià Creus, Anna Maria" />
 		<tag k='addr:full' v="carrer Mallorca, 591" />
+		<tag k='addr:street' v="carrer Mallorca" />
+		<tag k='addr:housenumber' v="591" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932362710' />
@@ -1383,6 +1659,8 @@
 		<tag k='ref' v='3621958' />
 		<tag k='name' v="Farmàcia Lasmarias Palos, Arturo" />
 		<tag k='addr:full' v="avinguda Catedral, 1" />
+		<tag k='addr:street' v="avinguda Catedral" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933018127' />
@@ -1393,6 +1671,8 @@
 		<tag k='ref' v='3620873' />
 		<tag k='name' v="Farmàcia Massot Moner, Núria" />
 		<tag k='addr:full' v="passatge De Gràcia, 50" />
+		<tag k='addr:street' v="passatge De Gràcia" />
+		<tag k='addr:housenumber' v="50" />
 		<tag k='addr:postcode' v='08007' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932160365' />
@@ -1403,6 +1683,8 @@
 		<tag k='ref' v='3622131' />
 		<tag k='name' v="Farmàcia Mestre Rovira, Esther" />
 		<tag k='addr:full' v="carrer Doctor Pi I Molist, 66" />
+		<tag k='addr:street' v="carrer Doctor Pi I Molist" />
+		<tag k='addr:housenumber' v="66" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933528002' />
@@ -1413,6 +1695,8 @@
 		<tag k='ref' v='3622158' />
 		<tag k='name' v="Farmàcia Martínez Alejandre, J. Antonio" />
 		<tag k='addr:full' v=" vi trajana, 20, bloc a-3" />
+		<tag k='addr:street' v=" vi trajana" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34934622572' />
@@ -1423,6 +1707,8 @@
 		<tag k='ref' v='3623099' />
 		<tag k='name' v="Farmàcia Marqués Wien, Carolina" />
 		<tag k='addr:full' v="carrer Olesa, 65" />
+		<tag k='addr:street' v="carrer Olesa" />
+		<tag k='addr:housenumber' v="65" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933491240' />
@@ -1433,6 +1719,8 @@
 		<tag k='ref' v='3624828' />
 		<tag k='name' v="Farmàcia Moliner Soto, Emili" />
 		<tag k='addr:full' v="carrer Enamorats, 5" />
+		<tag k='addr:street' v="carrer Enamorats" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932462312' />
@@ -1443,6 +1731,8 @@
 		<tag k='ref' v='3622118' />
 		<tag k='name' v="Farmàcia Chacón Puig, Guillermo Alfonso" />
 		<tag k='addr:full' v="carrer Industria, 128" />
+		<tag k='addr:street' v="carrer Industria" />
+		<tag k='addr:housenumber' v="128" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933473316' />
@@ -1453,6 +1743,8 @@
 		<tag k='ref' v='3623511' />
 		<tag k='name' v="Farmàcia Mendez García, Otilia" />
 		<tag k='addr:full' v="carrer Segre, 19" />
+		<tag k='addr:street' v="carrer Segre" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933454741' />
@@ -1463,6 +1755,8 @@
 		<tag k='ref' v='3620625' />
 		<tag k='name' v="Farmàcia Audet Ginesta, Joan" />
 		<tag k='addr:full' v="carrer Dr. Trueta, 234" />
+		<tag k='addr:street' v="carrer Dr. Trueta" />
+		<tag k='addr:housenumber' v="234" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932252711' />
@@ -1473,6 +1767,8 @@
 		<tag k='ref' v='3620848' />
 		<tag k='name' v="Farmàcia Aguilar Pérez, M. Francisca" />
 		<tag k='addr:full' v="carrer Ausias March, 31" />
+		<tag k='addr:street' v="carrer Ausias March" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933170291' />
@@ -1483,6 +1779,8 @@
 		<tag k='ref' v='3623118' />
 		<tag k='name' v="Farmàcia Zalacain Puy, Enriqueta" />
 		<tag k='addr:full' v="carrer Alcudia, 46" />
+		<tag k='addr:street' v="carrer Alcudia" />
+		<tag k='addr:housenumber' v="46" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933599147' />
@@ -1493,6 +1791,8 @@
 		<tag k='ref' v='3624838' />
 		<tag k='name' v="Farmàcia Valero Mendoza, M. Teresa" />
 		<tag k='addr:full' v="carrer Maresme, 64" />
+		<tag k='addr:street' v="carrer Maresme" />
+		<tag k='addr:housenumber' v="64" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933073543' />
@@ -1503,6 +1803,8 @@
 		<tag k='ref' v='3624549' />
 		<tag k='name' v="Farmàcia Audet Bonet, Gemma" />
 		<tag k='addr:full' v="carrer Corsega, 526" />
+		<tag k='addr:street' v="carrer Corsega" />
+		<tag k='addr:housenumber' v="526" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932358299' />
@@ -1513,6 +1815,8 @@
 		<tag k='ref' v='3623126' />
 		<tag k='name' v="Farmàcia Brillas, M. - Trilla Reig, S." />
 		<tag k='addr:full' v="carrer Fluvia, 216" />
+		<tag k='addr:street' v="carrer Fluvia" />
+		<tag k='addr:housenumber' v="216" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933071551' />
@@ -1523,6 +1827,8 @@
 		<tag k='ref' v='3624252' />
 		<tag k='name' v="Farmàcia Sesé Blancas, E. i A." />
 		<tag k='addr:full' v="carrer Pere Iv, 501" />
+		<tag k='addr:street' v="carrer Pere Iv" />
+		<tag k='addr:housenumber' v="501" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933142260' />
@@ -1533,6 +1839,8 @@
 		<tag k='ref' v='3623128' />
 		<tag k='name' v="Farmàcia Riera, Palmira - Ranz, Ruth" />
 		<tag k='addr:full' v="carrer Agricultura, 292" />
+		<tag k='addr:street' v="carrer Agricultura" />
+		<tag k='addr:housenumber' v="292" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933130856' />
@@ -1543,6 +1851,8 @@
 		<tag k='ref' v='3621807' />
 		<tag k='name' v="Farmàcia Augé i Ribas, Rita" />
 		<tag k='addr:full' v="carrer Rogent, 118" />
+		<tag k='addr:street' v="carrer Rogent" />
+		<tag k='addr:housenumber' v="118" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932362326' />
@@ -1553,6 +1863,8 @@
 		<tag k='ref' v='3620631' />
 		<tag k='name' v="Farmàcia Guilera Barba, Marc" />
 		<tag k='addr:full' v="carrer Banys Nous, 14" />
+		<tag k='addr:street' v="carrer Banys Nous" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933014431' />
@@ -1563,6 +1875,8 @@
 		<tag k='ref' v='3620619' />
 		<tag k='name' v="Farmàcia Odriozola Jauristi, Laura" />
 		<tag k='addr:full' v="carrer Maquinista, 9" />
+		<tag k='addr:street' v="carrer Maquinista" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933192726' />
@@ -1573,6 +1887,8 @@
 		<tag k='ref' v='3624815' />
 		<tag k='name' v="Farmàcia Guivernau Soler - Lebrero Martín" />
 		<tag k='addr:full' v="avinguda Borbon, 64" />
+		<tag k='addr:street' v="avinguda Borbon" />
+		<tag k='addr:housenumber' v="64" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933522301' />
@@ -1583,6 +1899,8 @@
 		<tag k='ref' v='3621006' />
 		<tag k='name' v="Farmàcia Mor Puig, Marta-Rodríguez Mur, Cristina" />
 		<tag k='addr:full' v="carrer Gran De Sant Andreu, 186" />
+		<tag k='addr:street' v="carrer Gran De Sant Andreu" />
+		<tag k='addr:housenumber' v="186" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933366351' />
@@ -1593,6 +1911,8 @@
 		<tag k='ref' v='3624258' />
 		<tag k='name' v="Farmàcia Rastrollo Castro, M. Lluïsa" />
 		<tag k='addr:full' v="carrer Torroella De Montgri, 23" />
+		<tag k='addr:street' v="carrer Torroella De Montgri" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933119151' />
@@ -1603,6 +1923,8 @@
 		<tag k='ref' v='3623405' />
 		<tag k='name' v="Farmàcia Meana Pascual, Luís / Pascual Vidal, M.E" />
 		<tag k='addr:full' v="ronda Guinardó, 44" />
+		<tag k='addr:street' v="ronda Guinardó" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932368892' />
@@ -1613,6 +1935,8 @@
 		<tag k='ref' v='3621078' />
 		<tag k='name' v="Farmàcia Condal Elies, Mercè" />
 		<tag k='addr:full' v="carrer Ramiro De Maeztu, 29" />
+		<tag k='addr:street' v="carrer Ramiro De Maeztu" />
+		<tag k='addr:housenumber' v="29" />
 		<tag k='addr:postcode' v='08913' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34934605137' />
@@ -1623,6 +1947,8 @@
 		<tag k='ref' v='3621289' />
 		<tag k='name' v="Farmàcia Duran Pou, Joan" />
 		<tag k='addr:full' v="avinguda Gaudi, 71" />
+		<tag k='addr:street' v="avinguda Gaudi" />
+		<tag k='addr:housenumber' v="71" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932358090' />
@@ -1633,6 +1959,8 @@
 		<tag k='ref' v='3623988' />
 		<tag k='name' v="Farmàcia Blay Salvador, Begonya" />
 		<tag k='addr:full' v="carrer Ausias March, 163" />
+		<tag k='addr:street' v="carrer Ausias March" />
+		<tag k='addr:housenumber' v="163" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932450064' />
@@ -1643,6 +1971,8 @@
 		<tag k='ref' v='3621278' />
 		<tag k='name' v="Farmàcia Abad Merin, Milagros" />
 		<tag k='addr:full' v=" gv corts catalanes, 00748" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="748" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932323107' />
@@ -1653,6 +1983,8 @@
 		<tag k='ref' v='3624547' />
 		<tag k='name' v="Farmàcia Andrés Perera, Anna M." />
 		<tag k='addr:full' v="carrer Mallorca, 621" />
+		<tag k='addr:street' v="carrer Mallorca" />
+		<tag k='addr:housenumber' v="621" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933527054' />
@@ -1663,6 +1995,8 @@
 		<tag k='ref' v='3620760' />
 		<tag k='name' v="Farmàcia Plana Mendo, F - Dato Quijada, MD" />
 		<tag k='addr:full' v="carrer Clot, 114" />
+		<tag k='addr:street' v="carrer Clot" />
+		<tag k='addr:housenumber' v="114" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932319157' />
@@ -1673,6 +2007,8 @@
 		<tag k='ref' v='3623916' />
 		<tag k='name' v="Farmàcia Anton Velàzquez, Josep" />
 		<tag k='addr:full' v="carrer Mar, 18" />
+		<tag k='addr:street' v="carrer Mar" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34933811592' />
@@ -1683,6 +2019,8 @@
 		<tag k='ref' v='3624666' />
 		<tag k='name' v="Farmàcia Estevez Luaña, Manuel" />
 		<tag k='addr:full' v="avinguda Diagonal, 111" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v="111" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933085202' />
@@ -1693,6 +2031,8 @@
 		<tag k='ref' v='3623814' />
 		<tag k='name' v="Farmàcia Nogueria Campos, M. Elena" />
 		<tag k='addr:full' v="avinguda De La Generalitat, 226" />
+		<tag k='addr:street' v="avinguda De La Generalitat" />
+		<tag k='addr:housenumber' v="226" />
 		<tag k='addr:postcode' v='08923' />
 		<tag k='addr:city' v="Santa Coloma de Gramenet" />
 		<tag k='contact:phone' v='+34933864047' />
@@ -1703,6 +2043,8 @@
 		<tag k='ref' v='3622967' />
 		<tag k='name' v="Farmàcia Gomez Salamanca, Silvia" />
 		<tag k='addr:full' v="passatge Valldaura, 191" />
+		<tag k='addr:street' v="passatge Valldaura" />
+		<tag k='addr:housenumber' v="191" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933549505' />
@@ -1713,6 +2055,8 @@
 		<tag k='ref' v='3620977' />
 		<tag k='name' v="Farmàcia Espona Meseguer, Núria" />
 		<tag k='addr:full' v="rambla Catalunya, 1" />
+		<tag k='addr:street' v="rambla Catalunya" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08007' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933171446' />
@@ -1723,6 +2067,8 @@
 		<tag k='ref' v='3622771' />
 		<tag k='name' v="Farmàcia Allué Mugarra, Alejandro" />
 		<tag k='addr:full' v="avinguda Marquès De L'Argentera, 5" />
+		<tag k='addr:street' v="avinguda Marquès De L'Argentera" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933192006' />
@@ -1733,6 +2079,8 @@
 		<tag k='ref' v='3621320' />
 		<tag k='name' v="Farmàcia Oriol Carreras, Marina" />
 		<tag k='addr:full' v="carrer Llull, 187" />
+		<tag k='addr:street' v="carrer Llull" />
+		<tag k='addr:housenumber' v="187" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933001414' />
@@ -1743,6 +2091,8 @@
 		<tag k='ref' v='3623821' />
 		<tag k='name' v="Farmàcia Mezquita Pipio, Vicenç" />
 		<tag k='addr:full' v="carrer Santander, 28" />
+		<tag k='addr:street' v="carrer Santander" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933141017' />
@@ -1753,6 +2103,8 @@
 		<tag k='ref' v='3624849' />
 		<tag k='name' v="Farmàcia Ganvini Asencios, Hugo Ernesto" />
 		<tag k='addr:full' v="carrer Nadal,  7-8" />
+		<tag k='addr:street' v="carrer Nadal" />
+		<tag k='addr:housenumber' v=" 7-8" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933469356' />
@@ -1763,6 +2115,8 @@
 		<tag k='ref' v='3621141' />
 		<tag k='name' v="Farmàcia Clanxet Wust, Pilar" />
 		<tag k='addr:full' v="carrer Provensals, 12" />
+		<tag k='addr:street' v="carrer Provensals" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932665141' />
@@ -1773,6 +2127,8 @@
 		<tag k='ref' v='3620888' />
 		<tag k='name' v="Farmàcia Mas Docampo, Montserrat" />
 		<tag k='addr:full' v="carrer Carme, 23" />
+		<tag k='addr:street' v="carrer Carme" />
+		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933014776' />
@@ -1783,6 +2139,8 @@
 		<tag k='ref' v='3623687' />
 		<tag k='name' v="Farmàcia Busquets Recasens, M. Teresa" />
 		<tag k='addr:full' v="avinguda Diagonal, 68" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v="68" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933075024' />
@@ -1793,6 +2151,8 @@
 		<tag k='ref' v='3622004' />
 		<tag k='name' v="Farmàcia De la Nogal Mesa, Anna" />
 		<tag k='addr:full' v="avinguda Diagonal, 243" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v="243" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932313054' />
@@ -1803,6 +2163,8 @@
 		<tag k='ref' v='3621670' />
 		<tag k='name' v="Farmàcia Casellas Alberch, Pere" />
 		<tag k='addr:full' v="carrer Andreu Vidal, 2" />
+		<tag k='addr:street' v="carrer Andreu Vidal" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34933811143' />
@@ -1813,6 +2175,8 @@
 		<tag k='ref' v='3621990' />
 		<tag k='name' v="Farmàcia Palacio Bescos, Maria del Pilar" />
 		<tag k='addr:full' v="avinguda Mare De Déu De Montserrat, 158" />
+		<tag k='addr:street' v="avinguda Mare De Déu De Montserrat" />
+		<tag k='addr:housenumber' v="158" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932368634' />
@@ -1823,6 +2187,8 @@
 		<tag k='ref' v='3624504' />
 		<tag k='name' v="Farmàcia Andrés Carbó, M. Luz" />
 		<tag k='addr:full' v="passatge Verdum, 2" />
+		<tag k='addr:street' v="passatge Verdum" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933545704' />
@@ -1833,6 +2199,8 @@
 		<tag k='ref' v='3621825' />
 		<tag k='name' v="Farmàcia Soler Alonso, Eduard" />
 		<tag k='addr:full' v="carrer Jaume I, 14" />
+		<tag k='addr:street' v="carrer Jaume I" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933154057' />
@@ -1843,6 +2211,8 @@
 		<tag k='ref' v='3624242' />
 		<tag k='name' v="Farmàcia Esquerra Guixa, Ramon" />
 		<tag k='addr:full' v="carrer Freser,  194-8" />
+		<tag k='addr:street' v="carrer Freser" />
+		<tag k='addr:housenumber' v=" 194-8" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934353191' />
@@ -1853,6 +2223,8 @@
 		<tag k='ref' v='3621282' />
 		<tag k='name' v="Farmàcia Catafal Llora, Lourdes" />
 		<tag k='addr:full' v="carrer Roser, 39" />
+		<tag k='addr:street' v="carrer Roser" />
+		<tag k='addr:housenumber' v="39" />
 		<tag k='addr:postcode' v='08004' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932428674' />
@@ -1863,6 +2235,8 @@
 		<tag k='ref' v='3620593' />
 		<tag k='name' v="Farmàcia Armengol Torrella - Silvestre Pons" />
 		<tag k='addr:full' v="carrer Nacio, 42" />
+		<tag k='addr:street' v="carrer Nacio" />
+		<tag k='addr:housenumber' v="42" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932361828' />
@@ -1873,6 +2247,8 @@
 		<tag k='ref' v='3620714' />
 		<tag k='name' v="Farmàcia Pardo Salmerón, Antònia" />
 		<tag k='addr:full' v=" ts de gracia, 333" />
+		<tag k='addr:street' v=" ts de gracia" />
+		<tag k='addr:housenumber' v="333" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932588549' />
@@ -1883,6 +2259,8 @@
 		<tag k='ref' v='3621809' />
 		<tag k='name' v="Farmàcia Marimon Puigmartí, Beatriz" />
 		<tag k='addr:full' v="carrer Avinyo, 27" />
+		<tag k='addr:street' v="carrer Avinyo" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933152459' />
@@ -1893,6 +2271,8 @@
 		<tag k='ref' v='3622669' />
 		<tag k='name' v="Farmàcia Rosenfeld Barrenechea, Ricard" />
 		<tag k='addr:full' v="carrer Xucla, 21" />
+		<tag k='addr:street' v="carrer Xucla" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933019335' />
@@ -1903,6 +2283,8 @@
 		<tag k='ref' v='3621816' />
 		<tag k='name' v="Farmàcia Munné Campos, Marina" />
 		<tag k='addr:full' v="carrer Bilbao, 145" />
+		<tag k='addr:street' v="carrer Bilbao" />
+		<tag k='addr:housenumber' v="145" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932304912' />
@@ -1913,6 +2295,8 @@
 		<tag k='ref' v='3620871' />
 		<tag k='name' v="Farmàcia Pascal Canalias, Dolors" />
 		<tag k='addr:full' v="avinguda Gaudi, 85" />
+		<tag k='addr:street' v="avinguda Gaudi" />
+		<tag k='addr:housenumber' v="85" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934358268' />
@@ -1923,6 +2307,8 @@
 		<tag k='ref' v='3624117' />
 		<tag k='name' v="Farmàcia Guillen Rodríguez, Consol" />
 		<tag k='addr:full' v="avinguda Rio De Janeiro, 65" />
+		<tag k='addr:street' v="avinguda Rio De Janeiro" />
+		<tag k='addr:housenumber' v="65" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933595347' />
@@ -1933,6 +2319,8 @@
 		<tag k='ref' v='3620859' />
 		<tag k='name' v="Farmàcia Fusté Jubert, Sílvia" />
 		<tag k='addr:full' v="carrer Sant Antoni Maria Claret, 229" />
+		<tag k='addr:street' v="carrer Sant Antoni Maria Claret" />
+		<tag k='addr:housenumber' v="229" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932369840' />
@@ -1943,6 +2331,8 @@
 		<tag k='ref' v='3621968' />
 		<tag k='name' v="Farmàcia Rubio Calvo, Alvaro" />
 		<tag k='addr:full' v="carrer Padilla, 295" />
+		<tag k='addr:street' v="carrer Padilla" />
+		<tag k='addr:housenumber' v="295" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932364980' />
@@ -1953,6 +2343,8 @@
 		<tag k='ref' v='3621150' />
 		<tag k='name' v="Farmàcia Sanz Suay, Nestor" />
 		<tag k='addr:full' v="carrer Valles I Ribot, 8" />
+		<tag k='addr:street' v="carrer Valles I Ribot" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933522407' />
@@ -1963,6 +2355,8 @@
 		<tag k='ref' v='3624003' />
 		<tag k='name' v="Farmàcia Aguiló Juanola, E - Busquet Aguiló, S" />
 		<tag k='addr:full' v="carrer Bartrina, 7" />
+		<tag k='addr:street' v="carrer Bartrina" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933452844' />
@@ -1973,6 +2367,8 @@
 		<tag k='ref' v='3620581' />
 		<tag k='name' v="Farmàcia Busquet Masip, Carles" />
 		<tag k='addr:full' v="carrer Pons I Gallarza, 92" />
+		<tag k='addr:street' v="carrer Pons I Gallarza" />
+		<tag k='addr:housenumber' v="92" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933450667' />
@@ -1983,6 +2379,8 @@
 		<tag k='ref' v='3623604' />
 		<tag k='name' v="Farmàcia Rodríguez Albacete - Ruiz Fernández" />
 		<tag k='addr:full' v="carrer Ciutat D'Elx, 11" />
+		<tag k='addr:street' v="carrer Ciutat D'Elx" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932515297' />
@@ -1993,6 +2391,8 @@
 		<tag k='ref' v='3620995' />
 		<tag k='name' v="Farmàcia Santamaria Griera, V. - Riba Genís, C." />
 		<tag k='addr:full' v="carrer Bruc, 114" />
+		<tag k='addr:street' v="carrer Bruc" />
+		<tag k='addr:housenumber' v="114" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932576430' />
@@ -2003,6 +2403,8 @@
 		<tag k='ref' v='3620622' />
 		<tag k='name' v="Farmàcia Basté Framis, JA i Basté Baladia, E" />
 		<tag k='addr:full' v="carrer Rogent, 54" />
+		<tag k='addr:street' v="carrer Rogent" />
+		<tag k='addr:housenumber' v="54" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932314554' />
@@ -2013,6 +2415,8 @@
 		<tag k='ref' v='3620737' />
 		<tag k='name' v="Farmàcia Romero Ruiz, M. Rosa" />
 		<tag k='addr:full' v="carrer Princesa, 7" />
+		<tag k='addr:street' v="carrer Princesa" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933192801' />
@@ -2023,6 +2427,8 @@
 		<tag k='ref' v='3622169' />
 		<tag k='name' v="Farmàcia Pujol Boter, M. Teresa" />
 		<tag k='addr:full' v="carrer Font Canyelles, 71" />
+		<tag k='addr:street' v="carrer Font Canyelles" />
+		<tag k='addr:housenumber' v="71" />
 		<tag k='addr:postcode' v='08042' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933547039' />
@@ -2033,6 +2439,8 @@
 		<tag k='ref' v='3621796' />
 		<tag k='name' v="Farmàcia Thomas Pallerola, M - Egea Thomas, SL" />
 		<tag k='addr:full' v="carrer Mallorca, 554" />
+		<tag k='addr:street' v="carrer Mallorca" />
+		<tag k='addr:housenumber' v="554" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932314208' />
@@ -2043,6 +2451,8 @@
 		<tag k='ref' v='3624246' />
 		<tag k='name' v="Farmàcia Montoriol Palmes, Ramon" />
 		<tag k='addr:full' v="carrer Europa, 10" />
+		<tag k='addr:street' v="carrer Europa" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08913' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933981900' />
@@ -2053,6 +2463,8 @@
 		<tag k='ref' v='3624821' />
 		<tag k='name' v="Farmàcia Carrillo Herranz, J. Ramón i Meritxell" />
 		<tag k='addr:full' v="carrer Roger De Flor, 240" />
+		<tag k='addr:street' v="carrer Roger De Flor" />
+		<tag k='addr:housenumber' v="240" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932579086' />
@@ -2063,6 +2475,8 @@
 		<tag k='ref' v='3621658' />
 		<tag k='name' v="Farmàcia Fando Reynes, Neus" />
 		<tag k='addr:full' v="carrer Joan Miró, 24" />
+		<tag k='addr:street' v="carrer Joan Miró" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933071987' />
@@ -2073,6 +2487,8 @@
 		<tag k='ref' v='3624371' />
 		<tag k='name' v="Farmàcia Relat Vidal, Roser" />
 		<tag k='addr:full' v="avinguda Alfons Xiii,  476-4" />
+		<tag k='addr:street' v="avinguda Alfons Xiii" />
+		<tag k='addr:housenumber' v=" 476-4" />
 		<tag k='addr:postcode' v='08913' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933874299' />
@@ -2083,6 +2499,8 @@
 		<tag k='ref' v='3620733' />
 		<tag k='name' v="Farmàcia Veciana García-Boente" />
 		<tag k='addr:full' v="carrer Casp, 68" />
+		<tag k='addr:street' v="carrer Casp" />
+		<tag k='addr:housenumber' v="68" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933020696' />
@@ -2093,6 +2511,8 @@
 		<tag k='ref' v='3624859' />
 		<tag k='name' v="Farmàcia Rojo Boixareu, Mercedes" />
 		<tag k='addr:full' v="carrer Industria, 65" />
+		<tag k='addr:street' v="carrer Industria" />
+		<tag k='addr:housenumber' v="65" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932588724' />
@@ -2103,6 +2523,8 @@
 		<tag k='ref' v='3623911' />
 		<tag k='name' v="Farmàcia Pellicer López, O. - Miralles Roset, M." />
 		<tag k='addr:full' v="carrer Jorba, 27" />
+		<tag k='addr:street' v="carrer Jorba" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933451061' />
@@ -2113,6 +2535,8 @@
 		<tag k='ref' v='3621818' />
 		<tag k='name' v="Farmàcia Basterra Gabarró, Joan Pascual i Miquel" />
 		<tag k='addr:full' v="passatge Del Taulat, 190" />
+		<tag k='addr:street' v="passatge Del Taulat" />
+		<tag k='addr:housenumber' v="190" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932411624' />
@@ -2123,6 +2547,8 @@
 		<tag k='ref' v='3623255' />
 		<tag k='name' v="Farmàcia Andrés Garcia, Maria Isabel" />
 		<tag k='addr:full' v="rambla Prim, 136" />
+		<tag k='addr:street' v="rambla Prim" />
+		<tag k='addr:housenumber' v="136" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933081249' />
@@ -2133,6 +2559,8 @@
 		<tag k='ref' v='3622928' />
 		<tag k='name' v="Farmàcia Trias Banyeres, Jorge" />
 		<tag k='addr:full' v="passeig Antoni Gassol, 22" />
+		<tag k='addr:street' v="passeig Antoni Gassol" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933075067' />
@@ -2143,6 +2571,8 @@
 		<tag k='ref' v='3623623' />
 		<tag k='name' v="Farmàcia Fabregat Huesa, Àngela" />
 		<tag k='addr:full' v="carrer Pi I Gibert, 66" />
+		<tag k='addr:street' v="carrer Pi I Gibert" />
+		<tag k='addr:housenumber' v="66" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34933811013' />
@@ -2153,6 +2583,8 @@
 		<tag k='ref' v='3623141' />
 		<tag k='name' v="Farmàcia Barenys de Lacha, Begoña" />
 		<tag k='addr:full' v="passatge Urrutia, 64" />
+		<tag k='addr:street' v="passatge Urrutia" />
+		<tag k='addr:housenumber' v="64" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934202342' />
@@ -2163,6 +2595,8 @@
 		<tag k='ref' v='3621121' />
 		<tag k='name' v="Farmàcia García Barrado, M. Carmen" />
 		<tag k='addr:full' v="carrer Amilcar Barca, 158" />
+		<tag k='addr:street' v="carrer Amilcar Barca" />
+		<tag k='addr:housenumber' v="158" />
 		<tag k='addr:postcode' v='08032' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932365034' />
@@ -2173,6 +2607,8 @@
 		<tag k='ref' v='3624705' />
 		<tag k='name' v="Farmàcia Biosca, Humbert - Fernández, Javier" />
 		<tag k='addr:full' v="carrer Guipuscoa, 67" />
+		<tag k='addr:street' v="carrer Guipuscoa" />
+		<tag k='addr:housenumber' v="67" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933144820' />
@@ -2183,6 +2619,8 @@
 		<tag k='ref' v='3621285' />
 		<tag k='name' v="Farmàcia Carbonell Peris, Beatriu" />
 		<tag k='addr:full' v="avinguda Francesc Cambó, 12" />
+		<tag k='addr:street' v="avinguda Francesc Cambó" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933191748' />
@@ -2193,6 +2631,8 @@
 		<tag k='ref' v='3621123' />
 		<tag k='name' v="Farmàcia Tico Grau, Jose Ramon" />
 		<tag k='addr:full' v="carrer Espronceda, 363" />
+		<tag k='addr:street' v="carrer Espronceda" />
+		<tag k='addr:housenumber' v="363" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933523760' />
@@ -2203,6 +2643,8 @@
 		<tag k='ref' v='3624557' />
 		<tag k='name' v="Farmàcia Muzas Cucalón, Concepción" />
 		<tag k='addr:full' v="plaça  Prim, 25" />
+		<tag k='addr:street' v="plaça  Prim" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933074217' />
@@ -2213,6 +2655,8 @@
 		<tag k='ref' v='3623481' />
 		<tag k='name' v="Farmàcia Salvert Girona, Maria del Carmen" />
 		<tag k='addr:full' v="carrer Josep Miret, 4" />
+		<tag k='addr:street' v="carrer Josep Miret" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933132848' />
@@ -2223,6 +2667,8 @@
 		<tag k='ref' v='3624542' />
 		<tag k='name' v="Farmàcia Reche Salmón, M. Cristina" />
 		<tag k='addr:full' v="rambla De Guipúscoa, 98" />
+		<tag k='addr:street' v="rambla De Guipúscoa" />
+		<tag k='addr:housenumber' v="98" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933143259' />
@@ -2233,6 +2679,8 @@
 		<tag k='ref' v='3621962' />
 		<tag k='name' v="Farmàcia Romera Guijarro, Isabel" />
 		<tag k='addr:full' v="passatge Sant Joan, 87" />
+		<tag k='addr:street' v="passatge Sant Joan" />
+		<tag k='addr:housenumber' v="87" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934573657' />
@@ -2243,6 +2691,8 @@
 		<tag k='ref' v='3624652' />
 		<tag k='name' v="Farmàcia Martin Garcia, N / Vila Torrecilla, A" />
 		<tag k='addr:full' v="carrer Sardenya, 184" />
+		<tag k='addr:street' v="carrer Sardenya" />
+		<tag k='addr:housenumber' v="184" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932316055' />
@@ -2253,6 +2703,8 @@
 		<tag k='ref' v='3621839' />
 		<tag k='name' v="Farmàcia Mandianes, Anna - Vallcorba, Gisela" />
 		<tag k='addr:full' v="carrer Cera, 30" />
+		<tag k='addr:street' v="carrer Cera" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932410593' />
@@ -2263,6 +2715,8 @@
 		<tag k='ref' v='3623506' />
 		<tag k='name' v="Farmàcia Marcet Fernández, Ignasi" />
 		<tag k='addr:full' v="avinguda Meridiana, 422" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v="422" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933110201' />
@@ -2273,6 +2727,8 @@
 		<tag k='ref' v='3624440' />
 		<tag k='name' v="Farmàcia Teixidó Casals, Josefa" />
 		<tag k='addr:full' v="carrer Fernando Pessoa, 9" />
+		<tag k='addr:street' v="carrer Fernando Pessoa" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933462560' />
@@ -2283,6 +2739,8 @@
 		<tag k='ref' v='3621671' />
 		<tag k='name' v="Farmàcia Alcalde Orellana, M. Gràcia" />
 		<tag k='addr:full' v="passatge Maragall, 75" />
+		<tag k='addr:street' v="passatge Maragall" />
+		<tag k='addr:housenumber' v="75" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934369201' />
@@ -2293,6 +2751,8 @@
 		<tag k='ref' v='3621020' />
 		<tag k='name' v="Farmàcia Janer Insa, Rosa Maria" />
 		<tag k='addr:full' v="carrer Diputacio, 336" />
+		<tag k='addr:street' v="carrer Diputacio" />
+		<tag k='addr:housenumber' v="336" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932328165' />
@@ -2303,6 +2763,8 @@
 		<tag k='ref' v='3620869' />
 		<tag k='name' v="Farmàcia Mier de Teran Payro, Montserrat" />
 		<tag k='addr:full' v="carrer Mercat, 11" />
+		<tag k='addr:street' v="carrer Mercat" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933450157' />
@@ -2313,6 +2775,8 @@
 		<tag k='ref' v='3624548' />
 		<tag k='name' v="Farmàcia Losa Gaspà, Esther" />
 		<tag k='addr:full' v="carrer Garcilaso, 213" />
+		<tag k='addr:street' v="carrer Garcilaso" />
+		<tag k='addr:housenumber' v="213" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933529703' />
@@ -2323,6 +2787,8 @@
 		<tag k='ref' v='3620860' />
 		<tag k='name' v="Farmàcia Rodríguez Vilar, Javier" />
 		<tag k='addr:full' v="carrer Josep Anselm Clavé, 3" />
+		<tag k='addr:street' v="carrer Josep Anselm Clavé" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933171181' />
@@ -2333,6 +2799,8 @@
 		<tag k='ref' v='3620878' />
 		<tag k='name' v="Farmàcia Bricio Alonso, Beatriu" />
 		<tag k='addr:full' v="carrer Sardenya, 334" />
+		<tag k='addr:street' v="carrer Sardenya" />
+		<tag k='addr:housenumber' v="334" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932367734' />
@@ -2343,6 +2811,8 @@
 		<tag k='ref' v='3620630' />
 		<tag k='name' v="Farmàcia Ramón Mauri, Sergio" />
 		<tag k='addr:full' v="carrer Hospital, 42" />
+		<tag k='addr:street' v="carrer Hospital" />
+		<tag k='addr:housenumber' v="42" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933014792' />
@@ -2353,6 +2823,8 @@
 		<tag k='ref' v='3624669' />
 		<tag k='name' v="Farmàcia Prat Calvet, Carme" />
 		<tag k='addr:full' v="avinguda Mare De Déu De Montserrat, 240" />
+		<tag k='addr:street' v="avinguda Mare De Déu De Montserrat" />
+		<tag k='addr:housenumber' v="240" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934557521' />
@@ -2363,6 +2835,8 @@
 		<tag k='ref' v='3622790' />
 		<tag k='name' v="Farmàcia García Sanmartí, Esteve Maña" />
 		<tag k='addr:full' v="carrer Napols, 271" />
+		<tag k='addr:street' v="carrer Napols" />
+		<tag k='addr:housenumber' v="271" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932570368' />
@@ -2373,6 +2847,8 @@
 		<tag k='ref' v='3624359' />
 		<tag k='name' v="Farmàcia Tabernet Mortes, Maria Belén" />
 		<tag k='addr:full' v="carrer Provensals, 256" />
+		<tag k='addr:street' v="carrer Provensals" />
+		<tag k='addr:housenumber' v="256" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933073680' />
@@ -2383,6 +2859,8 @@
 		<tag k='ref' v='3624851' />
 		<tag k='name' v="Farmàcia Fernández-Rajal, Eduard." />
 		<tag k='addr:full' v="carrer Teide, 6" />
+		<tag k='addr:street' v="carrer Teide" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934291126' />
@@ -2393,6 +2871,8 @@
 		<tag k='ref' v='3620979' />
 		<tag k='name' v="Farmàcia Aguilar Peyra, M. Victòria" />
 		<tag k='addr:full' v="rambla La Rambla, 44" />
+		<tag k='addr:street' v="rambla La Rambla" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933020391' />
@@ -2403,6 +2883,8 @@
 		<tag k='ref' v='3620715' />
 		<tag k='name' v="Farmàcia Almirall Ferran, Blanca" />
 		<tag k='addr:full' v="plaça  De Les Palmeres, 9" />
+		<tag k='addr:street' v="plaça  De Les Palmeres" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933467855' />
@@ -2413,6 +2895,8 @@
 		<tag k='ref' v='3622757' />
 		<tag k='name' v="Farmàcia Àlvarez Pérez, E - Higueras Casares, JM" />
 		<tag k='addr:full' v=" gv corts catalanes, 688" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="688" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932650127' />
@@ -2423,6 +2907,8 @@
 		<tag k='ref' v='3620865' />
 		<tag k='name' v="Farmàcia Giró Loperena, Jaume" />
 		<tag k='addr:full' v="carrer Mariano Aguilo, 53" />
+		<tag k='addr:street' v="carrer Mariano Aguilo" />
+		<tag k='addr:housenumber' v="53" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933071517' />
@@ -2433,6 +2919,8 @@
 		<tag k='ref' v='3620990' />
 		<tag k='name' v="Farmàcia Morera Inglés, Josep M." />
 		<tag k='addr:full' v="passatge Sant Joan, 3" />
+		<tag k='addr:street' v="passatge Sant Joan" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932324210' />
@@ -2443,6 +2931,8 @@
 		<tag k='ref' v='3624593' />
 		<tag k='name' v="Farmàcia Montoro Pérez, Josep - hereus" />
 		<tag k='addr:full' v=" gv corts catalanes, 01180" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="1180" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933134366' />
@@ -2453,6 +2943,8 @@
 		<tag k='ref' v='3621015' />
 		<tag k='name' v="Farmàcia Martinez Morales, A. - Juan Espejo, A." />
 		<tag k='addr:full' v="carrer Amilcar Barca, 7" />
+		<tag k='addr:street' v="carrer Amilcar Barca" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932291781' />
@@ -2463,6 +2955,8 @@
 		<tag k='ref' v='3621806' />
 		<tag k='name' v="Farmàcia Bonany Llorens, M. Pilar" />
 		<tag k='addr:full' v="carrer Sant Antoni Maria Claret, 97" />
+		<tag k='addr:street' v="carrer Sant Antoni Maria Claret" />
+		<tag k='addr:housenumber' v="97" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934356905' />
@@ -2473,6 +2967,8 @@
 		<tag k='ref' v='3623113' />
 		<tag k='name' v="Farmàcia Ventura Buxados, Ramon" />
 		<tag k='addr:full' v="carrer Deia, 6" />
+		<tag k='addr:street' v="carrer Deia" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933598961' />
@@ -2483,6 +2979,8 @@
 		<tag k='ref' v='3624256' />
 		<tag k='name' v="Farmàcia Arranz Bayod, P. - Sallés Arranz, M.C." />
 		<tag k='addr:full' v="carrer Concili De Trento, 7" />
+		<tag k='addr:street' v="carrer Concili De Trento" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933076700' />
@@ -2493,6 +2991,8 @@
 		<tag k='ref' v='3624534' />
 		<tag k='name' v="Farmàcia Bouffard Fita, Fernando" />
 		<tag k='addr:full' v="carrer Josep Pla,  19-21" />
+		<tag k='addr:street' v="carrer Josep Pla" />
+		<tag k='addr:housenumber' v=" 19-21" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933070549' />
@@ -2503,6 +3003,8 @@
 		<tag k='ref' v='3620883' />
 		<tag k='name' v="Farmàcia Taberner Puigdelloses, Núria" />
 		<tag k='addr:full' v="carrer Valencia, 418" />
+		<tag k='addr:street' v="carrer Valencia" />
+		<tag k='addr:housenumber' v="418" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932320166' />
@@ -2513,6 +3015,8 @@
 		<tag k='ref' v='3621460' />
 		<tag k='name' v="Farmàcia Fernández León, Vanessa" />
 		<tag k='addr:full' v=" mo barcelona, 1" />
+		<tag k='addr:street' v=" mo barcelona" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34935088032' />
@@ -2523,6 +3027,8 @@
 		<tag k='ref' v='3621814' />
 		<tag k='name' v="Farmàcia Clapés Antoja, Josep" />
 		<tag k='addr:full' v="rambla La Rambla, 98" />
+		<tag k='addr:street' v="rambla La Rambla" />
+		<tag k='addr:housenumber' v="98" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933012843' />
@@ -2533,6 +3039,8 @@
 		<tag k='ref' v='3620875' />
 		<tag k='name' v="Farmàcia Moya Bort, M. Rosa" />
 		<tag k='addr:full' v="carrer Clot, 50" />
+		<tag k='addr:street' v="carrer Clot" />
+		<tag k='addr:housenumber' v="50" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='source:date' v='03/11/2020 07:58:14 AM +0000' />
@@ -2542,6 +3050,8 @@
 		<tag k='ref' v='3620732' />
 		<tag k='name' v="Farmàcia Diez Montes, Luisa - Roselló Díez, M." />
 		<tag k='addr:full' v="carrer Nou De Les Rambles, 147" />
+		<tag k='addr:street' v="carrer Nou De Les Rambles" />
+		<tag k='addr:housenumber' v="147" />
 		<tag k='addr:postcode' v='08004' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934414291' />
@@ -2552,6 +3062,8 @@
 		<tag k='ref' v='3624216' />
 		<tag k='name' v="Farmàcia Vehi Gasol, Enric Lluís" />
 		<tag k='addr:full' v="carrer Aneto, 14" />
+		<tag k='addr:street' v="carrer Aneto" />
+		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934291595' />
@@ -2562,6 +3074,8 @@
 		<tag k='ref' v='3623391' />
 		<tag k='name' v="Farmàcia Boncompte Giné, Joan Josep" />
 		<tag k='addr:full' v="carrer Guineueta, 19" />
+		<tag k='addr:street' v="carrer Guineueta" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08042' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934274486' />
@@ -2572,6 +3086,8 @@
 		<tag k='ref' v='3623712' />
 		<tag k='name' v="Farmàcia López Rosés, Georgina" />
 		<tag k='addr:full' v=" gv corts catalanes, 1179" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="1179" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933141043' />
@@ -2582,6 +3098,8 @@
 		<tag k='ref' v='3622935' />
 		<tag k='name' v="Farmàcia Ramos Sierra, Manuel" />
 		<tag k='addr:full' v="avinguda Meridiana,  320 b" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v=" 320 b" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933525806' />
@@ -2592,6 +3110,8 @@
 		<tag k='ref' v='3621488' />
 		<tag k='name' v="Farmàcia Marin Loscertales, Mariano" />
 		<tag k='addr:full' v="carrer Lluis El Piedos, 10" />
+		<tag k='addr:street' v="carrer Lluis El Piedos" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933011984' />
@@ -2602,6 +3122,8 @@
 		<tag k='ref' v='3622090' />
 		<tag k='name' v="Farmàcia García-Vela Grace, Marta" />
 		<tag k='addr:full' v="avinguda Pius Xii, 1" />
+		<tag k='addr:street' v="avinguda Pius Xii" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08913' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933876154' />
@@ -2612,6 +3134,8 @@
 		<tag k='ref' v='3620992' />
 		<tag k='name' v="Farmàcia Nadal Casas, Manuel" />
 		<tag k='addr:full' v="rambla Canaletes, 121" />
+		<tag k='addr:street' v="rambla Canaletes" />
+		<tag k='addr:housenumber' v="121" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933174942' />
@@ -2622,6 +3146,8 @@
 		<tag k='ref' v='3620604' />
 		<tag k='name' v="Farmàcia López Linares, Xavier" />
 		<tag k='addr:full' v="carrer Sagrera, 146" />
+		<tag k='addr:street' v="carrer Sagrera" />
+		<tag k='addr:housenumber' v="146" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933525709' />
@@ -2632,6 +3158,8 @@
 		<tag k='ref' v='3624530' />
 		<tag k='name' v="Farmàcia Faura Vendrell, Rosa M." />
 		<tag k='addr:full' v="carrer Navas De Tolosa, 270" />
+		<tag k='addr:street' v="carrer Navas De Tolosa" />
+		<tag k='addr:housenumber' v="270" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933523900' />
@@ -2642,6 +3170,8 @@
 		<tag k='ref' v='3624576' />
 		<tag k='name' v="Farmàcia Calero Torrico, Cristina" />
 		<tag k='addr:full' v="carrer Alsàcia, 8" />
+		<tag k='addr:street' v="carrer Alsàcia" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08042' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933533210' />
@@ -2652,6 +3182,8 @@
 		<tag k='ref' v='3621467' />
 		<tag k='name' v="Farmàcia Albareda, Anna - Pérez, Núria" />
 		<tag k='addr:full' v="carrer Industria, 206" />
+		<tag k='addr:street' v="carrer Industria" />
+		<tag k='addr:housenumber' v="206" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932356369' />
@@ -2662,6 +3194,8 @@
 		<tag k='ref' v='3621802' />
 		<tag k='name' v="Farmàcia Marquez Valls, Marta" />
 		<tag k='addr:full' v="carrer Pallars, 145" />
+		<tag k='addr:street' v="carrer Pallars" />
+		<tag k='addr:housenumber' v="145" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933092313' />
@@ -2672,6 +3206,8 @@
 		<tag k='ref' v='3622083' />
 		<tag k='name' v="Farmàcia Salla Claros, Josepa" />
 		<tag k='addr:full' v="avinguda Marquès De Sant Mori, 16" />
+		<tag k='addr:street' v="avinguda Marquès De Sant Mori" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08913' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933887301' />
@@ -2682,6 +3218,8 @@
 		<tag k='ref' v='3621505' />
 		<tag k='name' v="Farmàcia Del Arco Casanovas, Anna Maria" />
 		<tag k='addr:full' v="plaça  Tetuan, 15" />
+		<tag k='addr:street' v="plaça  Tetuan" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932252612' />
@@ -2692,6 +3230,8 @@
 		<tag k='ref' v='3622772' />
 		<tag k='name' v="Farmàcia González Expósito, Mònica" />
 		<tag k='addr:full' v="passatge Sant Joan, 101" />
+		<tag k='addr:street' v="passatge Sant Joan" />
+		<tag k='addr:housenumber' v="101" />
 		<tag k='addr:postcode' v='08037' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932575179' />
@@ -2702,6 +3242,8 @@
 		<tag k='ref' v='3624093' />
 		<tag k='name' v="Farmàcia Plana Mendo, Joan Josep" />
 		<tag k='addr:full' v="carrer Lope De Vega, 282" />
+		<tag k='addr:street' v="carrer Lope De Vega" />
+		<tag k='addr:housenumber' v="282" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933083958' />
@@ -2712,6 +3254,8 @@
 		<tag k='ref' v='3621637' />
 		<tag k='name' v="Farmàcia Gómez Martínez, Jesus Carlos" />
 		<tag k='addr:full' v="avinguda Mare De Déu De Montserrat, 143" />
+		<tag k='addr:street' v="avinguda Mare De Déu De Montserrat" />
+		<tag k='addr:housenumber' v="143" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934555139' />
@@ -2722,6 +3266,8 @@
 		<tag k='ref' v='3623892' />
 		<tag k='name' v="Farmàcia Bourely Raymond, Noelle" />
 		<tag k='addr:full' v="carrer Valldemossa, 30" />
+		<tag k='addr:street' v="carrer Valldemossa" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933595433' />
@@ -2732,6 +3278,8 @@
 		<tag k='ref' v='3623497' />
 		<tag k='name' v="Farmàcia Vilchez Hidalgo, Jose antonio" />
 		<tag k='addr:full' v="carrer Maresme, 261" />
+		<tag k='addr:street' v="carrer Maresme" />
+		<tag k='addr:housenumber' v="261" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933134197' />
@@ -2742,6 +3290,8 @@
 		<tag k='ref' v='3623588' />
 		<tag k='name' v="Farmàcia De Mier Martí, D. - Carrascal Riera, G." />
 		<tag k='addr:full' v="carrer Boada, 26" />
+		<tag k='addr:street' v="carrer Boada" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933592642' />
@@ -2752,6 +3302,8 @@
 		<tag k='ref' v='3623330' />
 		<tag k='name' v="Farmàcia Redondo Fernandez, Lucila" />
 		<tag k='addr:full' v="avinguda Manuel Fernández Márquez,  73-75" />
+		<tag k='addr:street' v="avinguda Manuel Fernández Márquez" />
+		<tag k='addr:housenumber' v=" 73-75" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34934620698' />
@@ -2762,6 +3314,8 @@
 		<tag k='ref' v='3621797' />
 		<tag k='name' v="Farmàcia Muñio Micolau, Sílvia" />
 		<tag k='addr:full' v="carrer Clot, 81" />
+		<tag k='addr:street' v="carrer Clot" />
+		<tag k='addr:housenumber' v="81" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932313605' />
@@ -2772,6 +3326,8 @@
 		<tag k='ref' v='3621299' />
 		<tag k='name' v="Farmàcia Sánchez Martínez, Socorro" />
 		<tag k='addr:full' v="carrer Pintor Fortuny, 31" />
+		<tag k='addr:street' v="carrer Pintor Fortuny" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933182233' />
@@ -2782,6 +3338,8 @@
 		<tag k='ref' v='3623102' />
 		<tag k='name' v="Farmàcia Hernández Abellán, Marta" />
 		<tag k='addr:full' v="carrer Bailen,  174 B" />
+		<tag k='addr:street' v="carrer Bailen" />
+		<tag k='addr:housenumber' v=" 174 B" />
 		<tag k='addr:postcode' v='08037' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932580652' />
@@ -2792,6 +3350,8 @@
 		<tag k='ref' v='3624238' />
 		<tag k='name' v="Farmàcia Planas Lasa, Rómulo" />
 		<tag k='addr:full' v="carrer Pere Iv, 209" />
+		<tag k='addr:street' v="carrer Pere Iv" />
+		<tag k='addr:housenumber' v="209" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933077408' />
@@ -2802,6 +3362,8 @@
 		<tag k='ref' v='3624110' />
 		<tag k='name' v="Farmàcia Taoudi Benkirane, Anasse" />
 		<tag k='addr:full' v="carrer Berenguer De Palou, 37" />
+		<tag k='addr:street' v="carrer Berenguer De Palou" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933492928' />
@@ -2812,6 +3374,8 @@
 		<tag k='ref' v='3620984' />
 		<tag k='name' v="Farmàcia López Forment,Salvador" />
 		<tag k='addr:full' v="carrer Girona, 90" />
+		<tag k='addr:street' v="carrer Girona" />
+		<tag k='addr:housenumber' v="90" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932576249' />
@@ -2822,6 +3386,8 @@
 		<tag k='ref' v='3624657' />
 		<tag k='name' v="Farmàcia Ruz Torres, Celia" />
 		<tag k='addr:full' v="ronda Del Guinardo, 77" />
+		<tag k='addr:street' v="ronda Del Guinardo" />
+		<tag k='addr:housenumber' v="77" />
 		<tag k='addr:postcode' v='08024' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932364003' />
@@ -2832,6 +3398,8 @@
 		<tag k='ref' v='3621317' />
 		<tag k='name' v="Farmàcia Montaner Rogado, Yolanda" />
 		<tag k='addr:full' v="carrer Sant Pau, 70" />
+		<tag k='addr:street' v="carrer Sant Pau" />
+		<tag k='addr:housenumber' v="70" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932417525' />
@@ -2842,6 +3410,8 @@
 		<tag k='ref' v='3624714' />
 		<tag k='name' v="Farmàcia Morillo Basas, Lourdes" />
 		<tag k='addr:full' v="carrer Paraguai, 25" />
+		<tag k='addr:street' v="carrer Paraguai" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933138400' />
@@ -2852,6 +3422,8 @@
 		<tag k='ref' v='3620599' />
 		<tag k='name' v="Farmàcia Duran Magriñà - González-Meneses Simon" />
 		<tag k='addr:full' v="carrer Pelai, 9" />
+		<tag k='addr:street' v="carrer Pelai" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933176583' />
@@ -2862,6 +3434,8 @@
 		<tag k='ref' v='3621800' />
 		<tag k='name' v="Farmàcia Rodríguez Martínez, Juan Antonio" />
 		<tag k='addr:full' v="carrer Marquesa, 3" />
+		<tag k='addr:street' v="carrer Marquesa" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933199143' />
@@ -2872,6 +3446,8 @@
 		<tag k='ref' v='3621013' />
 		<tag k='name' v="Farmàcia Nieto Calm, Maria Dolors" />
 		<tag k='addr:full' v="carrer Nou De Les Rambles, 28" />
+		<tag k='addr:street' v="carrer Nou De Les Rambles" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933184942' />
@@ -2882,6 +3458,8 @@
 		<tag k='ref' v='3622091' />
 		<tag k='name' v="Farmàcia Segarra Dolset, Sílvia" />
 		<tag k='addr:full' v="avinguda Alfons Xiii, 555" />
+		<tag k='addr:street' v="avinguda Alfons Xiii" />
+		<tag k='addr:housenumber' v="555" />
 		<tag k='addr:postcode' v='08918' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933872749' />
@@ -2892,6 +3470,8 @@
 		<tag k='ref' v='3621471' />
 		<tag k='name' v="Farmàcia Vilaplana Comin, Joan" />
 		<tag k='addr:full' v="carrer Gignas, 5" />
+		<tag k='addr:street' v="carrer Gignas" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933150059' />
@@ -2902,6 +3482,8 @@
 		<tag k='ref' v='3624011' />
 		<tag k='name' v="Farmàcia Salvador Solé, Palmira" />
 		<tag k='addr:full' v="carrer De La Marina, 69" />
+		<tag k='addr:street' v="carrer De La Marina" />
+		<tag k='addr:housenumber' v="69" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933095057' />
@@ -2912,6 +3494,8 @@
 		<tag k='ref' v='3623256' />
 		<tag k='name' v="Farmàcia Carlos Sánchez González" />
 		<tag k='addr:full' v="carrer Guipuscoa, 131" />
+		<tag k='addr:street' v="carrer Guipuscoa" />
+		<tag k='addr:housenumber' v="131" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933135087' />
@@ -2922,6 +3506,8 @@
 		<tag k='ref' v='3624430' />
 		<tag k='name' v="Farmàcia Sanjuan Ull, M. Carme" />
 		<tag k='addr:full' v="carrer Ali-Bei, 131" />
+		<tag k='addr:street' v="carrer Ali-Bei" />
+		<tag k='addr:housenumber' v="131" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932457528' />
@@ -2932,6 +3518,8 @@
 		<tag k='ref' v='3622749' />
 		<tag k='name' v="Farmàcia Rodríguez Basciano, Alain Adolfo" />
 		<tag k='addr:full' v="carrer Sombrerers, 19" />
+		<tag k='addr:street' v="carrer Sombrerers" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933103460' />
@@ -2942,6 +3530,8 @@
 		<tag k='ref' v='3620723' />
 		<tag k='name' v="Farmàcia Sales Llavià, Joan" />
 		<tag k='addr:full' v="carrer Diputacio, 391" />
+		<tag k='addr:street' v="carrer Diputacio" />
+		<tag k='addr:housenumber' v="391" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932454391' />
@@ -2952,6 +3542,8 @@
 		<tag k='ref' v='3623625' />
 		<tag k='name' v="Farmàcia Lloberas Alsina, Anna" />
 		<tag k='addr:full' v="carrer Hondures, 63" />
+		<tag k='addr:street' v="carrer Hondures" />
+		<tag k='addr:housenumber' v="63" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933499070' />
@@ -2962,6 +3554,8 @@
 		<tag k='ref' v='3623789' />
 		<tag k='name' v="Farmàcia Calduch Barneda, Joaquim" />
 		<tag k='addr:full' v="carrer Joan Torres,  21-23" />
+		<tag k='addr:street' v="carrer Joan Torres" />
+		<tag k='addr:housenumber' v=" 21-23" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933111207' />
@@ -2972,6 +3566,8 @@
 		<tag k='ref' v='3623689' />
 		<tag k='name' v="Farmàcia García Coma, Xavier" />
 		<tag k='addr:full' v="carrer Bac De Roda, 168" />
+		<tag k='addr:street' v="carrer Bac De Roda" />
+		<tag k='addr:housenumber' v="168" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933088362' />
@@ -2982,6 +3578,8 @@
 		<tag k='ref' v='3620969' />
 		<tag k='name' v="Farmàcia Prat Noguera, Roser" />
 		<tag k='addr:full' v="carrer Padilla, 156" />
+		<tag k='addr:street' v="carrer Padilla" />
+		<tag k='addr:housenumber' v="156" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932314704' />
@@ -2992,6 +3590,8 @@
 		<tag k='ref' v='3621810' />
 		<tag k='name' v="Farmàcia Ibáñez Gimeno, Marta" />
 		<tag k='addr:full' v="avinguda Diagonal, 319" />
+		<tag k='addr:street' v="avinguda Diagonal" />
+		<tag k='addr:housenumber' v="319" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932583412' />
@@ -3002,6 +3602,8 @@
 		<tag k='ref' v='3624653' />
 		<tag k='name' v="Farmàcia Ortuño Gobern, M. Pilar" />
 		<tag k='addr:full' v="carrer Casp, 67" />
+		<tag k='addr:street' v="carrer Casp" />
+		<tag k='addr:housenumber' v="67" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932320057' />
@@ -3012,6 +3614,8 @@
 		<tag k='ref' v='3620614' />
 		<tag k='name' v="Farmàcia Sunyer Bellido, Anna" />
 		<tag k='addr:full' v="carrer Llull, 102" />
+		<tag k='addr:street' v="carrer Llull" />
+		<tag k='addr:housenumber' v="102" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933009805' />
@@ -3022,6 +3626,8 @@
 		<tag k='ref' v='3624511' />
 		<tag k='name' v="Farmàcia Buron Perez,  Montserrat" />
 		<tag k='addr:full' v="carrer Selva De Mar, 273" />
+		<tag k='addr:street' v="carrer Selva De Mar" />
+		<tag k='addr:housenumber' v="273" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933074457' />
@@ -3032,6 +3638,8 @@
 		<tag k='ref' v='3621798' />
 		<tag k='name' v="Farmàcia Vives Sánchez, Adela" />
 		<tag k='addr:full' v="ronda Sant Pau, 3" />
+		<tag k='addr:street' v="ronda Sant Pau" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08015' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932315995' />
@@ -3042,6 +3650,8 @@
 		<tag k='ref' v='3621149' />
 		<tag k='name' v="Farmàcia Shalabi Benavent, Rami Raül" />
 		<tag k='addr:full' v="carrer Pujadas, 151" />
+		<tag k='addr:street' v="carrer Pujadas" />
+		<tag k='addr:housenumber' v="151" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933092623' />
@@ -3052,6 +3662,8 @@
 		<tag k='ref' v='3622788' />
 		<tag k='name' v="Farmàcia Domenech Arno, Cristina" />
 		<tag k='addr:full' v="carrer Pallars, 328" />
+		<tag k='addr:street' v="carrer Pallars" />
+		<tag k='addr:housenumber' v="328" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933034463' />
@@ -3062,6 +3674,8 @@
 		<tag k='ref' v='3621680' />
 		<tag k='name' v="Farmàcia Naudin Ferrer, Àngels" />
 		<tag k='addr:full' v="carrer Provença, 536" />
+		<tag k='addr:street' v="carrer Provença" />
+		<tag k='addr:housenumber' v="536" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932361397' />
@@ -3072,6 +3686,8 @@
 		<tag k='ref' v='3623914' />
 		<tag k='name' v="Farmàcia Galindo Planas, Cristina" />
 		<tag k='addr:full' v=" gv corts catalanes, 01113" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="1113" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933136709' />
@@ -3082,6 +3698,8 @@
 		<tag k='ref' v='3623624' />
 		<tag k='name' v="Farmàcia Guàrdia Pascual, Dídac" />
 		<tag k='addr:full' v="carrer Estadella, 27" />
+		<tag k='addr:street' v="carrer Estadella" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933130337' />
@@ -3092,6 +3710,8 @@
 		<tag k='ref' v='3620598' />
 		<tag k='name' v="Farmàcia Cardona Arenas, Beatriu" />
 		<tag k='addr:full' v="carrer Fonollar, 26" />
+		<tag k='addr:street' v="carrer Fonollar" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932689143' />
@@ -3102,6 +3722,8 @@
 		<tag k='ref' v='3621498' />
 		<tag k='name' v="Farmàcia Petit Guinovart, A - Benlloch Petit, C" />
 		<tag k='addr:full' v="carrer Industria, 25" />
+		<tag k='addr:street' v="carrer Industria" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08037' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932583832' />
@@ -3112,6 +3734,8 @@
 		<tag k='ref' v='3621012' />
 		<tag k='name' v="Farmàcia Vidal Pages, Maria Mercè" />
 		<tag k='addr:full' v="passatge Joan De Borbó, 33" />
+		<tag k='addr:street' v="passatge Joan De Borbó" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933194551' />
@@ -3122,6 +3746,8 @@
 		<tag k='ref' v='3620853' />
 		<tag k='name' v="Farmàcia Xalabarder Miramanda, Avel·lí" />
 		<tag k='addr:full' v="carrer Pujadas, 247" />
+		<tag k='addr:street' v="carrer Pujadas" />
+		<tag k='addr:housenumber' v="247" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933070168' />
@@ -3132,6 +3758,8 @@
 		<tag k='ref' v='3623132' />
 		<tag k='name' v="Farmàcia Muntané Rodrigo, Josep Maria" />
 		<tag k='addr:full' v="carrer Espronceda, 308" />
+		<tag k='addr:street' v="carrer Espronceda" />
+		<tag k='addr:housenumber' v="308" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933492842' />
@@ -3142,6 +3770,8 @@
 		<tag k='ref' v='3622132' />
 		<tag k='name' v="Farmàcia Granero San Martín, Esther Vanesa" />
 		<tag k='addr:full' v="carrer Marina, 121" />
+		<tag k='addr:street' v="carrer Marina" />
+		<tag k='addr:housenumber' v="121" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932451645' />
@@ -3152,6 +3782,8 @@
 		<tag k='ref' v='3624751' />
 		<tag k='name' v="Farmàcia Soriano Sempere, José Javier" />
 		<tag k='addr:full' v="carretera Antiga De Valencia, 31" />
+		<tag k='addr:street' v="carretera Antiga De Valencia" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08914' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933999276' />
@@ -3162,6 +3794,8 @@
 		<tag k='ref' v='3623082' />
 		<tag k='name' v="Farmàcia Pastrana Fontanet, Roser" />
 		<tag k='addr:full' v="carrer Jaume Fabré, 2" />
+		<tag k='addr:street' v="carrer Jaume Fabré" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933051701' />
@@ -3172,6 +3806,8 @@
 		<tag k='ref' v='3623819' />
 		<tag k='name' v="Farmàcia Soler Cuyas, Guillermo" />
 		<tag k='addr:full' v="carrer Sant Antoni Maria Claret, 57" />
+		<tag k='addr:street' v="carrer Sant Antoni Maria Claret" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932071848' />
@@ -3182,6 +3818,8 @@
 		<tag k='ref' v='3622511' />
 		<tag k='name' v="Farmàcia Clapés Collantes, Aïda" />
 		<tag k='addr:full' v="carrer Miquel Servet, 7" />
+		<tag k='addr:street' v="carrer Miquel Servet" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34933810132' />
@@ -3192,6 +3830,8 @@
 		<tag k='ref' v='3620996' />
 		<tag k='name' v="Farmàcia Benavides Helbig, Santiago" />
 		<tag k='addr:full' v="carrer Joaquim Costa, 31" />
+		<tag k='addr:street' v="carrer Joaquim Costa" />
+		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932424945' />
@@ -3202,6 +3842,8 @@
 		<tag k='ref' v='3622775' />
 		<tag k='name' v="Farmàcia Morera Serda, Josefa" />
 		<tag k='addr:full' v="carrer Roser, 28" />
+		<tag k='addr:street' v="carrer Roser" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08004' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932416176' />
@@ -3212,6 +3854,8 @@
 		<tag k='ref' v='3624667' />
 		<tag k='name' v="Farmàcia Domingo Ortega, Carles" />
 		<tag k='addr:full' v="carrer Guipuzcoa,  21 BI" />
+		<tag k='addr:street' v="carrer Guipuzcoa" />
+		<tag k='addr:housenumber' v=" 21 BI" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933077064' />
@@ -3222,6 +3866,8 @@
 		<tag k='ref' v='3620862' />
 		<tag k='name' v="Farmàcia Planes Casals, M. Carmen" />
 		<tag k='addr:full' v="carrer Garcilaso, 138" />
+		<tag k='addr:street' v="carrer Garcilaso" />
+		<tag k='addr:housenumber' v="138" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933527453' />
@@ -3232,6 +3878,8 @@
 		<tag k='ref' v='3621457' />
 		<tag k='name' v="Farmàcia Grau Gasulla, M. Isabel" />
 		<tag k='addr:full' v=" gv corts catalanes, 763" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="763" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932315105' />
@@ -3242,6 +3890,8 @@
 		<tag k='ref' v='3623600' />
 		<tag k='name' v="Farmàcia Iglesias Bergadà, Mercè" />
 		<tag k='addr:full' v="carrer Sant Antoni Maria Claret, 277" />
+		<tag k='addr:street' v="carrer Sant Antoni Maria Claret" />
+		<tag k='addr:housenumber' v="277" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933519753' />
@@ -3252,6 +3902,8 @@
 		<tag k='ref' v='3621119' />
 		<tag k='name' v="Farmàcia Varela i Mato, Concepció" />
 		<tag k='addr:full' v="carrer Sant Joan De Malta, 111" />
+		<tag k='addr:street' v="carrer Sant Joan De Malta" />
+		<tag k='addr:housenumber' v="111" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933074535' />
@@ -3262,6 +3914,8 @@
 		<tag k='ref' v='3624277' />
 		<tag k='name' v="Farmàcia Teixidó González, M - González Roger, N" />
 		<tag k='addr:full' v="carrer Llull, 269" />
+		<tag k='addr:street' v="carrer Llull" />
+		<tag k='addr:housenumber' v="269" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933087204' />
@@ -3272,6 +3926,8 @@
 		<tag k='ref' v='3621997' />
 		<tag k='name' v="Farmàcia Esquerrà Gimeno, Sergio" />
 		<tag k='addr:full' v="carrer València, 530" />
+		<tag k='addr:street' v="carrer València" />
+		<tag k='addr:housenumber' v="530" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932323055' />
@@ -3282,6 +3938,8 @@
 		<tag k='ref' v='3624219' />
 		<tag k='name' v="Farmàcia Prat Calvet, Josep" />
 		<tag k='addr:full' v="passeig Llívia, 47" />
+		<tag k='addr:street' v="passeig Llívia" />
+		<tag k='addr:housenumber' v="47" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932355093' />
@@ -3292,6 +3950,8 @@
 		<tag k='ref' v='3622755' />
 		<tag k='name' v="Farmàcia Barturen Echeverría, Begoña" />
 		<tag k='addr:full' v="carrer Casp, 151" />
+		<tag k='addr:street' v="carrer Casp" />
+		<tag k='addr:housenumber' v="151" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932319406' />
@@ -3302,6 +3962,8 @@
 		<tag k='ref' v='3620607' />
 		<tag k='name' v="Farmàcia Arbones, Rosa.M..- Braun, Joan" />
 		<tag k='addr:full' v="carrer Pallars, 231" />
+		<tag k='addr:street' v="carrer Pallars" />
+		<tag k='addr:housenumber' v="231" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933000918' />
@@ -3312,6 +3974,8 @@
 		<tag k='ref' v='3620720' />
 		<tag k='name' v="Farmàcia Rojo Arribas, Itziar" />
 		<tag k='addr:full' v="carrer De Sant Pau, 112" />
+		<tag k='addr:street' v="carrer De Sant Pau" />
+		<tag k='addr:housenumber' v="112" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932417586' />
@@ -3322,6 +3986,8 @@
 		<tag k='ref' v='3623807' />
 		<tag k='name' v="Farmàcia Falcó Planas, Eva" />
 		<tag k='addr:full' v="carrer Albareda,  6-8" />
+		<tag k='addr:street' v="carrer Albareda" />
+		<tag k='addr:housenumber' v=" 6-8" />
 		<tag k='addr:postcode' v='08004' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933290864' />
@@ -3332,6 +3998,8 @@
 		<tag k='ref' v='3624701' />
 		<tag k='name' v="Farmàcia Mancho Muñoz, Amparo" />
 		<tag k='addr:full' v="avinguda Mare De Déu De Montserrat, 109" />
+		<tag k='addr:street' v="avinguda Mare De Déu De Montserrat" />
+		<tag k='addr:housenumber' v="109" />
 		<tag k='addr:postcode' v='08024' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932358865' />
@@ -3342,6 +4010,8 @@
 		<tag k='ref' v='3621290' />
 		<tag k='name' v="Farmàcia Puchol Jambert / Garcia-Miranda Rojas" />
 		<tag k='addr:full' v="carrer Girona, 76" />
+		<tag k='addr:street' v="carrer Girona" />
+		<tag k='addr:housenumber' v="76" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932652369' />
@@ -3352,6 +4022,8 @@
 		<tag k='ref' v='3621663' />
 		<tag k='name' v="Farmàcia Aranda Guerra, Eva" />
 		<tag k='addr:full' v="carrer Escocia, 64" />
+		<tag k='addr:street' v="carrer Escocia" />
+		<tag k='addr:housenumber' v="64" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933528503' />
@@ -3362,6 +4034,8 @@
 		<tag k='ref' v='3622752' />
 		<tag k='name' v="Farmàcia Alarcón Ruíz, M. Lluïsa i Andreu" />
 		<tag k='addr:full' v="carrer Bruc, 64" />
+		<tag k='addr:street' v="carrer Bruc" />
+		<tag k='addr:housenumber' v="64" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933177491' />
@@ -3372,6 +4046,8 @@
 		<tag k='ref' v='3620882' />
 		<tag k='name' v="Farmàcia Capdevila Arús, Ramón" />
 		<tag k='addr:full' v="carrer Clot, 184" />
+		<tag k='addr:street' v="carrer Clot" />
+		<tag k='addr:housenumber' v="184" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932321666' />
@@ -3382,6 +4058,8 @@
 		<tag k='ref' v='3624270' />
 		<tag k='name' v="Farmàcia Faus Riera, Núria" />
 		<tag k='addr:full' v="carrer Lima, 16" />
+		<tag k='addr:street' v="carrer Lima" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933450662' />
@@ -3392,6 +4070,8 @@
 		<tag k='ref' v='3622761' />
 		<tag k='name' v="Farmàcia Fonoll Piqué, Josep" />
 		<tag k='addr:full' v="carrer Sant Pere Més Baix, 52" />
+		<tag k='addr:street' v="carrer Sant Pere Més Baix" />
+		<tag k='addr:housenumber' v="52" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933190329' />
@@ -3402,6 +4082,8 @@
 		<tag k='ref' v='3622751' />
 		<tag k='name' v="Farmàcia Pedragosa Cacha, Santiago" />
 		<tag k='addr:full' v="carrer Sant Pere Més Baix, 17" />
+		<tag k='addr:street' v="carrer Sant Pere Més Baix" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932190397' />
@@ -3412,6 +4094,8 @@
 		<tag k='ref' v='3624864' />
 		<tag k='name' v="Farmàcia Gaspa, M. Antònia - Massana, Sílvia" />
 		<tag k='addr:full' v="carrer Perpinya, 25" />
+		<tag k='addr:street' v="carrer Perpinya" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933050901' />
@@ -3422,6 +4106,8 @@
 		<tag k='ref' v='3623578' />
 		<tag k='name' v="Farmàcia San Martin Peláez, Maria Montserrat" />
 		<tag k='addr:full' v="carrer Brusel.Les, 43" />
+		<tag k='addr:street' v="carrer Brusel.Les" />
+		<tag k='addr:housenumber' v="43" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932350807' />
@@ -3432,6 +4118,8 @@
 		<tag k='ref' v='3624108' />
 		<tag k='name' v="Farmàcia Benito Solanes, Ana" />
 		<tag k='addr:full' v="rambla Prim, 244" />
+		<tag k='addr:street' v="rambla Prim" />
+		<tag k='addr:housenumber' v="244" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933132440' />
@@ -3442,6 +4130,8 @@
 		<tag k='ref' v='3620633' />
 		<tag k='name' v="Farmàcia Enrich Esteve, Anna" />
 		<tag k='addr:full' v="carrer Ferran, 7" />
+		<tag k='addr:street' v="carrer Ferran" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933172282' />
@@ -3452,6 +4142,8 @@
 		<tag k='ref' v='3622756' />
 		<tag k='name' v="Farmàcia Collellmir Morales, Marta" />
 		<tag k='addr:full' v="carrer Sant Antoni Maria Claret, 181" />
+		<tag k='addr:street' v="carrer Sant Antoni Maria Claret" />
+		<tag k='addr:housenumber' v="181" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934356684' />
@@ -3462,6 +4154,8 @@
 		<tag k='ref' v='3624518' />
 		<tag k='name' v="Farmàcia Villanueva Villalba, M. Pilar" />
 		<tag k='addr:full' v="carrer Sant Quinti, 20" />
+		<tag k='addr:street' v="carrer Sant Quinti" />
+		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932365105' />
@@ -3472,6 +4166,8 @@
 		<tag k='ref' v='3621297' />
 		<tag k='name' v="Farmàcia March Puigoriol, Rosa M." />
 		<tag k='addr:full' v="carrer Mallorca, 312" />
+		<tag k='addr:street' v="carrer Mallorca" />
+		<tag k='addr:housenumber' v="312" />
 		<tag k='addr:postcode' v='08037' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932576944' />
@@ -3482,6 +4178,8 @@
 		<tag k='ref' v='3623704' />
 		<tag k='name' v="Farmàcia Masagué Ramonell, Anna" />
 		<tag k='addr:full' v="carrer Roger De Flor, 87" />
+		<tag k='addr:street' v="carrer Roger De Flor" />
+		<tag k='addr:housenumber' v="87" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933716877' />
@@ -3492,6 +4190,8 @@
 		<tag k='ref' v='3621472' />
 		<tag k='name' v="Farmàcia Camprubí Ribalta, M. Falgas" />
 		<tag k='addr:full' v="carrer De Sant Pau, 44" />
+		<tag k='addr:street' v="carrer De Sant Pau" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933020748' />
@@ -3502,6 +4202,8 @@
 		<tag k='ref' v='3623701' />
 		<tag k='name' v="Farmàcia Valsecchi Coma, Glòria" />
 		<tag k='addr:full' v="carrer Garrofers, 52" />
+		<tag k='addr:street' v="carrer Garrofers" />
+		<tag k='addr:housenumber' v="52" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933773853' />
@@ -3512,6 +4214,8 @@
 		<tag k='ref' v='3622148' />
 		<tag k='name' v="Farmàcia Subietas Mesalles, Susanna" />
 		<tag k='addr:full' v="avinguda Meridiana, 510" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v="510" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933451342' />
@@ -3522,6 +4226,8 @@
 		<tag k='ref' v='3623792' />
 		<tag k='name' v="Farmàcia Torrents Grau, Glòria" />
 		<tag k='addr:full' v="carrer Roger De Flor, 166" />
+		<tag k='addr:street' v="carrer Roger De Flor" />
+		<tag k='addr:housenumber' v="166" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932461228' />
@@ -3532,6 +4238,8 @@
 		<tag k='ref' v='3622934' />
 		<tag k='name' v="Farmàcia Miravitlles Gultresa, Carlota" />
 		<tag k='addr:full' v="carrer Julian Besteiro, 3" />
+		<tag k='addr:street' v="carrer Julian Besteiro" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933073075' />
@@ -3542,6 +4250,8 @@
 		<tag k='ref' v='3622084' />
 		<tag k='name' v="Farmàcia Faura Monguió, Montserrat" />
 		<tag k='addr:full' v="avinguda Alfons Xiii, 256" />
+		<tag k='addr:street' v="avinguda Alfons Xiii" />
+		<tag k='addr:housenumber' v="256" />
 		<tag k='addr:postcode' v='08914' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933870343' />
@@ -3552,6 +4262,8 @@
 		<tag k='ref' v='3621629' />
 		<tag k='name' v="Farmàcia Renedo Igal, Gemma" />
 		<tag k='addr:full' v="carrer Zamora, 38" />
+		<tag k='addr:street' v="carrer Zamora" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933093807' />
@@ -3562,6 +4274,8 @@
 		<tag k='ref' v='3620762' />
 		<tag k='name' v="Farmàcia Malo Castan, Beatriz" />
 		<tag k='addr:full' v="carrer Ciutat De Granada, 81" />
+		<tag k='addr:street' v="carrer Ciutat De Granada" />
+		<tag k='addr:housenumber' v="81" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933001070' />
@@ -3572,6 +4286,8 @@
 		<tag k='ref' v='3623402' />
 		<tag k='name' v="Farmàcia Fabré Cabane, L. i M." />
 		<tag k='addr:full' v="carrer Enamorats, 145" />
+		<tag k='addr:street' v="carrer Enamorats" />
+		<tag k='addr:housenumber' v="145" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932457270' />
@@ -3582,6 +4298,8 @@
 		<tag k='ref' v='3624431' />
 		<tag k='name' v="Farmàcia Pérez Ortega, Raül" />
 		<tag k='addr:full' v="carrer Llull, 385" />
+		<tag k='addr:street' v="carrer Llull" />
+		<tag k='addr:housenumber' v="385" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933075908' />
@@ -3592,6 +4310,8 @@
 		<tag k='ref' v='3621982' />
 		<tag k='name' v="Farmàcia Sabaté Faura, Jaume" />
 		<tag k='addr:full' v="carrer Doctor Santponç, 103" />
+		<tag k='addr:street' v="carrer Doctor Santponç" />
+		<tag k='addr:housenumber' v="103" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933467604' />
@@ -3602,6 +4322,8 @@
 		<tag k='ref' v='3620851' />
 		<tag k='name' v="Farmàcia Aranda Guerra, R. - Guerra Maurici, D." />
 		<tag k='addr:full' v="passatge Fabra I Puig, 210" />
+		<tag k='addr:street' v="passatge Fabra I Puig" />
+		<tag k='addr:housenumber' v="210" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934084708' />
@@ -3612,6 +4334,8 @@
 		<tag k='ref' v='3623800' />
 		<tag k='name' v="Farmàcia Ortiz de Saracho Mata, Sofia" />
 		<tag k='addr:full' v="carrer Montserrat Casanovas, 12" />
+		<tag k='addr:street' v="carrer Montserrat Casanovas" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08032' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933573046' />
@@ -3622,6 +4346,8 @@
 		<tag k='ref' v='3621647' />
 		<tag k='name' v="Farmàcia Xuriguera Hernández, Xavier" />
 		<tag k='addr:full' v="carrer Consell De Cent, 575" />
+		<tag k='addr:street' v="carrer Consell De Cent" />
+		<tag k='addr:housenumber' v="575" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932315260' />
@@ -3632,6 +4358,8 @@
 		<tag k='ref' v='3623095' />
 		<tag k='name' v="Farmàcia Parejo Cuesta, Anna M." />
 		<tag k='addr:full' v="avinguda Meridiana, 30" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933007718' />
@@ -3642,6 +4370,8 @@
 		<tag k='ref' v='3624278' />
 		<tag k='name' v="Farmàcia Subias Solanas, Laura" />
 		<tag k='addr:full' v="carrer Wellington, 27" />
+		<tag k='addr:street' v="carrer Wellington" />
+		<tag k='addr:housenumber' v="27" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933001427' />
@@ -3652,6 +4382,8 @@
 		<tag k='ref' v='3622782' />
 		<tag k='name' v="Farmàcia Bombardo Vial, Miquel" />
 		<tag k='addr:full' v="carrer Nou De Les Rambles, 75" />
+		<tag k='addr:street' v="carrer Nou De Les Rambles" />
+		<tag k='addr:housenumber' v="75" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932410377' />
@@ -3662,6 +4394,8 @@
 		<tag k='ref' v='3623993' />
 		<tag k='name' v="Farmàcia Aranda Guerra, M. Dolores" />
 		<tag k='addr:full' v="carrer Santa Matilde, 8" />
+		<tag k='addr:street' v="carrer Santa Matilde" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933574894' />
@@ -3672,6 +4406,8 @@
 		<tag k='ref' v='3623399' />
 		<tag k='name' v="Farmàcia Bosch Sagrera, Antònia" />
 		<tag k='addr:full' v="carrer Menorca, 100" />
+		<tag k='addr:street' v="carrer Menorca" />
+		<tag k='addr:housenumber' v="100" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933134430' />
@@ -3682,6 +4418,8 @@
 		<tag k='ref' v='3620713' />
 		<tag k='name' v="Farmàcia Ribot Pujol, Núria" />
 		<tag k='addr:full' v="carrer Sant Adria, 131" />
+		<tag k='addr:street' v="carrer Sant Adria" />
+		<tag k='addr:housenumber' v="131" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933455857' />
@@ -3692,6 +4430,8 @@
 		<tag k='ref' v='3624140' />
 		<tag k='name' v="Farmàcia Dario Messi, Cristian" />
 		<tag k='addr:full' v="carrer Valencia,  614 B" />
+		<tag k='addr:street' v="carrer Valencia" />
+		<tag k='addr:housenumber' v=" 614 B" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932456322' />
@@ -3702,6 +4442,8 @@
 		<tag k='ref' v='3621635' />
 		<tag k='name' v="Farmàcia Cartaña Gamez, M. Carme" />
 		<tag k='addr:full' v="passatge Maragall, 106" />
+		<tag k='addr:street' v="passatge Maragall" />
+		<tag k='addr:housenumber' v="106" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933518414' />
@@ -3712,6 +4454,8 @@
 		<tag k='ref' v='3621316' />
 		<tag k='name' v="Farmàcia Urgell Roura, Montserrat" />
 		<tag k='addr:full' v="carrer Valencia, 393" />
+		<tag k='addr:street' v="carrer Valencia" />
+		<tag k='addr:housenumber' v="393" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932582652' />
@@ -3722,6 +4466,8 @@
 		<tag k='ref' v='3624112' />
 		<tag k='name' v="Farmàcia Pérez Abio, Gerard" />
 		<tag k='addr:full' v="carrer Juan De Garay, 59" />
+		<tag k='addr:street' v="carrer Juan De Garay" />
+		<tag k='addr:housenumber' v="59" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933499369' />
@@ -3732,6 +4478,8 @@
 		<tag k='ref' v='3623276' />
 		<tag k='name' v="Farmàcia Pla Pastrana, Mariàngela" />
 		<tag k='addr:full' v="carrer Alfons V El Magnanim,  91 L-" />
+		<tag k='addr:street' v="carrer Alfons V El Magnanim" />
+		<tag k='addr:housenumber' v=" 91 L-" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933052252' />
@@ -3742,6 +4490,8 @@
 		<tag k='ref' v='3624245' />
 		<tag k='name' v="Farmàcia Lucea Teruel, Esther" />
 		<tag k='addr:full' v="carrer Piferrer, 99" />
+		<tag k='addr:street' v="carrer Piferrer" />
+		<tag k='addr:housenumber' v="99" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933524906' />
@@ -3752,6 +4502,8 @@
 		<tag k='ref' v='3624244' />
 		<tag k='name' v="Farmàcia García Belmonte, M. del Rocío" />
 		<tag k='addr:full' v="ronda Guinardó, 156" />
+		<tag k='addr:street' v="ronda Guinardó" />
+		<tag k='addr:housenumber' v="156" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934553070' />
@@ -3762,6 +4514,8 @@
 		<tag k='ref' v='3622750' />
 		<tag k='name' v="Farmàcia Herrero Cerdà, Josep" />
 		<tag k='addr:full' v="carrer Borrell, 68" />
+		<tag k='addr:street' v="carrer Borrell" />
+		<tag k='addr:housenumber' v="68" />
 		<tag k='addr:postcode' v='08015' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932235846' />
@@ -3772,6 +4526,8 @@
 		<tag k='ref' v='3624203' />
 		<tag k='name' v="Farmàcia Hernández Auladell, Laura" />
 		<tag k='addr:full' v="carrer Vinyals, 38" />
+		<tag k='addr:street' v="carrer Vinyals" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932564675' />
@@ -3782,6 +4538,8 @@
 		<tag k='ref' v='3620580' />
 		<tag k='name' v="Farmàcia Morral Suarez, Clara" />
 		<tag k='addr:full' v="carrer Roger De Lluria, 37" />
+		<tag k='addr:street' v="carrer Roger De Lluria" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933183626' />
@@ -3792,6 +4550,8 @@
 		<tag k='ref' v='3621633' />
 		<tag k='name' v="Farmàcia Valero Barlabé, Raimont" />
 		<tag k='addr:full' v="carrer Doctor Pi I Molist, 1" />
+		<tag k='addr:street' v="carrer Doctor Pi I Molist" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933524556' />
@@ -3802,6 +4562,8 @@
 		<tag k='ref' v='3620739' />
 		<tag k='name' v="Farmàcia García del Cerro, Carolina" />
 		<tag k='addr:full' v="carrer Llacuna, 100" />
+		<tag k='addr:street' v="carrer Llacuna" />
+		<tag k='addr:housenumber' v="100" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933004367' />
@@ -3812,6 +4574,8 @@
 		<tag k='ref' v='3621295' />
 		<tag k='name' v="Farmàcia Puig de Dou, M. Queralt" />
 		<tag k='addr:full' v="carrer Mallorca, 468" />
+		<tag k='addr:street' v="carrer Mallorca" />
+		<tag k='addr:housenumber' v="468" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932329456' />
@@ -3822,6 +4586,8 @@
 		<tag k='ref' v='3622742' />
 		<tag k='name' v="Farmàcia Pujol Cid, Joan Lluís" />
 		<tag k='addr:full' v="carrer Ample, 25" />
+		<tag k='addr:street' v="carrer Ample" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933011643' />
@@ -3832,6 +4598,8 @@
 		<tag k='ref' v='3622760' />
 		<tag k='name' v="Farmàcia Barenys de Lacha, Lluís" />
 		<tag k='addr:full' v="carrer Comtal, 25" />
+		<tag k='addr:street' v="carrer Comtal" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933178344' />
@@ -3842,6 +4610,8 @@
 		<tag k='ref' v='3621976' />
 		<tag k='name' v="Farmàcia Pané Trullols, Esther" />
 		<tag k='addr:full' v="passatge Maragall, 358" />
+		<tag k='addr:street' v="passatge Maragall" />
+		<tag k='addr:housenumber' v="358" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932293030' />
@@ -3852,6 +4622,8 @@
 		<tag k='ref' v='3621080' />
 		<tag k='name' v="Farmàcia Rodriguez Rubio, Joan Carles" />
 		<tag k='addr:full' v="passeig Sant Elies, 8" />
+		<tag k='addr:street' v="passeig Sant Elies" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08918' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34934604683' />
@@ -3862,6 +4634,8 @@
 		<tag k='ref' v='3624527' />
 		<tag k='name' v="Farmàcia Llorens Sole, Anna" />
 		<tag k='addr:full' v="avinguda Meridiana, 361" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v="361" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933528404' />
@@ -3872,6 +4646,8 @@
 		<tag k='ref' v='3620726' />
 		<tag k='name' v="Farmàcia Galcerà Monné, M. Elena i Rosa" />
 		<tag k='addr:full' v=" gv corts catalanes, 00731" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="731" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932312304' />
@@ -3882,6 +4658,8 @@
 		<tag k='ref' v='3621662' />
 		<tag k='name' v="Farmàcia Fernández Oromí, Jordi" />
 		<tag k='addr:full' v="carrer Felip Ii, 186" />
+		<tag k='addr:street' v="carrer Felip Ii" />
+		<tag k='addr:housenumber' v="186" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933528102' />
@@ -3892,6 +4670,8 @@
 		<tag k='ref' v='3620596' />
 		<tag k='name' v="Farmàcia Bouffard Fita, Carina" />
 		<tag k='addr:full' v="carrer Roger De Lluria, 17" />
+		<tag k='addr:street' v="carrer Roger De Lluria" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933173791' />
@@ -3902,6 +4682,8 @@
 		<tag k='ref' v='3620857' />
 		<tag k='name' v="Farmàcia Luna Molero, Maria del Mar" />
 		<tag k='addr:full' v="carrer Vila I Vilà, 57" />
+		<tag k='addr:street' v="carrer Vila I Vilà" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='08004' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932414185' />
@@ -3912,6 +4694,8 @@
 		<tag k='ref' v='3622001' />
 		<tag k='name' v="Farmàcia Condal Espinal, Rosa Maria" />
 		<tag k='addr:full' v="carrer Reina Cristina, 1" />
+		<tag k='addr:street' v="carrer Reina Cristina" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933105461' />
@@ -3922,6 +4706,8 @@
 		<tag k='ref' v='3622778' />
 		<tag k='name' v="Farmàcia Hernández de la Rosa, Carme" />
 		<tag k='addr:full' v="rambla La Rambla, 38" />
+		<tag k='addr:street' v="rambla La Rambla" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933172192' />
@@ -3932,6 +4718,8 @@
 		<tag k='ref' v='3621668' />
 		<tag k='name' v="Farmàcia Marqueta Ariño, C - García Marqueta, E" />
 		<tag k='addr:full' v="carrer Selva De Mar, 34" />
+		<tag k='addr:street' v="carrer Selva De Mar" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933071208' />
@@ -3942,6 +4730,8 @@
 		<tag k='ref' v='3623287' />
 		<tag k='name' v="Farmàcia Fernández Fernández, Elia" />
 		<tag k='addr:full' v=" gv de les corts catalanes, 1157" />
+		<tag k='addr:street' v=" gv de les corts catalanes" />
+		<tag k='addr:housenumber' v="1157" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933141084' />
@@ -3952,6 +4742,8 @@
 		<tag k='ref' v='3624688' />
 		<tag k='name' v="Farmàcia Aranda Margarit, Ricard" />
 		<tag k='addr:full' v="carrer Castillejos, 437" />
+		<tag k='addr:street' v="carrer Castillejos" />
+		<tag k='addr:housenumber' v="437" />
 		<tag k='addr:postcode' v='08024' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934351101' />
@@ -3962,6 +4754,8 @@
 		<tag k='ref' v='3624124' />
 		<tag k='name' v="Farmàcia Vicen Carbó, Immaculada" />
 		<tag k='addr:full' v="carrer Josep Pla, 184" />
+		<tag k='addr:street' v="carrer Josep Pla" />
+		<tag k='addr:housenumber' v="184" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933146820' />
@@ -3972,6 +4766,8 @@
 		<tag k='ref' v='3623242' />
 		<tag k='name' v="Farmàcia Jorba Ylla, M. Antònia" />
 		<tag k='addr:full' v="carrer Pardo, 4" />
+		<tag k='addr:street' v="carrer Pardo" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933526058' />
@@ -3982,6 +4778,8 @@
 		<tag k='ref' v='3621630' />
 		<tag k='name' v="Farmàcia Guerrero Pozo, M. Carme" />
 		<tag k='addr:full' v="carrer Agusti I Mila, 38" />
+		<tag k='addr:street' v="carrer Agusti I Mila" />
+		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933458141' />
@@ -3992,6 +4790,8 @@
 		<tag k='ref' v='3622085' />
 		<tag k='name' v="Farmàcia Boscasa Sánchez-Pascuala, Eva" />
 		<tag k='addr:full' v="avinguda Alfons Xiii, 615" />
+		<tag k='addr:street' v="avinguda Alfons Xiii" />
+		<tag k='addr:housenumber' v="615" />
 		<tag k='addr:postcode' v='08918' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933873194' />
@@ -4002,6 +4802,8 @@
 		<tag k='ref' v='3621124' />
 		<tag k='name' v="Farmàcia Romero Gisbert, Carmen" />
 		<tag k='addr:full' v="carrer Espronceda, 191" />
+		<tag k='addr:street' v="carrer Espronceda" />
+		<tag k='addr:housenumber' v="191" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933081655' />
@@ -4012,6 +4814,8 @@
 		<tag k='ref' v='3622949' />
 		<tag k='name' v="Farmàcia Vila Morell, Margarita" />
 		<tag k='addr:full' v="carrer Lluis Sagnier, 55" />
+		<tag k='addr:street' v="carrer Lluis Sagnier" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='08032' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932354087' />
@@ -4022,6 +4826,8 @@
 		<tag k='ref' v='3622747' />
 		<tag k='name' v="Farmàcia Bragutal Rovira, S - Belmonte Martínez" />
 		<tag k='addr:full' v="carrer Bailèn, 113" />
+		<tag k='addr:street' v="carrer Bailèn" />
+		<tag k='addr:housenumber' v="113" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934575701' />
@@ -4032,6 +4838,8 @@
 		<tag k='ref' v='3623924' />
 		<tag k='name' v="Farmàcia Reales Naveira, Anna M." />
 		<tag k='addr:full' v="carrer Gran De Sant Andreu, 368" />
+		<tag k='addr:street' v="carrer Gran De Sant Andreu" />
+		<tag k='addr:housenumber' v="368" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933457145' />
@@ -4042,6 +4850,8 @@
 		<tag k='ref' v='3620753' />
 		<tag k='name' v="Farmàcia Bertran Montañas, Helena" />
 		<tag k='addr:full' v="carrer Josep Trueta, 147" />
+		<tag k='addr:street' v="carrer Josep Trueta" />
+		<tag k='addr:housenumber' v="147" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933096026' />
@@ -4052,6 +4862,8 @@
 		<tag k='ref' v='3624388' />
 		<tag k='name' v="Farmàcia Barrachina Cànovas, Anaïs" />
 		<tag k='addr:full' v="carrer Espiell, 13" />
+		<tag k='addr:street' v="carrer Espiell" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932294653' />
@@ -4062,6 +4874,8 @@
 		<tag k='ref' v='3621481' />
 		<tag k='name' v="Farmàcia Benasco Buscato, Anna" />
 		<tag k='addr:full' v="carrer Gran De Sant Andreu, 125" />
+		<tag k='addr:street' v="carrer Gran De Sant Andreu" />
+		<tag k='addr:housenumber' v="125" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933468803' />
@@ -4072,6 +4886,8 @@
 		<tag k='ref' v='3623995' />
 		<tag k='name' v="Farmàcia Santaeugènia Geronés, M. Rosa" />
 		<tag k='addr:full' v="plaça  Prim, 45" />
+		<tag k='addr:street' v="plaça  Prim" />
+		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933071155' />
@@ -4082,6 +4898,8 @@
 		<tag k='ref' v='3623716' />
 		<tag k='name' v="Farmàcia Salgado Blanco, Joan J." />
 		<tag k='addr:full' v="avinguda De La Platja, 82" />
+		<tag k='addr:street' v="avinguda De La Platja" />
+		<tag k='addr:housenumber' v="82" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34933810280' />
@@ -4092,6 +4910,8 @@
 		<tag k='ref' v='3624397' />
 		<tag k='name' v="Farmàcia Herrero Oliver, M. Consol" />
 		<tag k='addr:full' v="avinguda Meridiana, 479" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v="479" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933507966' />
@@ -4102,6 +4922,8 @@
 		<tag k='ref' v='3624135' />
 		<tag k='name' v="Farmàcia Fernández Retuerto, M. Carme" />
 		<tag k='addr:full' v="rambla De L'Onze De Setembre, 15" />
+		<tag k='addr:street' v="rambla De L'Onze De Setembre" />
+		<tag k='addr:housenumber' v="15" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933111451' />
@@ -4112,6 +4934,8 @@
 		<tag k='ref' v='3624584' />
 		<tag k='name' v="Farmàcia Colomé Fusté, Susana" />
 		<tag k='addr:full' v="carrer Tortosa, 105" />
+		<tag k='addr:street' v="carrer Tortosa" />
+		<tag k='addr:housenumber' v="105" />
 		<tag k='addr:postcode' v='08918' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933886250' />
@@ -4122,6 +4946,8 @@
 		<tag k='ref' v='3623094' />
 		<tag k='name' v="Farmàcia Moreu Reñé, Xavier" />
 		<tag k='addr:full' v="carrer Fluvia, 194" />
+		<tag k='addr:street' v="carrer Fluvia" />
+		<tag k='addr:housenumber' v="194" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933077344' />
@@ -4132,6 +4958,8 @@
 		<tag k='ref' v='3623613' />
 		<tag k='name' v="Farmàcia Terré Hernández, Immaculada" />
 		<tag k='addr:full' v="carrer Camil Fabra, 5" />
+		<tag k='addr:street' v="carrer Camil Fabra" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933469906' />
@@ -4142,6 +4970,8 @@
 		<tag k='ref' v='3621313' />
 		<tag k='name' v="Farmàcia Albert Diloy, Xavier" />
 		<tag k='addr:full' v="passatge Maragall, 177" />
+		<tag k='addr:street' v="passatge Maragall" />
+		<tag k='addr:housenumber' v="177" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933519507' />
@@ -4152,6 +4982,8 @@
 		<tag k='ref' v='3624522' />
 		<tag k='name' v="Farmàcia Comas Anye, M. Àngels" />
 		<tag k='addr:full' v=" gv corts catalanes, 00871" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="871" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933007518' />
@@ -4162,6 +4994,8 @@
 		<tag k='ref' v='3621660' />
 		<tag k='name' v="Farmàcia Garcia Castell, Ester i Joan" />
 		<tag k='addr:full' v="carrer Segle Xx, 61" />
+		<tag k='addr:street' v="carrer Segle Xx" />
+		<tag k='addr:housenumber' v="61" />
 		<tag k='addr:postcode' v='08032' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934553082' />
@@ -4172,6 +5006,8 @@
 		<tag k='ref' v='3620601' />
 		<tag k='name' v="Farmàcia Casanelles Martí, M. Teresa" />
 		<tag k='addr:full' v="carrer Avinyó, 32" />
+		<tag k='addr:street' v="carrer Avinyó" />
+		<tag k='addr:housenumber' v="32" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933179198' />
@@ -4182,6 +5018,8 @@
 		<tag k='ref' v='3620976' />
 		<tag k='name' v="Farmàcia Mercadé Salavert, M. Mercè" />
 		<tag k='addr:full' v="avinguda Meridiana,  117/A" />
+		<tag k='addr:street' v="avinguda Meridiana" />
+		<tag k='addr:housenumber' v=" 117/A" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932322908' />
@@ -4192,6 +5030,8 @@
 		<tag k='ref' v='3624240' />
 		<tag k='name' v="Farmàcia Gabaldón Flotats, Albert" />
 		<tag k='addr:full' v="carrer Bunyola, 12" />
+		<tag k='addr:street' v="carrer Bunyola" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08016' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933530956' />
@@ -4202,6 +5042,8 @@
 		<tag k='ref' v='3620986' />
 		<tag k='name' v="Farmàcia Llenas Just, F. - Vilardell Williges, I." />
 		<tag k='addr:full' v="avinguda Paral Lel, 48" />
+		<tag k='addr:street' v="avinguda Paral Lel" />
+		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932410223' />
@@ -4212,6 +5054,8 @@
 		<tag k='ref' v='3622770' />
 		<tag k='name' v="Farmàcia Martínez Campos, Juan José" />
 		<tag k='addr:full' v="plaça  Urquinaona, 8" />
+		<tag k='addr:street' v="plaça  Urquinaona" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933019643' />
@@ -4222,6 +5066,8 @@
 		<tag k='ref' v='3621834' />
 		<tag k='name' v="Farmàcia Tarrés Oller, Agnés" />
 		<tag k='addr:full' v="carrer Carme, 84" />
+		<tag k='addr:street' v="carrer Carme" />
+		<tag k='addr:housenumber' v="84" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932325733' />
@@ -4232,6 +5078,8 @@
 		<tag k='ref' v='3621480' />
 		<tag k='name' v="Farmàcia Sentelles Monill, Anna" />
 		<tag k='addr:full' v="carrer Princesa, 39" />
+		<tag k='addr:street' v="carrer Princesa" />
+		<tag k='addr:housenumber' v="39" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933198393' />
@@ -4242,6 +5090,8 @@
 		<tag k='ref' v='3621134' />
 		<tag k='name' v="Farmàcia Blanch Boris, Maria Josep" />
 		<tag k='addr:full' v="carrer Navas De Tolosa, 329" />
+		<tag k='addr:street' v="carrer Navas De Tolosa" />
+		<tag k='addr:housenumber' v="329" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933517364' />
@@ -4252,6 +5102,8 @@
 		<tag k='ref' v='3622168' />
 		<tag k='name' v="Farmàcia Marquez Iglesias, H / Lopez Escuder, M" />
 		<tag k='addr:full' v="carrer Sant Alexandre, 37" />
+		<tag k='addr:street' v="carrer Sant Alexandre" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932293031' />
@@ -4262,6 +5114,8 @@
 		<tag k='ref' v='3623801' />
 		<tag k='name' v="Farmàcia Soro Mas, M. Teresa" />
 		<tag k='addr:full' v="passatge Montjuïc, 36" />
+		<tag k='addr:street' v="passatge Montjuïc" />
+		<tag k='addr:housenumber' v="36" />
 		<tag k='addr:postcode' v='08004' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933295499' />
@@ -4272,6 +5126,8 @@
 		<tag k='ref' v='3620973' />
 		<tag k='name' v="Farmàcia Benedid Costa, Montserrat" />
 		<tag k='addr:full' v="carrer Sant Antoni Abat, 1" />
+		<tag k='addr:street' v="carrer Sant Antoni Abat" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934410903' />
@@ -4282,6 +5138,8 @@
 		<tag k='ref' v='3622932' />
 		<tag k='name' v="Farmàcia Sanz Pirla, Lourdes Pilar" />
 		<tag k='addr:full' v="avinguda Corts Catalanes, 26" />
+		<tag k='addr:street' v="avinguda Corts Catalanes" />
+		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34933811317' />
@@ -4292,6 +5150,8 @@
 		<tag k='ref' v='3622776' />
 		<tag k='name' v="Farmàcia Botet Carreras, Adrià" />
 		<tag k='addr:full' v="carrer Independència, 345" />
+		<tag k='addr:street' v="carrer Independència" />
+		<tag k='addr:housenumber' v="345" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932356895' />
@@ -4302,6 +5162,8 @@
 		<tag k='ref' v='3621293' />
 		<tag k='name' v="Farmàcia Blanc Acha-Orbea, Mercedes" />
 		<tag k='addr:full' v="passeig De Posoltega,  11-13,  bloc u" />
+		<tag k='addr:street' v="passeig De Posoltega" />
+		<tag k='addr:housenumber' v=" 11-13" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933462239' />
@@ -4312,6 +5174,8 @@
 		<tag k='ref' v='3620746' />
 		<tag k='name' v="Farmàcia Galup Russines, Mireia" />
 		<tag k='addr:full' v="carrer Pau Claris, 83" />
+		<tag k='addr:street' v="carrer Pau Claris" />
+		<tag k='addr:housenumber' v="83" />
 		<tag k='addr:postcode' v='08010' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933177283' />
@@ -4322,6 +5186,8 @@
 		<tag k='ref' v='3621995' />
 		<tag k='name' v="Farmàcia Jové Ysanta, M. Teresa" />
 		<tag k='addr:full' v="carrer Napols, 4" />
+		<tag k='addr:street' v="carrer Napols" />
+		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933094001' />
@@ -4332,6 +5198,8 @@
 		<tag k='ref' v='3622663' />
 		<tag k='name' v="Farmàcia Mauri Martinez, Rosa M." />
 		<tag k='addr:full' v="carrer Salva, 33" />
+		<tag k='addr:street' v="carrer Salva" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='08004' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932416588' />
@@ -4342,6 +5210,8 @@
 		<tag k='ref' v='3624524' />
 		<tag k='name' v="Farmàcia Homs Ballo, Marta" />
 		<tag k='addr:full' v="carrer Bolivia, 19" />
+		<tag k='addr:street' v="carrer Bolivia" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='08018' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933007615' />
@@ -4352,6 +5222,8 @@
 		<tag k='ref' v='3623593' />
 		<tag k='name' v="Farmàcia Benito Solanes, Josep Maria" />
 		<tag k='addr:full' v="carrer Puigcerda, 290" />
+		<tag k='addr:street' v="carrer Puigcerda" />
+		<tag k='addr:housenumber' v="290" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933131428' />
@@ -4362,6 +5234,8 @@
 		<tag k='ref' v='3622774' />
 		<tag k='name' v="Farmàcia Guerrero Agustí, Adriana" />
 		<tag k='addr:full' v="carrer Hospital, 70" />
+		<tag k='addr:street' v="carrer Hospital" />
+		<tag k='addr:housenumber' v="70" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932423415' />
@@ -4372,6 +5246,8 @@
 		<tag k='ref' v='3620744' />
 		<tag k='name' v="Farmàcia Franquesa Grau, P - Franquesa Borràs, JJ" />
 		<tag k='addr:full' v="carrer Gran De Sant Andreu, 260" />
+		<tag k='addr:street' v="carrer Gran De Sant Andreu" />
+		<tag k='addr:housenumber' v="260" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933452341' />
@@ -4382,6 +5258,8 @@
 		<tag k='ref' v='3622762' />
 		<tag k='name' v="Farmàcia Bardina Cortés, Josep M." />
 		<tag k='addr:full' v="carrer Pere Iv, 210" />
+		<tag k='addr:street' v="carrer Pere Iv" />
+		<tag k='addr:housenumber' v="210" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933091715' />
@@ -4392,6 +5270,8 @@
 		<tag k='ref' v='3621322' />
 		<tag k='name' v="Farmàcia Pla Santamans, Francesc" />
 		<tag k='addr:full' v="carrer Valencia, 440" />
+		<tag k='addr:street' v="carrer Valencia" />
+		<tag k='addr:housenumber' v="440" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932313905' />
@@ -4402,6 +5282,8 @@
 		<tag k='ref' v='3621315' />
 		<tag k='name' v="Farmàcia Unyó Bover, Sandra" />
 		<tag k='addr:full' v="carrer Roger De Lluria, 74" />
+		<tag k='addr:street' v="carrer Roger De Lluria" />
+		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934576544' />
@@ -4412,6 +5294,8 @@
 		<tag k='ref' v='3620717' />
 		<tag k='name' v="Farmàcia Olivella Comas, Mercedes" />
 		<tag k='addr:full' v="carrer Arago, 476" />
+		<tag k='addr:street' v="carrer Arago" />
+		<tag k='addr:housenumber' v="476" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932316057' />
@@ -4422,6 +5306,8 @@
 		<tag k='ref' v='3621466' />
 		<tag k='name' v="Farmàcia Ramos Ontiveros, Eloisa" />
 		<tag k='addr:full' v="carrer Pare Manyanet, 46" />
+		<tag k='addr:street' v="carrer Pare Manyanet" />
+		<tag k='addr:housenumber' v="46" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933118206' />
@@ -4432,6 +5318,8 @@
 		<tag k='ref' v='3624446' />
 		<tag k='name' v="Farmàcia Ricarte Fillola, Santiago" />
 		<tag k='addr:full' v="carrer Palencia, 35" />
+		<tag k='addr:street' v="carrer Palencia" />
+		<tag k='addr:housenumber' v="35" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933409266' />
@@ -4442,6 +5330,8 @@
 		<tag k='ref' v='3623403' />
 		<tag k='name' v="Farmàcia Bozal de Febrer, Núria" />
 		<tag k='addr:full' v="carrer Corsega, 507" />
+		<tag k='addr:street' v="carrer Corsega" />
+		<tag k='addr:housenumber' v="507" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934589489' />
@@ -4452,6 +5342,8 @@
 		<tag k='ref' v='3621638' />
 		<tag k='name' v="Farmàcia Blanc Melià, Beatriz i Javier" />
 		<tag k='addr:full' v="carrer Concepció Arenal, 124" />
+		<tag k='addr:street' v="carrer Concepció Arenal" />
+		<tag k='addr:housenumber' v="124" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933528655' />
@@ -4462,6 +5354,8 @@
 		<tag k='ref' v='3622753' />
 		<tag k='name' v="Farmàcia Mateu Bellés, M. Joana" />
 		<tag k='addr:full' v=" gv corts catalanes, 00669" />
+		<tag k='addr:street' v=" gv corts catalanes" />
+		<tag k='addr:housenumber' v="669" />
 		<tag k='addr:postcode' v='08013' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932452038' />
@@ -4472,6 +5366,8 @@
 		<tag k='ref' v='3623925' />
 		<tag k='name' v="Farmàcia Pérez Alfonso, Adonina" />
 		<tag k='addr:full' v="carrer Independencia, 230" />
+		<tag k='addr:street' v="carrer Independencia" />
+		<tag k='addr:housenumber' v="230" />
 		<tag k='addr:postcode' v='08026' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932322379' />
@@ -4482,6 +5378,8 @@
 		<tag k='ref' v='3624845' />
 		<tag k='name' v="Farmàcia Piñas Massó, Loreto" />
 		<tag k='addr:full' v="carrer Felip Ii, 224" />
+		<tag k='addr:street' v="carrer Felip Ii" />
+		<tag k='addr:housenumber' v="224" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933527957' />
@@ -4492,6 +5390,8 @@
 		<tag k='ref' v='3624843' />
 		<tag k='name' v="Farmàcia Solà Casanovas, Mercedes" />
 		<tag k='addr:full' v="rambla De L'Onze De Setembre, 37" />
+		<tag k='addr:street' v="rambla De L'Onze De Setembre" />
+		<tag k='addr:housenumber' v="37" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933469602' />
@@ -4502,6 +5402,8 @@
 		<tag k='ref' v='3623678' />
 		<tag k='name' v="Farmàcia Rigau Lloveras, Núria" />
 		<tag k='addr:full' v="carrer Binèfar, 6" />
+		<tag k='addr:street' v="carrer Binèfar" />
+		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933141758' />
@@ -4512,6 +5414,8 @@
 		<tag k='ref' v='3624029' />
 		<tag k='name' v="Farmàcia Paterna Paterna, Jesús" />
 		<tag k='addr:full' v="carrer Pere Iv, 456" />
+		<tag k='addr:street' v="carrer Pere Iv" />
+		<tag k='addr:housenumber' v="456" />
 		<tag k='addr:postcode' v='08019' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933146659' />
@@ -4522,6 +5426,8 @@
 		<tag k='ref' v='3622759' />
 		<tag k='name' v="Farmàcia Roson Rio, Santiago" />
 		<tag k='addr:full' v="carrer Pau Claris, 111" />
+		<tag k='addr:street' v="carrer Pau Claris" />
+		<tag k='addr:housenumber' v="111" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933172093' />
@@ -4532,6 +5438,8 @@
 		<tag k='ref' v='3624260' />
 		<tag k='name' v="Farmàcia Pérez Fleitas, Dàcil" />
 		<tag k='addr:full' v="carrer Lope De Vega, 123" />
+		<tag k='addr:street' v="carrer Lope De Vega" />
+		<tag k='addr:housenumber' v="123" />
 		<tag k='addr:postcode' v='08005' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933071583' />
@@ -4542,6 +5450,8 @@
 		<tag k='ref' v='3620605' />
 		<tag k='name' v="Farmàcia Pena Benedicto, Elena" />
 		<tag k='addr:full' v="carrer Rosselló, 437" />
+		<tag k='addr:street' v="carrer Rosselló" />
+		<tag k='addr:housenumber' v="437" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934367518' />
@@ -4552,6 +5462,8 @@
 		<tag k='ref' v='3620982' />
 		<tag k='name' v="Farmàcia Miserachs Lalanda, Marta" />
 		<tag k='addr:full' v="carrer Roger De Lluria, 51" />
+		<tag k='addr:street' v="carrer Roger De Lluria" />
+		<tag k='addr:housenumber' v="51" />
 		<tag k='addr:postcode' v='08009' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='source:date' v='03/11/2020 07:58:15 AM +0000' />
@@ -4561,6 +5473,8 @@
 		<tag k='ref' v='3621507' />
 		<tag k='name' v="Farmàcia Gironès Saderra, Montserrat" />
 		<tag k='addr:full' v="carrer Escudellers, 8" />
+		<tag k='addr:street' v="carrer Escudellers" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08002' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933018630' />
@@ -4571,6 +5485,8 @@
 		<tag k='ref' v='3621811' />
 		<tag k='name' v="Farmàcia Sastre Marqués Peix, Francesc" />
 		<tag k='addr:full' v="rambla Del Raval, 2" />
+		<tag k='addr:street' v="rambla Del Raval" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934415079' />
@@ -4581,6 +5497,8 @@
 		<tag k='ref' v='3621821' />
 		<tag k='name' v="Farmàcia Villar Merchan, Montserrat" />
 		<tag k='addr:full' v="passatge Lluís Companys, 7" />
+		<tag k='addr:street' v="passatge Lluís Companys" />
+		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08003' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933092937' />
@@ -4591,6 +5509,8 @@
 		<tag k='ref' v='3620606' />
 		<tag k='name' v="Farmàcia Castellanos Llorens, Xavier" />
 		<tag k='addr:full' v="rambla Fabra I Puig, 2" />
+		<tag k='addr:street' v="rambla Fabra I Puig" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933459058' />
@@ -4601,6 +5521,8 @@
 		<tag k='ref' v='3623508' />
 		<tag k='name' v="Farmàcia Busquet Masip, T. - Busquet Aguiló, X." />
 		<tag k='addr:full' v="carrer Concepció Arenal, 310" />
+		<tag k='addr:street' v="carrer Concepció Arenal" />
+		<tag k='addr:housenumber' v="310" />
 		<tag k='addr:postcode' v='08030' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933112053' />
@@ -4611,6 +5533,8 @@
 		<tag k='ref' v='3624829' />
 		<tag k='name' v="Farmàcia Balcells Valls, Luis" />
 		<tag k='addr:full' v="carrer Felip Ii, 112" />
+		<tag k='addr:street' v="carrer Felip Ii" />
+		<tag k='addr:housenumber' v="112" />
 		<tag k='addr:postcode' v='08027' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932527759' />
@@ -4621,6 +5545,8 @@
 		<tag k='ref' v='3623607' />
 		<tag k='name' v="Farmàcia Najar Martón, Joan" />
 		<tag k='addr:full' v="carrer Alt De Pedrell, 58" />
+		<tag k='addr:street' v="carrer Alt De Pedrell" />
+		<tag k='addr:housenumber' v="58" />
 		<tag k='addr:postcode' v='08032' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932202001' />
@@ -4631,6 +5557,8 @@
 		<tag k='ref' v='3623087' />
 		<tag k='name' v="Farmàcia Carlos Santandre, Martin" />
 		<tag k='addr:full' v="carrer Gasela, 8" />
+		<tag k='addr:street' v="carrer Gasela" />
+		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='08042' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933545416' />
@@ -4641,6 +5569,8 @@
 		<tag k='ref' v='3624746' />
 		<tag k='name' v="Farmàcia Garcia Lorente, Lara" />
 		<tag k='addr:full' v="carrer Joaquim Ruyra, 12" />
+		<tag k='addr:street' v="carrer Joaquim Ruyra" />
+		<tag k='addr:housenumber' v="12" />
 		<tag k='addr:postcode' v='08918' />
 		<tag k='addr:city' v="Badalona" />
 		<tag k='contact:phone' v='+34933831351' />
@@ -4651,6 +5581,8 @@
 		<tag k='ref' v='3620628' />
 		<tag k='name' v="Farmàcia Ferrer San José, Albert" />
 		<tag k='addr:full' v="carrer Sant Antoni Maria Claret, 40" />
+		<tag k='addr:street' v="carrer Sant Antoni Maria Claret" />
+		<tag k='addr:housenumber' v="40" />
 		<tag k='addr:postcode' v='08025' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34934584346' />
@@ -4661,6 +5593,8 @@
 		<tag k='ref' v='3623263' />
 		<tag k='name' v="Farmàcia Freixas Vidal, Margarita" />
 		<tag k='addr:full' v="carrer Santander, 2" />
+		<tag k='addr:street' v="carrer Santander" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933141092' />
@@ -4671,6 +5605,8 @@
 		<tag k='ref' v='3621109' />
 		<tag k='name' v="Farmàcia Jimenez Galindo, Ana Isabel" />
 		<tag k='addr:full' v="ronda Del Guinardo, 196" />
+		<tag k='addr:street' v="ronda Del Guinardo" />
+		<tag k='addr:housenumber' v="196" />
 		<tag k='addr:postcode' v='08041' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932363965' />
@@ -4681,6 +5617,8 @@
 		<tag k='ref' v='3623611' />
 		<tag k='name' v="Farmàcia Cabre Alcoverro, Gloria" />
 		<tag k='addr:full' v="carrer Andrade, 224" />
+		<tag k='addr:street' v="carrer Andrade" />
+		<tag k='addr:housenumber' v="224" />
 		<tag k='addr:postcode' v='08020' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933138909' />
@@ -4691,6 +5629,8 @@
 		<tag k='ref' v='3624824' />
 		<tag k='name' v="Farmàcia Rodríguez Ferran, Montserrat" />
 		<tag k='addr:full' v="carrer Vall D'Ordesa, 10" />
+		<tag k='addr:street' v="carrer Vall D'Ordesa" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='08031' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34932295918' />
@@ -4701,6 +5641,8 @@
 		<tag k='ref' v='3621965' />
 		<tag k='name' v="Farmàcia Tenorio Ripoll, Maria Isabel" />
 		<tag k='addr:full' v="carrer Unió, 5" />
+		<tag k='addr:street' v="carrer Unió" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='08001' />
 		<tag k='addr:city' v="Barcelona" />
 		<tag k='contact:phone' v='+34933026933' />
@@ -4711,6 +5653,8 @@
 		<tag k='ref' v='3624863' />
 		<tag k='name' v="Farmàcia Rodes Sifres, Eduard" />
 		<tag k='addr:full' v="carrer Federico Garcia Lorca, 1" />
+		<tag k='addr:street' v="carrer Federico Garcia Lorca" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08930' />
 		<tag k='addr:city' v="Sant Adrià de Besòs" />
 		<tag k='contact:phone' v='+34933812043' />

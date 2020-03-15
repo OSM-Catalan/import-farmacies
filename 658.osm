@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623468' />
 		<tag k='name' v="Farmàcia Burset Gmur, David" />
 		<tag k='addr:full' v="carrer Fages Climent, 30" />
+		<tag k='addr:street' v="carrer Fages Climent" />
+		<tag k='addr:housenumber' v="30" />
 		<tag k='addr:postcode' v='17486' />
 		<tag k='addr:city' v="Castelló d'Empúries" />
 		<tag k='contact:phone' v='+34972451255' />

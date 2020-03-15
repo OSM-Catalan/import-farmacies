@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624046' />
 		<tag k='name' v="Farmàcia Martínez Flores, Antonio" />
 		<tag k='addr:full' v="carrer Vilanova, 1" />
+		<tag k='addr:street' v="carrer Vilanova" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25450' />
 		<tag k='addr:city' v="Albi, l'" />
 		<tag k='contact:phone' v='+34973175623' />

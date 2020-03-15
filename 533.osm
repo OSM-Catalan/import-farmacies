@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623459' />
 		<tag k='name' v="Farmàcia Ventura Noguera, Mónica" />
 		<tag k='addr:full' v="passeig Escoles, 2" />
+		<tag k='addr:street' v="passeig Escoles" />
+		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='17400' />
 		<tag k='addr:city' v="Breda" />
 		<tag k='contact:phone' v='+34972870040' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623853' />
 		<tag k='name' v="Farmàcia D'Ocon Navaza, Joaquim" />
 		<tag k='addr:full' v="carrer Santa Fe, 5" />
+		<tag k='addr:street' v="carrer Santa Fe" />
+		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17404' />
 		<tag k='addr:city' v="Riells i Viabrea" />
 		<tag k='contact:phone' v='+34938472294' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622064' />
 		<tag k='name' v="Farmàcia Gil Jarrega, Encarna" />
 		<tag k='addr:full' v=" cm de les aigues, s/n" />
+		<tag k='addr:street' v=" cm de les aigues" />
+		<tag k='addr:housenumber' v=" s/n" />
 		<tag k='addr:postcode' v='17404' />
 		<tag k='addr:city' v="Riells i Viabrea" />
 		<tag k='contact:phone' v='+34972198690' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623954' />
 		<tag k='name' v="Farmàcia Sánchez Galindo, Maria Victòria" />
 		<tag k='addr:full' v="carretera De Grions, 29" />
+		<tag k='addr:street' v="carretera De Grions" />
+		<tag k='addr:housenumber' v="29" />
 		<tag k='addr:postcode' v='17451' />
 		<tag k='addr:city' v="Sant Feliu de Buixalleu" />
 		<tag k='contact:phone' v='+34972865323' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623550' />
 		<tag k='name' v="Farmàcia Tusell Massachs, M. C. i Vila Tusell, X." />
 		<tag k='addr:full' v="carrer Mossen Cinto Verdaguer, 29" />
+		<tag k='addr:street' v="carrer Mossen Cinto Verdaguer" />
+		<tag k='addr:housenumber' v="29" />
 		<tag k='addr:postcode' v='17450' />
 		<tag k='addr:city' v="Hostalric" />
 		<tag k='contact:phone' v='+34972864155' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3621424' />
 		<tag k='name' v="Farmàcia Buxalleu Miràngels, Carme" />
 		<tag k='addr:full' v="carretera D'Arbúcies, 83" />
+		<tag k='addr:street' v="carretera D'Arbúcies" />
+		<tag k='addr:housenumber' v="83" />
 		<tag k='addr:postcode' v='17400' />
 		<tag k='addr:city' v="Breda" />
 		<tag k='contact:phone' v='+34972871002' />

@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623937' />
 		<tag k='name' v="Farmàcia Colls Brossa, M. Carme" />
 		<tag k='addr:full' v="carrer Francesc Martí, 24" />
+		<tag k='addr:street' v="carrer Francesc Martí" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='17136' />
 		<tag k='addr:city' v="Albons" />
 		<tag k='contact:phone' v='+34972788300' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3623964' />
 		<tag k='name' v="Farmàcia Bouker Bakioui Ferdi, Faiçal" />
 		<tag k='addr:full' v="carretera L'Arbre Sec,  S/N" />
+		<tag k='addr:street' v="carretera L'Arbre Sec" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='17473' />
 		<tag k='addr:city' v="Ventalló" />
 		<tag k='contact:phone' v='+34872004028' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623948' />
 		<tag k='name' v="Farmàcia Bague Roviras, Maria Sara" />
 		<tag k='addr:full' v="carrer Ter Vell, 9" />
+		<tag k='addr:street' v="carrer Ter Vell" />
+		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='17141' />
 		<tag k='addr:city' v="Bellcaire d'Empordà" />
 		<tag k='contact:phone' v='+34972788471' />

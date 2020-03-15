@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621758' />
 		<tag k='name' v="Farmàcia Casas Casals, Eva" />
 		<tag k='addr:full' v="passatge De La Indústria, 16" />
+		<tag k='addr:street' v="passatge De La Indústria" />
+		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08600' />
 		<tag k='addr:city' v="Berga" />
 		<tag k='contact:phone' v='+34938221306' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622096' />
 		<tag k='name' v="Farmàcia Cosp Boixader, Maria" />
 		<tag k='addr:full' v="passatge De La Pau, 55" />
+		<tag k='addr:street' v="passatge De La Pau" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='08600' />
 		<tag k='addr:city' v="Berga" />
 		<tag k='contact:phone' v='+34938210125' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624594' />
 		<tag k='name' v="Farmàcia Corominas Moliner, Anna" />
 		<tag k='addr:full' v="carrer Caixa D'Estalvis De Manresa,  s/n" />
+		<tag k='addr:street' v="carrer Caixa D'Estalvis De Manresa" />
+		<tag k='addr:housenumber' v=" s/n" />
 		<tag k='addr:postcode' v='08698' />
 		<tag k='addr:city' v="Cercs" />
 		<tag k='contact:phone' v='+34938248252' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3622976' />
 		<tag k='name' v="Farmàcia Ferrer Verdura, M. Rosa" />
 		<tag k='addr:full' v="carretera De Berga, 13" />
+		<tag k='addr:street' v="carretera De Berga" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='08611' />
 		<tag k='addr:city' v="Olvan" />
 		<tag k='contact:phone' v='+34938211008' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3622097' />
 		<tag k='name' v="Farmàcia Vila Calonge, M. Cristina" />
 		<tag k='addr:full' v="carrer Ciutat, 41" />
+		<tag k='addr:street' v="carrer Ciutat" />
+		<tag k='addr:housenumber' v="41" />
 		<tag k='addr:postcode' v='08600' />
 		<tag k='addr:city' v="Berga" />
 		<tag k='contact:phone' v='+34938210518' />
@@ -55,6 +65,8 @@
 		<tag k='ref' v='3622099' />
 		<tag k='name' v="Farmàcia Àlvarez, Àlvaro - Saz Corazo, M. Neus" />
 		<tag k='addr:full' v="carrer Gran Via, 28" />
+		<tag k='addr:street' v="carrer Gran Via" />
+		<tag k='addr:housenumber' v="28" />
 		<tag k='addr:postcode' v='08600' />
 		<tag k='addr:city' v="Berga" />
 		<tag k='contact:phone' v='+34938210402' />
@@ -65,6 +77,8 @@
 		<tag k='ref' v='3624288' />
 		<tag k='name' v="Farmàcia Badia Soler, Josep" />
 		<tag k='addr:full' v="passatge  Industria, 25" />
+		<tag k='addr:street' v="passatge  Industria" />
+		<tag k='addr:housenumber' v="25" />
 		<tag k='addr:postcode' v='08600' />
 		<tag k='addr:city' v="Berga" />
 		<tag k='contact:phone' v='+34938211950' />
@@ -75,6 +89,8 @@
 		<tag k='ref' v='3624021' />
 		<tag k='name' v="Farmàcia Viu Corominas, Maria" />
 		<tag k='addr:full' v="avinguda  Pau Casal, 34" />
+		<tag k='addr:street' v="avinguda  Pau Casal" />
+		<tag k='addr:housenumber' v="34" />
 		<tag k='addr:postcode' v='08610' />
 		<tag k='addr:city' v="Avià" />
 		<tag k='contact:phone' v='+34938230300' />

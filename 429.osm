@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621251' />
 		<tag k='name' v="Farmàcia Feu Español, Mireia" />
 		<tag k='addr:full' v="carretera Barcelona, 1" />
+		<tag k='addr:street' v="carretera Barcelona" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08189' />
 		<tag k='addr:city' v="Sant Quirze Safaja" />
 		<tag k='contact:phone' v='+34938662582' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3622235' />
 		<tag k='name' v="Farmàcia Carrión Ribas, Joan Anton" />
 		<tag k='addr:full' v="carrer Del Mig, 1" />
+		<tag k='addr:street' v="carrer Del Mig" />
+		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08183' />
 		<tag k='addr:city' v="Castellterçol" />
 		<tag k='contact:phone' v='+34938668033' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3623178' />
 		<tag k='name' v="Farmàcia Pujol Vallvé, Maria Teresa" />
 		<tag k='addr:full' v="carrer De La Llum,  S/N" />
+		<tag k='addr:street' v="carrer De La Llum" />
+		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08183' />
 		<tag k='addr:city' v="Castellcir" />
 		<tag k='contact:phone' v='+34938666138' />

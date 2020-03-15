@@ -5,6 +5,8 @@
 		<tag k='ref' v='3623299' />
 		<tag k='name' v="Farmàcia Costa Fornols, Josefina" />
 		<tag k='addr:full' v="carrer Serra D'Ensija, 24" />
+		<tag k='addr:street' v="carrer Serra D'Ensija" />
+		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='08697' />
 		<tag k='addr:city' v="Saldes" />
 		<tag k='contact:phone' v='+34938258074' />

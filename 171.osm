@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624068' />
 		<tag k='name' v="Farmàcia Riu Pelegrí, Ramon" />
 		<tag k='addr:full' v="carrer Raval Del Carme, 13" />
+		<tag k='addr:street' v="carrer Raval Del Carme" />
+		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='25400' />
 		<tag k='addr:city' v="Borges Blanques, les" />
 		<tag k='contact:phone' v='+34977142431' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624054' />
 		<tag k='name' v="Farmàcia Naves Baget, Mireia" />
 		<tag k='addr:full' v="carrer Portals, 3" />
+		<tag k='addr:street' v="carrer Portals" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='25140' />
 		<tag k='addr:city' v="Arbeca" />
 		<tag k='contact:phone' v='+34973170419' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624069' />
 		<tag k='name' v="Farmàcia Niubó Aragues, M. Eugènia" />
 		<tag k='addr:full' v="plaça  Constitució, 3" />
+		<tag k='addr:street' v="plaça  Constitució" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='25400' />
 		<tag k='addr:city' v="Borges Blanques, les" />
 		<tag k='contact:phone' v='+34973142068' />

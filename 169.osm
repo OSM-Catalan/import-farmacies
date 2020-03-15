@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624083' />
 		<tag k='name' v="Farmàcia Cuñat Sola, Emma" />
 		<tag k='addr:full' v="plaça  Planell, 21" />
+		<tag k='addr:street' v="plaça  Planell" />
+		<tag k='addr:housenumber' v="21" />
 		<tag k='addr:postcode' v='25240' />
 		<tag k='addr:city' v="Linyola" />
 		<tag k='contact:phone' v='+34973575062' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624062' />
 		<tag k='name' v="Farmàcia Brufau Tudela, Josep Ignasi" />
 		<tag k='addr:full' v="avinguda  Onze Setembre, 144" />
+		<tag k='addr:street' v="avinguda  Onze Setembre" />
+		<tag k='addr:housenumber' v="144" />
 		<tag k='addr:postcode' v='25337' />
 		<tag k='addr:city' v="Bellcaire d'Urgell" />
 		<tag k='contact:phone' v='+34973586466' />

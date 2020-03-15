@@ -5,6 +5,8 @@
 		<tag k='ref' v='3622395' />
 		<tag k='name' v="Farmàcia Adrados de Miguel, M. Candela" />
 		<tag k='addr:full' v="avinguda  De La Vila, 18" />
+		<tag k='addr:street' v="avinguda  De La Vila" />
+		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='08180' />
 		<tag k='addr:city' v="Moià" />
 		<tag k='contact:phone' v='+34938300417' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3621087' />
 		<tag k='name' v="Farmàcia Casajuana Cortinas, Elisabet" />
 		<tag k='addr:full' v="carrer De Manresa, 33" />
+		<tag k='addr:street' v="carrer De Manresa" />
+		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='08180' />
 		<tag k='addr:city' v="Moià" />
 		<tag k='contact:phone' v='+34938300288' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3622985' />
 		<tag k='name' v="Farmàcia Ventura Orriols, Emma" />
 		<tag k='addr:full' v="carrer Rodos, 3" />
+		<tag k='addr:street' v="carrer Rodos" />
+		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08148' />
 		<tag k='addr:city' v="Estany, l'" />
 		<tag k='contact:phone' v='+34938300722' />

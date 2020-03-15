@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624486' />
 		<tag k='name' v="Farmàcia Hernández Escribà, M. Carme" />
 		<tag k='addr:full' v="carrer Reus, 44" />
+		<tag k='addr:street' v="carrer Reus" />
+		<tag k='addr:housenumber' v="44" />
 		<tag k='addr:postcode' v='43747' />
 		<tag k='addr:city' v="Benissanet" />
 		<tag k='contact:phone' v='+34977407111' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624606' />
 		<tag k='name' v="Farmàcia Nogués Homedes, MC - Veciana Nogués, A" />
 		<tag k='addr:full' v="carrer Major, 17" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="17" />
 		<tag k='addr:postcode' v='43770' />
 		<tag k='addr:city' v="Móra la Nova" />
 		<tag k='contact:phone' v='+34977400368' />
@@ -25,6 +29,8 @@
 		<tag k='ref' v='3624605' />
 		<tag k='name' v="Farmàcia Molina Díaz, JC - Bengochea Prieto, A" />
 		<tag k='addr:full' v="avinguda Comarques Catalanes, 57" />
+		<tag k='addr:street' v="avinguda Comarques Catalanes" />
+		<tag k='addr:housenumber' v="57" />
 		<tag k='addr:postcode' v='43740' />
 		<tag k='addr:city' v="Móra d'Ebre" />
 		<tag k='contact:phone' v='+34977400115' />
@@ -35,6 +41,8 @@
 		<tag k='ref' v='3623079' />
 		<tag k='name' v="Farmàcia Hernanz Redondo, Tomas" />
 		<tag k='addr:full' v="carrer Major, 22" />
+		<tag k='addr:street' v="carrer Major" />
+		<tag k='addr:housenumber' v="22" />
 		<tag k='addr:postcode' v='43736' />
 		<tag k='addr:city' v="Masroig, el" />
 		<tag k='contact:phone' v='+34977825004' />
@@ -45,6 +53,8 @@
 		<tag k='ref' v='3623200' />
 		<tag k='name' v="Farmàcia Capella Castellví, Francesca" />
 		<tag k='addr:full' v="carrer Centre, 10" />
+		<tag k='addr:street' v="carrer Centre" />
+		<tag k='addr:housenumber' v="10" />
 		<tag k='addr:postcode' v='43749' />
 		<tag k='addr:city' v="Garcia" />
 		<tag k='contact:phone' v='+34977401510' />

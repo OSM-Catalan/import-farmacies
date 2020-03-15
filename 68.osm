@@ -5,6 +5,8 @@
 		<tag k='ref' v='3624056' />
 		<tag k='name' v="Farmàcia Calzada Estadella, Teresa" />
 		<tag k='addr:full' v="avinguda Vint-I-Set De Gener, 47" />
+		<tag k='addr:street' v="avinguda Vint-I-Set De Gener" />
+		<tag k='addr:housenumber' v="47" />
 		<tag k='addr:postcode' v='25182' />
 		<tag k='addr:city' v="Aitona" />
 		<tag k='contact:phone' v='+34973794014' />
@@ -15,6 +17,8 @@
 		<tag k='ref' v='3624156' />
 		<tag k='name' v="Farmàcia Carnicero Ramon, Blanca" />
 		<tag k='addr:full' v="carrer Metge, 11" />
+		<tag k='addr:street' v="carrer Metge" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='25183' />
 		<tag k='addr:city' v="Seròs" />
 		<tag k='contact:phone' v='+34973780031' />

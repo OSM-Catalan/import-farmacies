@@ -5,6 +5,8 @@
 		<tag k='ref' v='3621789' />
 		<tag k='name' v="Farmàcia González Blanco, Glòria" />
 		<tag k='addr:full' v="carrer Tarragona, 19" />
+		<tag k='addr:street' v="carrer Tarragona" />
+		<tag k='addr:housenumber' v="19" />
 		<tag k='addr:postcode' v='25620' />
 		<tag k='addr:city' v="Tremp" />
 		<tag k='source:date' v='03/11/2020 07:59:07 AM +0000' />
@@ -14,6 +16,8 @@
 		<tag k='ref' v='3624167' />
 		<tag k='name' v="Farmàcia Enjuanes Brualla, Montserrat" />
 		<tag k='addr:full' v="carrer Peresall, 55" />
+		<tag k='addr:street' v="carrer Peresall" />
+		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='25620' />
 		<tag k='addr:city' v="Tremp" />
 		<tag k='contact:phone' v='+34973650138' />
@@ -24,6 +28,8 @@
 		<tag k='ref' v='3624168' />
 		<tag k='name' v="Farmàcia Martínez Borrás, Núria" />
 		<tag k='addr:full' v="carrer Soldevila, 11" />
+		<tag k='addr:street' v="carrer Soldevila" />
+		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='25620' />
 		<tag k='addr:city' v="Tremp" />
 		<tag k='contact:phone' v='+34973650032' />
