@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.240099128' lon='1.810042774'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623241' />
 		<tag k='name' v="Farmàcia Benazet Lluís - Benazet Homedes, R. i X." />
 		<tag k='addr:full' v=" cm  dels capellans, 23" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.236452319' lon='1.814777963'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624271' />
 		<tag k='name' v="Farmàcia Arroyo García, Gabriel" />
 		<tag k='addr:full' v="carrer Port Alegre, 57" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.238623765' lon='1.809624224'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624381' />
 		<tag k='name' v="Farmàcia Planas Nogué, Gerard" />
 		<tag k='addr:full' v="avinguda Artur Carbonell, 30" />
@@ -37,11 +43,13 @@
 		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.238755448' lon='1.814630967'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621611' />
 		<tag k='name' v="Farmàcia Massagué Sanz, Carme" />
-		<tag k='addr:full' v="carretera De Les Costes, 20" />
-		<tag k='addr:street' v="carretera De Les Costes" />
+		<tag k='addr:full' v="carretera de Les Costes, 20" />
+		<tag k='addr:street' v="carretera de Les Costes" />
 		<tag k='addr:housenumber' v="20" />
 		<tag k='addr:postcode' v='08870' />
 		<tag k='addr:city' v="Sitges" />

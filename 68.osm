@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.493508158' lon='0.459555317'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624056' />
 		<tag k='name' v="Farmàcia Calzada Estadella, Teresa" />
-		<tag k='addr:full' v="avinguda Vint-I-Set De Gener, 47" />
-		<tag k='addr:street' v="avinguda Vint-I-Set De Gener" />
+		<tag k='addr:full' v="avinguda Vint-I-Set de Gener, 47" />
+		<tag k='addr:street' v="avinguda Vint-I-Set de Gener" />
 		<tag k='addr:housenumber' v="47" />
 		<tag k='addr:postcode' v='25182' />
 		<tag k='addr:city' v="Aitona" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:20 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.462323519' lon='0.409991581'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624156' />
 		<tag k='name' v="Farmàcia Carnicero Ramon, Blanca" />
 		<tag k='addr:full' v="carrer Metge, 11" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.248622101' lon='0.968288955'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624147' />
 		<tag k='name' v="Farmàcia Solduga Camarero,F.X/Solduga Tartera,M.T" />
 		<tag k='addr:full' v="avinguda Verdaguer, 23" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:08 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.247394352' lon='0.968081663'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624148' />
 		<tag k='name' v="Farmàcia Gabas Rocafort, Jordi" />
 		<tag k='addr:full' v="carrer Sant Miquel Del Puy, 8" />

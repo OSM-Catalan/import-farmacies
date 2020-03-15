@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.231561943' lon='0.55023386'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624502' />
 		<tag k='name' v="Farmàcia Barbero Pàmies, Amèlia" />
 		<tag k='addr:full' v="carrer Major, 6" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:58 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.182456553' lon='0.568352377'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624483' />
 		<tag k='name' v="Farmàcia Pallarés Povill, M. Teresa" />
 		<tag k='addr:full' v="carrer Riu, 43" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:58 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.183410765' lon='0.587988281'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623214' />
 		<tag k='name' v="Farmàcia Mateo del Pozo, Francesc Xavier" />
 		<tag k='addr:full' v="avinguda Francesc Macia, 7" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:57 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.230346722' lon='0.550554961'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624501' />
 		<tag k='name' v="Farmàcia Barbero Pàmies, Pilar" />
 		<tag k='addr:full' v="carrer Sant Jordi, 19" />

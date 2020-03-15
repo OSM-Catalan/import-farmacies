@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.853227768' lon='0.95524272'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624460' />
 		<tag k='name' v="Farmàcia Granell Molins, Enriqueta" />
 		<tag k='addr:full' v="carretera C-26,  S/N" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:25 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.799491195' lon='0.96041533'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624089' />
 		<tag k='name' v="Farmàcia Campiñez Victorio, Eva Maria" />
 		<tag k='addr:full' v="avinguda Pare Mirats, 7" />

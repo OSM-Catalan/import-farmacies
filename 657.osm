@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.265735486' lon='3.175255157'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621583' />
 		<tag k='name' v="Farmàcia Vàzquez Franch, Viviana" />
 		<tag k='addr:full' v="carrer Pep Ventura, 23" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:51 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.262701679' lon='3.175440457'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623635' />
 		<tag k='name' v="Farmàcia Targa Ballesta, Xavier" />
 		<tag k='addr:full' v="carrer Doctor Pi I Sunyer, 5" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:51 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.263621582' lon='3.177857989'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621425' />
 		<tag k='name' v="Farmàcia Bosch Pujolar, Marta" />
 		<tag k='addr:full' v="avinguda Tarragona,  93-95" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='42.265394088' lon='3.180895814'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621594' />
 		<tag k='name' v="Farmàcia Roig Smagghe, Florència" />
 		<tag k='addr:full' v="carrer Riera Ginjolers, 109" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:51 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='42.265313492' lon='3.172375923'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623734' />
 		<tag k='name' v="Farmàcia Castelló Hors, Àlvar" />
 		<tag k='addr:full' v="ronda Miquel Oliva Prat, 4" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='42.339929066' lon='3.203991154'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623671' />
 		<tag k='name' v="Farmàcia Sala Morell, M. Rosa" />
 		<tag k='addr:full' v="carrer Mar, 8" />
@@ -73,7 +85,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='42.257067029' lon='3.183661657'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623960' />
 		<tag k='name' v="Farmàcia Martínez, Bibiana - Roca, Martí" />
 		<tag k='addr:full' v="carrer Pujada Del Puig-Rom, 17" />
@@ -85,11 +99,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:51 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='42.261487291' lon='3.180450071'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623841' />
 		<tag k='name' v="Farmàcia Gratacós Nou, M - Paniagua Gratacós, M" />
-		<tag k='addr:full' v="plaça  De Llevant, 6" />
-		<tag k='addr:street' v="plaça  De Llevant" />
+		<tag k='addr:full' v="plaça de Llevant, 6" />
+		<tag k='addr:street' v="plaça de Llevant" />
 		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='17480' />
 		<tag k='addr:city' v="Roses" />
@@ -97,7 +113,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-9' visible='true' lat='42.259801525' lon='3.181834763'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621275' />
 		<tag k='name' v="Farmàcia Celrà Frigolé, Montserrat" />
 		<tag k='addr:full' v="carrer Cap Norfeu, 45" />
@@ -109,7 +127,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-10' visible='true' lat='42.262550301' lon='3.152147505'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623945' />
 		<tag k='name' v="Farmàcia Casas Basco, Montserrat" />
 		<tag k='addr:full' v="avinguda Gola Estany, 27" />
@@ -121,11 +141,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-11' visible='true' lat='42.307775504' lon='3.148496381'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623871' />
 		<tag k='name' v="Farmàcia Turón Pages, E. i C." />
-		<tag k='addr:full' v="carretera  De La Costa, 5" />
-		<tag k='addr:street' v="carretera  De La Costa" />
+		<tag k='addr:full' v="carretera de la Costa, 5" />
+		<tag k='addr:street' v="carretera de la Costa" />
 		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17495' />
 		<tag k='addr:city' v="Palau-saverdera" />
@@ -133,7 +155,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-12' visible='true' lat='42.262001529' lon='3.183517223'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621442' />
 		<tag k='name' v="Farmàcia Haro Porcar, Eva" />
 		<tag k='addr:full' v="carrer Gran Via Pau Casals,  85-87" />
@@ -145,7 +169,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:51 AM +0000' />
 	</node>
 	<node id='-13' visible='true' lat='42.265028424' lon='3.178681245'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623847' />
 		<tag k='name' v="Farmàcia Gonzalez Colom, Joaquim i Irene" />
 		<tag k='addr:full' v="carrer Jaume Ferran, 56" />

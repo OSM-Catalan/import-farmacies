@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.952435749' lon='3.206241817'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621262' />
 		<tag k='name' v="Farmàcia Castells Busquets, Ferran" />
 		<tag k='addr:full' v="plaça  Forgas, 11" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:49 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.917167221' lon='3.163740002'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623570' />
 		<tag k='name' v="Farmàcia Suñer Carbó, Júlia i Joaquim" />
-		<tag k='addr:full' v="plaça  De L'Esglesia, 9" />
-		<tag k='addr:street' v="plaça  De L'Esglesia" />
+		<tag k='addr:full' v="plaça de L'Esglesia, 9" />
+		<tag k='addr:street' v="plaça de L'Esglesia" />
 		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='17200' />
 		<tag k='addr:city' v="Palafrugell" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.914790673' lon='3.168132885'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623571' />
 		<tag k='name' v="Farmàcia Roura Casellas, Meritxell" />
 		<tag k='addr:full' v="carrer Barris I Buixo, 27" />
@@ -37,11 +43,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.953692623' lon='3.207047327'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623448' />
 		<tag k='name' v="Farmàcia Torres Areny, Sonia" />
-		<tag k='addr:full' v="carrer Onze De Setembre, 3" />
-		<tag k='addr:street' v="carrer Onze De Setembre" />
+		<tag k='addr:full' v="carrer Onze de Setembre, 3" />
+		<tag k='addr:street' v="carrer Onze de Setembre" />
 		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='17255' />
 		<tag k='addr:city' v="Begur" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:49 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.970073389' lon='3.148636583'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623574' />
 		<tag k='name' v="Farmàcia Lucas Falguera, Cristina" />
 		<tag k='addr:full' v="carrer Enginyer Algarra, 24" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:47 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.914481761' lon='3.155293695'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621259' />
 		<tag k='name' v="Farmàcia Barba Estany, Imma i Font Coll, Marina" />
 		<tag k='addr:full' v="avinguda Generalitat, 32" />
@@ -73,7 +85,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.916561952' lon='3.163824115'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623568' />
 		<tag k='name' v="Farmàcia Montserrat Martí Pané" />
 		<tag k='addr:full' v="carrer Cavallers, 48" />
@@ -85,7 +99,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.918492733' lon='3.157477499'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623782' />
 		<tag k='name' v="Farmàcia Noguer Martorell, Marina" />
 		<tag k='addr:full' v="carretera  Torroella, 50" />
@@ -97,7 +113,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-9' visible='true' lat='41.922341635' lon='3.170644288'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621453' />
 		<tag k='name' v="Farmàcia Thomas Ferrer, Isabel" />
 		<tag k='addr:full' v="avinguda Pompeu Fabra, 134" />
@@ -109,7 +127,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-10' visible='true' lat='41.915751055' lon='3.170036189'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623781' />
 		<tag k='name' v="Farmàcia Reixach - Trias - Rubau - Tarrés" />
 		<tag k='addr:full' v="carrer Sagunto, 36" />
@@ -121,7 +141,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-11' visible='true' lat='41.916640952' lon='3.163474437'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623569' />
 		<tag k='name' v="Farmàcia Dorca Garcia, M. Lluïsa" />
 		<tag k='addr:full' v="carrer Cavallers, 38" />
@@ -133,7 +155,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-12' visible='true' lat='41.913233051' lon='3.162813507'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621435' />
 		<tag k='name' v="Farmàcia Arenas Displas, Montserrat" />
 		<tag k='addr:full' v="carrer Ample, 55" />
@@ -145,11 +169,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-13' visible='true' lat='41.971077097' lon='3.146202852'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623966' />
 		<tag k='name' v="Farmàcia Devesa Borrell, Glòria" />
-		<tag k='addr:full' v="carretera Platja Masos De Pals, 103" />
-		<tag k='addr:street' v="carretera Platja Masos De Pals" />
+		<tag k='addr:full' v="carretera Platja Masos de Pals, 103" />
+		<tag k='addr:street' v="carretera Platja Masos de Pals" />
 		<tag k='addr:housenumber' v="103" />
 		<tag k='addr:postcode' v='17256' />
 		<tag k='addr:city' v="Pals" />
@@ -157,7 +183,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:47 AM +0000' />
 	</node>
 	<node id='-14' visible='true' lat='41.908166173' lon='3.145225137'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623867' />
 		<tag k='name' v="Farmàcia Montalban Vilas, Begonya" />
 		<tag k='addr:full' v="carrer Torres Jonama, 4" />

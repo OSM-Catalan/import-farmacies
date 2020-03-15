@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.366776198' lon='2.832705354'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623471' />
 		<tag k='name' v="Farmàcia Varcárcel Rosell, Elisa" />
-		<tag k='addr:full' v="plaça  De L'Horta, 5" />
-		<tag k='addr:street' v="plaça  De L'Horta" />
+		<tag k='addr:full' v="plaça de L'Horta, 5" />
+		<tag k='addr:street' v="plaça de L'Horta" />
 		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='17722' />
 		<tag k='addr:city' v="Darnius" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.417618194' lon='2.873150222'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623556' />
 		<tag k='name' v="Farmàcia Escutia Celda, Guadalupe" />
 		<tag k='addr:full' v="carrer Major, 87" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:53 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.393878194' lon='2.84593549'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623932' />
 		<tag k='name' v="Farmàcia Pinadell Giralt, Roser" />
 		<tag k='addr:full' v="plaça  Josep Serra, 1" />

@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.104025996' lon='1.849733412'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621758' />
 		<tag k='name' v="Farmàcia Casas Casals, Eva" />
-		<tag k='addr:full' v="passatge De La Indústria, 16" />
-		<tag k='addr:street' v="passatge De La Indústria" />
+		<tag k='addr:full' v="passatge de la Indústria, 16" />
+		<tag k='addr:street' v="passatge de la Indústria" />
 		<tag k='addr:housenumber' v="16" />
 		<tag k='addr:postcode' v='08600' />
 		<tag k='addr:city' v="Berga" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:20 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.098723085' lon='1.846249397'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622096' />
 		<tag k='name' v="Farmàcia Cosp Boixader, Maria" />
-		<tag k='addr:full' v="passatge De La Pau, 55" />
-		<tag k='addr:street' v="passatge De La Pau" />
+		<tag k='addr:full' v="passatge de la Pau, 55" />
+		<tag k='addr:street' v="passatge de la Pau" />
 		<tag k='addr:housenumber' v="55" />
 		<tag k='addr:postcode' v='08600' />
 		<tag k='addr:city' v="Berga" />
@@ -25,11 +29,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:20 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.151999494' lon='1.856361175'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624594' />
 		<tag k='name' v="Farmàcia Corominas Moliner, Anna" />
-		<tag k='addr:full' v="carrer Caixa D'Estalvis De Manresa,  s/n" />
-		<tag k='addr:street' v="carrer Caixa D'Estalvis De Manresa" />
+		<tag k='addr:full' v="carrer Caixa D'Estalvis de Manresa,  s/n" />
+		<tag k='addr:street' v="carrer Caixa D'Estalvis de Manresa" />
 		<tag k='addr:housenumber' v=" s/n" />
 		<tag k='addr:postcode' v='08698' />
 		<tag k='addr:city' v="Cercs" />
@@ -37,11 +43,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:18 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='42.070577372' lon='1.870052762'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622976' />
 		<tag k='name' v="Farmàcia Ferrer Verdura, M. Rosa" />
-		<tag k='addr:full' v="carretera De Berga, 13" />
-		<tag k='addr:street' v="carretera De Berga" />
+		<tag k='addr:full' v="carretera de Berga, 13" />
+		<tag k='addr:street' v="carretera de Berga" />
 		<tag k='addr:housenumber' v="13" />
 		<tag k='addr:postcode' v='08611' />
 		<tag k='addr:city' v="Olvan" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:19 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='42.102553848' lon='1.844812204'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622097' />
 		<tag k='name' v="Farmàcia Vila Calonge, M. Cristina" />
 		<tag k='addr:full' v="carrer Ciutat, 41" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:20 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='42.099235145' lon='1.843431611'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622099' />
 		<tag k='name' v="Farmàcia Àlvarez, Àlvaro - Saz Corazo, M. Neus" />
 		<tag k='addr:full' v="carrer Gran Via, 28" />
@@ -73,7 +85,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:20 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='42.104668228' lon='1.854786951'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624288' />
 		<tag k='name' v="Farmàcia Badia Soler, Josep" />
 		<tag k='addr:full' v="passatge  Industria, 25" />
@@ -85,7 +99,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:20 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='42.077524836' lon='1.821746647'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624021' />
 		<tag k='name' v="Farmàcia Viu Corominas, Maria" />
 		<tag k='addr:full' v="avinguda  Pau Casal, 34" />

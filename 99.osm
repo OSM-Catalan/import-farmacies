@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.016400238' lon='0.515036442'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623051' />
 		<tag k='name' v="Farmàcia Blanch Escurriola, Laureà" />
 		<tag k='addr:full' v="carrer Lleida, 3" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:56 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='40.974127065' lon='0.516753198'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623063' />
 		<tag k='name' v="Farmàcia Massó Juncosa, Immaculada" />
 		<tag k='addr:full' v="carrer Lluís Companys, 13" />
@@ -25,11 +29,13 @@
 		<tag k='source:date' v='03/11/2020 08:00:26 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.001699509' lon='0.598829892'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623069' />
 		<tag k='name' v="Farmàcia Pedret Ramos, Maria Mercè" />
-		<tag k='addr:full' v="carrer De La Plaça, 11" />
-		<tag k='addr:street' v="carrer De La Plaça" />
+		<tag k='addr:full' v="carrer de la Plaça, 11" />
+		<tag k='addr:street' v="carrer de la Plaça" />
 		<tag k='addr:housenumber' v="11" />
 		<tag k='addr:postcode' v='43513' />
 		<tag k='addr:city' v="Rasquera" />
@@ -37,11 +43,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:57 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.040616496' lon='0.599595749'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623068' />
 		<tag k='name' v="Farmàcia Mora Muñoz, Anton" />
-		<tag k='addr:full' v="carrer De La Creu, 24" />
-		<tag k='addr:street' v="carrer De La Creu" />
+		<tag k='addr:full' v="carrer de la Creu, 24" />
+		<tag k='addr:street' v="carrer de la Creu" />
 		<tag k='addr:housenumber' v="24" />
 		<tag k='addr:postcode' v='43747' />
 		<tag k='addr:city' v="Miravet" />

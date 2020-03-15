@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.135528838' lon='1.928743117'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623008' />
 		<tag k='name' v="Farmàcia Guillen Simon, Laura" />
 		<tag k='addr:full' v="carrer Teodoro Miralles, 3" />
@@ -12,7 +14,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:18 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.135708777' lon='1.994144204'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623174' />
 		<tag k='name' v="Farmàcia Giner Ferrando, Gemma Susana" />
 		<tag k='addr:full' v="plaça  Major, 12" />

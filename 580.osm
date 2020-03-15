@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.225210195' lon='2.859564789'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623866' />
 		<tag k='name' v="Farmàcia Mas de Xaxars Gassó, Irene" />
 		<tag k='addr:full' v="carretera Olot, 40" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.247436764' lon='2.813285582'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623946' />
 		<tag k='name' v="Farmàcia Aldrich Tomás, Agnés" />
 		<tag k='addr:full' v="plaça  Col·Legiata, 4" />

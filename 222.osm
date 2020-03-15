@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.653488395' lon='1.138368352'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624349' />
 		<tag k='name' v="Farmàcia Totime Ebuera, Ernestina" />
 		<tag k='addr:full' v="carrer Sant Pelegri, 90" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:13 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.657633493' lon='1.083387579'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624053' />
 		<tag k='name' v="Farmàcia Gutiérrez Argüeso, Lorena" />
 		<tag k='addr:full' v="avinguda  Catalunya, 26" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:15 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.64780043' lon='1.106727468'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624459' />
 		<tag k='name' v="Farmàcia Collado Baillo, Adelaida" />
 		<tag k='addr:full' v="carrer Ramon Perello, 1" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:13 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.64975829' lon='1.138893666'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624160' />
 		<tag k='name' v="Farmàcia Robinat Felip, Francesc Xavier" />
 		<tag k='addr:full' v="carrer Alonso Martinez, 35" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:13 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.647150917' lon='1.135034781'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624162' />
 		<tag k='name' v="Farmàcia Robinat Albareda, Núria" />
 		<tag k='addr:full' v="carrer Santa Clara,  2A" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:13 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.648257402' lon='1.139528788'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624161' />
 		<tag k='name' v="Farmàcia Mestres Duran, Anna M." />
 		<tag k='addr:full' v="avinguda Catalunya, 11" />
@@ -73,7 +85,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:13 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.61061182' lon='1.14175477'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624317' />
 		<tag k='name' v="Farmàcia Farras Minguell, Miquel" />
 		<tag k='addr:full' v="carrer Tomas Pellisso, 3" />
@@ -85,7 +99,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:13 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.647381363' lon='1.139912571'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624163' />
 		<tag k='name' v="Farmàcia Biosca Carulla, Ramon" />
 		<tag k='addr:full' v="carrer Carmen, 28" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.710444601' lon='0.902110787'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624083' />
 		<tag k='name' v="Farmàcia Cuñat Sola, Emma" />
 		<tag k='addr:full' v="plaça  Planell, 21" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.758049745' lon='0.90500835'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624062' />
 		<tag k='name' v="Farmàcia Brufau Tudela, Josep Ignasi" />
 		<tag k='addr:full' v="avinguda  Onze Setembre, 144" />

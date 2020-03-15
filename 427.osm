@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.932242568' lon='2.060404526'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621091' />
 		<tag k='name' v="Farmàcia Castrillon Anderson, Dante Paolo" />
-		<tag k='addr:full' v="plaça  De L'Església, 2" />
-		<tag k='addr:street' v="plaça  De L'Església" />
+		<tag k='addr:full' v="plaça de L'Església, 2" />
+		<tag k='addr:street' v="plaça de L'Església" />
 		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08518' />
 		<tag k='addr:city' v="Oristà" />

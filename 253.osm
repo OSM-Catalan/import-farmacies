@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.174909722' lon='1.330226077'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623067' />
 		<tag k='name' v="Farmàcia Rosique Roman, M. Lluïsa" />
-		<tag k='addr:full' v="avinguda De Catalunya,  S/N" />
-		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:full' v="avinguda de Catalunya,  S/N" />
+		<tag k='addr:street' v="avinguda de Catalunya" />
 		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43764' />
 		<tag k='addr:city' v="Catllar, el" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:48 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.16336439' lon='1.243174598'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622897' />
 		<tag k='name' v="Farmàcia Alcoceba Gutierrez, Mercè" />
 		<tag k='addr:full' v="carrer Muntaner,  13-15" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:41 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.190371914' lon='1.255182567'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623192' />
 		<tag k='name' v="Farmàcia Anguela de Irizar, Xavier" />
 		<tag k='addr:full' v="carrer Nou, 7" />
@@ -36,7 +42,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:47 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.160807752' lon='1.240560548'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622885' />
 		<tag k='name' v="Farmàcia Pedrola Ferrando, Montserrat" />
 		<tag k='addr:full' v="avinguda Pirineus, 121" />
@@ -48,7 +56,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:36 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.247850665' lon='1.329986398'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624789' />
 		<tag k='name' v="Farmàcia Mañé Figuerola, S.- Mañé Pablo, M." />
 		<tag k='addr:full' v="carrer Patrocini, 2" />
@@ -60,11 +70,13 @@
 		<tag k='source:date' v='03/11/2020 08:01:06 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.24428455' lon='1.248847304'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623062' />
 		<tag k='name' v="Farmàcia Carbajo Josa, M. Teresa" />
-		<tag k='addr:full' v="carrer De La Unio, 48" />
-		<tag k='addr:street' v="carrer De La Unio" />
+		<tag k='addr:full' v="carrer de la Unio, 48" />
+		<tag k='addr:street' v="carrer de la Unio" />
 		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='43144' />
 		<tag k='addr:city' v="Vallmoll" />
@@ -72,7 +84,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:08 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.175267217' lon='1.273661728'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623220' />
 		<tag k='name' v="Farmàcia Serramia Rofes, Amor" />
 		<tag k='addr:full' v="carrer Jujol, 3" />
@@ -83,7 +97,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:47 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.201332099' lon='1.278691964'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624632' />
 		<tag k='name' v="Farmàcia Sánchez Hidalgo, Estrella" />
 		<tag k='addr:full' v="carrer Sant Cristòfol, 35" />

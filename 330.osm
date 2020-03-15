@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.322171804' lon='1.664037559'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624627' />
 		<tag k='name' v="Farmàcia Franquet Tudo, E. - Ruiz Franquet, E." />
 		<tag k='addr:full' v="plaça  Ajuntament, 5" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:59 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.322930599' lon='1.665907139'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621766' />
 		<tag k='name' v="Farmàcia Martínez Larriba, Margarita" />
 		<tag k='addr:full' v="avinguda Catalunya, 2" />
@@ -25,11 +29,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:03 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.321300037' lon='1.66331586'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622394' />
 		<tag k='name' v="Farmàcia Ruiz Planas, Montse / Rafols Ruiz, Elena" />
-		<tag k='addr:full' v="avinguda De Catalunya, 66" />
-		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:full' v="avinguda de Catalunya, 66" />
+		<tag k='addr:street' v="avinguda de Catalunya" />
 		<tag k='addr:housenumber' v="66" />
 		<tag k='addr:postcode' v='08730' />
 		<tag k='addr:city' v="Santa Margarida i els Monjos" />
@@ -37,11 +43,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:03 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.279425065' lon='1.582550119'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623048' />
 		<tag k='name' v="Farmàcia Garriga Ferriol, Ramon -hereus_" />
-		<tag k='addr:full' v="plaça  Onze De Setembre,  S/N" />
-		<tag k='addr:street' v="plaça  Onze De Setembre" />
+		<tag k='addr:full' v="plaça  Onze de Setembre,  S/N" />
+		<tag k='addr:street' v="plaça  Onze de Setembre" />
 		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43711' />
 		<tag k='addr:city' v="Banyeres del Penedès" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:58 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.268569643' lon='1.600308716'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621579' />
 		<tag k='name' v="Farmàcia Suriol Roig, Albert" />
 		<tag k='addr:full' v="carrer Ricard Domingo,  10-12" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:58 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.267758856' lon='1.603899512'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624482' />
 		<tag k='name' v="Farmàcia Suriol Ribé, Andreu" />
 		<tag k='addr:full' v="carrer Major, 22" />
@@ -73,7 +85,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:58 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.326690962' lon='1.618607312'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624741' />
 		<tag k='name' v="Farmàcia Arribas Genescà, Àlex" />
 		<tag k='addr:full' v="carrer Quatre Cantons, 1" />
@@ -85,7 +99,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:05 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.265700632' lon='1.597562231'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622899' />
 		<tag k='name' v="Farmàcia Suriol Roig, Ramon" />
 		<tag k='addr:full' v="avinguda Penedes, 8" />

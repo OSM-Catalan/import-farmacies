@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.181187307' lon='0.355061264'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623217' />
 		<tag k='name' v="Farmàcia Piñana Domènech, Raquel" />
-		<tag k='addr:full' v="plaça   De La Diputacio, 2" />
-		<tag k='addr:street' v="plaça   De La Diputacio" />
+		<tag k='addr:full' v="plaça  de la Diputacio, 2" />
+		<tag k='addr:street' v="plaça  de la Diputacio" />
 		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43783' />
 		<tag k='addr:city' v="Pobla de Massaluca, la" />

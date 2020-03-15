@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.251241733' lon='0.486019395'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624622' />
 		<tag k='name' v="Farmàcia Puig Vilas, Montserrat" />
-		<tag k='addr:full' v="plaça  De L' Església, 8" />
-		<tag k='addr:street' v="plaça  De L' Església" />
+		<tag k='addr:full' v="plaça de L' Església, 8" />
+		<tag k='addr:street' v="plaça de L' Església" />
 		<tag k='addr:housenumber' v="8" />
 		<tag k='addr:postcode' v='43790' />
 		<tag k='addr:city' v="Riba-roja d'Ebre" />

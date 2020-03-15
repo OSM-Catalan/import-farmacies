@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.140078713' lon='1.396301055'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623221' />
 		<tag k='name' v="Farmàcia Leon Alfaro, Montserrat" />
-		<tag k='addr:full' v="avinguda Verge De Montserrat, 4" />
-		<tag k='addr:street' v="avinguda Verge De Montserrat" />
+		<tag k='addr:full' v="avinguda Verge de Montserrat, 4" />
+		<tag k='addr:street' v="avinguda Verge de Montserrat" />
 		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='43830' />
 		<tag k='addr:city' v="Torredembarra" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:32 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.147320091' lon='1.396780705'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621597' />
 		<tag k='name' v="Farmàcia Corredera Sabarich, Beatriu" />
 		<tag k='addr:full' v="avinguda Sant Jordi,  19-21" />
@@ -24,7 +28,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:33 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.144830734' lon='1.40116791'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621241' />
 		<tag k='name' v="Farmàcia Escudé Pont, Marc" />
 		<tag k='addr:full' v="carrer Filadors,  6-8" />
@@ -36,7 +42,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:32 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.145461111' lon='1.409026391'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621780' />
 		<tag k='name' v="Farmàcia Vaucouloux Esqué, Cristina" />
 		<tag k='addr:full' v="passatge Miramar, 193" />
@@ -48,7 +56,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:32 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.135182005' lon='1.37855174'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623350' />
 		<tag k='name' v="Farmàcia Sabaté Herrero, Joaquim" />
 		<tag k='addr:full' v="plaça  Dels Vents, 6" />
@@ -59,7 +69,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:49 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.141034839' lon='1.373514759'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622872' />
 		<tag k='name' v="Farmàcia Domingo Navarro, Susana" />
 		<tag k='addr:full' v="carrer Escoles, 3" />
@@ -71,7 +83,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:49 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.144733631' lon='1.404611238'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622886' />
 		<tag k='name' v="Farmàcia Miró Rodríguez, Ferran" />
 		<tag k='addr:full' v="carrer Pere Badia, 55" />
@@ -83,7 +97,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:32 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.144439455' lon='1.397927159'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624651' />
 		<tag k='name' v="Farmàcia Cogul Ardevol, Maria Blanca" />
 		<tag k='addr:full' v="carrer D' Antoni Roig, 14" />

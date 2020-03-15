@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.256156856' lon='3.077462267'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621606' />
 		<tag k='name' v="Farmàcia Alsina Argelés, Mario" />
 		<tag k='addr:full' v="carrer Santa Clara, 43" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.257930369' lon='3.074822426'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623842' />
 		<tag k='name' v="Farmàcia Crosas Casalprim, Judith" />
 		<tag k='addr:full' v="carrer Preso, 6" />
@@ -25,11 +29,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.261972835' lon='3.10081878'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621623' />
 		<tag k='name' v="Farmàcia Fornells Pagès, Susanna" />
-		<tag k='addr:full' v="carrer Pla De Roses,  15A" />
-		<tag k='addr:street' v="carrer Pla De Roses" />
+		<tag k='addr:full' v="carrer Pla de Roses,  15A" />
+		<tag k='addr:street' v="carrer Pla de Roses" />
 		<tag k='addr:housenumber' v=" 15A" />
 		<tag k='addr:postcode' v='17486' />
 		<tag k='addr:city' v="Castelló d'Empúries" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='42.309100841' lon='3.013059693'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623575' />
 		<tag k='name' v="Farmàcia Iñarra Iborra, Úrsula" />
 		<tag k='addr:full' v="avinguda Constitucio, 1" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:52 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='42.325240297' lon='3.092696856'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623865' />
 		<tag k='name' v="Farmàcia Ymbert Pellejà, Helena" />
 		<tag k='addr:full' v="plaça  Margineda, 3" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:50 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='42.343999257' lon='3.064760085'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623535' />
 		<tag k='name' v="Farmàcia Aubert Siques, Anna" />
 		<tag k='addr:full' v="carrer Gran, 35" />
@@ -73,11 +85,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:53 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='42.265806216' lon='3.018515898'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623933' />
 		<tag k='name' v="Farmàcia Freixes Sanjuan, Remei" />
-		<tag k='addr:full' v="plaça  De L'Esglèsia, 7" />
-		<tag k='addr:street' v="plaça  De L'Esglèsia" />
+		<tag k='addr:full' v="plaça de L'Esglèsia, 7" />
+		<tag k='addr:street' v="plaça de L'Esglèsia" />
 		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='17485' />
 		<tag k='addr:city' v="Vila-sacra" />

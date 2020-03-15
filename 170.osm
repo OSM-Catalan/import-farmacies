@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.66163554' lon='0.93052738'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624454' />
 		<tag k='name' v="Farmàcia Bernaus Darbra, Judith" />
 		<tag k='addr:full' v="avinguda  Catalunya, 107" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.629724158' lon='0.88259529'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624455' />
 		<tag k='name' v="Farmàcia Aiguabella Alenta, Maria Goretti" />
 		<tag k='addr:full' v="avinguda President Macià, 15" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.603998025' lon='0.876844098'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624328' />
 		<tag k='name' v="Farmàcia Regué Vidal, Rosa M." />
 		<tag k='addr:full' v="carrer Dels Plans, 2" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.651665414' lon='0.879997066'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624092' />
 		<tag k='name' v="Farmàcia Esquerda Serrano, Carme" />
 		<tag k='addr:full' v="plaça   Major, 6" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.631934543' lon='0.932658903'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624322' />
 		<tag k='name' v="Farmàcia Labraña Salas, Josep" />
 		<tag k='addr:full' v="carrer Carretera, 20" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:24 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.626124993' lon='0.895349369'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624326' />
 		<tag k='name' v="Farmàcia Casañas Torres, Olga" />
 		<tag k='addr:full' v="avinguda Del Canal, 6" />
@@ -73,7 +85,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.62946056' lon='0.893464396'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624087' />
 		<tag k='name' v="Farmàcia Figuerola Argelich, Núria" />
 		<tag k='addr:full' v="plaça  M. Bertran, 5" />
@@ -85,11 +99,13 @@
 		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.679279857' lon='0.85685138'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624346' />
 		<tag k='name' v="Farmàcia Reñé Espinet, Montserrat" />
-		<tag k='addr:full' v="rambla 8 De Maig, 103" />
-		<tag k='addr:street' v="rambla 8 De Maig" />
+		<tag k='addr:full' v="rambla 8 de Maig, 103" />
+		<tag k='addr:street' v="rambla 8 de Maig" />
 		<tag k='addr:housenumber' v="103" />
 		<tag k='addr:postcode' v='25143' />
 		<tag k='addr:city' v="Poal, el" />
@@ -97,7 +113,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:23 AM +0000' />
 	</node>
 	<node id='-9' visible='true' lat='41.628938721' lon='0.893961519'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624088' />
 		<tag k='name' v="Farmàcia Ros Simo, Clara" />
 		<tag k='addr:full' v="plaça  Major, 12" />

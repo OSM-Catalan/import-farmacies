@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.49509432' lon='1.004992224'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624461' />
 		<tag k='name' v="Farmàcia Teixidó Salvadó, Cristina" />
 		<tag k='addr:full' v="carrer Pau Casals, 9" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 08:01:27 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.42787883' lon='0.976067855'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624313' />
 		<tag k='name' v="Farmàcia Sabanes Abellana, J. Ramon" />
-		<tag k='addr:full' v="carretera De Tarragona, 6" />
-		<tag k='addr:street' v="carretera De Tarragona" />
+		<tag k='addr:full' v="carretera de Tarragona, 6" />
+		<tag k='addr:street' v="carretera de Tarragona" />
 		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='25440' />
 		<tag k='addr:city' v="Vinaixa" />

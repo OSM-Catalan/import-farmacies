@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.282519812' lon='0.666172287'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623075' />
 		<tag k='name' v="Farmàcia Capsir Eixarch, Manuel" />
-		<tag k='addr:full' v="carrer De Dins, 5" />
-		<tag k='addr:street' v="carrer De Dins" />
+		<tag k='addr:full' v="carrer de Dins, 5" />
+		<tag k='addr:street' v="carrer de Dins" />
 		<tag k='addr:housenumber' v="5" />
 		<tag k='addr:postcode' v='43151' />
 		<tag k='addr:city' v="Palma d'Ebre, la" />

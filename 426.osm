@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.985535677' lon='2.095845499'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624732' />
 		<tag k='name' v="Farmàcia López Santín, Lídia" />
 		<tag k='addr:full' v="passeig Doctor Lleopart, 4" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.059383693' lon='2.150408101'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623152' />
 		<tag k='name' v="Farmàcia Macià Pou, Montserrat" />
 		<tag k='addr:full' v="passeig Del Lluçanès, 19" />

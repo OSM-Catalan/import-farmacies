@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.788886263' lon='2.776352173'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621246' />
 		<tag k='name' v="Farmàcia Vilardell Fajula, Júlia" />
 		<tag k='addr:full' v="carrer Girona, 37,  portal b" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.792865346' lon='2.776549208'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621413' />
 		<tag k='name' v="Farmàcia Biraud, Damien" />
 		<tag k='addr:full' v="carrer Josep Pla, 84" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.790715445' lon='2.777491627'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621941' />
 		<tag k='name' v="Farmàcia Rico Font, Eduard" />
 		<tag k='addr:full' v="carrer Costa Brava, 65" />
@@ -37,11 +43,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.789879234' lon='2.780828633'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623657' />
 		<tag k='name' v="Farmàcia Moré Fábregas, M. Assumpta" />
-		<tag k='addr:full' v="carrer De Catalunya, 48" />
-		<tag k='addr:street' v="carrer De Catalunya" />
+		<tag k='addr:full' v="carrer de Catalunya, 48" />
+		<tag k='addr:street' v="carrer de Catalunya" />
 		<tag k='addr:housenumber' v="48" />
 		<tag k='addr:postcode' v='17411' />
 		<tag k='addr:city' v="Vidreres" />

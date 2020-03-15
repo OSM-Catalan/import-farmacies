@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.75950865' lon='2.014124847'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623024' />
 		<tag k='name' v="Farmàcia Kaid-Salah Ferran, Sheddad" />
 		<tag k='addr:full' v="carrer Moli, 4" />
@@ -12,7 +14,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.797677637' lon='1.953147119'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622078' />
 		<tag k='name' v="Farmàcia Boixareu Carrera, M. Àngels" />
 		<tag k='addr:full' v="carrer Rocafort, 26" />
@@ -24,7 +28,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.796373656' lon='1.950003805'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624125' />
 		<tag k='name' v="Farmàcia Artigalas Boixareu, Núria" />
 		<tag k='addr:full' v="carrer Rocafort, 60" />
@@ -36,7 +42,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.790100234' lon='1.991236407'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623147' />
 		<tag k='name' v="Farmàcia Reixach Coll, Jorge" />
 		<tag k='addr:full' v="avinguda Paisos Catalans, 11" />

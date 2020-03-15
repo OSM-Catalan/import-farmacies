@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.196781177' lon='1.569783597'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624489' />
 		<tag k='name' v="Farmàcia Gràcia Castellví, Carles Xavier" />
 		<tag k='addr:full' v="carrer Jesus, 48" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:57 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.252850737' lon='1.549639592'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623081' />
 		<tag k='name' v="Farmàcia Linares Muñoz, Francesc de A." />
 		<tag k='addr:full' v="carrer Torras I Bages, 3" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:55 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.217979776' lon='1.528232665'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623362' />
 		<tag k='name' v="Farmàcia López Alfonso, Cristina" />
 		<tag k='addr:full' v="avinguda Baix Penedes, 24" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.185034076' lon='1.455606857'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622895' />
 		<tag k='name' v="Farmàcia Guilamany Barreras, Margarita" />
 		<tag k='addr:full' v="carrer Sant Isidre, 4" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:44 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.18105609' lon='1.524964485'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622879' />
 		<tag k='name' v="Farmàcia Tobella Batallé, Ricard" />
 		<tag k='addr:full' v="plaça  Trillas,  S/N" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.224542129' lon='1.535230227'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622910' />
 		<tag k='name' v="Farmàcia Bueno Andreu, Vicenç" />
 		<tag k='addr:full' v="carretera Valls, 72" />
@@ -73,11 +85,13 @@
 		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.218770555' lon='1.525787036'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621245' />
 		<tag k='name' v="Farmàcia Juste Diez de Pinos, Josep Lluís" />
-		<tag k='addr:full' v="carrer De Les Flors, 74" />
-		<tag k='addr:street' v="carrer De Les Flors" />
+		<tag k='addr:full' v="carrer de Les Flors, 74" />
+		<tag k='addr:street' v="carrer de Les Flors" />
 		<tag k='addr:housenumber' v="74" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
@@ -85,7 +99,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.188516842' lon='1.569450805'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623073' />
 		<tag k='name' v="Farmàcia Medrano de la Maza, Lluís Miquel" />
 		<tag k='addr:full' v="carrer Sant Pere,  44-46" />
@@ -97,7 +113,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:56 AM +0000' />
 	</node>
 	<node id='-9' visible='true' lat='41.2150771' lon='1.5334568'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621455' />
 		<tag k='name' v="Farmàcia Sisternes Vernia, Enric Vicenç" />
 		<tag k='addr:full' v="avinguda Sant Vicenç, 37" />
@@ -109,11 +127,13 @@
 		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
 	</node>
 	<node id='-10' visible='true' lat='41.220685097' lon='1.535877444'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624788' />
 		<tag k='name' v="Farmàcia Rovira Ribas, Jaume" />
-		<tag k='addr:full' v="carrer Prat De La Riba, 6" />
-		<tag k='addr:street' v="carrer Prat De La Riba" />
+		<tag k='addr:full' v="carrer Prat de la Riba, 6" />
+		<tag k='addr:street' v="carrer Prat de la Riba" />
 		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />
@@ -121,11 +141,13 @@
 		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
 	</node>
 	<node id='-11' visible='true' lat='41.168561369' lon='1.48084312'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622898' />
 		<tag k='name' v="Farmàcia Rubio Moreno, Gregoria" />
-		<tag k='addr:full' v="carrer Roc De Sant Gaietà,  S/N" />
-		<tag k='addr:street' v="carrer Roc De Sant Gaietà" />
+		<tag k='addr:full' v="carrer Roc de Sant Gaietà,  S/N" />
+		<tag k='addr:street' v="carrer Roc de Sant Gaietà" />
 		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='43883' />
 		<tag k='addr:city' v="Roda de Berà" />
@@ -133,7 +155,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:44 AM +0000' />
 	</node>
 	<node id='-12' visible='true' lat='41.220125357' lon='1.536266637'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623232' />
 		<tag k='name' v="Farmàcia Bargalló Mesones, Pilar" />
 		<tag k='addr:full' v="carretera N-340, 1185" />
@@ -144,7 +168,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:55 AM +0000' />
 	</node>
 	<node id='-13' visible='true' lat='41.183803081' lon='1.542147005'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621240' />
 		<tag k='name' v="Farmàcia Bonet Serrano, Jaume" />
 		<tag k='addr:full' v="avinguda Palfuriana, 48" />
@@ -156,7 +182,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:55 AM +0000' />
 	</node>
 	<node id='-14' visible='true' lat='41.221184704' lon='1.539314541'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='9025630' />
 		<tag k='name' v="Farmàcia Gas Aixendri, Carlos Jesús" />
 		<tag k='addr:full' v="carrer Narcis Monturiol,  16-18" />
@@ -168,7 +196,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
 	</node>
 	<node id='-15' visible='true' lat='41.218604139' lon='1.531238934'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623080' />
 		<tag k='name' v="Farmàcia Parra Trillas, Pere" />
 		<tag k='addr:full' v="carrer Sant Xavier, 23" />
@@ -180,7 +210,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:54 AM +0000' />
 	</node>
 	<node id='-16' visible='true' lat='41.245680032' lon='1.489845652'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623195' />
 		<tag k='name' v="Farmàcia Armengol Codina, Montserrat" />
 		<tag k='addr:full' v="carrer Afores, 5" />
@@ -192,11 +224,13 @@
 		<tag k='source:date' v='03/11/2020 08:00:58 AM +0000' />
 	</node>
 	<node id='-17' visible='true' lat='41.220977946' lon='1.535790084'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624787' />
 		<tag k='name' v="Farmàcia Mestres Català, M. Carme" />
-		<tag k='addr:full' v="carrer Prat De La Riba, 2" />
-		<tag k='addr:street' v="carrer Prat De La Riba" />
+		<tag k='addr:full' v="carrer Prat de la Riba, 2" />
+		<tag k='addr:street' v="carrer Prat de la Riba" />
 		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='43700' />
 		<tag k='addr:city' v="Vendrell, el" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.125851068' lon='3.134217819'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623739' />
 		<tag k='name' v="Farmàcia Massaguer Taberner, Eduard" />
 		<tag k='addr:full' v="carrer Port, 28" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:54 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.117097249' lon='3.132158372'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623950' />
 		<tag k='name' v="Farmàcia Planas Moret, M. Rosa" />
 		<tag k='addr:full' v="avinguda Riells, 18" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:54 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.121195369' lon='3.131691673'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623554' />
 		<tag k='name' v="Farmàcia Solés Vilabrú, Anna" />
 		<tag k='addr:full' v="avinguda Girona,  23-25" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:54 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='42.12366922' lon='3.136105182'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623764' />
 		<tag k='name' v="Farmàcia Cendra Colomer, Lluís" />
 		<tag k='addr:full' v="carrer Ave Maria, 3" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:55 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='42.113828325' lon='3.13904074'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622071' />
 		<tag k='name' v="Farmàcia Font Llorella, Francesc" />
 		<tag k='addr:full' v="avinguda Montgó, 8" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.84811133' lon='3.129630796'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623573' />
 		<tag k='name' v="Farmàcia Baviera Baviera, Josep" />
 		<tag k='addr:full' v="carrer Major, 1" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.847060874' lon='3.12951634'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623572' />
 		<tag k='name' v="Farmàcia Matamala Joan, M. José" />
 		<tag k='addr:full' v="carrer Major, 39" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:47 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.888872605' lon='3.186401291'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623775' />
 		<tag k='name' v="Farmàcia Pou Juanola, Santiago" />
 		<tag k='addr:full' v="carrer Pirroig, 23" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.850457209' lon='3.129289516'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621404' />
 		<tag k='name' v="Farmàcia Gomez Maestre, M.Carmen" />
 		<tag k='addr:full' v="avinguda Catalunya, 3" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.849371418' lon='3.124175069'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623741' />
 		<tag k='name' v="Farmàcia Clares Vigo, Victòria" />
 		<tag k='addr:full' v="avinguda President Macia, 62" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.88053534' lon='3.128075166'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623981' />
 		<tag k='name' v="Farmàcia Massaguer Comas, Marta" />
 		<tag k='addr:full' v="carrer Cami Ral, 1" />
@@ -73,7 +85,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:46 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.854208622' lon='3.129573492'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623670' />
 		<tag k='name' v="Farmàcia Massaneda, J.M. - Massaneda, J.M." />
 		<tag k='addr:full' v="avinguda Llibertat, 99" />
@@ -85,7 +99,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:47 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.849381003' lon='3.134294547'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623838' />
 		<tag k='name' v="Farmàcia Rosanes Álvarez, Irene" />
 		<tag k='addr:full' v="carrer Xaloc, 25" />
@@ -97,7 +113,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:47 AM +0000' />
 	</node>
 	<node id='-9' visible='true' lat='41.851464692' lon='3.125864684'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621273' />
 		<tag k='name' v="Farmàcia Margalef Gironès, M. Mercè" />
 		<tag k='addr:full' v="carrer Vincke, 20" />
@@ -109,7 +127,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:47 AM +0000' />
 	</node>
 	<node id='-10' visible='true' lat='41.893283491' lon='3.191773987'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623971' />
 		<tag k='name' v="Farmàcia Mendieta Fiter, Antoni" />
 		<tag k='addr:full' v="carrer Pere Pascuet, 37" />
@@ -121,7 +141,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:48 AM +0000' />
 	</node>
 	<node id='-11' visible='true' lat='41.848777358' lon='3.126865439'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621593' />
 		<tag k='name' v="Farmàcia Pons López, Eva - Gascón Ramírez, Marina" />
 		<tag k='addr:full' v="carrer Carmel, 9,  portal a" />

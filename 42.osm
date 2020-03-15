@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.458940706' lon='0.35973892'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624344' />
 		<tag k='name' v="Farmàcia Gabàs Curià, Miriam" />
 		<tag k='addr:full' v="carrer Nou, 8" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.419878113' lon='0.3522427'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624324' />
 		<tag k='name' v="Farmàcia Oliva Gistau, Montserrat" />
 		<tag k='addr:full' v="avinguda  Lleida, 10" />

@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='40.714727382' lon='0.492563121'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624628' />
 		<tag k='name' v="Farmàcia Bertomeu Canaldà, J-Bertomeu Arasa, J A" />
-		<tag k='addr:full' v="carrer Mare De Dèu De Montserrat, 3" />
-		<tag k='addr:street' v="carrer Mare De Dèu De Montserrat" />
+		<tag k='addr:full' v="carrer Mare de Dèu de Montserrat, 3" />
+		<tag k='addr:street' v="carrer Mare de Dèu de Montserrat" />
 		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='43570' />
 		<tag k='addr:city' v="Santa Bàrbara" />

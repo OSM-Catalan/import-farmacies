@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.624318958' lon='2.569612332'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623001' />
 		<tag k='name' v="Farmàcia Ramia Oller, Ana Maria" />
-		<tag k='addr:full' v="carrer 25 De Juny,  S/N" />
-		<tag k='addr:street' v="carrer 25 De Juny" />
+		<tag k='addr:full' v="carrer 25 de Juny,  S/N" />
+		<tag k='addr:street' v="carrer 25 de Juny" />
 		<tag k='addr:housenumber' v=" S/N" />
 		<tag k='addr:postcode' v='08359' />
 		<tag k='addr:city' v="Sant Iscle de Vallalta" />

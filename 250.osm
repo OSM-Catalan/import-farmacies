@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.447003205' lon='1.248988873'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624631' />
 		<tag k='name' v="Farmàcia Segura Castellví, Miquel Àngel" />
-		<tag k='addr:full' v="avinguda De La Conca, 42" />
-		<tag k='addr:street' v="avinguda De La Conca" />
+		<tag k='addr:full' v="avinguda de la Conca, 42" />
+		<tag k='addr:street' v="avinguda de la Conca" />
 		<tag k='addr:housenumber' v="42" />
 		<tag k='addr:postcode' v='43424' />
 		<tag k='addr:city' v="Sarral" />

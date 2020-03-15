@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.284909861' lon='1.723682947'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624744' />
 		<tag k='name' v="Farmàcia Engel Cellier, Carles" />
 		<tag k='addr:full' v="carrer Nou, 2" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.298400305' lon='1.779230204'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621081' />
 		<tag k='name' v="Farmàcia Alonso Riera, Enric" />
 		<tag k='addr:full' v="carrer Aquari,  S/N" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.25871121' lon='1.772093791'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621231' />
 		<tag k='name' v="Farmàcia Busquets Casso, Anna" />
 		<tag k='addr:full' v="carrer Lluis Companys, 72" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:44 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.324595368' lon='1.693029076'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624752' />
 		<tag k='name' v="Farmàcia Gaya Montserrat, Santiago" />
 		<tag k='addr:full' v="carrer Carrerada, 28" />

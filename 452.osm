@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.016019315' lon='2.238824722'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622527' />
 		<tag k='name' v="Farmàcia Mirabent Sala, Anna" />
 		<tag k='addr:full' v="carrer Batlle Serrallonga,  8-10" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.06425515' lon='2.271841749'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622544' />
 		<tag k='name' v="Farmàcia Rifa Piñol, Margarida" />
 		<tag k='addr:full' v="plaça  Castell, 7" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.010529148' lon='2.244339362'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623295' />
 		<tag k='name' v="Farmàcia Portús Noguera, Joan" />
 		<tag k='addr:full' v="plaça  Balmes, 1" />
@@ -36,7 +42,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.983075921' lon='2.173584476'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624747' />
 		<tag k='name' v="Farmàcia Casacuberta Tor, Maria Lluïsa" />
 		<tag k='addr:full' v="carrer Vell,  SN" />
@@ -48,7 +56,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:16 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='42.044215503' lon='2.2686951'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624730' />
 		<tag k='name' v="Farmàcia Nofre Mercader, Berta" />
 		<tag k='addr:full' v="carrer Manlleu, 31" />
@@ -60,11 +70,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='42.062337322' lon='2.273698088'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623121' />
 		<tag k='name' v="Farmàcia Duran Riera, M. Teresa" />
-		<tag k='addr:full' v="plaça  De L'Ajuntament, 1" />
-		<tag k='addr:street' v="plaça  De L'Ajuntament" />
+		<tag k='addr:full' v="plaça de L'Ajuntament, 1" />
+		<tag k='addr:street' v="plaça de L'Ajuntament" />
 		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='08571' />
 		<tag k='addr:city' v="Sant Vicenç de Torelló" />
@@ -72,7 +84,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='42.048171296' lon='2.262568984'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622641' />
 		<tag k='name' v="Farmàcia Prat Bofill, Jordi i Fortià" />
 		<tag k='addr:full' v="carrer Pont, 31, l2" />
@@ -84,7 +98,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='42.047769039' lon='2.265829492'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622642' />
 		<tag k='name' v="Farmàcia Font Bou, Mireia - Homs Castells, Neus" />
 		<tag k='addr:full' v="carrer Ansel Clavé, 2" />
@@ -96,7 +112,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-9' visible='true' lat='42.040378418' lon='2.230753295'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622924' />
 		<tag k='name' v="Farmàcia Camps Martínez, Agnès" />
 		<tag k='addr:full' v="carrer Major, 11" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.721167315' lon='2.933276929'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621084' />
 		<tag k='name' v="Farmàcia Lores Catalan, M. Carmen" />
 		<tag k='addr:full' v="carrer Enric Granados, 9,  bloc 17" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.72219021' lon='2.930035412'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623843' />
 		<tag k='name' v="Farmàcia Castelló Cugat, Ramon" />
 		<tag k='addr:full' v="avinguda  Ferran Agullo, 12" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.723882957' lon='2.929508698'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621609' />
 		<tag k='name' v="Farmàcia Capell Vidal, Marcel" />
 		<tag k='addr:full' v="rambla Pau Casals,  12-20" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.718478102' lon='2.93137361'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623655' />
 		<tag k='name' v="Farmàcia Arbusse Paracaula, Alfons" />
 		<tag k='addr:full' v="carrer Sant Telm, 19" />

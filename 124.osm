@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.059693782' lon='0.634902217'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624486' />
 		<tag k='name' v="Farmàcia Hernández Escribà, M. Carme" />
 		<tag k='addr:full' v="carrer Reus, 44" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:58 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.099239366' lon='0.650011495'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624606' />
 		<tag k='name' v="Farmàcia Nogués Homedes, MC - Veciana Nogués, A" />
 		<tag k='addr:full' v="carrer Major, 17" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:57 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.088667508' lon='0.64047126'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624605' />
 		<tag k='name' v="Farmàcia Molina Díaz, JC - Bengochea Prieto, A" />
 		<tag k='addr:full' v="avinguda Comarques Catalanes, 57" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:58 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.126071316' lon='0.7326733'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623079' />
 		<tag k='name' v="Farmàcia Hernanz Redondo, Tomas" />
 		<tag k='addr:full' v="carrer Major, 22" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:50 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.136834088' lon='0.649771117'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623200' />
 		<tag k='name' v="Farmàcia Capella Castellví, Francesca" />
 		<tag k='addr:full' v="carrer Centre, 10" />

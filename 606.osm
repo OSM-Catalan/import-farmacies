@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.174673934' lon='2.991074821'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623934' />
 		<tag k='name' v="Farmàcia Coll Collet, Núria" />
 		<tag k='addr:full' v="carrer Figueres, 27" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:51 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.217188479' lon='2.971855305'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623944' />
 		<tag k='name' v="Farmàcia Pi Herrero, Pietat" />
 		<tag k='addr:full' v="carretera Nacional Iia,  KM2,  5" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:50 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.247486949' lon='2.93658499'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623858' />
 		<tag k='name' v="Farmàcia Gomez Gil, Pere" />
 		<tag k='addr:full' v="carrer Comerç, 43" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:50 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='42.250913197' lon='2.910212666'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623962' />
 		<tag k='name' v="Farmàcia Bertran Morera, Montserrat" />
 		<tag k='addr:full' v="carrer Simo Llauneta, 41" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:56 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='42.223452984' lon='2.92606884'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623458' />
 		<tag k='name' v="Farmàcia Fornaguera Bernabeu, Mariona" />
 		<tag k='addr:full' v="carrer Figueres, 5" />

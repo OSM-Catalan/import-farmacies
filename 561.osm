@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.618426347' lon='2.672378585'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623592' />
 		<tag k='name' v="Farmàcia Mir Soler, Joaquim" />
 		<tag k='addr:full' v="avinguda Hispanitat, 27" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:36 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.616672768' lon='2.665780466'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623190' />
 		<tag k='name' v="Farmàcia Castells Aviñó, Genoveva" />
 		<tag k='addr:full' v="carrer Brugera, 226" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:37 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.617315748' lon='2.669644127'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624735' />
 		<tag k='name' v="Farmàcia Diaz Medina, Andres" />
 		<tag k='addr:full' v="carrer Esglesia, 360" />

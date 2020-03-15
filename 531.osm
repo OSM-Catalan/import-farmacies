@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.956212755' lon='2.637032872'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623445' />
 		<tag k='name' v="Farmàcia Franch Serra, M. Teresa" />
 		<tag k='addr:full' v="carrer Indústria, 41" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:33 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.956867869' lon='2.634096225'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623770' />
 		<tag k='name' v="Farmàcia Bonmatí Castellà, Adela" />
 		<tag k='addr:full' v="carrer La Verneda, 57" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:33 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.968866864' lon='2.623088403'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623555' />
 		<tag k='name' v="Farmàcia Jornet Bonet, Marta" />
 		<tag k='addr:full' v="carrer Dr. Codina, 22" />

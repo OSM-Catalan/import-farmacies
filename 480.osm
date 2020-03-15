@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.847507521' lon='2.389847066'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623658' />
 		<tag k='name' v="Farmàcia Royo Carreras, M. Cristina" />
 		<tag k='addr:full' v="plaça  Major, 1" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:14 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.875076068' lon='2.286421666'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622623' />
 		<tag k='name' v="Farmàcia Barfull Font, Anna" />
 		<tag k='addr:full' v="passeig Domenec Sert, 14" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.870583316' lon='2.287193395'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623314' />
 		<tag k='name' v="Farmàcia Autonell Reixach, Montserrat" />
 		<tag k='addr:full' v="carrer Jordi Capell, 7" />
@@ -37,11 +43,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.837486565' lon='2.281495979'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624712' />
 		<tag k='name' v="Farmàcia Gomez Mundo, Marta" />
-		<tag k='addr:full' v="avinguda Onze De Setembre, 38" />
-		<tag k='addr:street' v="avinguda Onze De Setembre" />
+		<tag k='addr:full' v="avinguda Onze de Setembre, 38" />
+		<tag k='addr:street' v="avinguda Onze de Setembre" />
 		<tag k='addr:housenumber' v="38" />
 		<tag k='addr:postcode' v='08553' />
 		<tag k='addr:city' v="Seva" />

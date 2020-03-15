@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='40.88442874' lon='0.801345249'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624477' />
 		<tag k='name' v="Farmàcia Olivella Pedrola, Roser" />
 		<tag k='addr:full' v="carrer Llambric, 22" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:26 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='40.883810376' lon='0.803953446'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623348' />
 		<tag k='name' v="Farmàcia Borges Ayats, Joan" />
 		<tag k='addr:full' v="carrer Pau Casals, 54" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:26 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='40.88332266' lon='0.801706588'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621908' />
 		<tag k='name' v="Farmàcia Ruiz Félez, Jaume" />
 		<tag k='addr:full' v="plaça  Major,  S/N" />

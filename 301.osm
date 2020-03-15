@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.600493388' lon='1.546284084'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623139' />
 		<tag k='name' v="Farmàcia Alamo Ruiz, Trinitat" />
-		<tag k='addr:full' v="passeig De Les Eres, 6" />
-		<tag k='addr:street' v="passeig De Les Eres" />
+		<tag k='addr:full' v="passeig de Les Eres, 6" />
+		<tag k='addr:street' v="passeig de Les Eres" />
 		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='08719' />
 		<tag k='addr:city' v="Jorba" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.560025348' lon='1.523963871'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622982' />
 		<tag k='name' v="Farmàcia Domènech Fabregat, Josefina" />
 		<tag k='addr:full' v="carrer Prats, 5" />

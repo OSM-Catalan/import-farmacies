@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.417482943' lon='1.924875931'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623163' />
 		<tag k='name' v="Farmàcia Manyer Català, M - Asencio Repullés, S" />
 		<tag k='addr:full' v="carrer Andreu Cerda, 54" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:58:59 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.35288026' lon='1.849193829'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623017' />
 		<tag k='name' v="Farmàcia Cerdà, Ramon - Gabaldón, Virgili" />
 		<tag k='addr:full' v="carrer Moli, 19" />

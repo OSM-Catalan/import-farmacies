@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.109783298' lon='2.209688363'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624739' />
 		<tag k='name' v="Farmàcia Utgés Gabarró, Núria" />
 		<tag k='addr:full' v="carrer S.Boi, 3" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.101113462' lon='2.220422808'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622538' />
 		<tag k='name' v="Farmàcia Besora Molins, Àgata i Éric" />
 		<tag k='addr:full' v="carrer Pont, 45" />

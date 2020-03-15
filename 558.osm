@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.888489992' lon='2.743115377'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623659' />
 		<tag k='name' v="Farmàcia Puigvert Pastells, J. - Puigvert Solà, M" />
 		<tag k='addr:full' v="carrer Onyar, 2" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.82500532' lon='2.716019514'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623634' />
 		<tag k='name' v="Farmàcia Puig Masó, Montserrat" />
 		<tag k='addr:full' v="carretera  Sta. Coloma, 34" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:30 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.813011322' lon='2.739173973'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623661' />
 		<tag k='name' v="Farmàcia Altimir Echazarreta, Patricia" />
 		<tag k='addr:full' v="carretera Santa Coloma, 8" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.858233694' lon='2.668775331'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624040' />
 		<tag k='name' v="Farmàcia Solà Pou, A. - Joanmiquel Nadal, R." />
 		<tag k='addr:full' v="carrer Francesc Moragas, 84" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:30 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.808157017' lon='2.744644915'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621738' />
 		<tag k='name' v="Farmàcia Auladell Soliva, Teresa" />
 		<tag k='addr:full' v="carrer Major,  9-11" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.857227129' lon='2.665336586'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='7713236' />
 		<tag k='name' v="Farmàcia Vidal i Tixis, Meritxell" />
 		<tag k='addr:full' v="plaça  Europa, 1" />
@@ -73,11 +85,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:30 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.858861204' lon='2.67189313'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621765' />
 		<tag k='name' v="Farmàcia Sureda Camps, Anna" />
-		<tag k='addr:full' v="carretera De Sils, 1" />
-		<tag k='addr:street' v="carretera De Sils" />
+		<tag k='addr:full' v="carretera de Sils, 1" />
+		<tag k='addr:street' v="carretera de Sils" />
 		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='17430' />
 		<tag k='addr:city' v="Santa Coloma de Farners" />
@@ -85,7 +99,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:30 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.860144191' lon='2.665889425'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621621' />
 		<tag k='name' v="Farmàcia Pujolràs Iglesias, Montserrat" />
 		<tag k='addr:full' v="carrer Francesc Moragas, 31" />
@@ -97,7 +113,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:30 AM +0000' />
 	</node>
 	<node id='-9' visible='true' lat='41.863419365' lon='2.663195764'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623650' />
 		<tag k='name' v="Farmàcia Paulí Viñas, M. Dolors" />
 		<tag k='addr:full' v="carrer Hospital, 4" />

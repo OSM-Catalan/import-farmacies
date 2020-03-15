@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.678940433' lon='2.058813354'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622533' />
 		<tag k='name' v="Farmàcia Pagans Gómez, Joan J." />
-		<tag k='addr:full' v="avinguda De Catalunya, 66" />
-		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:full' v="avinguda de Catalunya, 66" />
+		<tag k='addr:street' v="avinguda de Catalunya" />
 		<tag k='addr:housenumber' v="66" />
 		<tag k='addr:postcode' v='08212' />
 		<tag k='addr:city' v="Sant Llorenç Savall" />

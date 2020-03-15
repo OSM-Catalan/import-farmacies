@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.136470808' lon='1.591484346'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624312' />
 		<tag k='name' v="Farmàcia Casas Pons, Dolors" />
-		<tag k='addr:full' v="carretera De Berga, 23" />
-		<tag k='addr:street' v="carretera De Berga" />
+		<tag k='addr:full' v="carretera de Berga, 23" />
+		<tag k='addr:street' v="carretera de Berga" />
 		<tag k='addr:housenumber' v="23" />
 		<tag k='addr:postcode' v='25282' />
 		<tag k='addr:city' v="Sant Llorenç de Morunys" />

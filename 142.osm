@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.818210068' lon='0.728148762'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624343' />
 		<tag k='name' v="Farmàcia Pérez Torres, Rosa Maria" />
 		<tag k='addr:full' v="avinguda Catalunya, 12" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:25 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.789403521' lon='0.808831193'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624057' />
 		<tag k='name' v="Farmàcia García Aldavó, Ernest" />
 		<tag k='addr:full' v="passatge Estacio, 10" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:26 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.792841083' lon='0.809574044'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624060' />
 		<tag k='name' v="Farmàcia Dolset Peris, Maria Dolors" />
 		<tag k='addr:full' v="carrer Sant Crist, 11" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:26 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.789342739' lon='0.805741303'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624059' />
 		<tag k='name' v="Farmàcia Sala Goma, A. i L." />
 		<tag k='addr:full' v="plaça  Mercadal, 36" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:26 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.79165027' lon='0.811988361'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624058' />
 		<tag k='name' v="Farmàcia March Moles, E. - March Call, M." />
 		<tag k='addr:full' v="carrer Barcelona, 10" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.829367763' lon='2.904221293'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621903' />
 		<tag k='name' v="Farmàcia Soto Rodríguez, C - Guart Abras, C" />
 		<tag k='addr:full' v="carrer Garbi, 5" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.826396438' lon='2.893566138'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624041' />
 		<tag k='name' v="Farmàcia Sauri Masgrau, Joan" />
 		<tag k='addr:full' v=" ca consellers, 28" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.824282415' lon='2.891774405'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623557' />
 		<tag k='name' v="Farmàcia Saurí Masgrau, Magda" />
 		<tag k='addr:full' v="carrer Pau Casals, 13" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.822864834' lon='2.893939132'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621267' />
 		<tag k='name' v="Farmàcia Coll Teixidor, M.Dolors" />
 		<tag k='addr:full' v="avinguda Gironès, 8" />
@@ -49,11 +57,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:39 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.812436088' lon='2.995452277'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621949' />
 		<tag k='name' v="Farmàcia Magrans Arola, Rosa Maria" />
-		<tag k='addr:full' v="avinguda De Ridaura, 14" />
-		<tag k='addr:street' v="avinguda De Ridaura" />
+		<tag k='addr:full' v="avinguda de Ridaura, 14" />
+		<tag k='addr:street' v="avinguda de Ridaura" />
 		<tag k='addr:housenumber' v="14" />
 		<tag k='addr:postcode' v='17246' />
 		<tag k='addr:city' v="Santa Cristina d'Aro" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:47 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.812002251' lon='2.998126077'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623738' />
 		<tag k='name' v="Farmàcia Fuentes Faig, M. Lourdes" />
 		<tag k='addr:full' v="carrer La Teulera,  29-31" />

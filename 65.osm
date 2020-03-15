@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.728877823' lon='0.44003497'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624306' />
 		<tag k='name' v="Farmàcia Vendrell Roc, Carol" />
 		<tag k='addr:full' v="carrer Major, 74" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:21 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.731066012' lon='0.437642811'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624050' />
 		<tag k='name' v="Farmàcia Lladonosa Sapiens, Josep M." />
 		<tag k='addr:full' v="carrer Major, 15" />

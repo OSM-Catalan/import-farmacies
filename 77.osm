@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='40.683434693' lon='0.464243759'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624598' />
 		<tag k='name' v="Farmàcia Peset Bosch, Tomas" />
 		<tag k='addr:full' v="carrer Sant Llorenç,  S/N" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:59 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='40.654612177' lon='0.469346387'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623056' />
 		<tag k='name' v="Farmàcia Godina Ferreres, Teresa" />
 		<tag k='addr:full' v="carrer Setembre, 8" />

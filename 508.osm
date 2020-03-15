@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.692517331' lon='2.492481087'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621915' />
 		<tag k='name' v="Farmàcia Duran Lozano, Juan Carlos" />
 		<tag k='addr:full' v="carrer Esteve Cardelus, 11" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:04 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.690883933' lon='2.496562637'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623136' />
 		<tag k='name' v="Farmàcia Casas Bosch, Carme" />
 		<tag k='addr:full' v="carrer Comers, 16" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:04 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.652490997' lon='2.441776033'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623176' />
 		<tag k='name' v="Farmàcia Sitjà Tost, Carme" />
 		<tag k='addr:full' v=" vi augusta, 2" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:00 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.639595444' lon='2.404171755'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621604' />
 		<tag k='name' v="Farmàcia Compte Galofré, Maria Alba" />
 		<tag k='addr:full' v="carrer Estació, 2" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:08 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.672426932' lon='2.401733371'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622513' />
 		<tag k='name' v="Farmàcia Galofré Barberà, M. Teresa" />
 		<tag k='addr:full' v="carrer Alfons I, 27" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:04 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.64711674' lon='2.510945644'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624717' />
 		<tag k='name' v="Farmàcia Fernández Tapia, M. Pilar" />
 		<tag k='addr:full' v="carretera Nova, 29" />
@@ -73,7 +85,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:01 AM +0000' />
 	</node>
 	<node id='-7' visible='true' lat='41.703331549' lon='2.435504535'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623997' />
 		<tag k='name' v="Farmàcia Antoja Xirau, M. Dolors" />
 		<tag k='addr:full' v="carrer Del Montseny, 25" />
@@ -85,7 +99,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:03 AM +0000' />
 	</node>
 	<node id='-8' visible='true' lat='41.684682715' lon='2.478995193'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623440' />
 		<tag k='name' v="Farmàcia Prats Coll, Magdalena" />
 		<tag k='addr:full' v=" cm vell de sant celoni, 3" />
@@ -97,11 +113,13 @@
 		<tag k='source:date' v='03/11/2020 07:57:01 AM +0000' />
 	</node>
 	<node id='-9' visible='true' lat='41.693498569' lon='2.446031029'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621400' />
 		<tag k='name' v="Farmàcia Domingo Delclós, Anna" />
-		<tag k='addr:full' v="carrer De La Creu, 4" />
-		<tag k='addr:street' v="carrer De La Creu" />
+		<tag k='addr:full' v="carrer de la Creu, 4" />
+		<tag k='addr:street' v="carrer de la Creu" />
 		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='08460' />
 		<tag k='addr:city' v="Santa Maria de Palautordera" />
@@ -109,7 +127,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:01 AM +0000' />
 	</node>
 	<node id='-10' visible='true' lat='41.690880212' lon='2.495715442'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621452' />
 		<tag k='name' v="Farmàcia Mas López, Núria" />
 		<tag k='addr:full' v="carretera Vella, 174" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.826560286' lon='1.893364671'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624684' />
 		<tag k='name' v="Farmàcia Pallarés Peremiquel, Maria Teresa" />
 		<tag k='addr:full' v="carrer Cos,  94-96" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:22 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.864541527' lon='1.874443345'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622095' />
 		<tag k='name' v="Farmàcia Iglesias Llagostera, Albert" />
-		<tag k='addr:full' v="carrer De Berga, 2" />
-		<tag k='addr:street' v="carrer De Berga" />
+		<tag k='addr:full' v="carrer de Berga, 2" />
+		<tag k='addr:street' v="carrer de Berga" />
 		<tag k='addr:housenumber' v="2" />
 		<tag k='addr:postcode' v='08660' />
 		<tag k='addr:city' v="Balsareny" />
@@ -25,11 +29,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:26 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.824286233' lon='1.895531276'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622509' />
 		<tag k='name' v="Farmàcia Franch Masferrer, Josep" />
-		<tag k='addr:full' v="plaça  De La Pau, 3" />
-		<tag k='addr:street' v="plaça  De La Pau" />
+		<tag k='addr:full' v="plaça de la Pau, 3" />
+		<tag k='addr:street' v="plaça de la Pau" />
 		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='08650' />
 		<tag k='addr:city' v="Sallent" />

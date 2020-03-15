@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.127016951' lon='0.962731667'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623198' />
 		<tag k='name' v="Farmàcia Soley Arumi, Benet" />
 		<tag k='addr:full' v="carrer Guaita, 6" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:00 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.087194933' lon='0.959307963'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624604' />
 		<tag k='name' v="Farmàcia Guillén Gibert, Eva M." />
 		<tag k='addr:full' v="carrer Riba I Mestres, 11" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:04 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.112978717' lon='0.937075429'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623204' />
 		<tag k='name' v="Farmàcia Poy Roig, Rosa M." />
 		<tag k='addr:full' v="carrer Major, 20" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:59 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.086799276' lon='0.962177357'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621276' />
 		<tag k='name' v="Farmàcia Lopez Gonzalez, Patricia" />
 		<tag k='addr:full' v="avinguda Catalunya, 30" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.496007521' lon='1.211351585'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624457' />
 		<tag k='name' v="Farmàcia Viñas Folch, Eulàlia" />
 		<tag k='addr:full' v="carretera Vall D'Aran, 27" />

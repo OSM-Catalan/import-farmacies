@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.715446357' lon='1.016336323'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624077' />
 		<tag k='name' v="Farmàcia Trullols Cardona, Maria Elena" />
 		<tag k='addr:full' v="avinguda Catalunya, 20" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 08:01:14 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.747332295' lon='0.987635711'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624071' />
 		<tag k='name' v="Farmàcia Rubió Rodríguez, Núria" />
-		<tag k='addr:full' v="plaça  De La Sardana, 7" />
-		<tag k='addr:street' v="plaça  De La Sardana" />
+		<tag k='addr:full' v="plaça de la Sardana, 7" />
+		<tag k='addr:street' v="plaça de la Sardana" />
 		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='25334' />
 		<tag k='addr:city' v="Castellserà" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:14 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.75701715' lon='0.964185304'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624448' />
 		<tag k='name' v="Farmàcia Aumedes Farré, Teresa" />
 		<tag k='addr:full' v="carrer Del Mig, 12" />

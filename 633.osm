@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.103612172' lon='3.086574783'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623937' />
 		<tag k='name' v="Farmàcia Colls Brossa, M. Carme" />
 		<tag k='addr:full' v="carrer Francesc Martí, 24" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:49 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.161154442' lon='3.044402096'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623964' />
 		<tag k='name' v="Farmàcia Bouker Bakioui Ferdi, Faiçal" />
 		<tag k='addr:full' v="carretera L'Arbre Sec,  S/N" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:50 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.079060019' lon='3.095332747'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623948' />
 		<tag k='name' v="Farmàcia Bague Roviras, Maria Sara" />
 		<tag k='addr:full' v="carrer Ter Vell, 9" />

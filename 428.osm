@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.810915764' lon='2.097471519'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622395' />
 		<tag k='name' v="Farmàcia Adrados de Miguel, M. Candela" />
-		<tag k='addr:full' v="avinguda  De La Vila, 18" />
-		<tag k='addr:street' v="avinguda  De La Vila" />
+		<tag k='addr:full' v="avinguda de la Vila, 18" />
+		<tag k='addr:street' v="avinguda de la Vila" />
 		<tag k='addr:housenumber' v="18" />
 		<tag k='addr:postcode' v='08180' />
 		<tag k='addr:city' v="Moià" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.809454124' lon='2.095477203'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621087' />
 		<tag k='name' v="Farmàcia Casajuana Cortinas, Elisabet" />
-		<tag k='addr:full' v="carrer De Manresa, 33" />
-		<tag k='addr:street' v="carrer De Manresa" />
+		<tag k='addr:full' v="carrer de Manresa, 33" />
+		<tag k='addr:street' v="carrer de Manresa" />
 		<tag k='addr:housenumber' v="33" />
 		<tag k='addr:postcode' v='08180' />
 		<tag k='addr:city' v="Moià" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:12 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.86860715' lon='2.113609341'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622985' />
 		<tag k='name' v="Farmàcia Ventura Orriols, Emma" />
 		<tag k='addr:full' v="carrer Rodos, 3" />

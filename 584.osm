@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.887157599' lon='2.875004408'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623467' />
 		<tag k='name' v="Farmàcia Domingo Roura, Agustí" />
 		<tag k='addr:full' v="carrer Del Pont, 1" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.888338595' lon='2.875647331'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623466' />
 		<tag k='name' v="Farmàcia Frigola Carreras, Pedro" />
 		<tag k='addr:full' v="carrer Major, 1" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.891900687' lon='2.867146423'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621598' />
 		<tag k='name' v="Farmàcia Laguillo Sala, Anna" />
 		<tag k='addr:full' v="carretera Provincial, 289" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.83867523' lon='2.808647228'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623460' />
 		<tag k='name' v="Farmàcia Casanovas Altarriba, Margarita" />
 		<tag k='addr:full' v="carrer Vall-Llobera, 17" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:32 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.88483022' lon='2.880432251'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623969' />
 		<tag k='name' v="Farmàcia Baleri Bosch, Elisabet" />
 		<tag k='addr:full' v="carrer Marina, 111" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.836740214' lon='2.808616768'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621264' />
 		<tag k='name' v="Farmàcia Folch Rubau, Francesc" />
 		<tag k='addr:full' v="carrer Santa Maria, 28" />

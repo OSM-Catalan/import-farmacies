@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.901964855' lon='1.877395885'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621426' />
 		<tag k='name' v="Farmàcia Vilella Lopez, Marta" />
 		<tag k='addr:full' v="passatge Ramon Vall, 91" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:23 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.973365038' lon='1.879579465'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622409' />
 		<tag k='name' v="Farmàcia Iglesias Manero, Eduard" />
-		<tag k='addr:full' v="plaça  De La Creu, 9" />
-		<tag k='addr:street' v="plaça  De La Creu" />
+		<tag k='addr:full' v="plaça de la Creu, 9" />
+		<tag k='addr:street' v="plaça de la Creu" />
 		<tag k='addr:housenumber' v="9" />
 		<tag k='addr:postcode' v='08692' />
 		<tag k='addr:city' v="Puig-reig" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:19 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.97503941' lon='1.877292602'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622073' />
 		<tag k='name' v="Farmàcia Bertran Ambrós, Rosa M." />
 		<tag k='addr:full' v="carrer Sant Jordi, 11" />
@@ -37,11 +43,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:19 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.899348775' lon='1.878330904'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622397' />
 		<tag k='name' v="Farmàcia Riera Maristany, Martí" />
-		<tag k='addr:full' v="carretera De Berga, 45" />
-		<tag k='addr:street' v="carretera De Berga" />
+		<tag k='addr:full' v="carretera de Berga, 45" />
+		<tag k='addr:street' v="carretera de Berga" />
 		<tag k='addr:housenumber' v="45" />
 		<tag k='addr:postcode' v='08670' />
 		<tag k='addr:city' v="Navàs" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.042606342' lon='0.733792989'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624650' />
 		<tag k='name' v="Farmàcia Bayarri García, Manuela" />
 		<tag k='addr:full' v="plaça  Sitges, 9" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:57 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.041822841' lon='0.632965091'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624599' />
 		<tag k='name' v="Farmàcia Viladrich Mayor, Neus" />
-		<tag k='addr:full' v="carrer De L' Esglesia, 6" />
-		<tag k='addr:street' v="carrer De L' Esglesia" />
+		<tag k='addr:full' v="carrer de L' Esglesia, 6" />
+		<tag k='addr:street' v="carrer de L' Esglesia" />
 		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='43748' />
 		<tag k='addr:city' v="Ginestar" />

@@ -1,22 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.388265017' lon='1.667328056'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623005' />
 		<tag k='name' v="Farmàcia Mitjans Baques, Pere Joan" />
-		<tag k='addr:full' v="carretera De La Diputacio,  s/n" />
-		<tag k='addr:street' v="carretera De La Diputacio" />
+		<tag k='addr:full' v="carretera de la Diputacio,  s/n" />
+		<tag k='addr:street' v="carretera de la Diputacio" />
 		<tag k='addr:housenumber' v=" s/n" />
 		<tag k='addr:postcode' v='08735' />
 		<tag k='addr:city' v="Vilobí del Penedès" />
 		<tag k='source:date' v='03/11/2020 07:59:02 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.414685533' lon='1.649909857'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622981' />
 		<tag k='name' v="Farmàcia Ferré Garrich, Irene" />
-		<tag k='addr:full' v="avinguda De Catalunya, 0" />
-		<tag k='addr:street' v="avinguda De Catalunya" />
+		<tag k='addr:full' v="avinguda de Catalunya, 0" />
+		<tag k='addr:street' v="avinguda de Catalunya" />
 		<tag k='addr:housenumber' v="0" />
 		<tag k='addr:postcode' v='08736' />
 		<tag k='addr:city' v="Font-rubí" />
@@ -24,11 +28,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:05 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.387072801' lon='1.573461762'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624566' />
 		<tag k='name' v="Farmàcia Martínez Rosell, M. Pilar" />
-		<tag k='addr:full' v="carrer De Pontons, 7" />
-		<tag k='addr:street' v="carrer De Pontons" />
+		<tag k='addr:full' v="carrer de Pontons, 7" />
+		<tag k='addr:street' v="carrer de Pontons" />
 		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='08737' />
 		<tag k='addr:city' v="Torrelles de Foix" />
@@ -36,7 +42,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:02 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.385631745' lon='1.61317073'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621105' />
 		<tag k='name' v="Farmàcia Monsarró Rafecas, J - Amado Monsarró, C" />
 		<tag k='addr:full' v="carrer Ansem Clave, 33" />

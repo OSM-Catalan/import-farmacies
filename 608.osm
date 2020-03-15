@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.046994228' lon='2.958010886'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623731' />
 		<tag k='name' v="Farmàcia Pagés Bisba, Montserrat" />
 		<tag k='addr:full' v="plaça  Estacio, 2" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.028504742' lon='2.887343792'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623469' />
 		<tag k='name' v="Farmàcia Dellonder Navarro, Mercè" />
 		<tag k='addr:full' v="carrer Aumet,  48-50" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.071772475' lon='2.953706874'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623927' />
 		<tag k='name' v="Farmàcia Pla-Giribert Pons, Montserrat" />
 		<tag k='addr:full' v="carrer Baix, 5" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:38 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='42.038252267' lon='2.917849571'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623457' />
 		<tag k='name' v="Farmàcia Puig Mateu, Carme" />
 		<tag k='addr:full' v="carretera Palamós, 90" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:43 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='42.066229062' lon='2.911214074'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623470' />
 		<tag k='name' v="Farmàcia Isern Finazzi, M. Àngels" />
 		<tag k='addr:full' v="avinguda  Catalunya, 46" />

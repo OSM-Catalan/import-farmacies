@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.797263459' lon='2.218924735'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622237' />
 		<tag k='name' v="Farmàcia Feliu Torrent, Immaculada" />
 		<tag k='addr:full' v="carrer Socos, 2" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:18 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.724073486' lon='2.273053096'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623257' />
 		<tag k='name' v="Farmàcia Cortada Martinez, Elisabeth" />
-		<tag k='addr:full' v="carretera De Ribes, 51" />
-		<tag k='addr:street' v="carretera De Ribes" />
+		<tag k='addr:full' v="carretera de Ribes, 51" />
+		<tag k='addr:street' v="carretera de Ribes" />
 		<tag k='addr:housenumber' v="51" />
 		<tag k='addr:postcode' v='08590' />
 		<tag k='addr:city' v="Figaró-Montmany" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:57:06 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.797805464' lon='2.218555431'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622238' />
 		<tag k='name' v="Farmàcia Barnolas Puigbó, Pilar" />
 		<tag k='addr:full' v="carrer Carrer Nou, 7" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:18 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.796479285' lon='2.220890537'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621582' />
 		<tag k='name' v="Farmàcia Mataró Reixach, Roger" />
 		<tag k='addr:full' v="carrer Sant Josep, 40" />
@@ -49,11 +57,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:18 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.768043853' lon='2.251051517'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622079' />
 		<tag k='name' v="Farmàcia Mimó i Callis, Lluís" />
-		<tag k='addr:full' v="carretera De Ribes, 31" />
-		<tag k='addr:street' v="carretera De Ribes" />
+		<tag k='addr:full' v="carretera de Ribes, 31" />
+		<tag k='addr:street' v="carretera de Ribes" />
 		<tag k='addr:housenumber' v="31" />
 		<tag k='addr:postcode' v='08591' />
 		<tag k='addr:city' v="Aiguafreda" />

@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.221647866' lon='2.167810799'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621098' />
 		<tag k='name' v="Farmàcia Cuy Prat, M. Teresa" />
-		<tag k='addr:full' v="avinguda De L' Estació, 7" />
-		<tag k='addr:street' v="avinguda De L' Estació" />
+		<tag k='addr:full' v="avinguda de L' Estació, 7" />
+		<tag k='addr:street' v="avinguda de L' Estació" />
 		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='17530' />
 		<tag k='addr:city' v="Campdevànol" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:34 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.193513005' lon='2.192884567'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623834' />
 		<tag k='name' v="Farmàcia Roca Coma, Rosa" />
 		<tag k='addr:full' v="carretera  Barcelona, 38" />

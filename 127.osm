@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='40.874960692' lon='0.713191095'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624608' />
 		<tag k='name' v="Farmàcia Cedó Rigalt, M. Rosa / Vendrell Cedó, R." />
 		<tag k='addr:full' v="carrer Prim, 9" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:26 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='40.812419723' lon='0.711541437'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621591' />
 		<tag k='name' v="Farmàcia Estupiñà Martí, Teresa" />
 		<tag k='addr:full' v="plaça  Gonzalez Isla, 14" />
@@ -24,7 +28,9 @@
 		<tag k='source:date' v='03/11/2020 08:00:12 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='40.811854424' lon='0.709192573'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623038' />
 		<tag k='name' v="Farmàcia López Aguilò, Berta" />
 		<tag k='addr:full' v="carrer Marcel Miralles I Pallarès, 6" />

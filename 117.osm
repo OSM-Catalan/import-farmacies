@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.739724785' lon='0.639494611'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624452' />
 		<tag k='name' v="Farmàcia Bertran Pique, Maria Isabel" />
-		<tag k='addr:full' v="plaça   De La Creu, 1" />
-		<tag k='addr:street' v="plaça   De La Creu" />
+		<tag k='addr:full' v="plaça  de la Creu, 1" />
+		<tag k='addr:street' v="plaça  de la Creu" />
 		<tag k='addr:housenumber' v="1" />
 		<tag k='addr:postcode' v='25134' />
 		<tag k='addr:city' v="Portella, la" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:16 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.69675381' lon='0.632773322'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624325' />
 		<tag k='name' v="Farmàcia Vergoños Gili, Alfons" />
 		<tag k='addr:full' v="carrer Portella, 1" />
@@ -25,11 +29,13 @@
 		<tag k='source:date' v='03/11/2020 08:01:20 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.691456737' lon='0.696067039'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624318' />
 		<tag k='name' v="Farmàcia Borrego Vicente, M. Pilar" />
-		<tag k='addr:full' v="carrer De La Creu, 4" />
-		<tag k='addr:street' v="carrer De La Creu" />
+		<tag k='addr:full' v="carrer de la Creu, 4" />
+		<tag k='addr:street' v="carrer de la Creu" />
 		<tag k='addr:housenumber' v="4" />
 		<tag k='addr:postcode' v='25137' />
 		<tag k='addr:city' v="Corbins" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:20 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.712981465' lon='0.616573164'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624347' />
 		<tag k='name' v="Farmàcia Barberà Subirà, D. i Andreu Barbera, X." />
 		<tag k='addr:full' v="carrer Carles Valles, 5" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:15 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.751519924' lon='0.660031198'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624045' />
 		<tag k='name' v="Farmàcia Nieto Torrent, Laia" />
 		<tag k='addr:full' v="carrer Plaça Major, 4" />
@@ -61,7 +71,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:27 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='41.704204048' lon='0.703266004'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624351' />
 		<tag k='name' v="Farmàcia Balañà Baró, Laura" />
 		<tag k='addr:full' v="carrer Balaguer, 3" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.894965542' lon='1.047499794'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624055' />
 		<tag k='name' v="Farmàcia Pedró Carulla, Montserrat" />
 		<tag k='addr:full' v="carretera Agramunt, 17" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:26 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.895395248' lon='1.044119241'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621769' />
 		<tag k='name' v="Farmàcia Mola Aldavó, Ignasi" />
 		<tag k='addr:full' v="avinguda Maria Anzizu,  31-33" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.606223434' lon='1.038930559'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624462' />
 		<tag k='name' v="Farmàcia Coll Serres, Carme" />
 		<tag k='addr:full' v="plaça  Catalunya, 3" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 08:01:14 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.560278054' lon='1.01748634'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624085' />
 		<tag k='name' v="Farmàcia Gaya Domingo, Josep M." />
 		<tag k='addr:full' v="plaça  Comandant Serret, 8" />

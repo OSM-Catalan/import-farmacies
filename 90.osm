@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.830306513' lon='0.570128593'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624048' />
 		<tag k='name' v="Farmàcia Farran Cajal, Antònia" />
 		<tag k='addr:full' v="avinguda Catalunya, 6" />
@@ -13,11 +15,13 @@
 		<tag k='source:date' v='03/11/2020 08:01:21 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.79655929' lon='0.568766588'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624051' />
 		<tag k='name' v="Farmàcia Térmens Navarro, Núria" />
-		<tag k='addr:full' v="carrer De L'Horta, 6" />
-		<tag k='addr:street' v="carrer De L'Horta" />
+		<tag k='addr:full' v="carrer de L'Horta, 6" />
+		<tag k='addr:street' v="carrer de L'Horta" />
 		<tag k='addr:housenumber' v="6" />
 		<tag k='addr:postcode' v='25126' />
 		<tag k='addr:city' v="Almenar" />

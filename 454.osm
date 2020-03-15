@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.88658813' lon='2.235564833'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623157' />
 		<tag k='name' v="Farmàcia Mahon Godayol, Rafael" />
 		<tag k='addr:full' v="carretera C-17, 17" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:17 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.852885985' lon='2.229189559'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621581' />
 		<tag k='name' v="Farmàcia Jaime Bofill, Íngrid" />
 		<tag k='addr:full' v="carrer Antoni Figueras, 11" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.847507917' lon='2.228760089'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624286' />
 		<tag k='name' v="Farmàcia Vilalla Buxaderas, A-Niguera Vilella, B" />
 		<tag k='addr:full' v="carrer Seva, 1" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.850260836' lon='2.228124752'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622639' />
 		<tag k='name' v="Farmàcia Farré Buxaderas, Josep" />
 		<tag k='addr:full' v="carrer Barcelona, 2" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:15 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.814261348' lon='2.235814194'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624674' />
 		<tag k='name' v="Farmàcia Mataró Reixach, Guillem" />
 		<tag k='addr:full' v="carrer Del Pont, 15" />

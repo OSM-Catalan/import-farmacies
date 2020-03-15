@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.19163533' lon='0.626127445'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623029' />
 		<tag k='name' v="Farmàcia Gimeno Gil, Fernando" />
-		<tag k='addr:full' v="carretera De Baix, 26" />
-		<tag k='addr:street' v="carretera De Baix" />
+		<tag k='addr:full' v="carretera de Baix, 26" />
+		<tag k='addr:street' v="carretera de Baix" />
 		<tag k='addr:housenumber' v="26" />
 		<tag k='addr:postcode' v='43792' />
 		<tag k='addr:city' v="Torre de l'Espanyol, la" />

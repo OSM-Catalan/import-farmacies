@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='41.531048788' lon='1.686168539'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622106' />
 		<tag k='name' v="Farmàcia Codina Sabater, Marta" />
 		<tag k='addr:full' v="plaça  Verdaguer, 3" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='41.529155133' lon='1.748849796'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621927' />
 		<tag k='name' v="Farmàcia Forns Farrés, Marta" />
 		<tag k='addr:full' v="avinguda Carretera D'Igualada, 105" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='41.535373517' lon='1.768562584'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3622978' />
 		<tag k='name' v="Farmàcia Junyent Santamaria, Elena" />
 		<tag k='addr:full' v="carrer Esglesia, 53" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:27 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='41.529354002' lon='1.68370026'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621256' />
 		<tag k='name' v="Farmàcia Granero Campi, M. Teresa" />
 		<tag k='addr:full' v="carrer Immaculada Concepció,  15-17" />
@@ -49,7 +57,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:29 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='41.579165857' lon='1.780378251'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623000' />
 		<tag k='name' v="Farmàcia Sola Badia, Olga" />
 		<tag k='addr:full' v="carrer Bruc Del Mig,  15 bi" />

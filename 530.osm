@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.056660457' lon='2.540401148'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623561' />
 		<tag k='name' v="Farmàcia Masó Gallego, Josep M." />
 		<tag k='addr:full' v="avinguda Narcis Arnau, 49" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:44 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.008850899' lon='2.60458292'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623444' />
 		<tag k='name' v="Farmàcia Basso Alcalde, Soletat" />
 		<tag k='addr:full' v="avinguda Selva, 63" />

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.372976505' lon='1.88485111'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623778' />
 		<tag k='name' v="Farmàcia Selva Pérez, I. - Dols Selva, I." />
 		<tag k='addr:full' v="carrer Del Nord, 17" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:10 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.410045153' lon='1.847811104'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3623972' />
 		<tag k='name' v="Farmàcia Cano Arribi, Pau" />
 		<tag k='addr:full' v="carretera Vella,  SN" />

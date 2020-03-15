@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='Farmacies CODIV-19'>
 	<node id='-1' visible='true' lat='42.360319505' lon='1.459462366'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3621454' />
 		<tag k='name' v="Farmàcia Guilanyà Feliu, Mireia Rosa" />
 		<tag k='addr:full' v="avinguda Guillem Graell, 16" />
@@ -13,7 +15,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:11 AM +0000' />
 	</node>
 	<node id='-2' visible='true' lat='42.355757423' lon='1.458757419'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624309' />
 		<tag k='name' v="Farmàcia Purgimon Feliu, Joan Lluís" />
 		<tag k='addr:full' v="carrer La Salle, 52" />
@@ -25,7 +29,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:11 AM +0000' />
 	</node>
 	<node id='-3' visible='true' lat='42.358064914' lon='1.457809617'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624470' />
 		<tag k='name' v="Farmàcia Peruchet Casal, Maria Teresa" />
 		<tag k='addr:full' v="carrer Joaquim Viola Lafuerza,  16-18" />
@@ -37,7 +43,9 @@
 		<tag k='source:date' v='03/11/2020 07:59:11 AM +0000' />
 	</node>
 	<node id='-4' visible='true' lat='42.357641656' lon='1.460587922'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624154' />
 		<tag k='name' v="Farmàcia Marsinyach Calvet, Ingrid" />
 		<tag k='addr:full' v="carrer Major, 34" />
@@ -49,11 +57,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:11 AM +0000' />
 	</node>
 	<node id='-5' visible='true' lat='42.357183823' lon='1.460139423'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624155' />
 		<tag k='name' v="Farmàcia Barios Seró, Matilde" />
-		<tag k='addr:full' v="carrer Sant Josep De Calassanç, 3" />
-		<tag k='addr:street' v="carrer Sant Josep De Calassanç" />
+		<tag k='addr:full' v="carrer Sant Josep de Calassanç, 3" />
+		<tag k='addr:street' v="carrer Sant Josep de Calassanç" />
 		<tag k='addr:housenumber' v="3" />
 		<tag k='addr:postcode' v='25700' />
 		<tag k='addr:city' v="Seu d'Urgell, la" />
@@ -61,11 +71,13 @@
 		<tag k='source:date' v='03/11/2020 07:59:11 AM +0000' />
 	</node>
 	<node id='-6' visible='true' lat='42.346542857' lon='1.424133762'>
-		<tag k='amenity' v='pharmacy' />
+		<tag k='source' v='Generalitat de Catalunya' />
+<tag k='dispensing' v='yes' />
+<tag k='amenity' v='pharmacy' />
 		<tag k='ref' v='3624468' />
 		<tag k='name' v="Farmàcia Caballero Gobern, Francesc" />
-		<tag k='addr:full' v="plaça  De La Trobada, 7" />
-		<tag k='addr:street' v="plaça  De La Trobada" />
+		<tag k='addr:full' v="plaça de la Trobada, 7" />
+		<tag k='addr:street' v="plaça de la Trobada" />
 		<tag k='addr:housenumber' v="7" />
 		<tag k='addr:postcode' v='25711' />
 		<tag k='addr:city' v="Montferrer i Castellbò" />
